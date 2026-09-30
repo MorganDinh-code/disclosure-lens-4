@@ -1,5 +1,5 @@
 {
- "company": "NVIDIA  Corporation",
+ "company": "NVIDIA Corporation",
  "ticker": "NVDA",
  "sector": "Information Technology",
  "filing_type": "Earnings press release",
@@ -29,260 +29,797 @@
    "Strong modal": 3.5,
    "Weak modal": 0.7,
    "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 13,
+   "Uncertainty": 8,
+   "Litigious": 0,
+   "Strong modal": 5,
+   "Weak modal": 1,
+   "Constraining": 0
   }
  },
  "sentences": [
   {
+   "i": 1,
+   "t": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027\nRevenue of $96.2 billion, up 106% from a year ago\nData Center revenue of $89.0 billion, up 117% from a year ago",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 2,
+   "t": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago.",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 3,
+   "t": "For the quarter, GAAP and non-GAAP gross margins were both 75.0%.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 4,
+   "t": "GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 5,
+   "t": "\u201cAI has reached its inflection point.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 6,
+   "t": "It\u2019s doing useful work.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 7,
+   "t": "Its tokens are productive and profitable.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 8,
+   "t": "Now, compute is revenue,\u201d said Jensen Huang, founder and CEO of NVIDIA. \u201cAnd demand is accelerating.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 9,
+   "t": "This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online \u2014 with strong momentum across the U.S. and around the world.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.2,
+   "h": 0.0,
+   "hits": [
+    [
+     231,
+     237,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 10,
+   "t": "The AI infrastructure buildout is at full steam.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 11,
+   "t": "Vera Rubin, now in full production, was built to power exactly this moment.\u201d",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 12,
+   "t": "During the second quarter of fiscal 2027, NVIDIA returned approximately $26.0 billion to shareholders in the form of shares repurchased and cash dividends.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
   },
   {
+   "i": 13,
+   "t": "As of the end of the second quarter, the company had approximately $99.0 billion remaining under its share repurchase authorization.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     53,
+     66,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
   },
   {
+   "i": 14,
+   "t": "NVIDIA will pay its next quarterly cash dividend of $0.25 per share on October 1, 2026, to all shareholders of record on September 10, 2026.",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
   },
   {
+   "i": 15,
+   "t": "Outlook\nNVIDIA\u2019s outlook for the third quarter of fiscal 2027 is as follows:\nRevenue is expected to be $108.0 billion, plus or minus 2%.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 16,
+   "t": "NVIDIA is not assuming any Data Center compute revenue from China in its outlook.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     14,
+     22,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
   },
   {
+   "i": 17,
+   "t": "GAAP and non-GAAP gross margins are expected to be 74.0%, plus or minus 50 basis points.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 18,
+   "t": "GAAP and non-GAAP operating expenses are expected to be approximately $9.2 billion and $9.0 billion, respectively.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     56,
+     69,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
   },
   {
+   "i": 19,
+   "t": "For the full year fiscal 2027, NVIDIA expects GAAP and non-GAAP tax rates to be between 16.0% and 18.0%, excluding any discrete items and material changes to NVIDIA\u2019s tax environment.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
   },
   {
+   "i": 20,
+   "t": "Highlights\nData Center\nSecond-quarter revenue was $89.0 billion, up 18% from the previous quarter and up 117% from a year ago.",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 21,
+   "t": "Announced the NVIDIA Vera Rubin platform is ramping into full production with racks running at partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 22,
+   "t": "Revealed that NVIDIA Spectrum\u2122-6 switch systems \u2014 supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform \u2014 are arriving across the world\u2019s gigascale AI factories.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 23,
+   "t": "Unveiled NVIDIA Vera, the first CPU built for AI agents, with broad adoption planned across the world\u2019s leading technology providers.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 24,
+   "t": "Announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 25,
+   "t": "Introduced new security innovations for NVIDIA Vera BlueField\u2122-4 STX, delivering agentic AI storage processing with in-silicon security for AI factories.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     35,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 26,
+   "t": "Launched the NVIDIA DSX\u2122 platform, providing infrastructure builders a complete playbook to design, build and operate AI factories at scale.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 27,
+   "t": "Announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 billion of third-party capital for the buildout of AI infrastructure over time, subject to definitive agreements.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0263,
+   "hits": []
   },
   {
+   "i": 28,
+   "t": "Announced that SpaceXAI will deploy NVIDIA Vera CPUs to accelerate its next generation of agentic AI applications.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     28,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
   },
   {
+   "i": 29,
+   "t": "Secured land, power and shell capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Ohio to host NVIDIA compute.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 30,
+   "t": "Revealed that NVIDIA Blackwell led across every category in the MLPerf Training 6.0 benchmarks and in AgentPerf, the industry\u2019s first agentic AI infrastructure benchmark.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 31,
+   "t": "Announced new software, open source models and partnerships with the world\u2019s leading software platform providers to build autonomous AI agents for industries and enterprises; expanded NVIDIA Agent Toolkit with NVIDIA PhysicsNeMo and new and updated NVIDIA CUDA-X\u2122 libraries.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 32,
+   "t": "Launched NVIDIA BioNeMo\u2122 Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 33,
+   "t": "Formed the Open Secure AI Alliance with industry leaders to advance AI safety and security.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     34,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 34,
+   "t": "Revealed that NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple\u2019s Private Cloud Compute.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 35,
+   "t": "Expanded Korea\u2019s AI factory ecosystem through strategic partnerships with SK Telecom, NAVER and Brookfield to build sovereign AI infrastructure at gigawatt scale on the NVIDIA DSX platform, as part of a broader NVIDIA-powered national AI push across Korea\u2019s industries and research institutions.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 36,
+   "t": "Announced a multiyear technology partnership with SK hynix to advance next-generation memory for the global AI factory buildout.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 37,
+   "t": "Partnered with the Japan government and industrial leaders to launch the world\u2019s first national AI infrastructure; revealed that Japan\u2019s leading enterprises, startups and research institutions are building industry-specialized AI models with NVIDIA Nemotron\u2122 open models.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 38,
+   "t": "Announced that the NVIDIA Vera Rubin platform delivers world-class supercomputers for science; announced a record 35 new NVIDIA AI HPC supercomputers in development across Europe.",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 39,
+   "t": "Edge Computing\nSecond-quarter Edge Computing revenue was $7.2 billion, up 13% from the previous quarter and up 27% from a year ago.",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 40,
+   "t": "Partnered with Microsoft to reinvent the Windows PC with NVIDIA RTX Spark\u2122 \u2014 a 1-petaflop superchip with the full CUDA\u2122 and NVIDIA RTX\u2122 ecosystem.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 41,
+   "t": "Announced NVIDIA DGX Station\u2122 for Windows, the world\u2019s most powerful deskside AI supercomputer for developing and running agents on Windows.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 42,
+   "t": "Launched a local AI initiative with optimizations for top open models \u2014 DeepSeek v4 Flash, Diffusion Gemma, Nemotron 3.5 Lightning and Qwen 3.8 \u2014 and agent harnesses Hermes Agent and OpenClaw across RTX and DGX platforms.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 43,
+   "t": "Expanded the NVIDIA DRIVE Hyperion\u2122 robotaxi-ready platform ecosystem, including strategic collaborations with Foxconn, VinFast, Uber and HUMAIN.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     91,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 44,
+   "t": "Introduced NVIDIA Alpamayo 2 Super, the frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 45,
+   "t": "Launched NVIDIA Cosmos\u2122 3, the world\u2019s first fully open frontier omnimodel for physical AI.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 46,
+   "t": "Announced the NVIDIA Isaac\u2122 GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor\u2122 and the NVIDIA Isaac GR00T open development platform.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 47,
+   "t": "Announced NVIDIA Halos for Robotics, the industry\u2019s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 48,
+   "t": "Released a major collection of open source agent tools and skills for physical AI, enabling developers to turn complex robotics, autonomous vehicle and vision AI workflows into agent-executable tasks.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 49,
+   "t": "CFO Commentary\nCommentary on the quarter by Colette Kress, NVIDIA\u2019s executive vice president and chief financial officer, is available at https://investor.nvidia.com.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 50,
+   "t": "Conference Call and Webcast Information\nNVIDIA will conduct a conference call with analysts and investors to discuss its second quarter fiscal 2027 financial results and current financial prospects today at 2 p.m.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     51,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
   },
   {
+   "i": 51,
+   "t": "Pacific time (5 p.m.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 52,
+   "t": "Eastern time).",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 53,
+   "t": "A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA\u2019s investor relations website, https://investor.nvidia.com.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     61,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
   },
   {
+   "i": 54,
+   "t": "The webcast will be recorded and available for replay until NVIDIA\u2019s conference call to discuss its financial results for its third quarter of fiscal 2027.",
    "d": 1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     16,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
   },
   {
+   "i": 55,
+   "t": "Non-GAAP Measures\nTo supplement NVIDIA\u2019s condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 56,
+   "t": "These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP other income (expense), net, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, and free cash flow.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 57,
+   "t": "For NVIDIA\u2019s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     36,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 58,
+   "t": "These reconciliations adjust the related GAAP financial measures to exclude acquisition-related and other costs, other, gains/losses from equity securities, net, certain other income and expense, and the associated tax impact of these items where applicable.",
    "d": -1,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     120,
+     125,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     132,
+     [
+      "negative"
+     ]
+    ]
+   ]
   },
   {
+   "i": 59,
+   "t": "Beginning in the first quarter of fiscal 2027, NVIDIA\u2019s non-GAAP financial measures no longer exclude stock-based compensation expense.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 60,
+   "t": "The historical non-GAAP financial information presented has been updated to include stock-based compensation expense.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
   },
   {
+   "i": 61,
+   "t": "Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases related to property and equipment and intangible assets and principal payments on property and equipment and intangible assets.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     137,
+     147,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     208,
+     218,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
   },
   {
+   "i": 62,
+   "t": "NVIDIA believes the presentation of its non-GAAP financial measures enhances the users\u2019 overall understanding of the company\u2019s historical financial performance.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0455,
+   "hits": [
+    [
+     7,
+     15,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     68,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
   },
   {
+   "i": 63,
+   "t": "The presentation of the company\u2019s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company\u2019s financial results prepared in accordance with GAAP, and the company\u2019s non-GAAP measures may be different from non-GAAP measures used by other companies.",
    "d": 0,
-   "m": false
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0196,
+   "hits": [
+    [
+     230,
+     233,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
   }
  ]
 }
