@@ -1,0 +1,288 @@
+{
+ "company": "NVIDIA  Corporation",
+ "ticker": "NVDA",
+ "sector": "Information Technology",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2027",
+ "date": "2026-08-26",
+ "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+ "demo": false,
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 63,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.38095238095238093,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.004246682279469165,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0
+ },
+ "lexicon": {
+  "words": 1433,
+  "per_1000": {
+   "Negative": 0.7,
+   "Positive": 9.1,
+   "Uncertainty": 5.6,
+   "Litigious": 0.0,
+   "Strong modal": 3.5,
+   "Weak modal": 0.7,
+   "Constraining": 0.0
+  }
+ },
+ "sentences": [
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 1,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": -1,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  },
+  {
+   "d": 0,
+   "m": false
+  }
+ ]
+}
