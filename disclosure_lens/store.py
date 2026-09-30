@@ -21,7 +21,8 @@ def build_record(text: str, meta: dict) -> dict:
     clean, removed = strip_boilerplate(text)
     recs = annotate(parse_document(clean))
     return {**meta, "demo": False, "boilerplate_paragraphs_removed": removed, "summary": summarize(recs), "lexicon": lexicon.density_profile(clean),
-            "sentences": [{"d": r["direction"], "m": r["material_neg"]} for r in recs]}
+            "sentences": [{"i": r["index"], "t": r["text"], "d": r["direction"], "m": r["material_neg"],
+                   "tone": round(r["tone"], 3), "h": round(r["hedge_density"], 4), "hits": r["hits"]} for r in recs]}
 
 
 def save_record(record: dict, folder: str = "database", overwrite: bool = False) -> Path:

@@ -50,3 +50,13 @@ ui.profile(r["summary"])
 ui.lexicon_profile(r.get("lexicon"))
 st.subheader("Where the information sits")
 ui.strip([x["d"] for x in r["sentences"]], [x["m"] for x in r["sentences"]])
+
+st.header("Disclosure Map")
+if r["sentences"] and "t" in r["sentences"][0]:
+    rows = ui.stored_rows(r["sentences"])
+    ui.disclosure_map(rows)
+    ui.download_button(rows, f'{r["ticker"]}_{r["period"]}_analysis.csv'.replace(" ", "_"))
+    ui.lexicon_words(rows)
+else:
+    st.info("This entry was saved before Disclosure Maps were stored, so its map is not available. Re-publish it "
+            "from the Owner portal with 'Replace' ticked to add the map.")

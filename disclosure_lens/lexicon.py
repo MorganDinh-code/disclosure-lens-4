@@ -72,11 +72,29 @@ def tone_counts(toks: list[str], pos: set, neg: set):
     return p, n
 
 
+def find_hits(text: str, folder: str = "data") -> list:
+    """Every dictionary word in the text as [start, end, [categories]] (empty list if no dictionary)."""
+    d = load(folder)
+    if not d:
+        return []
+    out = []
+    for m in re.finditer(r"[A-Za-z']+", text):
+        w = re.sub(r"'s$", "", m.group().lower()).strip("'")
+        cats = [c for c in CATEGORIES if w in d["cats"][c]]
+        if cats:
+            out.append([m.start(), m.end(), cats])
+    return out
+
+
 def density_profile(text: str, folder: str = "data"):
+    """Category counts and rates per 1,000 words, built from the same hits that are highlighted."""
     d = load(folder)
     if not d:
         return None
-    toks = tokens(text)
-    total = max(1, len(toks))
-    return {"words": len(toks), "per_1000": {LABELS[c]: round(1000 * sum(w in d["cats"][c] for w in toks) / total, 1)
-                                             for c in CATEGORIES}}
+    n = max(1, len(re.findall(r"[A-Za-z']+", text)))
+    counts = {c: 0 for c in CATEGORIES}
+    for _, _, cats in find_hits(text, folder):
+        for c in cats:
+            counts[c] += 1
+    return {"words": n, "per_1000": {LABELS[c]: round(1000 * counts[c] / n, 1) for c in CATEGORIES},
+            "counts": {LABELS[c]: counts[c] for c in CATEGORIES}}

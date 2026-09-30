@@ -101,7 +101,7 @@ def guidelines():
 # ---------- motion, background and landing ----------
 import random
 
-import streamlit.components.v1 as components
+
 
 
 def _walk(seed, n=48, amp=0.22):
@@ -170,7 +170,7 @@ def hero():
 
 def counters(items):
     cells = "".join(f'<div class="c"><div class="n" data-t="{v}">0</div><div class="l">{l}</div></div>' for l, v in items)
-    components.html(f"""<style>body{{margin:0;font-family:'Source Serif 4',Georgia,serif;color:#E9E6DC}}
+    st.iframe(f"""<style>body{{margin:0;font-family:'Source Serif 4',Georgia,serif;color:#E9E6DC}}
     .row{{display:flex;gap:1rem}}.c{{flex:1;border-top:2px solid {GOLD};background:#0E1A30;padding:1rem 1.2rem}}
     .n{{font-size:3.2rem;font-weight:600;color:{GOLD};font-variant-numeric:tabular-nums}}
     .l{{color:{MUTED};text-transform:uppercase;letter-spacing:.12em;font-size:.72rem}}</style>
@@ -187,3 +187,116 @@ def lexicon_profile(prof):
     st.subheader("Lexicon profile")
     st.bar_chart(pd.Series(prof["per_1000"]), color=GOLD, horizontal=True)
     st.caption(f'Loughran-McDonald category words per 1,000 words ({prof["words"]:,} words analyzed).')
+    if prof.get("counts"):
+        import pandas as pd
+        st.dataframe(pd.DataFrame({"Words found": prof["counts"], "Per 1,000 words": prof["per_1000"]}), width="stretch")
+
+
+# ---------- Disclosure Map (shared by Analyze, Database, Owner) and lexicon word view ----------
+import html as _html
+
+from disclosure_lens import lexicon as _lex
+
+CAT_COLORS = {"negative": "#C8534F", "positive": "#4C9F70", "uncertainty": "#D9A441", "litigious": "#9B6BC9",
+              "strong_modal": "#4C8BD9", "weak_modal": "#4FB3BF", "constraining": "#D46FA6"}
+
+
+def stored_rows(sentences):
+    """Convert a database record's stored sentences into the row format used by disclosure_map."""
+    return [{"index": x["i"], "text": x["t"], "direction": x["d"], "tone": x["tone"], "hedge_density": x["h"],
+             "material_neg": x["m"], "hits": x.get("hits", [])} for x in sentences]
+
+
+def disclosure_map(rows):
+    st.caption("Left strip = what the FACT says. Right strip = how the WORDING sounds. "
+               "When they disagree on a negative fact, the row is flagged.")
+    out = []
+    for r in rows:
+        spin = r["direction"] == -1 and r["tone"] > 0
+        flag = '<span class="badge">possible spin</span> ' if spin else ""
+        mat = '<span class="badge" style="color:#C8534F;background:#C8534F22">material</span> ' if r["material_neg"] else ""
+        out.append(
+            f'<div style="display:flex;align-items:stretch;margin-bottom:4px;font-size:.95rem">'
+            f'<div style="width:8px;background:{FACT[r["direction"]]}"></div>'
+            f'<div style="width:8px;background:{tone_color(r["tone"])};margin-right:12px"></div>'
+            f'<div style="width:34px;color:{MUTED}">{r["index"]}</div>'
+            f'<div style="flex:1;padding:2px 0">{_html.escape(r["text"])} {mat}{flag}</div>'
+            f'<div style="width:96px;text-align:right;color:{MUTED};font-variant-numeric:tabular-nums">'
+            f'hedge {r["hedge_density"] * 100:.1f}%</div></div>')
+    st.markdown("".join(out), unsafe_allow_html=True)
+
+
+def _highlight(text, hits, chosen):
+    parts, pos = [], 0
+    for s, e, cats in sorted(hits):
+        cs = [c for c in cats if c in chosen]
+        if not cs:
+            continue
+        underline = f"border-bottom:2px solid {CAT_COLORS[cs[1]]};" if len(cs) > 1 else ""
+        title = ", ".join(_lex.LABELS[c] for c in cats)
+        parts.append(_html.escape(text[pos:s]))
+        parts.append(f'<span title="{title}" style="background:{CAT_COLORS[cs[0]]}55;{underline}padding:0 2px;'
+                     f'border-radius:2px">{_html.escape(text[s:e])}</span>')
+        pos = e
+    parts.append(_html.escape(text[pos:]))
+    return "".join(parts)
+
+
+def lexicon_words(rows):
+    """Evidence for the lexicon profile: pick categories, see the key, and read the sentences with the words highlighted."""
+    if not any(r.get("hits") for r in rows):
+        return
+    import re
+    from collections import Counter
+    labels = {c: _lex.LABELS[c] for c in _lex.CATEGORIES}
+    n_words = max(1, sum(len(re.findall(r"[A-Za-z']+", r["text"])) for r in rows))
+    words = {c: Counter() for c in _lex.CATEGORIES}
+    for r in rows:
+        for s, e, cats in r["hits"]:
+            for c in cats:
+                words[c][r["text"][s:e].lower()] += 1
+    st.subheader("Evidence behind the lexicon profile")
+    st.caption("Choose categories to see exactly which sentences and words produced the profile above. The counts "
+               "here are the same numbers as the chart. A word in two categories shows the first as its fill and "
+               "the second as an underline; hover a word to see all its categories. Negation is only applied in the "
+               "tone score, not in these counts.")
+    pick = st.pills("Categories to highlight", _lex.CATEGORIES, selection_mode="multi", default=_lex.CATEGORIES,
+                    format_func=lambda c: f"{labels[c]} ({sum(words[c].values())})")
+    pick = pick or []
+    key = "".join(
+        f'<span style="display:inline-block;margin:0 10px 6px 0;opacity:{1 if c in pick else .3}">'
+        f'<span style="display:inline-block;width:14px;height:14px;background:{CAT_COLORS[c]};vertical-align:-2px;'
+        f'margin-right:6px"></span>{labels[c]} <span style="color:{MUTED}">{sum(words[c].values())} words · '
+        f'{1000 * sum(words[c].values()) / n_words:.1f} per 1,000</span></span>' for c in _lex.CATEGORIES)
+    st.markdown(f'<div style="font-size:.85rem"><b>Color key</b><br>{key}</div>', unsafe_allow_html=True)
+    if not pick:
+        st.info("Select at least one category above.")
+        return
+    with st.expander("Word list for each selected category"):
+        for tab, c in zip(st.tabs([labels[c] for c in pick]), pick):
+            with tab:
+                st.markdown(" ".join(f'<span style="background:{CAT_COLORS[c]}40;padding:2px 8px;margin:2px;'
+                                     f'display:inline-block">{_html.escape(w)} <b>×{k}</b></span>'
+                                     for w, k in words[c].most_common(60)) or "None found.", unsafe_allow_html=True)
+    only = st.checkbox("Only show sentences containing a highlighted word", value=True)
+    lines = []
+    for r in rows:
+        if only and not any(set(cats) & set(pick) for _, _, cats in r["hits"]):
+            continue
+        lines.append(f'<div style="margin-bottom:.6rem;font-size:.95rem;line-height:1.7"><span style="color:{MUTED};'
+                     f'display:inline-block;width:34px">{r["index"]}</span>{_highlight(r["text"], r["hits"], pick)}</div>')
+    st.caption(f"{len(lines)} sentence{'s' if len(lines) != 1 else ''} shown.")
+    st.markdown("".join(lines) or "No sentences match.", unsafe_allow_html=True)
+
+
+def download_button(rows, name="disclosure_lens_analysis.csv"):
+    """Sentence-by-sentence analysis (fact, tone, hedge, lexicon words) as a CSV, as documented proof."""
+    import pandas as pd
+    fact = {1: "positive", -1: "negative", 0: "neutral"}
+    df = pd.DataFrame([{
+        "Sentence #": r["index"], "Sentence": r["text"], "Financial fact": fact[r["direction"]],
+        "Material negative": r["material_neg"], "Tone": round(r["tone"], 2),
+        "Hedge density %": round(100 * r["hedge_density"], 1),
+        "Lexicon words": "; ".join(f'{r["text"][s:e]} ({"/".join(_lex.LABELS[c] for c in cats)})'
+                                   for s, e, cats in r.get("hits", []))} for r in rows])
+    st.download_button("Download this analysis (CSV)", df.to_csv(index=False).encode("utf-8"), name, "text/csv")

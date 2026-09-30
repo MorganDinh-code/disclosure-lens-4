@@ -72,3 +72,5 @@ if submit:
             st.success(f"Published {name} ({'to GitHub; the site refreshes in about a minute' if where == 'github' else 'saved locally'}).")
             ui.profile(rec["summary"])
             ui.strip([x["d"] for x in rec["sentences"]], [x["m"] for x in rec["sentences"]])
+            st.subheader("Disclosure Map (saved with this document)")
+            ui.disclosure_map(ui.stored_rows(rec["sentences"]))

@@ -1,6 +1,7 @@
 """Compute the headline metrics from the sentence records."""
 from statistics import mean
 
+from . import lexicon
 from .classify import direction, is_material_negative
 from .hedges import hedge_counts, hedge_density, modal_intensity, words
 from .tone import tone_score
@@ -13,6 +14,7 @@ def annotate(records: list[dict]) -> list[dict]:
         r["hedge_density"] = hedge_density(r["text"])
         r["modal"] = modal_intensity(r["text"])
         r["tone"] = tone_score(r["text"])
+        r["hits"] = lexicon.find_hits(r["text"])
         r["tone_gap"] = r["tone"] - r["direction"]  # positive gap on a negative fact = spin
     return records
 
