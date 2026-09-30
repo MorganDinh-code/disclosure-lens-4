@@ -56,7 +56,6 @@ st.markdown("The map combines all of the above on one page: one row per sentence
             "disagree on a negative fact are flagged as possible spin.")
 st.subheader("Limitations")
 st.markdown("- Financial direction is rule-based and not yet validated against hand-labeled sentences.\n"
-            "- The tone word list is a placeholder pending the full Loughran-McDonald dictionary.\n"
             "- Some sections sit late by convention, so results are best compared across peers and quarters.\n"
             "- Flags are prompts for a closer reading, not conclusions about a company's intent.")
 
