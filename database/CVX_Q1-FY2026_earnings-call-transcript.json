@@ -1,0 +1,6817 @@
+{
+ "company": "Chevron Corporation",
+ "ticker": "CVX",
+ "sector": "Energy",
+ "filing_type": "Earnings call transcript",
+ "period": "Q1 FY2026",
+ "date": "2026-05-01",
+ "source_url": "https://chevroncorp.gcs-web.com/static-files/060e418e-e097-42e0-9095-6efd31a9022b",
+ "demo": false,
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 442,
+  "n_material_neg": 5,
+  "n_positive": 30,
+  "mean_pos_negative": 0.56289592760181,
+  "mean_pos_positive": 0.37187028657616894,
+  "placement_asymmetry": 0.191025641025641,
+  "distance_from_headline": 45,
+  "first_negative_pos": 0.10633484162895927,
+  "hedge_near_negative": 0.020089374379344587,
+  "hedge_near_positive": 0.01135208067171197,
+  "hedging_asymmetry": 1.7696645188053421,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.7901000304542367,
+  "overall_hedge": 0.013092120923589622,
+  "mean_tone": 0.0018964021199506659
+ },
+ "lexicon": {
+  "words": 8402,
+  "per_1000": {
+   "Negative": 12.1,
+   "Positive": 13.6,
+   "Uncertainty": 10.2,
+   "Litigious": 2.6,
+   "Strong modal": 4.6,
+   "Weak modal": 5.8,
+   "Constraining": 1.5
+  },
+  "counts": {
+   "Negative": 102,
+   "Positive": 114,
+   "Uncertainty": 86,
+   "Litigious": 22,
+   "Strong modal": 39,
+   "Weak modal": 49,
+   "Constraining": 13
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "2026 1Q Earnings Conference Call Edited Transcript Friday, May 1, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     62,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Chevron",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "May 1, 2026 11:00 AM ET",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     3,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "This transcript has been edited by Chevron Corporation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "It is generally consistent with the original conference call transcript.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "For a replay of the Investor Conference Call, please listen to the webcast presentation posted on Chevron.com under the headings \"Investors,\" \"Events & Presentations.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Operator:\tGood morning.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "My name is Katie, and I will be your conference facilitator today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     28,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Welcome to Chevron's first quarter 2026 earnings conference call.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "At this time, all participants are in a listen-only mode.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "After the speaker's remarks, there will be a question-and-answer session and instructions will be given at that time.",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     39,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     45,
+     53,
+     [
+      "negative"
+     ]
+    ],
+    [
+     90,
+     94,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "If anyone requires assistance during the conference call, please press star then zero on your touchtone telephone.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "As a reminder, this conference call is being recorded.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "I will now turn the conference call over to the Head of Investor Relations of Chevron Corporation, Jeanine Wai.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     2,
+     6,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Please go ahead.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Jeanine Wai:\tThank you, Katie.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Welcome to Chevron's first quarter 2026 earnings conference call and webcast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "I'm Jeanine Wai, Head of Investor Relations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Our Chairman and CEO, Mike Wirth, and CFO, Eimear Bonner, are on the call with me today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "We will refer to the slides and prepared remarks that are available on Chevron's website.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "With that, now, I will turn it over to Mike.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     22,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Mike Wirth:\tThanks, Jeanine, and welcome to your new role.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "This quarter, Chevron delivered solid performance driven by disciplined execution and a resilient portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Despite market volatility and heightened geopolitical tensions, our people remained focused on safely delivering the reliable energy the world needs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     15,
+     25,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Our approach remains consistent - maintain capital and cost discipline, generate strong cash flow and deliver superior shareholder returns.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     81,
+     87,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     118,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Chevron's fundamentals are strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     33,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "We have a world-class portfolio and Upstream assets with peer-leading cash margins, and we're carrying strong momentum into the second quarter, with: * U.S. production over 2 million barrels of oil equivalent per day, * Gorgon and Wheatstone LNG running at full rates, * TCO producing above 1 million barrels of oil equivalent per day, and * U.S. refineries operating at record crude throughput.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     69,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "The unique combination of Chevron's industry-leading refining complexity - and our diverse, waterborne equity crudes from TCO, Guyana, Permian, Venezuela, and Argentina - creates opportunities for value capture through integration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     52,
+     [
+      "positive"
+     ]
+    ],
+    [
+     179,
+     192,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Our high-quality Upstream and Downstream portfolios delivered significant integration benefits during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "We maintained strong supply into tight markets and",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "maximized margins across products, including fuel oil, sulfur and other secondary products which saw significant price dislocations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "We continue to optimize flows across our value chains to maintain high utilization and reliable supply into the market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "In the second quarter, we expect global equity crude throughput to more than double year over year to 40%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "In Asia, we anticipate over 80% refinery utilization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Moving to Venezuela, we continue to leverage our deep expertise and long-standing position to create an option for the future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Two weeks ago, we announced an asset swap with PDVSA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The agreement increases our position in the Orinoco.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Ayacucho 8 expands our contiguous acreage position with Petropiar, offering operating and development synergies along with long-term growth potential and optionality.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Petroindependencia is a joint venture we've been in for more than 15 years, where we've increased our equity stake to 49%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Current operations are running smoothly.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "We're still in debt recovery mode and expect Venezuela to continue to represent 1-2% of cash flow from operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "This transaction is expected to improve resource depth and integration upside, supporting potential growth into the future.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Now, over to Eimear to discuss the financials.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Eimear Bonner:\tFor the first quarter, Chevron reported earnings of $2.2 billion, or $1.11 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Adjusted earnings were $2.8 billion, or $1.41 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Included in the quarter was a $360 million charge related to a legal reserve.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     68,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "Foreign currency effects decreased earnings by $223 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Organic capex was $3.9 billion in the quarter, consistent with historical capex trends of lighter spending in the first half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "Inorganic capex was approximately $200 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2,
+   "hits": [
+    [
+     20,
+     33,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "We expect to finish within full-year capital guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "Adjusted first quarter earnings were $440 million lower than last quarter.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "Adjusted Upstream earnings increased due to higher realizations, lower DD&A, and favorable opex and tax impacts.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     81,
+     90,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "Adjusted Downstream earnings decreased primarily due to unfavorable timing effects, which were partly offset by higher refining margins.",
+   "d": -1,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     67,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 54,
+   "t": "Unfavorable timing effects totaled around $3 billion for the quarter, reflecting a steep rise in commodity prices in March.",
+   "d": 0,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     11,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 55,
+   "t": "The effect was evenly split between inventory valuation and mark-to-market accounting on paper derivative positions linked to physical cargoes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 56,
+   "t": "We anticipate approximately $1 billion of the paper positions to unwind in the second quarter, with the majority of related cargoes delivered in April.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.087,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     14,
+     27,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 57,
+   "t": "Looking forward, we would expect additional timing effects when prices are rising and further unwinds when prices are falling.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": []
+  },
+  {
+   "i": 58,
+   "t": "Chevron generated cash flow from operations, excluding working capital, of $7.1 billion in the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 59,
+   "t": "This includes unfavorable impacts from special items and timing effects totaling approximately $3 billion.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0769,
+   "hits": [
+    [
+     14,
+     25,
+     [
+      "negative"
+     ]
+    ],
+    [
+     81,
+     94,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 60,
+   "t": "Adjusted free cash flow was $4.1 billion for the quarter and included a $1 billion loan repayment from TCO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 61,
+   "t": "Share repurchases were $2.5 billion, in line with guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "Working capital was impacted by sharp commodity price increases, as well as a build in inventory.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "Consistent with historical trends, we expect an increase in working capital in the first half of the year and a release in the second half, the extent of which will be primarily driven by prices.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0286,
+   "hits": [
+    [
+     160,
+     164,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 64,
+   "t": "Over the period, more than $5 billion in commercial paper was issued to manage liquidity and general business needs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 65,
+   "t": "About half has already been paid down in April, and we expect these short-term balances to decline further throughout the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0435,
+   "hits": [
+    [
+     91,
+     98,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 66,
+   "t": "First quarter 2026 oil-equivalent production increased by approximately 500 thousand barrels per day compared to the first quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 67,
+   "t": "This reflects the integration of legacy Hess assets, in addition to continued organic growth across the portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 68,
+   "t": "The conflict in the Middle East had a limited impact on production in the quarter with less than 5% of our portfolio located in the region.",
+   "d": 0,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 69,
+   "t": "In the Partitioned Zone, we are operating at near minimum rates to manage storage.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 70,
+   "t": "In the Eastern Mediterranean, both Tamar and Leviathan are operating at full capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 71,
+   "t": "During the quarter, we continued to execute key expansion projects, completing the offshore scope for both the Tamar optimization project and the Leviathan third gathering line.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 72,
+   "t": "Let me close by reinforcing that, despite changes in the external environment, we're executing our plan with discipline, consistent with our long-standing financial priorities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 73,
+   "t": "This disciplined approach gives us resilience during periods of volatility, and the ability to invest and return cash to shareholders through the cycle, all while ensuring we maintain a balance sheet built for the long-term.",
+   "d": 0,
+   "m": false,
+   "tone": -0.278,
+   "h": 0.0278,
+   "hits": [
+    [
+     64,
+     74,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 74,
+   "t": "Chevron's business is strong and our 2026 guidance is unchanged.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 75,
+   "t": "Capital spending and production outlooks are consistent with previous guidance, and we're on track to deliver our $3 to $4 billion structural cost reduction target by year- end.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 76,
+   "t": "This consistency underpins our 2030 targets announced in November, including over 10% growth in adjusted free cash flow and earnings per share, and 3% improvement in ROCE, all at $70 Brent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     151,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 77,
+   "t": "These aren't aspirational goals; they're grounded in assets that are operating today, a more efficient organizational model, and continued capital discipline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 78,
+   "t": "I'll now hand it off to Jeanine.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 79,
+   "t": "Jeanine Wai:\tThat concludes our prepared remarks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 80,
+   "t": "Thank you, Mike, Eimear.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 81,
+   "t": "As a reminder, additional guidance can be found in the appendix of the presentation, as well as in the slides and other information that's posted on Chevron.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 82,
+   "t": "We're now ready to take your questions.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 83,
+   "t": "We ask that you please limit yourself to one question and will do our best to get all of your questions answered.",
+   "d": 0,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     28,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     45,
+     53,
+     [
+      "negative"
+     ]
+    ],
+    [
+     58,
+     62,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     70,
+     74,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     94,
+     103,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 84,
+   "t": "Katie, please open the lines.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 85,
+   "t": "Operator:\tThank you.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 86,
+   "t": "If you have a question at this time, please press star one on your touchtone telephone.",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     22,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 87,
+   "t": "To allow for questions from more participants, we ask that you limit yourself to one question.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     22,
+     [
+      "negative"
+     ]
+    ],
+    [
+     63,
+     68,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     85,
+     93,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 88,
+   "t": "If your question has been answered or you wish to remove yourself from the queue, please press star two.",
+   "d": 0,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     16,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 89,
+   "t": "If you are listening on a speakerphone, we ask you please lift your handset before asking your question to provide optimum sound quality.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     95,
+     103,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 90,
+   "t": "Again, if you have a question, please press star one on your touchtone telephone.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     29,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 91,
+   "t": "Our first question comes from Neil Mehta with Goldman Sachs.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 92,
+   "t": "Neil Mehta: (Goldman Sachs)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 93,
+   "t": "Mike, I would love your perspective on the current conflict in the Middle East.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     59,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 94,
+   "t": "And if you could share how you think about this in the context of your four-decade history in oil and gas and how significant of a moment is this?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     11,
+     16,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 95,
+   "t": "What do you think the long-term implications are of the current conflict?",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     72,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 96,
+   "t": "And I know at the Analyst Day in November, we talked about a flat, nominal $70 Brent as a mid-cycle planning assumption, but does this event change the way you think about mid-cycle pricing?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0286,
+   "hits": [
+    [
+     109,
+     119,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 97,
+   "t": "Mike Wirth:\tThis is clearly a very significant disruption to the global energy system.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     27,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     47,
+     57,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 98,
+   "t": "It's a scenario that we've thought about, we've included in some of our planning exercises for many, many years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 99,
+   "t": "It's early, I think, to have firm conclusions about how the energy system will change in the long-term.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     78,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 100,
+   "t": "I do think there will be changes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 101,
+   "t": "But I think we have to see how things play out over the coming weeks - hopefully, not longer than that - as this comes to some sort of a resolution and the energy system begins to be reconstituted in a way that can reach some new equilibrium.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 102,
+   "t": "I think that new equilibrium will look different than what we've known before, but I'm not sure I could argue with a lot of confidence that I could describe exactly what that looks like.",
+   "d": 0,
+   "m": false,
+   "tone": -0.294,
+   "h": 0.0588,
+   "hits": [
+    [
+     29,
+     33,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     98,
+     103,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     104,
+     109,
+     [
+      "negative"
+     ]
+    ],
+    [
+     142,
+     147,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 103,
+   "t": "One thing you can expect from us is consistency.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": []
+  },
+  {
+   "i": 104,
+   "t": "You will see capital and cost discipline no matter what.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     8,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 105,
+   "t": "You will see us invest in highly competitive assets with scale and longevity no matter what, assets that are low on the cost curve.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     8,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 106,
+   "t": "You're going to see us invest to drive strong returns and free cash flow, maintain a strong balance sheet, so we can create predictable and growing shareholder distributions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     85,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 107,
+   "t": "We've got great visibility through 2030.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 108,
+   "t": "Eimear just reiterated our guidance for that and we've got assets online now that deliver predictable, visible cash flow growth for the balance of this decade, and we've got a full hopper far beyond that.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 109,
+   "t": "So, I think the things that Eimear talked about - consistency, discipline, the strength of our portfolio on the ground operating today - are all things that will underpin our strategy going forward, and as we see how this is resolved and as we see what the energy system begins to look like post the conflict, if we want to fine tune that at all, we'll come back and talk to you about it.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     87,
+     [
+      "positive"
+     ]
+    ],
+    [
+     157,
+     161,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     300,
+     308,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 110,
+   "t": "But I really think it's early for me to give you anything concrete other than to reiterate, the things that you've seen out of us and that in my 44 years, have stood us in good stead through unexpected events and cycles, are characteristics that you should expect to endure.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0408,
+   "hits": [
+    [
+     172,
+     176,
+     [
+      "positive"
+     ]
+    ],
+    [
+     191,
+     201,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 111,
+   "t": "Operator:\tWe'll take our next question from Arun Jayaram with J.P.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 112,
+   "t": "Morgan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 113,
+   "t": "Arun Jayaram: (J.P.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 114,
+   "t": "Morgan)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 115,
+   "t": "Mike and Eimear, it feels like one of the key themes from the print is the opportunity for Chevron to optimize margins from the refining system as well as your increased exposure to waterborne crudes post the Hess merger, and I'm looking at Slide 4.",
+   "d": 1,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0227,
+   "hits": [
+    [
+     75,
+     86,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     178,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 116,
+   "t": "I was wondering if you could help us think about the value capture opportunities and maybe the experience in 1Q and how should we think about this integration favorably impacting your go-forward earnings power?",
+   "d": 0,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0571,
+   "hits": [
+    [
+     23,
+     28,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     67,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     85,
+     90,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     159,
+     168,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 117,
+   "t": "Mike Wirth:\tAs part of the organizational changes that we made last year, we stood up a global Enterprise Optimization team.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 118,
+   "t": "And they've really got the remit, across all of the Upstream and the Downstream, to be sure that we're getting maximum value out of the entire set of assets, and we're integrating where it makes sense.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 119,
+   "t": "They've done a really nice job in the last quarter of keeping our system operating at high degrees of utilization, capturing good margins through volatility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     125,
+     129,
+     [
+      "positive"
+     ]
+    ],
+    [
+     146,
+     156,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 120,
+   "t": "Our portfolio provides options to move things around in times like this.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 121,
+   "t": "Our refineries in Asia, which are all in various types of ventures, we expect those to run 40% Chevron equity crude in the second quarter, much higher than under normal market conditions and probably much higher than we'll see in some of the other refining assets in that region, because we have the",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     191,
+     199,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 122,
+   "t": "ability to direct equity flows to those refineries at a time when access to crude is very important and very difficult.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     118,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 123,
+   "t": "In the U.S., we're operating at over 50% equity crude throughput; some refineries much, much higher than that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 124,
+   "t": "We've used the Jones Act waiver to move crudes from the Gulf Coast around to the West Coast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 125,
+   "t": "In Asia in the first quarter, we ran CPC Blend, we ran Mars, WTI, all in our GS Caltex refinery in South Korea.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 126,
+   "t": "Just to give you a point of reference, I used to run our Downstream business and in those days, we were about 15% equity crude into our refining system and 85% crudes from the market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 127,
+   "t": "As I said, we expect to be 40% [equity crude throughput] in Asia, north of 50% and much higher than some refineries in the U.S. And so that's a significant change from our history.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": []
+  },
+  {
+   "i": 128,
+   "t": "At a time when margins are likely to move back and forth across that value chain - they may be in the Upstream, they may be in the Downstream - we're going to be able to capture those with a much greater confidence.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0732,
+   "hits": [
+    [
+     88,
+     91,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     117,
+     120,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     162,
+     166,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 129,
+   "t": "Importantly, in a world that is getting very tight on products, we're going to keep our assets very full and be able to provide a significant supply into markets that dearly need it.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 130,
+   "t": "We're not going to quantify the value that we're capturing, but I think you'll see it flow through in the numbers, and it is meaningful, and I think that's continuing already into the second quarter and likely beyond.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0263,
+   "hits": []
+  },
+  {
+   "i": 131,
+   "t": "Operator:\tWe'll take our next question from Devin McDermott with Morgan Stanley.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 132,
+   "t": "Devin McDermott: (Morgan Stanley)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 133,
+   "t": "Eimear, in your prepared remarks, you highlighted Chevron's long-standing and consistent financial priorities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 134,
+   "t": "I wanted to build on that a bit and get your latest thinking on capital allocation at higher prices and particularly that balance between shareholder returns, building cash and growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 135,
+   "t": "You did leave the buyback range unchanged quarter-over-quarter, which I think makes a lot of sense and I commend you for not being procyclical on the buyback, but maybe just talk through the strategy there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     163,
+     168,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 136,
+   "t": "And then on the growth spending side, what would you need to see to shift spending, maybe add some capital in the Permian and move away from the plateau back toward growth in that asset?",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0286,
+   "hits": [
+    [
+     84,
+     89,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 137,
+   "t": "So two parts of the question, but would love to hear your thoughts.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     28,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 138,
+   "t": "Eimear Bonner:\tOverall, it comes back to staying consistent with our four financial priorities and being really disciplined on that, through volatility.",
+   "d": 0,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0455,
+   "hits": [
+    [
+     141,
+     151,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 139,
+   "t": "That's why today, we're not changing any of our capital allocation framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 140,
+   "t": "We're not changing any of our ranges, and we're happy with where we are and with all of those.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     53,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 141,
+   "t": "Just maybe to recap, first and foremost, growing the dividend.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     5,
+     10,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 142,
+   "t": "And this year, we've grown it for the 39th consecutive year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 143,
+   "t": "Two, investing in the business in the most capital-efficient way.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 144,
+   "t": "Our [organic capital] budget is $18 to $19 billion for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 145,
+   "t": "We're on track with that budget.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 146,
+   "t": "Our capital performance is really strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 147,
+   "t": "With that capital, we're going to grow 7% to 10% production this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 148,
+   "t": "We're reconfirming that growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 149,
+   "t": "The third is the balance sheet.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 150,
+   "t": "The balance sheet is in great health.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 151,
+   "t": "The balance sheet will get stronger with higher cash generation.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     22,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     27,
+     35,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 152,
+   "t": "And then fourth is the buyback, staying within $2.5 to $3 billion for the range.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 153,
+   "t": "With only eight weeks into the conflict, as Mike said, it's too early to have a different view on the fundamental outlook around price.",
+   "d": 0,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     39,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 154,
+   "t": "It's too early to see or have a view of whether that is structurally changing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 155,
+   "t": "And so when it comes to capital allocation, we're comfortable with where we are, and we're staying consistent and disciplined.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 156,
+   "t": "Operator:\tWe'll take our next question from Doug Leggate with Wolfe Research.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 157,
+   "t": "Doug Leggate: (Wolfe Research)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 158,
+   "t": "Mike and Eimear, I wonder if I could follow up on Devin's question.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0769,
+   "hits": [
+    [
+     31,
+     36,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     58,
+     66,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 159,
+   "t": "And maybe just ask for a little bit more color around two specific assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     4,
+     9,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 160,
+   "t": "Obviously, you had some changes in Venezuela, Mike.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 161,
+   "t": "But my understanding is that's been running essentially as recycling cash flow to maintain the business and obviously pay down your legacy money you're owed - debt and so on.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 162,
+   "t": "But I'm wondering, are you at a point now where the fiscal terms have changed, the security situation is different, basically, the broad picture for Venezuela - where you would be prepared to incrementally put more capital?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 163,
+   "t": "And I guess I'd ask the same question of the Permian, where not so long ago, you did have a growth story there, you stabilized it, but one could argue that in both of those areas, there might be a call for incremental oil production longer term and you guys are in a pretty strong position to deploy capital if you did.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "negative"
+     ]
+    ],
+    [
+     116,
+     126,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     144,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     145,
+     150,
+     [
+      "negative"
+     ]
+    ],
+    [
+     186,
+     191,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     274,
+     280,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 164,
+   "t": "So I guess it's a capital increase question, but it's also specific to those two assets.",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 165,
+   "t": "Mike Wirth:\tWhat I would say, number one, is we are operating now, as I mentioned in my prepared remarks, with TCO greater than a million barrels a day [of oil-equivalent production], Permian solidly above a million barrels a day [of oil-equivalent production], the Australian LNG facilities running at full capacity, Gulf of America.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 166,
+   "t": "I mean, all the big pistons in the engine are firing and as we come into the second quarter, we've got tremendous momentum across the system.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     52,
+     [
+      "negative"
+     ]
+    ],
+    [
+     103,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 167,
+   "t": "Production in the second quarter is expected to be higher than production in the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 168,
+   "t": "Eimear reiterated 7% to 10% production growth guidance for the year, and we've got strong growth in the business right now.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 169,
+   "t": "Then we've got options, right?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 170,
+   "t": "We've got a portfolio that presents us with options.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 171,
+   "t": "I think Eimear said it pretty well in response to Devin: it's early into this conflict to be making big changes.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     86,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 172,
+   "t": "We don't know how things will be resolved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     29,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 173,
+   "t": "You could build a scenario where things get resolved quickly, the Strait [of Hormuz] reopens, and we get back into a market that's pretty well-supplied.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     4,
+     9,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 174,
+   "t": "You can build another scenario that says this goes on and the market is tighter, and it looks different on the other side of it.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 175,
+   "t": "I don't know exactly how this will play out.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     34,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 176,
+   "t": "We're not going to make any rash or immediate changes to a system that's running at a high degree of capital efficiency today and operating efficiency.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     119,
+     [
+      "positive"
+     ]
+    ],
+    [
+     140,
+     150,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 177,
+   "t": "It's really important to stay focused on reliability at a time like this and safety at a time like this.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 178,
+   "t": "Specific to Venezuela, your understanding is right.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 179,
+   "t": "We are still recycling cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 180,
+   "t": "We still have debt to recover.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 181,
+   "t": "We're obviously recovering at a faster rate in this kind of a price environment, and there are indicators of positive developments in the country, but there are still questions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     117,
+     [
+      "positive"
+     ]
+    ],
+    [
+     167,
+     176,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 182,
+   "t": "The fiscal terms are not clear, there's ranges that they've indicated for tax, for royalties, there's still things that need to be addressed relative to dispute resolution, etc.",
+   "d": 0,
+   "m": false,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     153,
+     160,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 183,
+   "t": "So we'll continue to operate in the mode we're in right now, which has yielded some growth over the past couple of years and in fact, yielded growth this year, but we need to see further progress before we would put more capital to work.",
+   "d": 1,
+   "m": false,
+   "tone": 0.222,
+   "h": 0.0,
+   "hits": [
+    [
+     187,
+     195,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 184,
+   "t": "We've got a lot of resource there, and we could grow it.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     42,
+     47,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 185,
+   "t": "In the Permian, I think Eimear mentioned that we're running the Permian to deliver strong free cash flow right now.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 186,
+   "t": "We could hit the gas and begin to grow it again, but I don't know what the future looks like, and at this point, the value that we're seeing in improved asset reliability and reduced lost production to downtime, etc., is very real.",
+   "d": 1,
+   "m": false,
+   "tone": -0.233,
+   "h": 0.0233,
+   "hits": [
+    [
+     3,
+     8,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     144,
+     152,
+     [
+      "positive"
+     ]
+    ],
+    [
+     183,
+     187,
+     [
+      "negative"
+     ]
+    ],
+    [
+     202,
+     210,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 187,
+   "t": "And we get [improved base performance] because we are so focused on that and a shift to quickly turn to more production growth might dilute that focus.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     12,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     127,
+     132,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 188,
+   "t": "We'll update you over time if our view on these things changes but for right now, I think it's really steady as she goes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 189,
+   "t": "Operator:\tWe'll take our next question from Steve Richardson with Evercore [ISI].",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 190,
+   "t": "Steve Richardson: (Evercore ISI)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 191,
+   "t": "Mike, I wonder if you could talk a little bit about the exclusivity agreement with Microsoft on the power project.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     22,
+     27,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     56,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 192,
+   "t": "Specifically, you've been at this for a while.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 193,
+   "t": "No doubt you've learned some things, that it's been a bit of a journey getting to this place in terms of dealing with a different type of counterparty in a different industry.",
+   "d": 0,
+   "m": false,
+   "tone": -0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     3,
+     8,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 194,
+   "t": "But also, could you just update us on time to clarity on contract and FID and all those good things.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     10,
+     15,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     57,
+     65,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     88,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 195,
+   "t": "Mike Wirth:\tIt has been reported, I think we've confirmed, that we're in an exclusive discussion with Microsoft right now.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 196,
+   "t": "We're very pleased to be in those discussions with such a high- quality customer as Microsoft, and it's a company we know well.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     18,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 197,
+   "t": "They've been a partner of ours for a long time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 198,
+   "t": "They're our primary cloud provider.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 199,
+   "t": "They've been a key technology provider to us for many, many years and we've got a deep and very good relationship with Microsoft.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 200,
+   "t": "The project that we're advancing in West Texas is progressing well.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     50,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 201,
+   "t": "We've submitted an air permit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 202,
+   "t": "We've secured not only the large turbines that we've talked about before, but also small block generation that's useful in early scale-up and for some reliability.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 203,
+   "t": "We've selected an EPC who's doing engineering work on that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 204,
+   "t": "We've agreed with a water provider, etc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 205,
+   "t": "We're advancing the project with a lot of pace, we're beginning to take delivery on turbines this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 206,
+   "t": "Subject to definitive agreements, which we are in negotiations for, we will move towards FID [Final Investment Decision] later this year, and I think we'll deliver a project with speed, with scale and that's differentiated.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0286,
+   "hits": [
+    [
+     71,
+     75,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 207,
+   "t": "We'll remain disciplined on returns.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 208,
+   "t": "The negotiations thus far look like we can find a place to meet where Microsoft's expectations on power prices and our expectations on return on investment can both be satisfied.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     168,
+     177,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 209,
+   "t": "And like I said, we're very, very pleased.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 210,
+   "t": "I think we'll probably have more to say about this on the next call, so stay tuned.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     14,
+     22,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 211,
+   "t": "Operator:\tWe'll take our next question from Biraj Borkhataria with Royal Bank of Canada.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 212,
+   "t": "Biraj Borkhataria: (RBC)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 213,
+   "t": "Just wanted to follow up on Venezuela again, and this situation is obviously evolving quite quickly.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 214,
+   "t": "At the start of the year, comments from the U.S. administration was essentially around oil companies not looking backwards at the receivables balance and looking forward.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 215,
+   "t": "And then more recently, you today and some of your peers have been talking about the potential to get some of that paid back.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 216,
+   "t": "So my question is really, how should we think about what is a reasonable time frame to assume for you to get your couple of billion-dollar receivables balance back?",
+   "d": 0,
+   "m": false,
+   "tone": -0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     6,
+     14,
+     [
+      "negative"
+     ]
+    ],
+    [
+     87,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 217,
+   "t": "Mike Wirth:\tBiraj, we came into the year with, round numbers, something close to $1.5 billion in a receivable.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 218,
+   "t": "As I said, the rate at which that gets paid down is somewhat a function of the price, and we're receiving it faster this year than last year, obviously.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     52,
+     60,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 219,
+   "t": "I think we'll still carry some sort of a balance on that as we get to the end of this year, but much lower than where we are, and I think that would probably be fully paid off at some point in 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0238,
+   "hits": [
+    [
+     149,
+     157,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 220,
+   "t": "Subsequently, we would update you on what the model would be for cash distributions going forward, and I think by the time we get to 2027, some of these open questions that I referred to in response to the prior question relative to tax royalty contract terms, etc., are likely to be clarified and we'll be able to give you more guidance on what we might do relative to capital investment.",
+   "d": 0,
+   "m": false,
+   "tone": -0.143,
+   "h": 0.0286,
+   "hits": [
+    [
+     158,
+     167,
+     [
+      "negative"
+     ]
+    ],
+    [
+     212,
+     220,
+     [
+      "negative"
+     ]
+    ],
+    [
+     245,
+     253,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     307,
+     311,
+     [
+      "positive"
+     ]
+    ],
+    [
+     349,
+     354,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 221,
+   "t": "In any scenario, we remain the advantaged incumbent with people on the ground, with operations, with supply chains and contract resources, etc., that put us in a very good position to be a big player there, presuming that we see further progress.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0238,
+   "hits": [
+    [
+     31,
+     41,
+     [
+      "positive"
+     ]
+    ],
+    [
+     119,
+     127,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     167,
+     171,
+     [
+      "positive"
+     ]
+    ],
+    [
+     207,
+     216,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     237,
+     245,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 222,
+   "t": "Operator:\tWe'll take our next question from Sam Margolin with Wells Fargo.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 223,
+   "t": "Sam Margolin: (Wells Fargo)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 224,
+   "t": "Appreciate the view that the visibility on the long-term is very limited right now.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 225,
+   "t": "But in the near-term, there's some extraordinary things happening too.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 226,
+   "t": "Localized shortages could start to become an issue in some of the places that you operate in the next couple of months, depending on how the situation plays out.",
+   "d": 0,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.1034,
+   "hits": [
+    [
+     10,
+     19,
+     [
+      "negative"
+     ]
+    ],
+    [
+     20,
+     25,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     120,
+     129,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 227,
+   "t": "Chevron is exposed to these kind of idiosyncratic market events, volatility events, not just in regular operations, but also in the way you manage the supply chain.",
+   "d": 0,
+   "m": false,
+   "tone": -0.741,
+   "h": 0.037,
+   "hits": [
+    [
+     11,
+     18,
+     [
+      "negative"
+     ]
+    ],
+    [
+     65,
+     75,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 228,
+   "t": "So I wonder, in the context of the timing effect in 1Q and the derivatives exposure, if anything's changed or if you're adjusting kind of your operating posture within this highly volatile and extraordinary environment?",
+   "d": 0,
+   "m": false,
+   "tone": -0.286,
+   "h": 0.0571,
+   "hits": [
+    [
+     75,
+     83,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     180,
+     188,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 229,
+   "t": "Mike Wirth:\tSam, it is an unusual environment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     26,
+     33,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 230,
+   "t": "We've had experience working in unusual environments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     32,
+     39,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 231,
+   "t": "In 2020, we saw the inverse of this with the collapse of demand and excess supply.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     53,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 232,
+   "t": "In 2022, we saw a version of this when the conflict in Ukraine began.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     51,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 233,
+   "t": "We've got a playbook to deal with these things, and you work on optimizing supply into these markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 234,
+   "t": "You look at your financial exposures and counterparty circumstances and manage your risks there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     27,
+     36,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     84,
+     89,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 235,
+   "t": "The timing effects that were reported are the kinds of things you expect in a market like this and the kinds of things we've seen before, and so there's nothing unusual there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     161,
+     168,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 236,
+   "t": "It was a big run-up in crude price over the course of the quarter, and things that normally don't really appear in our financials relative to derivatives become very evident in the market like that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0278,
+   "hits": [
+    [
+     105,
+     111,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 237,
+   "t": "In a market that goes the other way, you see those effects and they go the other direction, and so I wouldn't overreact to [those] things in our numbers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 238,
+   "t": "We're very focused on supply in the markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 239,
+   "t": "I mentioned Asia, where there is clearly some of the nearest-term stresses, we are working to keep our refineries in Asia running at, I would argue probably the highest degree of utilization of anybody out there because we can direct crude into those refineries.",
+   "d": 0,
+   "m": false,
+   "tone": -0.222,
+   "h": 0.0222,
+   "hits": [
+    [
+     33,
+     40,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     66,
+     74,
+     [
+      "negative"
+     ]
+    ],
+    [
+     142,
+     147,
+     [
+      "negative"
+     ]
+    ],
+    [
+     148,
+     156,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     161,
+     168,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 240,
+   "t": "I gave an example of some of the crudes we've moved there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 241,
+   "t": "We can take crudes that would normally go into our U.S. refineries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 242,
+   "t": "We've got good substitutions for those that are available to us, and we can move other crudes we've got access to into Asia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 243,
+   "t": "We're very sensitive to trying to maintain supply into markets that are getting tight.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 244,
+   "t": "We're very sensitive to the implications of this for customers, for counterparties, etc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 245,
+   "t": "It's a dynamic situation, but we've got an organization that's very experienced in managing through these unpredictable and dynamic markets, and I'm very confident that we can manage those exposures very well.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     106,
+     119,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     154,
+     163,
+     [
+      "positive"
+     ]
+    ],
+    [
+     189,
+     198,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 246,
+   "t": "Operator:\tWe'll take our next question from Betty Jiang with Barclays.",
+   "d": 0,
+   "m": false,
+   "tone": -0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 247,
+   "t": "Betty Jiang: (Barclays)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 248,
+   "t": "Mike, Eimear, I want to ask about the TCO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 249,
+   "t": "In your prepared remarks, you actually mentioned that TCO is producing above a million barrels - BOE - per day.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 250,
+   "t": "So that's above your nameplate capacity, and that's coming back from the disruptions that you saw in 1Q.",
+   "d": 0,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     73,
+     84,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 251,
+   "t": "Would you just speak to where that asset is performing?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 252,
+   "t": "What's driving that outperformance and maybe the debottlenecking opportunities?",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     39,
+     44,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     65,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 253,
+   "t": "And then while we are on this topic, Mike, could you just give us an update on how the renegotiation contract conversations are going?",
+   "d": 0,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0417,
+   "hits": [
+    [
+     43,
+     48,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     87,
+     100,
+     [
+      "negative"
+     ]
+    ],
+    [
+     101,
+     109,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 254,
+   "t": "Mike Wirth:\tFirst of all, TCO returned to full service in March following the repairs on the electrical system in February, and there were some adverse weather dynamics in the Black Sea in early March.",
+   "d": 0,
+   "m": false,
+   "tone": -0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     144,
+     151,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 255,
+   "t": "We've got two out of the three single point moorings available at CPC [Caspian Pipeline Consortium], the third one later this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 256,
+   "t": "But with two, we can handle full flow on the pipeline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 257,
+   "t": "The pipeline is running full, the plant is running full.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 258,
+   "t": "We've done a lot of maintenance work as a part of what's going on over here this last",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 259,
+   "t": "period of time, and we have the plant expected to be at near full availability for the remainder of this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 260,
+   "t": "You mentioned the debottlenecking work that we did late in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 261,
+   "t": "We've now got that running in its new configuration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 262,
+   "t": "Early performance has been very encouraging.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 263,
+   "t": "I don't think we've got enough run time yet to give you any specific guidance on that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 264,
+   "t": "We just need to see a little bit more operational data, but you can expect on the next call that we should give you an update on that, and at times like this, when the market signals are to run all of your assets as strongly as you possibly can, that's what's happening at TCO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0364,
+   "hits": [
+    [
+     216,
+     224,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     232,
+     240,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 265,
+   "t": "We continue to see the benefits of a centralized control center in optimizing all the different generations of processing capability there and finding, I'll call it white space, or the opportunity to squeeze more production through those assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     185,
+     196,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 266,
+   "t": "It's a very complex optimization equation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 267,
+   "t": "And we've got new tools to do that in ways that we just never have before.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     61,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 268,
+   "t": "I'm encouraged by what we're seeing thus far, and we'll give you more guidance next quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 269,
+   "t": "On the concession, we're making good progress there in the discussions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     37,
+     45,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 270,
+   "t": "We're working closely with all partners in the venture and the Republic [of Kazakhstan].",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 271,
+   "t": "There are technical and commercial teams that have been established and all partners and government representatives are actively participating in that process.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 272,
+   "t": "I think this has ensured that we keep everyone well-aligned, we're proceeding on the same path, and it's moving along.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 273,
+   "t": "That's another one where I think at some point later this year, we'll give you an update.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 274,
+   "t": "This is a venture that's created enormous value for all stakeholders, whether it's the partners or the Republic over the last 33 years, and we're looking for a solution that will continue that history.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     174,
+     178,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 275,
+   "t": "Maybe a final point on TCO overall.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     0,
+     5,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 276,
+   "t": "Our guidance of $6 billion in free cash flow this year is unchanged, and that accounts for the operational issues that we saw in the first quarter and accounts for what we're seeing today, and so the cash flow guidance at $6 billion at $70 [Brent is unchanged].",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 277,
+   "t": "Obviously, at a higher price, if that's where we end up this year, we'll see stronger than that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 278,
+   "t": "Operator:\tWe'll take our next question from Lucas Herrmann with BNP Paribas.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 279,
+   "t": "Lucas Herrmann: (BNP Paribas)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 280,
+   "t": "Mike, Eimear, just touching on the LNG business briefly.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 281,
+   "t": "I mean the market is obviously tighter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 282,
+   "t": "I just wondered how much flex you've got across your portfolio to take advantage of arbitrage or other opportunities that may be emerging.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0435,
+   "hits": [
+    [
+     71,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     122,
+     125,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 283,
+   "t": "How much production is not effectively committed?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     48,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 284,
+   "t": "That was broadly it, thank you.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 285,
+   "t": "Mike Wirth:\tWe ended last year with a [LNG] portfolio that's about 16 million [metric] tonnes per year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 286,
+   "t": "Majority of that obviously is out of Australia, where we've got 40 TCF [trillion cubic feet] of resource and access to the strong and growing demand in Asia.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     123,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 287,
+   "t": "Globally, our portfolio is about 80% long-term oil-linked contracts and about 20% exposed to the spot market.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     67,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     82,
+     89,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 288,
+   "t": "We like that over time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 289,
+   "t": "I think coming into this year, with some of the expectations for length in the LNG market, people would have said that's a good place to be.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     123,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 290,
+   "t": "When spot prices get very strong, obviously, you say, \"Well, I'd like to have more spot.\" We've got to look at our way through those kinds of cycles.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 291,
+   "t": "And our oil-linked contracts, which have a lag, don't show a lot of the current market environment in the first quarter; you can expect in subsequent quarters that you will see that flow through into the pricing on that 80% of our volume.",
+   "d": 0,
+   "m": false,
+   "tone": -0.233,
+   "h": 0.0233,
+   "hits": [
+    [
+     19,
+     28,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     43,
+     46,
+     [
+      "negative"
+     ]
+    ],
+    [
+     168,
+     172,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 292,
+   "t": "And of course, the 20% that's sold on our spot contracts is seeing the kinds of prices you've seen in the market recently.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     56,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 293,
+   "t": "We just sold our first U.S.-based cargo and that [offtake capacity] will grow by 2030 to another four million [metric] tonnes per annum.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     72,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 294,
+   "t": "That take us up to 20 [million metric tonnes per annum].",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 295,
+   "t": "That [first cargo] was sold into Europe on spot-based prices.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 296,
+   "t": "And I mentioned earlier, we've got our portfolio running very, strongly - Wheatstone and Gorgon at full rates, same in West Africa.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     71,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 297,
+   "t": "We're seeing the benefits of this, and the proportions are as I described.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 298,
+   "t": "Operator:\tWe will take our next question from Manav Gupta with UBS.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 299,
+   "t": "Manav Gupta: (UBS)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 300,
+   "t": "I wanted to shift to chemicals.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 301,
+   "t": "Globally, we are seeing naphtha crackers run dry because there's just not enough naphtha.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 302,
+   "t": "Your portfolio is very U.S.-centric, there's a little bit out there with 15%, but mostly the capacity is in the U.S. And what we are hearing is that they're pushing for $0.20 per pound polyethylene price hike, so we ended fourth quarter at record low historic margins, but 2Q could be actually over mid-cycle.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0179,
+   "hits": [
+    [
+     276,
+     281,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 303,
+   "t": "Can you talk a little bit about that and how you benefit from that?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 304,
+   "t": "Mike Wirth:\tJust to remind everybody, our exposure to petrochemicals is primarily through Chevron Phillips Chemical, also some through GS Caltex in Korea, and CPChem is very much tilted towards ethane-based cracking here in North America, and some in the Middle East. [GS Caltex] is liquids-cracking, but it's derived from its own refining flows and so not reliant upon naphtha supply out of the Middle East.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0147,
+   "hits": [
+    [
+     42,
+     50,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 305,
+   "t": "We've seen strong price moves, particularly in the olefins chain, which is where most of our exposure is, and those price moves, as I think you're probably aware, were predominantly here in the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0571,
+   "hits": [
+    [
+     11,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     93,
+     101,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     147,
+     155,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 306,
+   "t": "You don't see much of that in the first quarter, but chain margins have significantly improved from very low levels, as you mentioned, last year to what now are chain margins that I would agree are likely better than mid-cycle chain margins.",
+   "d": 1,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0233,
+   "hits": [
+    [
+     86,
+     94,
+     [
+      "positive"
+     ]
+    ],
+    [
+     205,
+     211,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 307,
+   "t": "I think you're going to see for people that have assets that are up and running in parts of the world where you're cracking advantaged feedstock and certainly, North American ethane would be described that way, you should see pretty good margin capture in those businesses, absolutely.",
+   "d": 0,
+   "m": false,
+   "tone": 0.426,
+   "h": 0.0,
+   "hits": [
+    [
+     124,
+     134,
+     [
+      "positive"
+     ]
+    ],
+    [
+     233,
+     237,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 308,
+   "t": "Operator:\tWe'll take our next question from Jean Ann Salisbury with Bank of America.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 309,
+   "t": "Jean Ann Salisbury: (Bank of America)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 310,
+   "t": "I wanted to get your latest thoughts on the Bakken, whether the initiatives to lower costs have given you more conviction that it's core in your portfolio?",
+   "d": 1,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     121,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 311,
+   "t": "And whether the higher oil prices may have increased the interest from others in owning that asset?",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     34,
+     37,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 312,
+   "t": "Mike Wirth:\tThe Bakken assets have been running well.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 313,
+   "t": "We've said that you should probably expect to see a couple of hundred thousand barrels [of oil-equivalent] a day production there to plateau.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     27,
+     35,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 314,
+   "t": "First quarter was a little bit below that, primarily on some weather effects.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 315,
+   "t": "We've brought down the rig count there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 316,
+   "t": "We're running three rigs now, versus four previously.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 317,
+   "t": "We're drilling longer laterals.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 318,
+   "t": "We think we can sustain production that way and fully utilize existing infrastructure, drive strong free cash flow there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 319,
+   "t": "We're applying best practices from our portfolio, bringing some things in from Hess's practices like we did from Noble and PDC.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     19,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 320,
+   "t": "This is a more liquids-weighted position in the shale and so you're right, the strong liquids pricing makes it perform very, very well.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 321,
+   "t": "We were getting interest from others really since we've announced the deal and certainly since we've closed the deal, we've had some incoming on that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 322,
+   "t": "We want to see a little bit more operating data and really understand the asset.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 323,
+   "t": "As I mentioned before, we've underestimated the quality of the DJ [Basin] when we acquired Noble, and thankfully, we didn't sell it quickly.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     43,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 324,
+   "t": "And here, we want to be sure we fully appreciate the value that we've got in the Bakken.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 325,
+   "t": "I'll give you an example of one of the things we'll be doing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 326,
+   "t": "We're testing advanced chemicals to improve recovery in the Bakken today, things we've been doing in the",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 327,
+   "t": "Permian and in the DJ.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 328,
+   "t": "Early response looks pretty good, and to the extent we've got ways we can improve the recovery and the value on that asset and maybe do some things that aren't available to others, we ought to be able to drive more value out of that than a buyer potentially could.",
+   "d": 0,
+   "m": false,
+   "tone": 0.6,
+   "h": 0.06,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     127,
+     132,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     196,
+     200,
+     [
+      "positive"
+     ]
+    ],
+    [
+     258,
+     263,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 329,
+   "t": "So, performing very well, really pleased with it and we're in no hurry to do anything other than continue to improve it.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     109,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 330,
+   "t": "In due course, like every other asset in the portfolio, we ask questions about how does it fit for the long- term, but it's a little premature for us to be asking that question today.",
+   "d": 0,
+   "m": false,
+   "tone": -0.857,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     72,
+     [
+      "negative"
+     ]
+    ],
+    [
+     133,
+     142,
+     [
+      "negative"
+     ]
+    ],
+    [
+     168,
+     176,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 331,
+   "t": "Operator:\tWe'll take our next question from James West with Melius Research.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 332,
+   "t": "James West: (Melius Research)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 333,
+   "t": "I wanted to dig in a little bit on your Eastern Mediterranean assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 334,
+   "t": "It seems to me that the region, given the conflict near that region, that your - those assets are much more valuable at this point.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     3,
+     8,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     42,
+     50,
+     [
+      "negative"
+     ]
+    ],
+    [
+     108,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 335,
+   "t": "And so as we think about Leviathan, Tamar - which you operate - and then Aphrodite - which I know you're not an operator, but you're obviously involved, heavily involved there - how you're thinking about those assets going forward because there's a lot of natural gas that needs to get to a lot of places in the region for energy security purposes and others, so I'd like to get your quick thoughts on that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 336,
+   "t": "Mike Wirth:\tBroadly speaking, James, I would agree with you.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 337,
+   "t": "We have liked these assets from the get-go.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 338,
+   "t": "That's why we're investing in expanding production at both Tamar and Leviathan, making good progress on those projects with some ramp-up this year of another 600 million cubic feet per day of production on a 100% basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 339,
+   "t": "A longer-term expansion of Leviathan [is] underway, we took FID on that in January and are excited about that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     91,
+     98,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 340,
+   "t": "Of course, we've begun work, FEED [Front End Engineering and Design] work, at Aphrodite.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 341,
+   "t": "So, this is a high-quality, nice, clean biogenic gas.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 342,
+   "t": "The demand for the gas in the region continues to grow and supply reliability everywhere in the world now is obviously a priority.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 343,
+   "t": "So, the markets that we're feeding are growing, and the quality of the resource is very high.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 344,
+   "t": "The quality of the assets, just a shout out back to Noble, those continue to impress us as we look at the expansions with the way they were engineered and designed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 345,
+   "t": "We view the Eastern Med as an area with some growth potential.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 346,
+   "t": "We've got exploration activity there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 347,
+   "t": "You can think of it as a big gas hub with a lot of resource that has been discovered and more still to be discovered.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 348,
+   "t": "So, we're pleased with our position there, and you can expect us to continue to pursue exploration and development opportunities over time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0455,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     115,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 349,
+   "t": "Operator:\tWe will take our next question from Bob Brackett with Bernstein Research.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 350,
+   "t": "Bob Brackett: (Bernstein Research)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 351,
+   "t": "You mentioned that Chevron, of course, has a playbook to deal with supply shocks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 352,
+   "t": "Governments around the world also dust off playbooks during supply shocks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 353,
+   "t": "Can you talk to what sort of government policies around the world that are helpful during a supply shock, and which are perhaps unhelpful?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     120,
+     127,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 354,
+   "t": "Mike Wirth:\tYou're right, Bob - there are playbooks all across the spectrum and there are policies that are helpful in responding to a circumstance like this, and there are those that are not.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 355,
+   "t": "Broadly speaking, we've got a supply challenge in the world.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     46,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 356,
+   "t": "Policies that encourage more supply, that enable supply, that facilitate the ease of supply are the ones that are helpful.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 357,
+   "t": "I'll give you some examples.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 358,
+   "t": "Releases of strategic reserves: clearly, that puts oil into the market that wouldn't otherwise be there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     39,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 359,
+   "t": "That's a good policy move.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 360,
+   "t": "In the U.S., we've seen the waiver of the Jones Act.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 361,
+   "t": "That allows us to use ships that otherwise couldn't trade in these markets to move supplies from where they exist to where they're",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 362,
+   "t": "desperately needed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 363,
+   "t": "That's a good move.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 364,
+   "t": "We've seen moves to relax specifications, which take a government-imposed constraint on what product can move to what market and enable you to move products that are needed and otherwise would not be able to do so.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     73,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     74,
+     84,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     129,
+     135,
+     [
+      "positive"
+     ]
+    ],
+    [
+     200,
+     204,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 365,
+   "t": "So, we see it in the U.S. Another one we've seen is the use of the Defense Production Act to enable some offshore California production to come into service and get into the market, and we're working with the operator of that asset to get it to our El Segundo refinery to meet local needs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.179,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 366,
+   "t": "California is the state where the supply pinch is being felt first, and I would say most acutely, and it's flowed through all the way to the street.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 367,
+   "t": "So, there are a number of actions that have been taken that I think have been very positive in terms of creating supply and flexibility in the system to get that supply where it's needed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 368,
+   "t": "The actions that can be unhelpful are price caps, which do not allow the signal to use energy efficiently [to] flow through into the economy, and they send a signal that can discourage the creation of supplies into markets that need them.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     105,
+     [
+      "positive"
+     ]
+    ],
+    [
+     174,
+     184,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 369,
+   "t": "Well-intended to buffer the impact of this on consumers and economies, but what it does is it distorts the normal behavior of the market.",
+   "d": 0,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     102,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 370,
+   "t": "Export bans can do the same thing.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 371,
+   "t": "They can constrain supplies that would otherwise flow into the market to the places that need them most and make the situation worse.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     18,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     127,
+     132,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 372,
+   "t": "And then, of course, the one that a number of governments have gone to historically are some sort of taxes on profits that are generated during periods like this.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 373,
+   "t": "The history of those taxes is they don't generate nearly as much revenue as they're initially advertised to do and what they do is they send unhelpful questions about future investments.",
+   "d": 0,
+   "m": false,
+   "tone": -0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     151,
+     160,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 374,
+   "t": "So, they can slow the supply response, not in the immediate-term, but out into the medium- term and create circumstances which create vulnerabilities out into the future.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "negative"
+     ]
+    ],
+    [
+     134,
+     149,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 375,
+   "t": "We're engaged with governments around the world to discuss these policies, to encourage those that really do help respond to the situation, and to caution people about policies that may not help.",
+   "d": 0,
+   "m": false,
+   "tone": -0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     147,
+     154,
+     [
+      "negative"
+     ]
+    ],
+    [
+     182,
+     185,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 376,
+   "t": "One thing that a company like ours with a large, diverse portfolio has is [that] we're not overly exposed to a potential bad policy decision in any particular market because we have such a broad footprint; a more narrow footprint or one that's more concentrated in some of these areas could be more vulnerable to those effects.",
+   "d": 0,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0175,
+   "hits": [
+    [
+     98,
+     105,
+     [
+      "negative"
+     ]
+    ],
+    [
+     121,
+     124,
+     [
+      "negative"
+     ]
+    ],
+    [
+     285,
+     290,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     299,
+     309,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 377,
+   "t": "Operator:\tWe will take our next question from Phillip Jungwirth with BMO.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 378,
+   "t": "Phillip Jungwirth: (BMO)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 379,
+   "t": "A lot going on in the world right now, but I wanted to ask about U.S. climate litigation, just because that's been an overhang for the industry for a while.",
+   "d": -1,
+   "m": true,
+   "tone": -0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     88,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 380,
+   "t": "We might get some clarity here with the Supreme Court now taking up the issue with the Colorado case.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     3,
+     8,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     48,
+     53,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 381,
+   "t": "But how much do you think this could settle the question around state versus federal jurisdiction and just advance the whole climate debate in the U.S.?",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     31,
+     36,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     48,
+     56,
+     [
+      "negative"
+     ]
+    ],
+    [
+     85,
+     97,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 382,
+   "t": "Mike Wirth:\tWe're not party to that litigation, Phil, so I can't comment too specifically about it, but we are party to another case that was just heard by the Supreme Court and concluded that a case that had been heard in state court really should be removed to federal court.",
+   "d": -1,
+   "m": true,
+   "tone": -0.196,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     46,
+     [
+      "negative",
+      "litigious"
+     ]
+    ],
+    [
+     168,
+     173,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     229,
+     234,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     271,
+     276,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 383,
+   "t": "I won't get into the rationale behind that; you may or may not be familiar with it.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1176,
+   "hits": [
+    [
+     48,
+     51,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     55,
+     58,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 384,
+   "t": "But the principles are somewhat analogous, that this is a matter for federal courts to decide, in our view.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     23,
+     31,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     77,
+     83,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 385,
+   "t": "In fact, it's truly a matter for elected officials to decide and establish climate policies that appropriately reflect the sentiment of the public and the interest of the nation, and that cities, counties, states, are not the appropriate place for climate policy to be established nor for climate issues to be subject to litigation.",
+   "d": -1,
+   "m": true,
+   "tone": -0.185,
+   "h": 0.0185,
+   "hits": [
+    [
+     321,
+     331,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 386,
+   "t": "We're hopeful that the case, if it does make it to the Supreme Court, provides some clarity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     68,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 387,
+   "t": "At the federal court level, we've seen kind of mixed views come out.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     20,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 388,
+   "t": "This is a",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 389,
+   "t": "matter that, I think, really would benefit from some clarity that emerges from the highest court of the land.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     91,
+     96,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 390,
+   "t": "More to follow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 391,
+   "t": "Operator:\tWe will take our next question from Nitin Kumar with Mizuho.",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 392,
+   "t": "Nitin Kumar: (Mizuho)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 393,
+   "t": "Back in November, you had given us a little bit of an update on your exploration program kind of setting up the company beyond 2030, included some potential opportunities into new countries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     157,
+     170,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 394,
+   "t": "Given the events that have happened here in the last eight weeks, any change to the pecking order of those priorities?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 395,
+   "t": "Or anything that you're prosecuting a little bit faster to get that oil to the market?",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     35,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 396,
+   "t": "Mike Wirth:\tI would say it really hasn't changed, Nitin; exploration is a longer cycle activity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 397,
+   "t": "We've got a portfolio that's diverse; I think that's valuable as you look at the circumstances right now.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 398,
+   "t": "We do have some opportunities in the Middle East region, but we certainly have a number of opportunities we're highly interested in that are outside of the Middle East, and the reality that the world needs this energy supply and will need it long into the future means that we need to continue to look for resource around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     91,
+     104,
+     [
+      "positive"
+     ]
+    ],
+    [
+     229,
+     233,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 399,
+   "t": "We're pleased with the portfolio that we've built up.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 400,
+   "t": "We're pleased with some of the new talent that has joined the company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 401,
+   "t": "We've got a different model under which we're making decisions now.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 402,
+   "t": "We're using new technologies to try to improve both the cycle time and the success of our exploration program.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     75,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 403,
+   "t": "You can expect to see those things continue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": []
+  },
+  {
+   "i": 404,
+   "t": "We've increased our financial commitment to it as well, and so, more to follow.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 405,
+   "t": "But I think this is a discussion that will occur over the next number of years and to the kind of earlier comments, if we're not going to change our activity levels in the Permian, for instance, in response to the last few weeks of disruption - certainly, that's a place where you do have shorter-term handles you could pull - something like exploration, which is longer cycle, really doesn't get affected by this in the short-term.",
+   "d": 0,
+   "m": false,
+   "tone": -0.13,
+   "h": 0.013,
+   "hits": [
+    [
+     38,
+     42,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     232,
+     242,
+     [
+      "negative"
+     ]
+    ],
+    [
+     314,
+     319,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 406,
+   "t": "Operator:\tWe will take our next question from Jason Gabelman with TD Cowen.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 407,
+   "t": "Jason Gabelman: (TD Cowen)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 408,
+   "t": "You've guided to your equity affiliate distributions being at about 70% of what the full- year guide is by the end of 2Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 409,
+   "t": "I'm assuming some of that is related to the higher oil price.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 410,
+   "t": "Can you just talk about if the relationship between equity distributions and the oil price is linear, and if you have a rule of thumb there to help the market kind of think about the potential upside as a result of what we're seeing in the market?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 411,
+   "t": "Eimear Bonner:\tJason, obviously, as Mike talked about, we're coming into the second quarter with a lot of really strong momentum on our affiliates, starting with TCO back at full rates and testing the upside of the capacity; CPChem is also contributing; Angola LNG [also] full.",
+   "d": 0,
+   "m": false,
+   "tone": 0.217,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     119,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 412,
+   "t": "Those are the examples of just the tailwinds that we're seeing on the assets and the strong momentum that we have; that's why we were able to increase our affiliate distribution guidance today, and it's over $2 billion more relative to the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     134,
+     138,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 413,
+   "t": "It's because of the confidence that we have in the performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 414,
+   "t": "Another thing I would mention is TCO has already changed their distribution schedule; they're now giving us dividends monthly.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 415,
+   "t": "We've already got the first one in the bank in April.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 416,
+   "t": "So those actions, coupled with the operational momentum, is why the guidance is raised.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 417,
+   "t": "Look, obviously, the guidance is at $60 [Brent], and so there's a lot of upside here depending on how prices unfold.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     85,
+     94,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 418,
+   "t": "Operator:\tWe will take our final question from Geoff Jay with Daniel Energy Partners.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     33,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 419,
+   "t": "Geoff Jay: (Daniel Energy Partners)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 420,
+   "t": "I had a kind of a follow-up to Bob Brackett's question, really about California specifically.",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     54,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 421,
+   "t": "I mean, there's been a lot written about its reliance on imports, its low inventory levels and I guess wondering, as an operator of refineries in that state, have there been other relief valves?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 422,
+   "t": "Has the Jones Act helped?",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 423,
+   "t": "Have there been other sort of operational changes that you've made to kind of make sure that market is adequately supplied?",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 424,
+   "t": "Mike Wirth:\tWell, I've referred to one and I guess both of them.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 425,
+   "t": "The ability to bring this new production offshore from Sable onshore and make sure that's getting into the California market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 426,
+   "t": "I mean that's California oil through a California pipeline to a California refinery to California customers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 427,
+   "t": "And that was not happening just a few months ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 428,
+   "t": "Same thing with Jones Act.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 429,
+   "t": "We can bring crude oil or products from the Gulf Coast that are needed in California.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 430,
+   "t": "You've got some special specifications you have to hit to maybe blend stocks that would come around.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     58,
+     63,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 431,
+   "t": "But yes, we are very sensitive to our customers in California and the circumstances there.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 432,
+   "t": "I think you're well aware of what California's policies have delivered to the state, which is an oil industry that is in decline - whether that's Upstream production or refining - where we've seen a couple of refineries shut down this year, that has constrained supply capability and at a time when the world is feeling these constraints.",
+   "d": 0,
+   "m": false,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     121,
+     128,
+     [
+      "negative"
+     ]
+    ],
+    [
+     220,
+     224,
+     [
+      "negative"
+     ]
+    ],
+    [
+     250,
+     261,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     326,
+     337,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 433,
+   "t": "California is reliant upon supplies from other parts of the world, which are maybe needed to keep their own economies going.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     77,
+     82,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 434,
+   "t": "It's a real dilemma for the state.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 435,
+   "t": "We are doing everything we can to meet our supply obligations there, but it does point out the vulnerabilities that have been created in California as a result of decades of poor energy policy.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     61,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     95,
+     110,
+     [
+      "negative"
+     ]
+    ],
+    [
+     174,
+     178,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 436,
+   "t": "Jeanine Wai:\tI would like to thank everyone for your time today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 437,
+   "t": "We appreciate your interest in Chevron and your participation on today's call.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 438,
+   "t": "Please stay safe and healthy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 439,
+   "t": "Katie, back to you.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 440,
+   "t": "Operator:\tThank you.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 441,
+   "t": "This concludes Chevron's first quarter 2026 earnings conference call.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 442,
+   "t": "You may now disconnect.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.25,
+   "hits": [
+    [
+     4,
+     7,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}

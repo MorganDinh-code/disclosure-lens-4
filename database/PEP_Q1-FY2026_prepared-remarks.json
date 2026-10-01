@@ -1,0 +1,1425 @@
+{
+ "company": "PepsiCo, Inc.",
+ "ticker": "PEP",
+ "sector": "Consumer Staples",
+ "filing_type": "Prepared remarks",
+ "period": "Q1 FY2026",
+ "date": "2026-04-16",
+ "source_url": "https://investors.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q1-2026-prepared-management-remarks.pdf",
+ "demo": false,
+ "boilerplate_paragraphs_removed": 3,
+ "summary": {
+  "n_sentences": 76,
+  "n_material_neg": 2,
+  "n_positive": 35,
+  "mean_pos_negative": 0.5789473684210527,
+  "mean_pos_positive": 0.487593984962406,
+  "placement_asymmetry": 0.09135338345864663,
+  "distance_from_headline": 28,
+  "first_negative_pos": 0.39473684210526316,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.010516779000386176,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 1.1388888888888888,
+  "overall_hedge": 0.010338345864661654,
+  "mean_tone": 0.1450722243600982
+ },
+ "lexicon": {
+  "words": 2128,
+  "per_1000": {
+   "Negative": 6.1,
+   "Positive": 25.4,
+   "Uncertainty": 7.5,
+   "Litigious": 0.0,
+   "Strong modal": 4.2,
+   "Weak modal": 1.9,
+   "Constraining": 0.5
+  },
+  "counts": {
+   "Negative": 13,
+   "Positive": 54,
+   "Uncertainty": 16,
+   "Litigious": 0,
+   "Strong modal": 9,
+   "Weak modal": 4,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First-Quarter 2026 Prepared Management Remarks April 16, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "We also invite you to listen to our live question and answer webcast with Ramon Laguarta (Chairman and Chief Executive Officer) and Steve Schmitt (Executive Vice President and Chief Financial Officer), which will begin today at 8:15 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     49,
+     [
+      "negative"
+     ]
+    ],
+    [
+     208,
+     212,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Eastern Time and will also be available on www.pepsico.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Cautionary Statement",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "As a reminder, while our financial results in the United States and Canada (North America) are reported on a 12-week basis, all international operations report on a monthly calendar basis, for which the months of January and February are reflected in results for the 12 weeks ended March 21, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "First-Quarter Executive Summary:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "* Net revenue growth accelerated to 8.5 percent - reflecting improved organic revenue growth, foreign exchange translation benefits and acquisitions, net of divestitures * Global convenient foods delivered solid volume and net revenue growth * International business momentum continued with resilient results for both convenient foods and beverages * Company affirms fiscal 2026 financial guidance",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     69,
+     [
+      "positive"
+     ]
+    ],
+    [
+     157,
+     169,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Chairman and CEO Commentary / Business Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "PepsiCo delivered strong results for the first-quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Net and organic revenue growth accelerated sequentially for the International and North America businesses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Specifically: * Net revenue growth accelerated to 8.5 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Organic revenue increased 2.6 percent with each segment delivering organic revenue growth. * The International business delivered its 20th consecutive quarter of at least mid-single- digit organic revenue growth. * PepsiCo Foods North America delivered both volume and net revenue growth with good performance across most large, well-recognized brands. * Core EPS increased 9 percent, reflecting record productivity savings.",
+   "d": 1,
+   "m": false,
+   "tone": 0.179,
+   "h": 0.0,
+   "hits": [
+    [
+     293,
+     297,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Core constant currency EPS increased 5 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "We believe the commercial actions in place to improve performance aided results - including the restaging of certain global brands, an expansive slate of innovation with emerging and functional offerings and improved affordability initiatives in certain areas of the portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0256,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     46,
+     53,
+     [
+      "positive"
+     ]
+    ],
+    [
+     154,
+     164,
+     [
+      "positive"
+     ]
+    ],
+    [
+     208,
+     216,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "PepsiCo Beverages North America (PBNA) net revenue increased 9 percent with organic revenue growth of 2 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Acquisitions, net of divestitures, contributed 7 percentage points to net revenue growth - reflecting the distribution of Alani Nu and the acquisition of poppi, partially offset by the transition of the case pack water business in North America to a third- party partner and the divestiture of Rockstar.",
+   "d": 1,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     33,
+     [
+      "negative"
+     ]
+    ],
+    [
+     279,
+     290,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Organic volume declined 2.5 percent and includes a 2-percentage-point headwind related to our case pack water business which includes the impact of a transition to a third-party partner.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Core operating profit increased 7 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "PBNA Commercial highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "* Functional hydration offerings delivered strong performance as they continue to resonate well with consumers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "For example: o Gatorade delivered volume and net revenue growth and gained volume share - aided by Gatorade Zero Sugar and Gatorlyte, which each gained value and volume share. o Propel continued to deliver volume and net revenue growth and gained value and volume share within enhanced water.",
+   "d": 1,
+   "m": false,
+   "tone": 0.851,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     74,
+     [
+      "positive"
+     ]
+    ],
+    [
+     145,
+     151,
+     [
+      "positive"
+     ]
+    ],
+    [
+     240,
+     246,
+     [
+      "positive"
+     ]
+    ],
+    [
+     277,
+     285,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Estimated retail sales for Propel have more than doubled since 2019 to more than $1 billion. * Trademark Pepsi delivered net revenue growth - aided by strong growth for Pepsi Zero Sugar and certain flavored varieties such as Pepsi Wild Cherry & Cream - each of which gained volume and value share within carbonated soft drinks. * Trademark Mountain Dew delivered a sequential improvement in volume share trends within carbonated soft drinks aided by the success of Baja Blast and other flavors. * Mug Root Beer delivered volume and net revenue growth and gained value and volume share within carbonated soft drinks. * In Energy, we successfully integrated the fast-growing Alani Nu brand into the direct store delivery system through the successful partnership with Celsius Holdings - which gained volume and value share within energy drinks and holds a nearly 20 percent market share of the category. * The away-from-home business also performed well and delivered net revenue growth by winning in local restaurants, activating new experiences such as \"DRIPS by Pepsi\" and extending our presence and reach with zero sugar offerings, poppi, Celsius and Alani Nu.",
+   "d": 1,
+   "m": false,
+   "tone": 0.506,
+   "h": 0.0056,
+   "hits": [
+    [
+     151,
+     157,
+     [
+      "positive"
+     ]
+    ],
+    [
+     267,
+     273,
+     [
+      "positive"
+     ]
+    ],
+    [
+     376,
+     387,
+     [
+      "positive"
+     ]
+    ],
+    [
+     454,
+     461,
+     [
+      "positive"
+     ]
+    ],
+    [
+     555,
+     561,
+     [
+      "positive"
+     ]
+    ],
+    [
+     632,
+     644,
+     [
+      "positive"
+     ]
+    ],
+    [
+     738,
+     748,
+     [
+      "positive"
+     ]
+    ],
+    [
+     791,
+     797,
+     [
+      "positive"
+     ]
+    ],
+    [
+     854,
+     860,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     988,
+     995,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "We also expanded our partnership with Major League Baseball to bring Mountain Dew Baja Blast as the Official Soft Drink of the 2026 season to ballparks nationwide.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Looking ahead, we expect to expand the presence and availability of on-trend innovations recently introduced - including Pepsi Prebiotic, Gatorade Lower Sugar, a newly formulated Muscle Milk, Starbucks Coffee & Protein, Pure Leaf Mental Focus and Dirty Mountain Dew Cream Soda - and amplify communications with consumers as the year progresses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.408,
+   "h": 0.0204,
+   "hits": [
+    [
+     77,
+     88,
+     [
+      "positive"
+     ]
+    ],
+    [
+     333,
+     343,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "In addition, we are restaging Gatorade products with improved/simplified visuals on packages, more brand communication on hydration benefits and product superiority attributes and gradually removing artificial colors within the portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Strategically, the business will continue to emphasize focused, profitable growth within attractive segments of the liquid refreshment beverage category, work to expand its presence within away-from-home channels and utilize structural productivity savings to fund necessary investments for the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     64,
+     74,
+     [
+      "positive"
+     ]
+    ],
+    [
+     89,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "PBNA aims to accelerate its business momentum and make annual progress towards its mid-teens core operating margin target.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "PepsiCo Foods North America (PFNA) delivered both volume and net revenue growth in the first-quarter - as the business implemented affordability investments and brought more innovation into the marketplace.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     174,
+     184,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Organic volume increased 2 percent, and organic revenue increased 1 percent - representing solid sequential improvement.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     108,
+     119,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Core operating profit declined 4 percent and reflected the impact associated with lapping asset sale gains in the first-quarter of 2025 and an increase in advertising and marketing expenses.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     30,
+     [
+      "negative"
+     ]
+    ],
+    [
+     101,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "PFNA Commercial highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "* We expanded the presence and distribution of Doritos and Cheetos NKD that contain no artificial colors or flavors and restaged Lay's with new packaging and amplified communications that highlight simple, quality ingredients. * During the quarter, large brands including Lay's, Ruffles, Doritos and Cheetos each delivered volume growth with volume share improvement in potato chips, flavored and unflavored tortilla chips, curls and puffs, pretzels and wavy grain chips (SunChips). * We continued to advance the $2 billion-plus permissible portfolio, with SunChips, Siete and Quaker rice cakes each gaining volume share and delivering strong volume and net revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     355,
+     366,
+     [
+      "positive"
+     ]
+    ],
+    [
+     529,
+     540,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     600,
+     607,
+     [
+      "positive"
+     ]
+    ],
+    [
+     636,
+     642,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "We also offered more choices made with avocado oil, olive oil, fiber, whole grains or protein. * The away-from-home business delivered volume and net revenue growth, aided by the continued growth of the Walking Taco platform and flavor solutions for prepared on- the-go foods in traditional retail stores with Flamin' Hot and Cool Ranch varieties.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "We also partnered with Subway Canada to introduce a one-of-a-kind sauce inspired by flavor from our Ruffles All Dressed chip, demonstrating how we expand our brands through innovative culinary offerings.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     173,
+     183,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Looking ahead, we are refreshing and restaging certain iconic brands (namely Tostitos and Quaker) with new visuals, amplified communications and simple ingredients; advancing innovation in emerging and functional spaces; and continuing to extend occasion-led brand presence into the away-from-home channel.",
+   "d": 0,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0,
+   "hits": [
+    [
+     165,
+     174,
+     [
+      "positive"
+     ]
+    ],
+    [
+     175,
+     185,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "We recently introduced additional choices for consumers with protein, fiber and more diverse ingredients with the launch of Doritos Protein, Good Warrior beef sticks, Smartfood FiberPop and SunChips Fiber.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     141,
+     145,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "We expect to expand the presence and distribution of new products as the year progresses and increase consumer engagement activities - such as the Lay's sponsorship of the upcoming 2026 FIFA World Cup.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     78,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "In addition, we will continue to reduce costs and drive operational excellence - with a focus on ensuring that key metrics such as service levels, order fill rates and costs per unit show further improvements.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     20,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     68,
+     78,
+     [
+      "positive"
+     ]
+    ],
+    [
+     196,
+     208,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Savings will help fund commercial activities and brand communications that aim to accelerate growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     12,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Therefore, we continue to expect PFNA's performance to improve in fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0909,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "The International business (which delivered $38 billion in net revenue and represented more than 40 percent of PepsiCo net revenue and core segment operating profit in 2025) delivered 5.5 percent organic revenue growth, the 20th consecutive quarter of at least mid-single-digit organic revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "International core operating profit increased 25 percent, and core operating margin expanded 145 basis points compared to the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Convenient Foods delivered 6 percent organic revenue growth, while Beverages delivered 4.5 percent organic revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Convenient Foods organic revenue growth was aided by markets including Mexico, Colombia, Argentina, India, Egypt, Trkiye, Saudi Arabia, South Africa, China and Pakistan, while Beverages organic revenue growth was aided by markets including the U.K., Argentina, Egypt, Trkiye, Saudi Arabia, China, Pakistan, Australia and Thailand.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "We held or gained savory snack share in Mexico, Colombia, the Netherlands, France, South Africa, Australia, Thailand, Saudi Arabia, Egypt and Pakistan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "For beverages, we held or gained share in U.K., Germany, Spain, Australia, South Korea, Thailand, Vietnam and Pakistan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "We continue to see a long runway for profitable growth for the International businesses as we aim to significantly increase its size and scale, tailored to the differentiated needs across countries and geographies.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "To accomplish this, we are:",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 49,
+   "t": "* Expanding our variety of offerings with baked, air-fried and low or no sugar options, while also integrating functional benefits into our products - such as protein, fiber, whole grains and diverse ingredients or cooking oils; * Continuing to scale and lift large, existing brands across markets to capture consumption across different dayparts and penetration opportunities - for example, we aim to accelerate customized product solutions for meal/culinary occasions and away-from- home channels with global brands such as Lay's, Doritos, Tostitos and Pepsi, while also expanding in the global energy category with Sting; * Sharpening our price pack architecture to enhance affordability; and * Emphasizing local relevance with respect to product and flavor innovation and consumer engagement activities through bold, customized flavor profiles and focused communication during market-specific holidays, key sporting events and relevant celebratory occasions - for example, we will leverage our partnerships with FIFA, UEFA Champions League and F1 to capture incremental occasions and experiences.",
+   "d": 0,
+   "m": false,
+   "tone": 0.195,
+   "h": 0.0,
+   "hits": [
+    [
+     363,
+     376,
+     [
+      "positive"
+     ]
+    ],
+    [
+     669,
+     676,
+     [
+      "positive"
+     ]
+    ],
+    [
+     761,
+     771,
+     [
+      "positive"
+     ]
+    ],
+    [
+     980,
+     984,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "In summary, we believe we have the right strategy and plans to improve marketplace and financial performance in fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     15,
+     22,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     63,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "The current macroeconomic environment has become more volatile and uncertain, and we will focus on controlling what we can, which includes innovation, execution, brand building, productivity and disciplined capital allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     54,
+     62,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     67,
+     76,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     85,
+     89,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     139,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "CFO Commentary and Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "PepsiCo is off to a good start this year, and we're pleased with our first-quarter results.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 54,
+   "t": "Net revenue growth accelerated to 8.5 percent, reflecting: * Organic revenue growth of 2.6 percent, reflecting the benefits associated with effective net pricing and a slight contribution from organic volume growth. * A foreign exchange translation benefit of 3.4 percentage points. * A 2.5-percentage-point net benefit from acquisitions and divestitures.",
+   "d": 1,
+   "m": false,
+   "tone": -0.222,
+   "h": 0.0,
+   "hits": [
+    [
+     342,
+     354,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 55,
+   "t": "A key strategic objective entering this year was to improve PepsiCo Foods North America volume performance, and the business delivered 2 percent volume growth in the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 56,
+   "t": "The international businesses also performed well, aided by organic volume and organic revenue growth within Asia Pacific Foods, Europe, Middle East and Africa and International Beverages Franchise.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "PepsiCo's core operating profit increased 9 percent with core operating margin increasing 10 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 58,
+   "t": "Core operating profit reflects the benefits of net revenue growth and record productivity savings, partially offset by higher advertising and marketing expenses and the impact of lapping an asset sale gain from the first-quarter of 2025.",
+   "d": -1,
+   "m": true,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     201,
+     205,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 59,
+   "t": "Core EPS increased 9 percent and reflects operating profit growth and a higher core effective tax rate versus the prior-year quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 60,
+   "t": "Core constant currency EPS increased 5 percent compared to the first-quarter of last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 61,
+   "t": "As we look ahead, the macroeconomic environment has become more volatile and uncertain because of ongoing geopolitical conflicts.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     64,
+     72,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     77,
+     86,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     119,
+     128,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 62,
+   "t": "Systematic commodity hedging programs for market traded commodities are expected to provide some near-term protection and visibility on certain input costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "With this in mind, we are affirming fiscal 2026 financial guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 64,
+   "t": "Our assumption is that our business can mitigate the impact of certain cost pressures that may persist.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.1176,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     91,
+     94,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     95,
+     102,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 65,
+   "t": "We will also remain disciplined with capital allocation priorities and aim to maintain a strong balance sheet.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     89,
+     95,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 66,
+   "t": "Therefore, for fiscal 2026, we continue to expect:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "* Organic revenue to increase between 2 and 4 percent; * Core constant currency EPS to increase between 4 and 6 percent; * A core annual effective tax rate of approximately 22 percent; * Capital spending to be below 5 percent of net revenue; and * A free cash flow conversion ratio of at least 80 percent (including a final tax payment of $965 million made in April 2026 related to the Tax Cuts and Jobs Act of 2017).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0156,
+   "hits": [
+    [
+     159,
+     172,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 68,
+   "t": "Based on current foreign exchange rates, the Company continues to expect a foreign exchange translation tailwind of approximately 1 percentage point to benefit reported net revenue and core EPS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     116,
+     129,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 69,
+   "t": "Acquisitions, net of divestitures, that occurred in 2025 are still expected to contribute approximately 1 percentage point to 2026 reported net revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     21,
+     33,
+     [
+      "negative"
+     ]
+    ],
+    [
+     90,
+     103,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 70,
+   "t": "These assumptions and the guidance above imply net revenue growth within a range of 4 to 6 percent and core EPS growth of approximately 5 to 7 percent in fiscal 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": [
+    [
+     6,
+     17,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     122,
+     135,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 71,
+   "t": "We continue to expect total cash returns to shareholders of approximately $8.9 billion, which includes approximately $7.9 billion in cash dividends and $1 billion of share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     60,
+     73,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     103,
+     116,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 72,
+   "t": "Finally, as a reminder, we announced a 4 percent increase in the annualized dividend per share, effective with the expected June 2026 dividend payment.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 73,
+   "t": "This will represent PepsiCo's 54th consecutive annualized dividend per share increase.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     9,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 74,
+   "t": "We thank you for your interest in PepsiCo.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 75,
+   "t": "Ramon Laguarta Chairman and Chief Executive Officer",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 76,
+   "t": "Steve Schmitt Chief Financial Officer",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
