@@ -30,8 +30,8 @@ def check_document(text: str) -> list[str]:
     if len(split_blocks(text)) < 3:
         out.append("Paragraphs were not detected. Put a blank line between paragraphs so position within "
                    "the document can be measured properly.")
-    if n_words > 6000:
-        out.append("This is very long (over 6,000 words), which suggests a full 10-K or similar filing. "
+    if n_words > 20000:
+        out.append("This is very long (over 20,000 words), which suggests a full 10-K or similar filing. "
                    "The tool works best on short documents such as press releases. Consider analyzing one "
                    "section (for example the MD&A) at a time.")
     return out
