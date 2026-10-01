@@ -80,14 +80,23 @@ with add_tab:
 
 with manage_tab:
     entries = list_entries()
-    st.caption("Fix wrong details or remove an entry. Changes reach the public site about a minute after saving. "
-               "To change the analysis itself, publish the document again with 'Replace' ticked.")
+    st.caption("Fix wrong details, replace or edit the document text, or remove an entry. Changes reach the public "
+               "site about a minute after saving.")
     if not entries:
         st.info("There are no entries yet.")
     else:
         name = st.selectbox("Entry", [n for n, _ in entries], format_func=lambda n: n.replace(".json", ""))
         rec = dict(entries)[name]
         k = name
+        has_map = bool(rec["sentences"]) and "t" in rec["sentences"][0]
+        current = rec.get("source_text") or ("\n\n".join(x["t"] for x in rec["sentences"]) if has_map else "")
+        if has_map and not rec.get("source_text"):
+            st.info("This entry was saved before the original text was kept, so the text below is rebuilt from the "
+                    "analyzed sentences (paragraph breaks and the removed legal disclaimer are not included). For the "
+                    "best result, paste the original text.")
+        if has_map:
+            with st.expander("Current Disclosure Map for this entry"):
+                ui.disclosure_map(ui.stored_rows(rec["sentences"]))
         with st.form("edit"):
             a, b, c = st.columns(3)
             company = a.text_input("Company name", rec["company"], key=f"c{k}")
@@ -102,13 +111,28 @@ with manage_tab:
                 dv = datetime.date.today()
             fdate = f.date_input("Document date", dv, key=f"d{k}")
             url = st.text_input("Source URL", rec.get("source_url", ""), key=f"u{k}")
-            save = st.form_submit_button("Save changes", type="primary")
-        if save:
-            if not (company.strip() and ticker.strip() and period.strip()):
+            st.markdown("**Document text** (edit it below, or upload a file to replace it)")
+            up_new = st.file_uploader("Replace with a .txt file", type=["txt"], key=f"up{k}")
+            new_text = st.text_area("Text that was analyzed", current, height=380, key=f"tx{k}")
+            s1, s2 = st.columns(2)
+            save = s1.form_submit_button("Save details only (keep the analysis)")
+            reanalyze = s2.form_submit_button("Save and re-analyze the text", type="primary")
+        if save or reanalyze:
+            meta = {"company": company.strip(), "ticker": ticker.strip().upper(), "sector": sector,
+                    "filing_type": ftype, "period": period.strip(), "date": str(fdate), "source_url": url.strip()}
+            text = up_new.read().decode("utf-8", errors="ignore") if up_new is not None else new_text
+            if not (meta["company"] and meta["ticker"] and meta["period"]):
                 st.error("Company name, ticker and period cannot be empty.")
+            elif reanalyze and not text.strip():
+                st.error("The document text is empty.")
             else:
-                new = {**rec, "company": company.strip(), "ticker": ticker.strip().upper(), "sector": sector,
-                       "filing_type": ftype, "period": period.strip(), "date": str(fdate), "source_url": url.strip()}
+                if reanalyze:
+                    for w in check_document(strip_boilerplate(text)[0]):
+                        st.warning(w)
+                    new = build_record(text, meta)
+                    new["demo"] = rec.get("demo", False)
+                else:
+                    new = {**rec, **meta}
                 try:
                     update_record(name, new, cfg)
                 except FileExistsError:
@@ -116,7 +140,12 @@ with manage_tab:
                 except Exception as err:
                     st.error(f"Could not save: {err}")
                 else:
-                    st.success("Saved. The public site updates in about a minute.")
+                    st.success("Saved. The public site updates in about a minute (this page shows the old version until then).")
+                    if reanalyze:
+                        ui.profile(new["summary"])
+                        ui.diagnostic([x["d"] for x in new["sentences"]], [x["m"] for x in new["sentences"]])
+                        st.subheader("New Disclosure Map")
+                        ui.disclosure_map(ui.stored_rows(new["sentences"]))
         st.divider()
         st.subheader("Remove this entry")
         sure = st.checkbox(f"Yes, permanently remove {name.replace('.json', '')}", key=f"x{k}")
