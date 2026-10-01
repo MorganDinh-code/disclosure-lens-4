@@ -9,6 +9,10 @@ def tone_color(t):
     return GREEN if t > 0.05 else RED if t < -0.05 else GREY
 
 
+def pct1(x):
+    return "n/a" if x is None else f"{x * 100:.1f}%"
+
+
 def pct(x):
     return "n/a" if x is None else f"{x * 100:.0f}%"
 
@@ -60,8 +64,10 @@ def profile(s):
         st.metric("Distance from headline", "n/a" if d is None else f"{d} sentences")
     with c2:
         st.markdown('<span class="eyebrow">Hedging</span>', unsafe_allow_html=True)
-        st.metric("Hedge density near negatives", pct(s.get("hedge_near_negative")))
-        st.metric("Hedge density near positives", pct(s.get("hedge_near_positive")))
+        st.metric("Hedge density near negatives", pct1(s.get("hedge_near_negative")))
+        st.metric("Hedge density near positives", pct1(s.get("hedge_near_positive")))
+        if "overall_hedge" in s:
+            st.metric("Hedge density, whole document", pct1(s["overall_hedge"]))
         ha = s.get("hedging_asymmetry")
         st.metric("Hedging asymmetry", f"{ha:.1f}x" if ha is not None else
                   ("undefined" if s.get("hedge_near_negative") else "n/a"),
@@ -69,6 +75,8 @@ def profile(s):
     with c3:
         st.markdown('<span class="eyebrow">Tone vs. facts</span>', unsafe_allow_html=True)
         st.metric("Negative facts in positive language", pct(s.get("framing_ratio")))
+        if "mean_tone" in s:
+            st.metric("Average tone, whole document", f'{s["mean_tone"]:+.2f}', help="From -1 (very negative wording) to +1 (very positive).")
         g = s.get("mean_tone_gap_on_negatives")
         st.metric("Mean tone gap on negatives", "n/a" if g is None else f"{g:.2f}",
                   help="Higher = more positive wording around negative facts.")
@@ -300,3 +308,35 @@ def download_button(rows, name="disclosure_lens_analysis.csv"):
         "Lexicon words": "; ".join(f'{r["text"][s:e]} ({"/".join(_lex.LABELS[c] for c in cats)})'
                                    for s, e, cats in r.get("hits", []))} for r in rows])
     st.download_button("Download this analysis (CSV)", df.to_csv(index=False).encode("utf-8"), name, "text/csv")
+
+
+def diagnostic(dirs, mats):
+    """Explain n/a values: how many sentences were labeled each way."""
+    n, p, ng, m = len(dirs), sum(d == 1 for d in dirs), sum(d == -1 for d in dirs), sum(bool(x) for x in mats)
+    st.caption(f"How the {n} sentences were labeled: {p} positive facts, {ng} negative facts ({m} material), "
+               f"{n - p - ng} neutral.")
+    if m == 0:
+        st.info("No material negative sentence was found, so measures that compare bad news with good news "
+                "(placement, hedging and tone asymmetry) show n/a. This usually means the document contains little "
+                "explicit bad news, or that the rule-based classifier did not recognise it. The Disclosure Map shows "
+                "how each sentence was labeled.")
+
+
+def key_facts(rows):
+    """Plain, neutral synthesis: the document's own figure-bearing sentences, grouped by topic."""
+    import re
+
+    from disclosure_lens.facts import FIG, key_facts as _kf
+    facts = _kf(rows)
+    st.header("Key financial facts")
+    st.caption("Sentences taken word-for-word from the document that state figures, grouped by topic. Nothing is added, "
+               "rewritten or interpreted. A reading aid, not investment advice.")
+    if not facts:
+        st.info("No sentences with financial figures were found in this document.")
+        return
+    for topic, items in facts.items():
+        st.subheader(topic)
+        st.markdown("".join(
+            f'<div style="margin-bottom:.5rem;line-height:1.6"><span style="color:{MUTED};display:inline-block;width:34px">'
+            f'{x["index"]}</span>{re.sub(FIG, lambda m: "<b>" + m.group(0) + "</b>", _html.escape(x["text"]))}</div>'
+            for x in items), unsafe_allow_html=True)

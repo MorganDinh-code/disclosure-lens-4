@@ -20,6 +20,13 @@ def split_sentences(paragraph: str) -> list[str]:
     return [p.replace(_PLACEHOLDER, ".").strip() for p in parts if p.strip()]
 
 
+def _clean(p: str) -> str:
+    """Bullets removed; a line break after an unpunctuated line (headline/heading) starts a new sentence."""
+    p = re.sub(r"[●○•▪◦]", "", p)
+    p = re.sub(r"(?<=[^.!?:;,\s])[ \t]*\n[ \t]*(?=[A-Z$\u201c\"])", ". ", p)
+    return re.sub(r"\s*\n\s*", " ", p).strip()
+
+
 def parse_document(text: str) -> list[dict]:
     """Return one record per sentence with its position information.
 
@@ -28,7 +35,7 @@ def parse_document(text: str) -> list[dict]:
     records = []
     paragraphs = split_paragraphs(text)
     for p_idx, para in enumerate(paragraphs, start=1):
-        sentences = split_sentences(para)
+        sentences = split_sentences(_clean(para))
         for s_idx, sent in enumerate(sentences, start=1):
             records.append({
                 "text": sent,

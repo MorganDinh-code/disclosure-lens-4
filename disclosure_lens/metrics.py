@@ -58,4 +58,9 @@ def summarize(records: list[dict]) -> dict:
     if negatives_all:
         out["framing_ratio"] = mean(r["tone"] > 0 for r in negatives_all)
         out["mean_tone_gap_on_negatives"] = mean(r["tone_gap"] for r in negatives_all)
+    # Whole-document measures that never depend on finding bad news
+    n_words = [len(words(r["text"])) for r in records]
+    if sum(n_words):
+        out["overall_hedge"] = sum(r["hedge_density"] * n for r, n in zip(records, n_words)) / sum(n_words)
+        out["mean_tone"] = mean(r["tone"] for r in records)
     return out

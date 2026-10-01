@@ -47,6 +47,7 @@ if r.get("demo"):
 if r.get("source_url"):
     st.markdown(f"[Source document]({r['source_url']})")
 ui.profile(r["summary"])
+ui.diagnostic([x["d"] for x in r["sentences"]], [x["m"] for x in r["sentences"]])
 ui.lexicon_profile(r.get("lexicon"))
 st.subheader("Where the information sits")
 ui.strip([x["d"] for x in r["sentences"]], [x["m"] for x in r["sentences"]])
@@ -57,6 +58,7 @@ if r["sentences"] and "t" in r["sentences"][0]:
     ui.disclosure_map(rows)
     ui.download_button(rows, f'{r["ticker"]}_{r["period"]}_analysis.csv'.replace(" ", "_"))
     ui.lexicon_words(rows)
+    ui.key_facts(rows)
 else:
     st.info("This entry was saved before Disclosure Maps were stored, so its map is not available. Re-publish it "
             "from the Owner portal with 'Replace' ticked to add the map.")

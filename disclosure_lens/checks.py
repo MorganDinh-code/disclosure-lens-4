@@ -1,7 +1,7 @@
 """Input checks: is this the kind of document Disclosure Lens is built for?"""
 import re
 
-BOILERPLATE = re.compile(r"forward-looking statements?|safe harbor|private securities litigation reform act|certain statements in this press release|use of non-gaap", re.I)
+BOILERPLATE = re.compile(r"forward-looking statements?|safe harbor|private securities litigation reform act|certain statements in this press release|use of non-gaap|reconciliations?\b|adjust the related gaap", re.I)
 
 
 def split_blocks(text: str) -> list[str]:

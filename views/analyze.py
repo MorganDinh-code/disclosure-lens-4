@@ -55,13 +55,10 @@ with st.expander("What kind of document is this tool for?"):
 
 records = annotate(parse_document(text))
 s = summarize(records)
-if s["n_material_neg"] == 0:
-    st.info("No material negative sentences were detected, so placement and hedging comparisons are limited. "
-            "This can mean the document is genuinely positive, or that the rule-based classifier missed something "
-            "(see Limitations on the Methodology page).")
 
 st.header("Disclosure Profile")
 ui.profile(s)
+ui.diagnostic([r["direction"] for r in records], [r["material_neg"] for r in records])
 
 ui.lexicon_profile(lexicon.density_profile(text))
 ui.lexicon_words([{"index": r["index"], "text": r["text"], "hits": r["hits"]} for r in records])
@@ -74,6 +71,7 @@ st.caption("Left strip = what the FACT says. Right strip = how the WORDING sound
            "When they disagree on a negative fact, the row is flagged.")
 ui.disclosure_map(records)
 ui.download_button(records)
+ui.key_facts(records)
 st.divider()
 st.caption("These are patterns to examine, not verdicts. Late placement or heavy hedging can have innocent "
            "explanations. The tone word list is a placeholder pending the Loughran-McDonald dictionary.")
