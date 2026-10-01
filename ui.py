@@ -52,34 +52,68 @@ def strip(dirs, mats):
                "White outline = material negative.")
 
 
+HELP = {
+    "pos_neg": "**What it is:** the average position of the material bad-news sentences in the document.\n\n"
+               "**High:** bad news comes late. **Low:** it comes early.\n\n**Scale:** 0% (very start) to 100% (very end).",
+    "pos_pos": "**What it is:** the average position of the positive-fact sentences.\n\n"
+               "**High:** good news clusters late. **Low:** it comes early. Compare it with the negatives.\n\n"
+               "**Scale:** 0% (very start) to 100% (very end).",
+    "asym": "**What it is:** average position of bad news minus average position of good news.\n\n"
+            "**High (positive):** bad news appears later than good news. **Near 0:** evenly mixed. "
+            "**Negative:** bad news comes first.\n\n**Scale:** -100 to +100 percentage points.",
+    "dist": "**What it is:** how many sentences sit between the headline and the first material bad-news sentence.\n\n"
+            "**High:** a reader passes lots of favorable content first. **0:** bad news comes right after the headline.\n\n"
+            "**Scale:** 0 up to the document length, so compare similar-length documents.",
+    "hedge_neg": "**What it is:** the share of words that are hedges (may, could, expects, approximately...) in the "
+                 "sentence around each material bad-news sentence (it plus one either side).\n\n"
+                 "**High:** more qualified, less committal wording. **Low:** firm, direct wording.\n\n"
+                 "**Scale:** 0% to 100%, but real text stays small, so compare across documents.",
+    "hedge_pos": "**What it is:** the same hedge-word share, measured around positive-fact sentences.\n\n"
+                 "**High:** good news is qualified. **Low:** it is stated firmly.\n\n**Scale:** 0% to 100%.",
+    "hedge_all": "**What it is:** hedge words as a share of every word in the document. It never depends on finding "
+                 "bad news, so it is always available.\n\n**High:** tentative, qualified writing. **Low:** firm, direct writing.\n\n"
+                 "**Scale:** 0% to 100%.",
+    "hedge_asym": "**What it is:** hedge density near bad news divided by hedge density near good news.\n\n"
+                  "**Above 1x:** bad news is wrapped in more qualification than good news. **1x:** equal. "
+                  "**Below 1x:** good news is hedged more. **Undefined:** no hedging at all near good news.\n\n"
+                  "**Scale:** 0x upward, no fixed maximum.",
+    "framing": "**What it is:** the share of negative-fact sentences that are worded in a positive-sounding way.\n\n"
+               "**High:** bad facts are often dressed in upbeat language (worth a closer read). "
+               "**Low:** bad facts are described in neutral or negative words.\n\n**Scale:** 0% to 100%.",
+    "tone": "**What it is:** the average wording tone of every sentence, from the Loughran-McDonald word lists.\n\n"
+            "**High (toward +1):** upbeat wording. **Low (toward -1):** gloomy wording. Press releases usually lean "
+            "positive, so compare with similar documents.\n\n**Scale:** -1 to +1.",
+    "gap": "**What it is:** for negative-fact sentences, the wording tone minus the fact's direction (-1).\n\n"
+           "**0:** wording is as negative as the fact. **1:** neutral wording. **2:** very positive wording around "
+           "a negative fact (possible spin).\n\n**Scale:** 0 to 2.",
+}
+
+
 def profile(s):
     c1, c2, c3 = st.columns(3)
     with c1:
         st.markdown('<span class="eyebrow">Information order</span>', unsafe_allow_html=True)
-        st.metric("Avg position, negatives", pct(s.get("mean_pos_negative")))
-        st.metric("Avg position, positives", pct(s.get("mean_pos_positive")))
-        st.metric("Placement asymmetry", pct(s.get("placement_asymmetry")),
-                  help="Positive = bad news appears later than good news.")
+        st.metric("Avg position, negatives", pct(s.get("mean_pos_negative")), help=HELP["pos_neg"])
+        st.metric("Avg position, positives", pct(s.get("mean_pos_positive")), help=HELP["pos_pos"])
+        st.metric("Placement asymmetry", pct(s.get("placement_asymmetry")), help=HELP["asym"])
         d = s.get("distance_from_headline")
-        st.metric("Distance from headline", "n/a" if d is None else f"{d} sentences")
+        st.metric("Distance from headline", "n/a" if d is None else f"{d} sentences", help=HELP["dist"])
     with c2:
         st.markdown('<span class="eyebrow">Hedging</span>', unsafe_allow_html=True)
-        st.metric("Hedge density near negatives", pct1(s.get("hedge_near_negative")))
-        st.metric("Hedge density near positives", pct1(s.get("hedge_near_positive")))
+        st.metric("Hedge density near negatives", pct1(s.get("hedge_near_negative")), help=HELP["hedge_neg"])
+        st.metric("Hedge density near positives", pct1(s.get("hedge_near_positive")), help=HELP["hedge_pos"])
         if "overall_hedge" in s:
-            st.metric("Hedge density, whole document", pct1(s["overall_hedge"]))
+            st.metric("Hedge density, whole document", pct1(s["overall_hedge"]), help=HELP["hedge_all"])
         ha = s.get("hedging_asymmetry")
         st.metric("Hedging asymmetry", f"{ha:.1f}x" if ha is not None else
-                  ("undefined" if s.get("hedge_near_negative") else "n/a"),
-                  help="Undefined = no hedging near positives at all.")
+                  ("undefined" if s.get("hedge_near_negative") else "n/a"), help=HELP["hedge_asym"])
     with c3:
         st.markdown('<span class="eyebrow">Tone vs. facts</span>', unsafe_allow_html=True)
-        st.metric("Negative facts in positive language", pct(s.get("framing_ratio")))
+        st.metric("Negative facts in positive language", pct(s.get("framing_ratio")), help=HELP["framing"])
         if "mean_tone" in s:
-            st.metric("Average tone, whole document", f'{s["mean_tone"]:+.2f}', help="From -1 (very negative wording) to +1 (very positive).")
+            st.metric("Average tone, whole document", f'{s["mean_tone"]:+.2f}', help=HELP["tone"])
         g = s.get("mean_tone_gap_on_negatives")
-        st.metric("Mean tone gap on negatives", "n/a" if g is None else f"{g:.2f}",
-                  help="Higher = more positive wording around negative facts.")
+        st.metric("Mean tone gap on negatives", "n/a" if g is None else f"{g:.2f}", help=HELP["gap"])
 
 
 def guidelines():
@@ -197,7 +231,9 @@ def lexicon_profile(prof):
     st.caption(f'Loughran-McDonald category words per 1,000 words ({prof["words"]:,} words analyzed).')
     if prof.get("counts"):
         import pandas as pd
-        st.dataframe(pd.DataFrame({"Words found": prof["counts"], "Per 1,000 words": prof["per_1000"]}), width="stretch")
+        st.dataframe(pd.DataFrame({"Words found": prof["counts"], "Per 1,000 words": prof["per_1000"]}), width="stretch",
+                     column_config={"Words found": st.column_config.NumberColumn(help="How many words in the document belong to this category. A word can count in two categories (for example 'may')."),
+                                    "Per 1,000 words": st.column_config.NumberColumn(help="The same count scaled to 1,000 words, so documents of different lengths can be compared. Higher = more of this kind of language.")})
 
 
 # ---------- Disclosure Map (shared by Analyze, Database, Owner) and lexicon word view ----------
@@ -250,6 +286,15 @@ def _highlight(text, hits, chosen):
     return "".join(parts)
 
 
+CAT_HELP = {"negative": "Words with negative financial meaning, such as loss, decline, impairment.",
+            "positive": "Words with positive financial meaning, such as strong, improved, gain.",
+            "uncertainty": "Words signalling imprecision or risk, such as approximately, may, uncertain.",
+            "litigious": "Legal and court-related words, such as lawsuit, plaintiff, regulatory.",
+            "strong_modal": "Words expressing certainty or commitment, such as will, must, always.",
+            "weak_modal": "Words expressing possibility, such as could, might, possibly.",
+            "constraining": "Words about obligations or restrictions, such as required, restricted, covenant."}
+
+
 def lexicon_words(rows):
     """Evidence for the lexicon profile: pick categories, see the key, and read the sentences with the words highlighted."""
     if not any(r.get("hits") for r in rows):
@@ -272,7 +317,7 @@ def lexicon_words(rows):
                     format_func=lambda c: f"{labels[c]} ({sum(words[c].values())})")
     pick = pick or []
     key = "".join(
-        f'<span style="display:inline-block;margin:0 10px 6px 0;opacity:{1 if c in pick else .3}">'
+        f'<span title="{CAT_HELP[c]}" style="display:inline-block;margin:0 10px 6px 0;opacity:{1 if c in pick else .3}">'
         f'<span style="display:inline-block;width:14px;height:14px;background:{CAT_COLORS[c]};vertical-align:-2px;'
         f'margin-right:6px"></span>{labels[c]} <span style="color:{MUTED}">{sum(words[c].values())} words · '
         f'{1000 * sum(words[c].values()) / n_words:.1f} per 1,000</span></span>' for c in _lex.CATEGORIES)

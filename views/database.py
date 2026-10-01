@@ -36,7 +36,10 @@ st.dataframe(pd.DataFrame([{
     "Company": r["company"], "Ticker": r["ticker"], "Sector": r["sector"], "Document type": r["filing_type"],
     "Period": r["period"], "Neg. position": ui.pct(r["summary"].get("mean_pos_negative")),
     "Placement asym.": ui.pct(r["summary"].get("placement_asymmetry")),
-    "Framing ratio": ui.pct(r["summary"].get("framing_ratio"))} for r in pool]), hide_index=True, width="stretch")
+    "Framing ratio": ui.pct(r["summary"].get("framing_ratio"))} for r in pool]), hide_index=True, width="stretch",
+    column_config={"Neg. position": st.column_config.TextColumn(help="Average position of material bad news in the document: 0% = start, 100% = end. High = bad news comes late."),
+                   "Placement asym.": st.column_config.TextColumn(help="Average position of bad news minus good news, in percentage points (-100 to +100). Positive = bad news later than good news."),
+                   "Framing ratio": st.column_config.TextColumn(help="Share of negative-fact sentences worded positively (0% to 100%). High = bad facts often dressed in upbeat language.")})
 
 st.header("Document analysis")
 i = st.selectbox("Open a document", range(len(pool)), format_func=lambda i:
