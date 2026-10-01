@@ -1,0 +1,1743 @@
+{
+ "company": "CRISPR Therapeutics AG",
+ "ticker": "CRSP",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-04",
+ "source_url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-07-14-q2-results",
+ "demo": false,
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 114,
+  "n_material_neg": 2,
+  "n_positive": 3,
+  "mean_pos_negative": 0.7105263157894737,
+  "mean_pos_positive": 0.5877192982456141,
+  "placement_asymmetry": 0.12280701754385959,
+  "distance_from_headline": 67,
+  "first_negative_pos": 0.6140350877192983,
+  "hedge_near_negative": 0.005494505494505495,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.5,
+  "overall_hedge": 0.007914523149980214,
+  "mean_tone": 0.11732463286030818
+ },
+ "lexicon": {
+  "words": 2527,
+  "per_1000": {
+   "Negative": 7.9,
+   "Positive": 15.4,
+   "Uncertainty": 5.5,
+   "Litigious": 2.0,
+   "Strong modal": 2.0,
+   "Weak modal": 0.8,
+   "Constraining": 2.4
+  },
+  "counts": {
+   "Negative": 20,
+   "Positive": 39,
+   "Uncertainty": 14,
+   "Litigious": 5,
+   "Strong modal": 5,
+   "Weak modal": 2,
+   "Constraining": 6
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CRISPR Therapeutics Provides Business Update and Reports First Quarter 2026 Financial Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "ZUG, Switzerland and BOSTON, May 04, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) today reported financial results for the first quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     32,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\u201cThe first quarter reflected continued execution across CRISPR Therapeutics\u2019 platform,\u201d said Samarth Kulkarni, Ph.D., Chairman and Chief Executive Officer of CRISPR Therapeutics. \u201cWe expanded zugo-cel into new autoimmune indications and advanced multiple in vivo liver-directed programs toward the clinic, while CASGEVY continued its momentum.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "With a strengthened balance sheet and multiple upcoming milestones, we believe 2026 will be a defining year for CRISPR Therapeutics.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     7,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     78,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     84,
+     88,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Recent Highlights and Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Hemoglobinopathies and CASGEVY\u00ae (exagamglogene autotemcel).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "CASGEVY is approved in the U.S., Canada, the U.K., the EU, Switzerland, the Kingdom of Saudi Arabia (KSA), the Kingdom of Bahrain, Qatar, the United Arab Emirates (UAE), and Kuwait for patients 12 years and older with severe sickle cell disease (SCD) or transfusion-dependent beta thalassemia (TDT).",
+   "d": 0,
+   "m": false,
+   "tone": -0.204,
+   "h": 0.0204,
+   "hits": [
+    [
+     218,
+     224,
+     [
+      "negative"
+     ]
+    ],
+    [
+     266,
+     275,
+     [
+      "uncertainty",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "In total, there are more than 60,000 eligible patients in these countries, including approximately 37,000 in North America and Europe and more than 23,000 in the Middle East.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     85,
+     98,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "CASGEVY generated first quarter 2026 revenue of $43 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "More than 500 people globally have now initiated the CASGEVY treatment journey, reflecting continued commercial momentum.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Vertex has completed the U.S. regulatory submission for approval of CASGEVY in children ages 5 to 11 years old with SCD or TDT, extending the potential treatment population to a younger age group.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "The U.S. Food and Drug Administration (FDA) awarded a Commissioner's National Priority Voucher for this pediatric submission, supporting an accelerated review timeline once accepted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Access to CASGEVY continued to expand across key markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Most recently, a pricing agreement was secured for eligible patients with SCD or TDT in Germany, with final implementation underway.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "As of year-end 2025, approximately 90% of patients in the U.S. had reimbursed access to CASGEVY, which is also reimbursed in the U.K., Italy, Austria, Denmark, Luxembourg, KSA, the Kingdom of Bahrain, the UAE, and Kuwait.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     21,
+     34,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "CRISPR Therapeutics continues to advance its in vivo hematopoietic stem cell editing approach using lipid nanoparticle (LNP)-mediated delivery.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     125,
+     133,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "This approach has the potential to expand the addressable patient populations for SCD and TDT.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "In Vivo Liver Editing",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "CRISPR Therapeutics continues to advance a diversified portfolio of in vivo gene editing programs leveraging its proprietary liver-directed LNP delivery platform.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Development of CTX310\u00ae, an investigational therapy targeting angiopoietin-related protein 3 (ANGPTL3), is progressing in a Phase 1b clinical trial, where the Company is prioritizing indications in severe hypertriglyceridemia (sHTG) and refractory hypercholesterolemia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     117,
+     [
+      "positive"
+     ]
+    ],
+    [
+     197,
+     203,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The Company recently received FDA clearance of its Investigational New Drug (IND) application, supporting expansion of the ongoing trial into the U.S. The Company expects to provide an update in the second half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0286,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "CRISPR Therapeutics continues to advance a pipeline of preclinical in vivo gene editing candidates, including: CTX460\u2122, targeting SERPINA1 for the treatment of alpha-1 antitrypsin deficiency (AATD), is the first investigational candidate generated from the Company's SyNTase\u2122 editing platform.",
+   "d": 0,
+   "m": false,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     180,
+     190,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "CTX460 is currently in IND/CTA-enabling studies.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The Company expects to initiate a clinical trial for CTX460 in mid-2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "CTX340\u2122, targeting angiotensinogen (AGT) for refractory hypertension, is currently in the IND/CTA-enabling phase.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The Company expects to initiate a clinical trial for CTX340 in the first half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "CTX321\u2122, the Company's next-generation LPA program, is progressing through IND/CTA-enabling studies.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     66,
+     [
+      "positive"
+     ]
+    ],
+    [
+     83,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "The candidate incorporates an optimized guide RNA that delivered approximately two-fold greater potency in preclinical models, paired with the same LNP delivery system used previously.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "An Lp(a) program update is anticipated in 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     27,
+     38,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "siRNA-based Programs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "CRISPR Therapeutics' small interfering RNA (siRNA)-based portfolio includes clinical-stage programs targeting cardiovascular and thromboembolic diseases, developed in collaboration with Sirius Therapeutics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     38,
+     [
+      "negative"
+     ]
+    ],
+    [
+     167,
+     180,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "CTX611 (SRSD107), a long-acting siRNA therapeutic targeting Factor XI (FXI), is advancing through a Phase 2 clinical trial in patients undergoing total knee arthroplasty (TKA).",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "The Company expects to provide an update in the second half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "CTX611 has the potential to address a broad range of thromboembolic and clotting-related indications, including atrial fibrillation (AF), venous thromboembolism (VTE), ischemic stroke, cancer-associated thrombosis (CAT), thrombosis in chronic kidney disease (CKD), peripheral vascular disease (PVD), and chronic coronary artery disease (CAD), collectively representing a multi-billion-dollar market opportunity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.192,
+   "h": 0.0,
+   "hits": [
+    [
+     399,
+     410,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "CRISPR Therapeutics is expected to lead global Phase 3 development, with Sirius Therapeutics overseeing development activities in greater China.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "CRISPR Therapeutics has the option to nominate up to two additional siRNA targets for research and development.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "An update is expected in 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Autoimmune Disease and Immuno-Oncology",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Zugocabtagene geleucel (zugo-cel; formerly CTX112\u2122) continues to advance across both autoimmune disease and hematologic malignancies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "In autoimmune disease, zugo-cel is currently being evaluated in two ongoing Phase 1 basket trials: a rheumatology basket including systemic lupus erythematosus (SLE), systemic sclerosis (SSc), and inflammatory myositis (IM); and a hematology basket in immune thrombocytopenic purpura (ITP) and warm autoimmune hemolytic anemia (wAIHA).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "In addition, the FDA cleared the IND application for a third Phase 1 trial in autoimmune neurologic diseases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The trial, which has been initiated, includes progressive multiple sclerosis (PMS), neuromyelitis optica spectrum disorder (NMOSD), myelin oligodendrocyte glycoprotein antibody-associated Disease (MOGAD), N-methyl-D-aspartate receptor (NMDAR) and leucine-rich glioma-inactivated Protein 1 (LGI1) autoimmune encephalitis (AIE), and stiff person syndrome (SPS).",
+   "d": 0,
+   "m": false,
+   "tone": -0.227,
+   "h": 0.0,
+   "hits": [
+    [
+     267,
+     278,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Enrollment across the zugo-cel autoimmune clinical program continues to progress, with over 14 patients dosed to date across SSc, IM, and SLE and over 10 clinical trial sites activated globally.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     80,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "The previously disclosed first and second SLE patients remained in DORIS remission through Month 12 and Month 6, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     24,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "The Company expects to provide further updates in the second half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "In immuno-oncology, the Phase 1/2 clinical trial of zugo-cel in B-cell malignancies is ongoing, with updates anticipated in the second half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     109,
+     120,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "The Company has also initiated a combination study evaluating zugo-cel with pirtobrutinib in aggressive B-cell lymphomas, under the Company's existing collaboration with Lilly.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     151,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "The Company's autoimmune and immuno-oncology programs are supported by a wholly-owned GMP manufacturing facility in Framingham, Massachusetts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "The facility provides end-to-end production capabilities across the cell therapy portfolio, supports both clinical and future commercial supply and enables an industry-leading cost of goods.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     148,
+     155,
+     [
+      "positive"
+     ]
+    ],
+    [
+     168,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "CRISPR Therapeutics is also advancing a proprietary in vivo CAR-T platform with potential applications across autoimmune disease and oncology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "The Company is pursuing two complementary modalities, supported by an antibody-conjugated LNP delivery system that enables targeted delivery to immune cells: a transient, re-dosable CAR-T leveraging engineered mRNA, and a non-viral, integrating CAR-T employing next-generation site-specific integration technologies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.222,
+   "h": 0.0,
+   "hits": [
+    [
+     115,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "Preclinical studies in mice and non-human primates (NHPs) were conducted to evaluate a proprietary engineered transient mRNA designed to extend duration of expression, as well as multiple antibody binder formats directed at CD4 and/or CD8 T-cells.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "In mice, binders targeting both CD4+ and CD8+ T-cells, as well as binders targeting CD8+ T-cells alone, demonstrated greater than 75% CAR-positive expression in the respective cell types in the spleen and bone marrow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     138,
+     146,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 54,
+   "t": "In an NHP study, engineered mRNA demonstrated sustained expression for 14 days post dosing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 55,
+   "t": "Furthermore, in NHPs, a proprietary antibody-conjugated LNP formulation encapsulating CD20-CAR transient mRNA achieved robust B-cell depletion in peripheral blood, spleen, and lymph nodes with three 0.5 mg/kg doses on Days 0, 3, and 6.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     110,
+     118,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     142,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 56,
+   "t": "Regenerative Medicine",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "CRISPR Therapeutics continues to advance its regenerative medicine program in diabetes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 58,
+   "t": "The Company is developing CTX213\u2122, a deviceless beta cell replacement candidate for Type 1 diabetes, consisting of unencapsulated precursor islet cells derived from edited induced pluripotent stem cells (iPSCs).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 59,
+   "t": "CTX213 has demonstrated compelling preclinical efficacy through direct administration and is progressing toward the clinic.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     34,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     93,
+     104,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 60,
+   "t": "The Company expects to provide additional updates as development progresses.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.1,
+   "hits": [
+    [
+     65,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 61,
+   "t": "First Quarter 2026 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "Cash Position: Cash, cash equivalents, and marketable securities were $2,441.8 million as of March 31, 2026, compared to $1,975.8 million as of December 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "The increase in cash was primarily driven by net proceeds of $585.4 million from the issuance of convertible senior notes in March 2026, offset by operating expenses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 64,
+   "t": "R&D Expenses: R&D expenses were $68.6 million for the first quarter of 2026, compared to $72.5 million for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 65,
+   "t": "The decrease in R&D expense was primarily attributable to a decrease in employee-related costs, including stock-based compensation expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 66,
+   "t": "G&A Expenses: General and administrative expenses were $17.2 million for the first quarter of 2026, compared to $19.3 million for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "The decrease in G&A expense was primarily attributable to a decrease in employee-related costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 68,
+   "t": "Collaboration Expense: Collaboration expense, net, was $45.9 million for the first quarter of 2026, compared to $57.5 million for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     13,
+     [
+      "positive"
+     ]
+    ],
+    [
+     23,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 69,
+   "t": "The decrease was primarily attributable to an increase in the Company's share of CASGEVY revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 70,
+   "t": "Net Loss: Net loss was $122.9 million for the first quarter of 2026, compared to a net loss of $136.0 million for the first quarter of 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     8,
+     [
+      "negative"
+     ]
+    ],
+    [
+     14,
+     18,
+     [
+      "negative"
+     ]
+    ],
+    [
+     87,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 71,
+   "t": "About CASGEVY\u00ae (exagamglogene autotemcel [exa-cel])",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 72,
+   "t": "CASGEVY\u00ae is a non-viral, ex vivo CRISPR/Cas9 gene-edited cell therapy for eligible patients with sickle cell disease (SCD) or transfusion-dependent beta thalassemia (TDT), in which a patient\u2019s own hematopoietic stem and progenitor cells are edited at the erythroid specific enhancer region of the BCL11A gene.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0196,
+   "hits": [
+    [
+     138,
+     147,
+     [
+      "uncertainty",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 73,
+   "t": "This edit results in the production of high levels of fetal hemoglobin (HbF; hemoglobin F) in red blood cells.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 74,
+   "t": "HbF is the form of the oxygen-carrying hemoglobin that is naturally present during fetal development, which then switches to the adult form of hemoglobin after birth.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 75,
+   "t": "CASGEVY has been shown to reduce or eliminate VOCs for patients with SCD and transfusion requirements for patients with TDT.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     89,
+     101,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 76,
+   "t": "CASGEVY is approved for eligible SCD and TDT patients 12 years and older by multiple regulatory bodies around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     95,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 77,
+   "t": "About the CRISPR Therapeutics \u2013 Vertex Collaboration for CASGEVY",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     52,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 78,
+   "t": "CRISPR Therapeutics and Vertex established a strategic research collaboration in 2015 to discover and develop therapies leveraging CRISPR/Cas9 technology to address the underlying genetic causes of human disease.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     77,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 79,
+   "t": "CASGEVY is the first approved therapy to emerge from this collaboration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 80,
+   "t": "Under an amended agreement, Vertex leads global development, manufacturing, and commercialization of CASGEVY, and Vertex and CRISPR Therapeutics share profits and program costs on a 60/40 basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     16,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 81,
+   "t": "Vertex is the manufacturer and exclusive license holder of CASGEVY.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 82,
+   "t": "About In Vivo Liver Editing Programs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 83,
+   "t": "CRISPR Therapeutics has established a proprietary lipid nanoparticle (LNP) delivery platform to enable gene editing in the liver using both CRISPR/Cas9 and its novel, proprietary SyNTase\u2122 editing technology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 84,
+   "t": "The Company's in vivo portfolio includes three cardiovascular programs: CTX310, targeting angiopoietin-related protein 3 (ANGPTL3), in development for heterozygous and homozygous familial hypercholesterolemia, mixed dyslipidemias, and severe hypertriglyceridemia; CTX340, targeting angiotensinogen (AGT), in development for refractory hypertension; and CTX321, targeting LPA, in development for patients with elevated lipoprotein(a) [Lp(a)].",
+   "d": 0,
+   "m": false,
+   "tone": -0.196,
+   "h": 0.0,
+   "hits": [
+    [
+     235,
+     241,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 85,
+   "t": "In addition, the Company's disclosed development candidates also include CTX460\u2122, targeting SERPINA1 using SyNTase editing, for the treatment of alpha-1 antitrypsin deficiency (AATD).",
+   "d": 0,
+   "m": false,
+   "tone": -0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     36,
+     [
+      "negative"
+     ]
+    ],
+    [
+     165,
+     175,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 86,
+   "t": "About Zugocabtagene Geleucel (zugo-cel; formerly CTX112)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 87,
+   "t": "Zugocabtagene geleucel (zugo-cel) is a wholly-owned, allogeneic chimeric antigen receptor (CAR) T cell therapy product candidate targeting Cluster of Differentiation 19 (CD19), in development for both autoimmune and immuno-oncology indications.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 88,
+   "t": "The off-the-shelf therapy leverages CRISPR/Cas9 for targeted gene knockout and CAR insertion, enabling immune evasion and enhanced T effector cell potency, and is administered following a standard lymphodepletion regimen without the need for human leukocyte antigen (HLA) matching.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     102,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     117,
+     [
+      "negative"
+     ]
+    ],
+    [
+     122,
+     130,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 89,
+   "t": "Zugo-cel is being investigated in ongoing clinical trials in adult patients with systemic lupus erythematosus (SLE), systemic sclerosis (SSc), inflammatory myositis (IM), immune thrombocytopenic purpura (ITP), warm autoimmune hemolytic anemia (wAIHA), progressive multiple sclerosis (PMS), neuromyelitis optica spectrum disorder (NMOSD), myelin oligodendrocyte glycoprotein antibody-associated Disease (MOGAD), N-methyl-D-aspartate receptor (NMDAR) and leucine-rich glioma-inactivated Protein 1 (LGI1) autoimmune encephalitis (AIE), and stiff person syndrome (SPS), as well as in adult patients with relapsed or refractory B-cell malignancies.",
+   "d": 0,
+   "m": false,
+   "tone": -0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     30,
+     [
+      "negative"
+     ]
+    ],
+    [
+     473,
+     484,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 90,
+   "t": "About CTX611 (SRSD107)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 91,
+   "t": "CTX611 is a novel double-stranded, long-acting siRNA, designed to target the human coagulation factor XI, or FXI, messenger RNA and inhibit FXI protein expression.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     132,
+     139,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 92,
+   "t": "Through modulation of the intrinsic coagulation pathway, CTX611 is intended to provide anticoagulant and antithrombotic effects with a decreased risk of bleeding compared to other anti-thrombotics.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     145,
+     149,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 93,
+   "t": "Supported by clinical experience conducted by Sirius Therapeutics in two Phase 1 clinical trials, the Company and Sirius Therapeutics are developing CTX611 as a long-acting FXI inhibitor with the potential to support infrequent, including semi-annual, subcutaneous administration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 94,
+   "t": "About the CRISPR Therapeutics \u2013 Sirius Therapeutics Collaboration for siRNA.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     65,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 95,
+   "t": "CRISPR Therapeutics and Sirius Therapeutics entered into a strategic collaboration in 2025 to develop and commercialize siRNA therapies for thromboembolic disorders and other serious diseases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     82,
+     [
+      "positive"
+     ]
+    ],
+    [
+     175,
+     182,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 96,
+   "t": "The lead program, CTX611, is a long-acting siRNA targeting FXI, which the companies will co-develop on an equal cost-and-profit-sharing basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     88,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 97,
+   "t": "CRISPR Therapeutics will lead commercialization in the U.S., while Sirius will lead commercialization in greater China.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     24,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     74,
+     78,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 98,
+   "t": "The collaboration also provides CRISPR Therapeutics with the option to license up to two additional siRNA programs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 99,
+   "t": "About CRISPR Therapeutics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 100,
+   "t": "CRISPR Therapeutics is a leading biopharmaceutical company focused on developing transformative gene-based medicines for serious human diseases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     121,
+     128,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 101,
+   "t": "Founded over a decade ago as an early pioneer in CRISPR/Cas9 gene editing, the Company has evolved from a pioneering research-stage organization into an industry leader, marking a historic milestone with the approval of CASGEVY\u00ae (exagamglogene autotemcel [exa-cel]), the world\u2019s first CRISPR-based therapy, for eligible patients with sickle cell disease and transfusion-dependent beta thalassemia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0167,
+   "hits": [
+    [
+     370,
+     379,
+     [
+      "uncertainty",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 102,
+   "t": "Today, CRISPR Therapeutics is advancing a broad, diversified pipeline spanning hemoglobinopathies, cardiovascular disease, autoimmune disease, oncology, regenerative medicine and rare diseases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 103,
+   "t": "The Company is also expanding its gene editing toolkit through SyNTase\u2122 editing, its novel, proprietary platform designed to enable precise, efficient, and scalable gene correction.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     125,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     141,
+     150,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     180,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 104,
+   "t": "To accelerate its impact, CRISPR Therapeutics has established strategic collaborations with leading biopharmaceutical partners, including Vertex Pharmaceuticals.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     86,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 105,
+   "t": "CRISPR Therapeutics AG is headquartered in Zug, Switzerland, with its wholly-owned U.S. subsidiary, CRISPR Therapeutics, Inc., and R&D operations based in Boston, Massachusetts and San Francisco, California.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 106,
+   "t": "To learn more, visit www.crisprtx.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 107,
+   "t": "CRISPR THERAPEUTICS\u00ae standard character mark and design logo, CTX112\u2122, CTX213\u2122, CTX310\u00ae, CTX321\u2122, CTX340\u2122, CTX460\u2122, CTX611\u2122 and SyNTase\u2122 are trademarks and registered trademarks of CRISPR Therapeutics AG.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 108,
+   "t": "CASGEVY\u00ae and the CASGEVY logo are registered trademarks of Vertex Pharmaceuticals Incorporated.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 109,
+   "t": "All other trademarks and registered trademarks are the property of their respective owners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 110,
+   "t": "This press release also contains information regarding our industry, our business and the markets for certain of our product candidates, including data regarding the estimated size of those markets, and the incidence and prevalence of certain medical conditions.",
+   "d": 0,
+   "m": false,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     207,
+     216,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 111,
+   "t": "Unless otherwise expressly stated, we obtained this industry, business, market and other data from market research firms and other third parties, including medical publications, government data and similar sources.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 112,
+   "t": "Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events or circumstances may differ materially from events and circumstances reflected in this information.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1176,
+   "hits": [
+    [
+     130,
+     143,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     179,
+     182,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     183,
+     189,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 113,
+   "t": "This press release discusses investigational therapies and is not intended to convey conclusions about efficacy or safety as to those investigational therapies or uses of such investigational therapies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 114,
+   "t": "There is no guarantee that any investigational therapy will successfully complete clinical development or gain approval from applicable regulatory authorities.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     59,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     60,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     110,
+     [
+      "positive"
+     ]
+    ],
+    [
+     136,
+     146,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  }
+ ]
+}
