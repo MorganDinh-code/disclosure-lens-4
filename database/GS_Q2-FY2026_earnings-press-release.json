@@ -1,0 +1,159 @@
+{
+ "company": "The Goldman Sachs Group, Inc.",
+ "ticker": "GS",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-14",
+ "source_url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-07-14-q2-results",
+ "demo": false,
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 10,
+  "n_material_neg": 0,
+  "n_positive": 2,
+  "mean_pos_positive": 0.65,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.006172839506172839,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004608294930875576,
+  "mean_tone": 0.02702702702702703
+ },
+ "lexicon": {
+  "words": 217,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 4.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 9.2,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 1,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Goldman Sachs Reports 2026 Second Quarter Earnings Per Common Share of $20.98 and Annualized Return on Common Equity of 23.5%",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "NEW YORK, July 14, 2026 \u2013 The Goldman Sachs Group, Inc. (NYSE: GS) today reported net revenues of $20.34 billion and net earnings of $6.63 billion for the second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted earnings per common share (EPS) was $20.98 and annualized return on average common shareholders\u2019 equity (ROE) was 23.5% for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Please view printable versions of the Second Quarter 2026 Earnings Results [PDF] and the Second Quarter 2026 Earnings Results Presentation [PDF].",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "David Solomon, Chairman and CEO of Goldman Sachs, said, \u201cOur record performance this quarter reflects the strength of our global franchise, the depth of our relationships, and our ability to harness the power of One Goldman Sachs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Momentum has accelerated throughout our businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Clients are turning to us to lead their most strategic and consequential transactions, which are often the genesis of activity across the franchise.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "We are relentlessly driving our long-term growth strategy across Global Banking & Markets and Asset & Wealth Management, and given what we see in our pipelines, we expect this flywheel of activity to continue.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "A conference call to discuss the firm\u2019s financial results, outlook and related matters will be held at 9:30 am (ET) on the date noted above.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     91,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "The call will be open to the public.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
