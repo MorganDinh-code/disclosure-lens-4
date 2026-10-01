@@ -1,0 +1,1515 @@
+{
+ "company": "Neflix, Inc.",
+ "ticker": "NFLX",
+ "sector": "Communication Services",
+ "filing_type": "Shareholder letter",
+ "period": "Q2 FY2026",
+ "date": "2026-07-16",
+ "source_url": "https://s22.q4cdn.com/959853165/files/doc_financials/2026/q2/FINAL-Q2-26-Shareholder-Letter.pdf",
+ "demo": false,
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 102,
+  "n_material_neg": 0,
+  "n_positive": 11,
+  "mean_pos_positive": 0.26737967914438504,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0032880643582099433,
+  "hedging_asymmetry": null
+ },
+ "lexicon": {
+  "words": 2843,
+  "per_1000": {
+   "Negative": 2.1,
+   "Positive": 18.3,
+   "Uncertainty": 2.5,
+   "Litigious": 0.4,
+   "Strong modal": 2.8,
+   "Weak modal": 0.4,
+   "Constraining": 0.4
+  },
+  "counts": {
+   "Negative": 6,
+   "Positive": 52,
+   "Uncertainty": 7,
+   "Litigious": 1,
+   "Strong modal": 8,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "July 16, 2026\nFellow shareholders,\n\u25cf Our financial performance remains solid and we\u2019re on track to meet our objectives for the year:\n\u25cb Q2 revenue grew 13% year over year (+12% on a FX-neutral basis ) to $12.6B, and\n1\noperating margin was 33%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Both were in-line with our guidance.\n\u25cb For 2026, we\u2019ve narrowed our forecasted revenue range to $51.0-$51.4B and continue\nto forecast an operating margin of 31.5%, both consistent with our prior guidance.\n\u25cf We\u2019re delivering increasing value to our members; engagement is healthy, reflecting the quality,\nquantity, and variety of our offering:\n\u25cb Harlan Coben\u2019s I Will Find You is our most viewed new original series debut in 2026 and\nSwapped is on its way to becoming our second most viewed original animated film ever.\n\u25cb View hours grew +2% in H1\u201926 vs. +1.5% growth in 2025, despite the competitive impact\nof the Winter Olympics and the World Cup this year.\n\u25cb To better satisfy members, we\u2019re continuing to expand the variety of our entertainment\noffering with video podcasts, creators like Danny Go! and Salish & Jordan Matter, and\ncloud TV games.\n\u25cf The results of our recent price changes are consistent with prior changes and our expectations.\n\u25cf We are leveraging AI to provide a more personalized, immersive and interactive experience for\nmembers, enhance ads capabilities for brands, and improve the quality of our series and films.\n\u25cf The entertainment industry remains dynamic and competitive.",
+   "d": 1,
+   "m": false,
+   "tone": 0.269,
+   "h": 0.0,
+   "hits": [
+    [
+     362,
+     366,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     576,
+     583,
+     [
+      "positive"
+     ]
+    ],
+    [
+     664,
+     670,
+     [
+      "positive"
+     ]
+    ],
+    [
+     671,
+     678,
+     [
+      "positive"
+     ]
+    ],
+    [
+     1053,
+     1060,
+     [
+      "positive"
+     ]
+    ],
+    [
+     1094,
+     1101,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We aim to stay ahead by\nexecuting against our three areas of focus: delivering more entertainment value, leveraging\ntechnology to improve every aspect of our service, and improving monetization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     41,
+     [
+      "negative"
+     ]
+    ],
+    [
+     130,
+     137,
+     [
+      "positive"
+     ]
+    ],
+    [
+     171,
+     180,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Q2 Results and Forecast\nQ2 revenue of $12.6B was in-line with forecast and grew 13% year over year (+12% on a foreign\nexchange (F/X) neutral basis), driven primarily by membership growth, pricing and increased ad revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "We delivered double digit revenue growth in all regions, surpassing the quarterly revenue mark of $4.0B\nin EMEA and $1.5B in both LATAM and APAC.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "In UCAN, Q2 revenue growth of 10% reflects only a partial\nquarter impact from our recent price change, which has gone well and as expected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Operating income in Q2 was $4.2B, up 11% year over year, and operating margin was 33.4% versus\n34.1% in Q2\u201925.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Q2 operating income and margin were slightly ahead of forecast due to the timing of\nexpenses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "As we noted in previous letters, operating income in Q2 grew slower than revenue because\nour content amortization growth is higher in the first half of the year; we continue to expect content\namortization to grow slower in the second half of the year and to increase ~10% for 2026.",
+   "d": 1,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0208,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "negative"
+     ]
+    ],
+    [
+     213,
+     219,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Diluted EPS for\nthe quarter amounted to $0.80 vs. $0.72 in Q2\u201925 (+11% year over year), slightly above our forecast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "As a reminder, the guidance we provide is our actual internal forecast at the time we report and we\nstrive for accuracy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Our primary financial metrics are revenue for growth and operating margin for\nprofitability.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Our goal is to sustain healthy revenue growth, expand operating profit and margin, and\ndeliver growing free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "For Q3, we expect revenue growth of 12% (or 11% F/X neutral) driven by growth in memberships,\npricing, and ad revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "We project an operating margin of 33.2% compared with 28.2% in the year ago\nquarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Our 2026 outlook is consistent with our prior forecast: we are narrowing our revenue forecast to\n$51.0-$51.4B, which represents 13%-14% growth (~12% F/X neutral), driven by growth in memberships\nand pricing, and a projected rough doubling of our ads revenue to approximately $3 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0244,
+   "hits": [
+    [
+     261,
+     274,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "We continue\nto anticipate an operating margin of 31.5% for 2026 both on a reported basis and based on F/X rates as\nof January 1, 2026 vs. 29.5% in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     15,
+     25,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Our forecast implies annual operating income growth of 20%+ for\n2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Our Focus\nAs we outlined in our last letter, we have three main areas of focus:\nFirst, delivering more entertainment value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "We want to win the most valuable moments of truth and thrill our members.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     24,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "We\u2019ve used \u201cengagement\u201d\nas a shorthand for the value we deliver members.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "But, as we\u2019ve developed an increasingly sophisticated\nunderstanding of how consumers ascribe value to our service, we know not all hours are equal.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Time\nspent is just one aspect of strong engagement - quality and variety also matter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The key is to improve\nacross all of those dimensions: quality, variety, and quantity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Quality is defined by how much our members enjoy and love a title.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "We work every day to raise the bar\non our core series and film offering, which we have successfully done since we launched streaming in\n2007.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Animation is a good example of how patient and focused execution can pay off.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "We started original\nanimation in 2018, kept improving, and last year produced a true breakout global phenomenon with\nKPop Demon Hunters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     53,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "It became our first title to surpass over 52 consecutive weeks in the Global Top 10.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "We built on that momentum in Q2 with Swapped* (137M views ) which is loved by our members and on\n2\nits way to becoming our second most viewed original animated film ever.\n3\nIn addition to a high-quality slate, we also need a wide variety of programming because we serve a\nmassive audience (approaching 1B people) with broad and diverse tastes, moods and needs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Different\ntypes of content impact our business differently \u2013 some drive more acquisition, some primarily aid\nretention, and some make the service feel indispensable.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "For example, in 2026, we expect live\nprogramming to account for just over 5% of our content spend but only ~1% of view hours.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Yet, live\nevent programming accounted for six of the top 10 new member sign-up days over the last five years\n(and we've only been doing live events since 2023).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Quantity of engagement is also important and, as detailed in our bi-annual What We Watched report, in\nthe first half of 2026, our members watched more than 97 billion hours, up 2% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "This was\nslightly faster than the 1.5% growth in 2025, despite the competitive impact of the Winter Olympics and\nthe World Cup this year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Non-English content again drove more than a third of all viewing this half, with\nstandout titles from Korea, Japan, Spain, and India.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Our Q2 slate delivered a host of titles that our members loved and were broadly viewed, including\nHarlan Coben\u2019s I Will Find You* (87M views) - our biggest new original series debut in 2026 so far,\nLegends* from the UK (20M views), K-drama Teach You a Lesson* (55M views) - which is on track to\nbecome our second-most viewed Korean show globally\n4\n, Berlin and The Lady with an Ermine* (28M\nviews) from Spain, The Polygamist* (24M views) from South Africa, Flunked* (11M views) from France,\nand Rosario Tijeras S5* (6M views) from Mexico.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     115,
+     119,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "We also continued to strengthen our film slate,\ndelivering hits across multiple genres, like action with Apex* (131M views) starring Charlize Theron,\nrom-coms with Office Romance* (63M views) featuring Jennifer Lopez and Voicemails for Isabelle* (71M\nviews), drama with the Emmy nominated feature, Remarkably Bright Creatures* (53M views) starring\nSally Field, and documentaries with Maternal Instinct* (54M views) and The Crash* (67M views).",
+   "d": 0,
+   "m": false,
+   "tone": 0.156,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Beyond series and films, we continually evolve and expand our entertainment offering to better meet\nthe needs of members and strengthen our engagement.\n\u25cf For instance, approximately half of our viewing occurs in the evening, but our recently launched\nvideo podcasts over-index on viewing during the day and on mobile devices, an indicator that\nthis engagement is incremental.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0172,
+   "hits": [
+    [
+     88,
+     94,
+     [
+      "positive"
+     ]
+    ],
+    [
+     125,
+     135,
+     [
+      "positive"
+     ]
+    ],
+    [
+     168,
+     181,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "We recently added Jay Shetty\u2019s On Purpose and Allegedly, as\nwell as announced podcasts featuring Kate Hudson and Oliver Hudson, Lele Pons and Martha\nStewart through our partnership with iHeartMedia.\n\u25cf We have a history of working with the most talented storytellers from around the world and,\nincreasingly, that includes top creators from open content platforms.",
+   "d": 0,
+   "m": false,
+   "tone": -0.179,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     55,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "We\u2019ve had success with\ncreators including Danny Go!, Ms. Rachel, Mark Rober, and Salish & Jordan Matter, and recently\nannounced collaborations with the Stokes Twins, Alan Chikin Chow, Nick DiGiovanni, and\nMythical.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     128,
+     142,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Ms. Rachel has spent 27 weeks in the Global Top 10 since debuting on Netflix last year and, more recently, Salish & Jordan Matter and Danny Go! have spent eight and seven weeks,\nrespectively, in the Global Top 10 since coming to Netflix in April.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "We also announced\npartnerships with leading publishers including Cond\u00e9 Nast, Hearst, and People, to bring their\nlifestyle content to members in the US and several other countries beginning in August.\n\u25cf To deepen our local programming in France, last month we launched a partnership with leading\nlocal French broadcaster TF1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.408,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     287,
+     294,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "Netflix members in France are now able to experience TF1\nprogramming as part of their subscription at no additional cost.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     38,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "This fully integrated experience\nincludes TF1\u2019s linear channels as well as TF1+\u2019s on-demand content, including a wide array of\nscripted, unscripted and major live sports programming.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "While still early, we\u2019re pleased with the\ninitial performance.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "Our French members are discovering and engaging with this content (with\nview hours of TF1 content growing each week), a TF1 title, Secret Story has already reached our\nTop 10 list in France, and we\u2019re gratified to see our partner is also seeing strong early results.\n\u25cf Our cloud-based TV games are gaining traction.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     245,
+     251,
+     [
+      "positive"
+     ]
+    ],
+    [
+     298,
+     305,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "In June, we had our two most successful cloud\ngame debuts, with the releases of FIFA World Cup: Launch Edition and Unhinged.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 49,
+   "t": "And Netflix\nPlayground, our app for kids games, has experienced 3x growth in daily players since its launch in\nApril, and has fueled growth in our kids mobile games engagement, which is up 600% year over\nyear .",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "While off a small base, these early signals give us increasing confidence that we are\n5\nbuilding a foundation with exciting future growth potential.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     115,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "Overall, our engagement remains healthy and as with all things we do, we\u2019re working hard to improve\nevery day.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     92,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "We have an exciting Q3 slate including new films like 72 HOURS with Kevin Hart, The Last\nHouse with Greta Lee & Wagner Moura, The Whisper Man with Robert DeNiro, and Call My Agent! from\nFrance, and series such as The Hawk with Will Ferrell, the fifth and final season of Outer Banks, Little\nHouse on the Prairie, the fourth installment of Ryan Murphy\u2019s anthology series, Monster: The Lizzie\nBorden Story, The Gentlemen S2 from the UK, The East Palace from Korea, The Doll from Poland, and\nLovesick from Mexico.",
+   "d": 0,
+   "m": false,
+   "tone": 0.112,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     227,
+     231,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "We\u2019ll continue to build out our live programming \u2013 we have two Major League\nBaseball events (Home Run Derby and Field of Dreams game) in Q3, as well as the Tyson Fury vs. Anthony\nJoshua fight later this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "We also recently announced an expanded agreement with the NFL, securing\na premium slate of games that includes a week-one matchup in Q3, as well as a Thanksgiving Eve game\nand NFL Christmas Gameday in Q4, and a final week contest in Q1 of next year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 55,
+   "t": "Second, leveraging technology to improve every aspect of our service and our business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 56,
+   "t": "To support our growing content offering, we continue to evolve our product to create more personalized,\nimmersive, and interactive experiences for our members.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "We are leveraging LLMs to improve title\ndiscovery and to better understand member preferences.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     57,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 58,
+   "t": "We\u2019re also enhancing search for our members\nwith new voice search functionality and AI-powered natural language search.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 59,
+   "t": "Across the production lifecycle, from concept and pre-visualization through post and delivery, GenAI\nutilization by our creative partners is scaling quickly.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     120,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 60,
+   "t": "In 2026, GenAI workflows have been used in roughly\n300 of our titles, with the largest concentration of work in post-production.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     43,
+     50,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 61,
+   "t": "We are increasingly\nleveraging these tools to deliver higher quality output more quickly and at a lower cost than traditional\nmethods.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "In some cases, productions would have had to leave out key shots and sequences in the\nabsence of GenAI technology.",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     93,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 63,
+   "t": "For example, Glory (India), Brasil 70: A Saga do Tri (Brazil), and The American Experiment (US) utilized GenAI tools to create highly complex sequences (e.g., enhanced\ncrowds, historical battle sequences, and worldbuilding establishing shots).",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     159,
+     167,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 64,
+   "t": "In our ads business, we continue to invest in developing a premium ad experience which delivers highly\nengaged and attentive audiences to advertisers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 65,
+   "t": "In Q2, we expanded our AI-powered tools across the full\nadvertising lifecycle, from planning and creative production to campaign management, optimization, and\nreporting.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 66,
+   "t": "We're also automating more of the workflow around how advertisers transact with us by\nextending programmatic access to Pause Ads and live inventory this summer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "This reduces the manual\neffort that has historically limited access for smaller buyers, opening Netflix to a broader range of\nadvertisers over time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 68,
+   "t": "These investments enhance the value of our existing inventory and lay the\ngroundwork for the next phase of growth in our ads business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 69,
+   "t": "Third, improving monetization.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 70,
+   "t": "Building out our ads business continues to be a top priority and we remain on track to deliver\napproximately $3 billion in ads revenue in 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     95,
+     108,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 71,
+   "t": "Our US upfront negotiations are in advanced stages, and\nwe expect commitments to close in the next few weeks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     66,
+     77,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 72,
+   "t": "We are seeing strong interest in our Live events\nlineup \u2014 Women's World Cup, an expanded NFL slate, WWE, MLB events and more \u2014 alongside\ncontinued demand for our unparalleled breadth of entertainment titles.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     162,
+     174,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 73,
+   "t": "The growth in our ads business\nis being fueled by the strength and variety of our slate combined with our investments in AI powered\ntools and workflows, the Netflix Ads Suite and broader programmatic capabilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 74,
+   "t": "We offer a wide range of plans and feature sets at accessible price points to provide the best value for\nmembers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     90,
+     94,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 75,
+   "t": "As we expand and improve our entertainment offering, we occasionally adjust prices so that\nwe can reinvest in our service.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     56,
+     68,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 76,
+   "t": "Our first half price changes, in markets like the US, Mexico and Spain,\nhave gone well with the impact consistent with prior price changes and our expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 77,
+   "t": "We are constantly testing, assessing, and improving the membership lifecycle.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 78,
+   "t": "Over the years,\ninvestments in our product capabilities (e.g.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 79,
+   "t": "TV and mobile UI) have given us greater flexibility to\nevaluate the best ways to attract and retain members in different markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     72,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 80,
+   "t": "We\u2019ve tested a variety of\nmethods, including a low cost first month in Japan to coincide with the WBC, and an \u201cupgrade on us\u201d\noffer in various countries around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 81,
+   "t": "As part of this test and learn strategy, last week we began\nre-testing free trials for non-rejoining new members in a number of markets around the world (excluding\nthe US and UK).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 82,
+   "t": "Evolving Our View Hours Disclosure\nEngagement is important to our business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 83,
+   "t": "But as discussed above, engagement is not just the quantity of\nview hours, but also refers to the quality and variety of our offering.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 84,
+   "t": "To make this clearer, we\u2019re making a\nchange to our view hours disclosure.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 85,
+   "t": "After today\u2019s What We Watched report, which covers the first half of 2026, we will shift to publishing this\nreport annually in the first quarter, beginning in 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     82,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 86,
+   "t": "The goal of separating the publication of the\nreport from our earnings results is to keep the focus on our primary financial metrics \u2013 revenue and\noperating profit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 87,
+   "t": "With this change, we will still report industry-leading title-by-title and total view hours\ndata (including our weekly Top 10 lists for movies and series in more than 90 countries).",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     25,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     48,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 88,
+   "t": "Cash Flow and Capital Structure\nNet cash generated from operating activities was $1.7B vs $2.4B in the prior year period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 89,
+   "t": "Free cash flow\n(FCF) in Q2\u201926 totaled $1.5B vs. $2.3B in Q2\u201925.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 90,
+   "t": "This included higher cash tax payments due in part to\nthe Warner Bros. termination fee.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     82,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 91,
+   "t": "For the full year, we continue to expect FCF of approximately $12.5B,\nand an annual cash content spend to amortization ratio of ~1.1x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.087,
+   "hits": [
+    [
+     48,
+     61,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 92,
+   "t": "Our capital allocation approach is unchanged.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 93,
+   "t": "We prioritize reinvestment in the business, both\norganically and through selective M&A, while maintaining a healthy balance sheet and ample liquidity,\nand then returning excess cash to shareholders via share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 94,
+   "t": "In April, our Board of Directors\nauthorized the repurchase of an additional $25B of our stock on top of the $6.8B of capacity we had\nremaining as of the end of Q1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 95,
+   "t": "In Q2, we bought back $4.7B of stock, our largest quarter of share\nrepurchases, and we currently have $27.1B of capacity left in our remaining authorizations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 96,
+   "t": "We ended\nthe quarter with gross debt of $14.4B and cash and cash equivalents of $9.1B.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 97,
+   "t": "We have $1B of debt\nmaturing later this year, which we plan to refinance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 98,
+   "t": "Environmental, Social, and Governance (ESG)\nWe recently published our 2025 Environmental, Social, and Governance (ESG) report.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 99,
+   "t": "Key updates for\n2025 include how we continue to decarbonize our operations, including the productions of our films,\nseries and games; invest in our people and the next generation of talent around the world, while\ncontributing to local economies; and maintain our corporate governance structure to support healthy\ngrowth and create long-term shareholder value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 100,
+   "t": "During Q2, we launched The Netflix Effect \u2014 a comprehensive look at the impact our films and series\nhave had on economies, industries and culture over the last decade.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 101,
+   "t": "Netflix is deeply embedded and\ninvested in the creative industries around the world, producing TV series and films in more than 50\ncountries, and contributing more than $325 billion in gross value to the global economy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 102,
+   "t": "Reference\nFor quick reference, our past investor letters can be found here.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
