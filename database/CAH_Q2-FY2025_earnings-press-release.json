@@ -1,0 +1,248 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-01-30",
+ "source_url": "https://newsroom.cardinalhealth.com/2025-01-30-Cardinal-Health-Reports-Second-Quarter-Fiscal-Year-2025-Results-and-Raises-Fiscal-Year-2025-Outlook",
+ "demo": false,
+ "source_text": "Revenue decreased 4% to $55.3 billion; revenue increased 16% excluding the impact of the previously communicated large customer contract expiration\nGAAP1 operating earnings were $549 million; GAAP diluted EPS was $1.65\nNon-GAAP operating earnings increased 9% to $635 million, driven by the Pharmaceutical and Specialty Solutions segment; non-GAAP diluted EPS increased 2% to $1.93\nFiscal year 2025 non-GAAP EPS guidance2 raised to $7.85 to $8.00, from $7.75 to $7.90\nCompany announces the completion of its acquisition of 73% ownership of GI Alliance\nDUBLIN, Ohio, Jan. 30, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported second quarter fiscal year 2025 revenues of $55.3 billion, a decrease of 4% from the second quarter of fiscal year 2024. Second quarter revenue increased 16% excluding the impact of the previously communicated large customer contract expiration. Second quarter GAAP operating earnings increased 9% to $549 million and GAAP diluted earnings per share (EPS) were $1.65. Second quarter non-GAAP operating earnings increased 9% to $635 million, driven by the Pharmaceutical and Specialty Solutions segment. Non-GAAP diluted EPS increased 2% to $1.93, due to an increase in non-GAAP operating earnings and a lower share count, offset in part by an increase in interest and other expense due to financing impacts related to the recent acquisitions.\n\n\"We delivered strong second quarter financial results while taking significant strategic and operational actions to position us for future growth,\" said Jason Hollar, CEO of Cardinal Health. \"Led by robust demand across our Pharmaceutical and Specialty Solutions segment, we are again pleased to raise our fiscal 2025 enterprise guidance.\"\n\nHollar added, \"We are also pleased to announce the closing of our acquisition of a majority position in GI Alliance. GI Alliance, along with our recently completed Integrated Oncology Network transaction in support of our Navista oncology platform, enables our continued specialty growth and delivers a greater value proposition for providers and patients.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 2,
+  "n_positive": 7,
+  "mean_pos_negative": 0.25,
+  "mean_pos_positive": 0.6326530612244898,
+  "placement_asymmetry": -0.38265306122448983,
+  "distance_from_headline": -10,
+  "first_negative_pos": 0.07142857142857142,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.23471105613962756
+ },
+ "lexicon": {
+  "words": 286,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 24.5,
+   "Uncertainty": 0.0,
+   "Litigious": 7.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 7,
+   "Uncertainty": 0,
+   "Litigious": 2,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue decreased 4% to $55.3 billion; revenue increased 16% excluding the impact of the previously communicated large customer contract expiration.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     128,
+     136,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "GAAP1 operating earnings were $549 million; GAAP diluted EPS was $1.65.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Non-GAAP operating earnings increased 9% to $635 million, driven by the Pharmaceutical and Specialty Solutions segment; non-GAAP diluted EPS increased 2% to $1.93.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Fiscal year 2025 non-GAAP EPS guidance2 raised to $7.85 to $8.00, from $7.75 to $7.90.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Company announces the completion of its acquisition of 73% ownership of GI Alliance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "DUBLIN, Ohio, Jan. 30, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported second quarter fiscal year 2025 revenues of $55.3 billion, a decrease of 4% from the second quarter of fiscal year 2024.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Second quarter revenue increased 16% excluding the impact of the previously communicated large customer contract expiration.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     112,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Second quarter GAAP operating earnings increased 9% to $549 million and GAAP diluted earnings per share (EPS) were $1.65.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Second quarter non-GAAP operating earnings increased 9% to $635 million, driven by the Pharmaceutical and Specialty Solutions segment.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Non-GAAP diluted EPS increased 2% to $1.93, due to an increase in non-GAAP operating earnings and a lower share count, offset in part by an increase in interest and other expense due to financing impacts related to the recent acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\"We delivered strong second quarter financial results while taking significant strategic and operational actions to position us for future growth,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\"Led by robust demand across our Pharmaceutical and Specialty Solutions segment, we are again pleased to raise our fiscal 2025 enterprise guidance.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     101,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Hollar added, \"We are also pleased to announce the closing of our acquisition of a majority position in GI Alliance.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     107,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "GI Alliance, along with our recently completed Integrated Oncology Network transaction in support of our Navista oncology platform, enables our continued specialty growth and delivers a greater value proposition for providers and patients.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.606,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     132,
+     139,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
