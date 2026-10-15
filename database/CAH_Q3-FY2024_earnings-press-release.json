@@ -7,7 +7,7 @@
  "date": "2024-05-02",
  "source_url": "https://newsroom.cardinalhealth.com/2024-05-02-Cardinal-Health-Reports-Third-Quarter-Fiscal-Year-2024-Results-and-Raises-Fiscal-Year-2024-Non-GAAP-EPS-Guidance",
  "demo": false,
- "source_text": "Revenue increased 9% to $54.9 billion\nGAAP1 operating earnings were $367 million; GAAP diluted EPS was $1.05\nNon-GAAP operating earnings increased 10% to $666 million; non-GAAP diluted EPS increased 20% to $2.08\nFiscal year 2024 non-GAAP EPS guidance2 raised and narrowed to $7.30 to $7.40, from $7.20 to $7.35\nCompany provides preliminary fiscal year 2025 non-GAAP EPS guidance of at least $7.50\nDUBLIN, Ohio, May 2, 2024  /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2024 revenues of $54.9 billion, an increase of 9% from the third quarter of fiscal year 2023. Third quarter GAAP operating earnings were $367 million and GAAP diluted earnings per share (EPS) were $1.05, which included a non-cash, pre-tax goodwill impairment of $90 million related to the Global Medical Products and Distribution (GMPD) segment as a result of the reallocation of goodwill related to the reporting structure update. Third quarter non-GAAP operating earnings increased 10% to $666 million driven by growth in Global Medical Products and Distribution segment profit and Pharmaceutical and Specialty Solutions segment profit. Non-GAAP diluted EPS increased 20% to $2.08, primarily due to the growth in non-GAAP operating earnings and a lower share count.\n\n\"In Q3, we delivered broad-based growth, including solid profit growth in Pharmaceutical and Specialty Solutions, on top of an exceptionally strong quarter from a year ago,\" said Jason Hollar, CEO of Cardinal Health. \"We were also pleased to see the ongoing acceleration in GMPD. With confidence in our outlook for the year, we are raising and narrowing our FY24 EPS guidance and providing preliminary guidance for FY25 that reflects the strength and resiliency of our company.\"",
+ "source_text": "Revenue increased 9% to $54.9 billion\nGAAP1 operating earnings were $367 million; GAAP diluted EPS was $1.05\nNon-GAAP operating earnings increased 10% to $666 million; non-GAAP diluted EPS increased 20% to $2.08\nFiscal year 2024 non-GAAP EPS guidance2 raised and narrowed to $7.30 to $7.40, from $7.20 to $7.35\nCompany provides preliminary fiscal year 2025 non-GAAP EPS guidance of at least $7.50\n\nDUBLIN, Ohio, May 2, 2024  /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2024 revenues of $54.9 billion, an increase of 9% from the third quarter of fiscal year 2023. Third quarter GAAP operating earnings were $367 million and GAAP diluted earnings per share (EPS) were $1.05, which included a non-cash, pre-tax goodwill impairment of $90 million related to the Global Medical Products and Distribution (GMPD) segment as a result of the reallocation of goodwill related to the reporting structure update. Third quarter non-GAAP operating earnings increased 10% to $666 million driven by growth in Global Medical Products and Distribution segment profit and Pharmaceutical and Specialty Solutions segment profit. Non-GAAP diluted EPS increased 20% to $2.08, primarily due to the growth in non-GAAP operating earnings and a lower share count.\n\n\"In Q3, we delivered broad-based growth, including solid profit growth in Pharmaceutical and Specialty Solutions, on top of an exceptionally strong quarter from a year ago,\" said Jason Hollar, CEO of Cardinal Health. \"We were also pleased to see the ongoing acceleration in GMPD. With confidence in our outlook for the year, we are raising and narrowing our FY24 EPS guidance and providing preliminary guidance for FY25 that reflects the strength and resiliency of our company.\"",
  "boilerplate_paragraphs_removed": 0,
  "summary": {
   "n_sentences": 12,
@@ -16,7 +16,7 @@
   "mean_pos_negative": 0.5833333333333334,
   "mean_pos_positive": 0.5138888888888888,
   "placement_asymmetry": 0.06944444444444453,
-  "distance_from_headline": -3,
+  "distance_from_headline": 1,
   "first_negative_pos": 0.5833333333333334,
   "hedge_near_negative": 0.0,
   "hedge_near_positive": 0.0018726591760299626,
@@ -86,7 +86,7 @@
   },
   {
    "i": 5,
-   "t": "Company provides preliminary fiscal year 2025 non-GAAP EPS guidance of at least $7.50.",
+   "t": "Company provides preliminary fiscal year 2025 non-GAAP EPS guidance of at least $7.50",
    "d": 0,
    "m": false,
    "tone": 0.0,
