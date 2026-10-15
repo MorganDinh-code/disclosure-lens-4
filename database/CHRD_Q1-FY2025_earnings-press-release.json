@@ -1,0 +1,581 @@
+{
+ "company": "Chord Energy Corp",
+ "ticker": "CHRD",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-05-06",
+ "source_url": "https://ir.chordenergy.com/2025-05-06-Chord-Energy-Reports-First-Quarter-2025-Financial-and-Operating-Results,-Declares-Base-Dividend-and-Issues-Updated-Outlook",
+ "demo": false,
+ "source_text": "Key Takeaways and Updates:\n\nStrong Performance: Solid execution and asset performance, combined with disciplined cost control delivered Cash Flow from Operations and Adjusted Free Cash Flow(1) above expectations;\nShareholder Returns: Returned 100% of Adjusted Free Cash Flow(1) to shareholders through share repurchases after declaring base dividend of $1.30 per share;\nStock Repurchases: Repurchased $216.5MM of common stock at an average price of $108.54/share;\nOperational Success: Executed first 4-mile turn-in-line (\"TIL\") with well costs below budget;\nFinancial Flexibility: Issued $750MM of 2033 Senior Notes at 6.75%, enhancing liquidity to over $1.9B with leverage at 0.3x; and\n2025 Outlook: Reducing activity in accordance with original 2025 operating plan, while closely monitoring the macro environment. Maintaining FY25 production guidance, while decreasing capital by $30MM, reflecting program efficiencies.\n1Q25 Operational and Financial Highlights:\n\nProduction: Achieved volumes of 153.7 MBopd (270.9 MBoepd), surpassing the high-end of guidance;\nCapEx: E&P and other CapEx of $355.4MM was towards the low-end of guidance;\nExpenses: Lease Operating Expense (\"LOE\") was $9.56 per Boe, below midpoint of guidance;\nRealizations: Gas and NGL realizations were favorable, reflecting seasonally strong regional benchmark prices;\nCash Flow: Net cash provided by operating activities was $656.9MM, with net income of $219.8MM; and\nEBITDA & FCF: Adjusted EBITDA(1) was $695.5MM and Adjusted Free Cash Flow(1) was $290.5MM.\n(1) Non-GAAP financial measure. See \"Non-GAAP Financial Measures\" below for a reconciliation to the most directly comparable financial measures under United States generally accepted accounting principles (\"GAAP\").\n\n \n\nDanny Brown, President and CEO of Chord Energy, commented: \n\n\"Chord's first quarter performance demonstrates strong operational momentum. We benefited from better than modeled well performance, solid cost control, and improved downtime, leading to strong oil production and free cash flow above expectations. Our compelling asset base and proficient execution continue to support high levels of shareholder distributions, with 100% of free cash flow returned to shareholders for the second consecutive quarter. Share repurchases comprised the entirety of returns after the base dividend, and we expect continued focus on share repurchases going forward. I thank the Chord employees for their resilience in overcoming difficult winter conditions and putting the Company on excellent footing for the remainder of the year.\"\n\n\"As we look forward, the macro outlook has deteriorated, and we continue to monitor the environment for new developments. Should conditions remain unfavorable or weaken, Chord has sufficient operational and financial flexibility to moderate activity and maintain an efficient, returns-focused program with strong free cash generation. Our premier Williston Basin position, built with a focus on disciplined capital allocation, early adoption of new technologies, and strategic M&A, puts Chord in a strong position to weather commodity down cycles. We remain focused on optimizing capital allocation while operating safely and sustainably.\"\n\n \n\nChord had 30 gross (25.7 net) operated TILs in 1Q25.\n\nDuring the three months ended March 31, 2025, net cash provided by operating activities was $656.9MM and net income was $219.8MM ($3.66/diluted share). Adjusted EBITDA was $695.5MM, Adjusted Free Cash Flow was $290.5MM and Adjusted Net Income was $240.9MM ($4.04/diluted share). Adjusted EBITDA, Adjusted Free Cash Flow and Adjusted Net Income are non-GAAP financial measures. See \"Non-GAAP Financial Measures\" below for a reconciliation to the most directly comparable financial measures under GAAP.\n\nReturn of Capital:\n\nChord declared a base dividend of $1.30 per share of common stock. The dividend will be payable on June 9, 2025 to shareholders of record as of May 21, 2025. Details regarding the Return of Capital calculation can be found in the Company's most recent investor presentation located on its website at https://ir.chordenergy.com/presentations.\n\nThe Company repurchased 1,994,496 shares of common stock at a weighted average price of $108.54 per share totaling $216.5MM in 1Q25, representing 100% of shareholder returns after the base dividend. Shares issued and outstanding as of May 1, 2025 were 57.8MM (58.3MM on a fully-diluted basis), compared to 58.2MM (58.9MM on a fully-diluted basis) as of March 31, 2025.\n\n2025 Outlook Update:\n\nChord is currently reducing activity in accordance with its original 2025 operating plan, while closely monitoring the macro environment to further reduce activity if conditions remain unfavorable or weaken. Chord's original 2025 development plan contemplated both rig and completion activity reductions in the second quarter, with a completions crew returning around the fourth quarter. Given the deteriorating macro economic backdrop, Chord is biased to not return the second completions crew, which would result in a further reduction to capital and a minimal impact to FY25 production volumes. Chord has sufficient operational and financial flexibility to moderate activity and maintain an efficient, returns-focused program with strong free cash flow generation.\n\nChord's updated FY25 guidance at $60/Bbl WTI and $3.75/MMBtu Henry Hub for 2Q \u2013 4Q is as follows:\n\nAdjusted EBITDA: Expected to be approximately $2.2B;\nAdjusted Free Cash Flow: Expected to be approximately $650MM;\nGross Operated TILs: 130 \u2013 150 wells (~80% working interest), with 40 \u2013 50 wells planned for 2Q25 (~73% working interest). ~40% 3-mile laterals in 2025;\nE&P and Other CapEx: Reduced by $30MM to approximately $1.37B driven by efficiencies;\nOil Volumes: Expected to average 152.5 MBopd, unchanged from February guidance;\nLOE: Decreased $0.30/Boe to $9.60/Boe reflecting efficiencies (FY25 impact ~$30MM);\nDifferentials: Adjusted to reflect 1Q25 performance and current outlook; and\nInterest expense: Increased due to March bond offering, recent buybacks and commodity price assumptions.",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 28,
+  "n_material_neg": 3,
+  "n_positive": 1,
+  "mean_pos_negative": 0.8690476190476191,
+  "mean_pos_positive": 0.6071428571428571,
+  "placement_asymmetry": 0.261904761904762,
+  "distance_from_headline": 20,
+  "first_negative_pos": 0.7857142857142857,
+  "hedge_near_negative": 0.012461059190031152,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.2857142857142857,
+  "mean_tone_gap_on_negatives": 0.959932298278163,
+  "overall_hedge": 0.0074850299401197605,
+  "mean_tone": 0.10872772201806104
+ },
+ "lexicon": {
+  "words": 668,
+  "per_1000": {
+   "Negative": 13.5,
+   "Positive": 29.9,
+   "Uncertainty": 9.0,
+   "Litigious": 0.0,
+   "Strong modal": 1.5,
+   "Weak modal": 3.0,
+   "Constraining": 1.5
+  },
+  "counts": {
+   "Negative": 9,
+   "Positive": 20,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Key Takeaways and Updates:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Strong Performance: Solid execution and asset performance, combined with disciplined cost control delivered Cash Flow from Operations and Adjusted Free Cash Flow(1) above expectations; Shareholder Returns: Returned 100% of Adjusted Free Cash Flow(1) to shareholders through share repurchases after declaring base dividend of $1.30 per share; Stock Repurchases: Repurchased $216.5MM of common stock at an average price of $108.54/share; Operational Success: Executed first 4-mile turn-in-line (\"TIL\") with well costs below budget; Financial Flexibility: Issued $750MM of 2033 Senior Notes at 6.75%, enhancing liquidity to over $1.9B with leverage at 0.3x; and 2025 Outlook: Reducing activity in accordance with original 2025 operating plan, while closely monitoring the macro environment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.288,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     448,
+     455,
+     [
+      "positive"
+     ]
+    ],
+    [
+     598,
+     607,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Maintaining FY25 production guidance, while decreasing capital by $30MM, reflecting program efficiencies. 1Q25 Operational and Financial Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     92,
+     104,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Danny Brown, President and CEO of Chord Energy, commented:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Chord's first quarter performance demonstrates strong operational momentum.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We benefited from better than modeled well performance, solid cost control, and improved downtime, leading to strong oil production and free cash flow above expectations.",
+   "d": -1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     18,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     88,
+     [
+      "positive"
+     ]
+    ],
+    [
+     89,
+     97,
+     [
+      "negative"
+     ]
+    ],
+    [
+     99,
+     106,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Our compelling asset base and proficient execution continue to support high levels of shareholder distributions, with 100% of free cash flow returned to shareholders for the second consecutive quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     30,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Share repurchases comprised the entirety of returns after the base dividend, and we expect continued focus on share repurchases going forward.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "I thank the Chord employees for their resilience in overcoming difficult winter conditions and putting the Company on excellent footing for the remainder of the year.\"",
+   "d": 0,
+   "m": false,
+   "tone": -0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     62,
+     [
+      "negative"
+     ]
+    ],
+    [
+     63,
+     72,
+     [
+      "negative"
+     ]
+    ],
+    [
+     118,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "\"As we look forward, the macro outlook has deteriorated, and we continue to monitor the environment for new developments.",
+   "d": -1,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     55,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Should conditions remain unfavorable or weaken, Chord has sufficient operational and financial flexibility to moderate activity and maintain an efficient, returns-focused program with strong free cash generation.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     36,
+     [
+      "negative"
+     ]
+    ],
+    [
+     40,
+     46,
+     [
+      "negative"
+     ]
+    ],
+    [
+     144,
+     153,
+     [
+      "positive"
+     ]
+    ],
+    [
+     184,
+     190,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Our premier Williston Basin position, built with a focus on disciplined capital allocation, early adoption of new technologies, and strategic M&A, puts Chord in a strong position to weather commodity down cycles.",
+   "d": 0,
+   "m": false,
+   "tone": 0.606,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     163,
+     169,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We remain focused on optimizing capital allocation while operating safely and sustainably.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Chord had 30 gross (25.7 net) operated TILs in 1Q25.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Return of Capital:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Chord declared a base dividend of $1.30 per share of common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The dividend will be payable on June 9, 2025 to shareholders of record as of May 21, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     77,
+     80,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Details regarding the Return of Capital calculation can be found in the Company's most recent investor presentation located on its website at https://ir.chordenergy.com/presentations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The Company repurchased 1,994,496 shares of common stock at a weighted average price of $108.54 per share totaling $216.5MM in 1Q25, representing 100% of shareholder returns after the base dividend.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Shares issued and outstanding as of May 1, 2025 were 57.8MM (58.3MM on a fully-diluted basis), compared to 58.2MM (58.9MM on a fully-diluted basis) as of March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     39,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "2025 Outlook Update:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Chord is currently reducing activity in accordance with its original 2025 operating plan, while closely monitoring the macro environment to further reduce activity if conditions remain unfavorable or weaken.",
+   "d": -1,
+   "m": true,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     185,
+     196,
+     [
+      "negative"
+     ]
+    ],
+    [
+     200,
+     206,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Chord's original 2025 development plan contemplated both rig and completion activity reductions in the second quarter, with a completions crew returning around the fourth quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Given the deteriorating macro economic backdrop, Chord is biased to not return the second completions crew, which would result in a further reduction to capital and a minimal impact to FY25 production volumes.",
+   "d": -1,
+   "m": true,
+   "tone": -0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Chord has sufficient operational and financial flexibility to moderate activity and maintain an efficient, returns-focused program with strong free cash flow generation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     105,
+     [
+      "positive"
+     ]
+    ],
+    [
+     136,
+     142,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Chord's updated FY25 guidance at $60/Bbl WTI and $3.75/MMBtu Henry Hub for 2Q \u2013 4Q is as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Adjusted EBITDA: Expected to be approximately $2.2B; Adjusted Free Cash Flow: Expected to be approximately $650MM; Gross Operated TILs: 130 \u2013 150 wells (~80% working interest), with 40 \u2013 50 wells planned for 2Q25 (~73% working interest). ~40% 3-mile laterals in 2025; E&P and Other CapEx: Reduced by $30MM to approximately $1.37B driven by efficiencies; Oil Volumes: Expected to average 152.5 MBopd, unchanged from February guidance; LOE: Decreased $0.30/Boe to $9.60/Boe reflecting efficiencies (FY25 impact ~$30MM); Differentials: Adjusted to reflect 1Q25 performance and current outlook; and.",
+   "d": -1,
+   "m": true,
+   "tone": 0.263,
+   "h": 0.0395,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     93,
+     106,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     309,
+     322,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     340,
+     352,
+     [
+      "positive"
+     ]
+    ],
+    [
+     483,
+     495,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Interest expense: Increased due to March bond offering, recent buybacks and commodity price assumptions.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     92,
+     103,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
