@@ -1,0 +1,458 @@
+{
+ "company": "EOG Resources, Inc.",
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-04",
+ "source_url": "https://investors.eogresources.com/2026-08-04-EOG-Resources-Reports-Second-Quarter-2026-Results",
+ "demo": false,
+ "source_text": "Second Quarter Highlights\n\nEarned net income of $2.72 billion, or $5.15 per share, and adjusted net income of $2.68 billion, or $5.07 per share\nDelivered net cash provided by operating activities of $4.7 billion and adjusted CFO1 of $4.4 billion\nGenerated $2.8 billion of free cash flow\nDeclared regular quarterly dividend of $1.02 per share\nPaid $540 million in regular dividends and repurchased $1.3 billion of shares\nQuarterly oil volumes of 548.8 MBod and total volumes of 1,410.4 MBoed\nDelivered lease & well and gathering, processing & transportation costs better than guidance midpoints\nEstablished UAE oil production with successful initial test\nCEO Commentary\n\"EOG delivered outstanding second quarter results, including record financial performance. Strong operational execution highlighted by LOE and GP&T costs below guidance midpoints coupled with higher oil prices drove this robust financial performance. In the second quarter, we generated $2.8 billion of free cash flow and returned $1.8 billion to shareholders through our regular dividend and share repurchases. Our cash return reflects the significant cash generation capacity of our business, the strength of our balance sheet, and confidence in our ability to drive further value creation.\n\nWe are well positioned to capture opportunities across commodity cycles. Our diversified asset portfolio spans oil, NGLs, and natural gas across unconventional and conventional resources, which we continue to strengthen through organic exploration. On that front, during the quarter, we established UAE oil production with successful test results from two one-mile lateral wells that averaged over 25,000 barrels of cumulative oil production per well for the first 30 days.\n\nOur operating model maximizes the value of our low-cost, high-return inventory across multiple basins. Vertical integration and in-house technology support repeatable cost discipline, and our pricing exposure to premium markets drives strong realizations. Most importantly, our core competitive advantage, the unique EOG culture, allows our employees to innovate and operate at a high level, supporting efficient operations and long-term returns.\n\nWe executed strongly in the first half of 2026 and enter the second half with positive momentum. Based on current guidance, we expect to deliver 5% oil production growth and 14% total production growth this year. At the current forward strip, this performance is expected to drive substantial free cash flow for the full-year 2026, supporting opportunistic and disciplined cash returns to shareholders. We remain focused on sustainable value creation through industry cycles by being among the highest return and lowest cost producers.\"\n\nReturn of Capital\nThe Board of Directors today declared a regular dividend of $1.02 per share on EOG's common stock. The regular dividend will be payable October 30, 2026, to stockholders of record as of October 16, 2026. The indicated annual rate is $4.08 per share.\n\nDuring the second quarter, the company repurchased 9.6 million shares for $1,294 million under its share repurchase authorization, at an average purchase price of $135 per share. As of June 30, 2026, EOG had $11.7 billion remaining on its current repurchase authorization.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.6666666666666666,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005555555555555556,
+  "hedging_asymmetry": null,
+  "framing_ratio": 1,
+  "mean_tone_gap_on_negatives": 1.434782608695652,
+  "overall_hedge": 0.004338394793926247,
+  "mean_tone": 0.220012844107047
+ },
+ "lexicon": {
+  "words": 461,
+  "per_1000": {
+   "Negative": 2.2,
+   "Positive": 28.2,
+   "Uncertainty": 2.2,
+   "Litigious": 0.0,
+   "Strong modal": 8.7,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 13,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second Quarter Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earned net income of $2.72 billion, or $5.15 per share, and adjusted net income of $2.68 billion, or $5.07 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Delivered net cash provided by operating activities of $4.7 billion and adjusted CFO1 of $4.4 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Generated $2.8 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Declared regular quarterly dividend of $1.02 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Paid $540 million in regular dividends and repurchased $1.3 billion of shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Quarterly oil volumes of 548.8 MBod and total volumes of 1,410.4 MBoed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Delivered lease & well and gathering, processing & transportation costs better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Established UAE oil production with successful initial test.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     46,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "CEO Commentary.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\"EOG delivered outstanding second quarter results, including record financial performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Strong operational execution highlighted by LOE and GP&T costs below guidance midpoints coupled with higher oil prices drove this robust financial performance.",
+   "d": -1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "In the second quarter, we generated $2.8 billion of free cash flow and returned $1.8 billion to shareholders through our regular dividend and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Our cash return reflects the significant cash generation capacity of our business, the strength of our balance sheet, and confidence in our ability to drive further value creation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     95,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "We are well positioned to capture opportunities across commodity cycles.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Our diversified asset portfolio spans oil, NGLs, and natural gas across unconventional and conventional resources, which we continue to strengthen through organic exploration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     136,
+     146,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "On that front, during the quarter, we established UAE oil production with successful test results from two one-mile lateral wells that averaged over 25,000 barrels of cumulative oil production per well for the first 30 days.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Our operating model maximizes the value of our low-cost, high-return inventory across multiple basins.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Vertical integration and in-house technology support repeatable cost discipline, and our pricing exposure to premium markets drives strong realizations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     97,
+     105,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     132,
+     138,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Most importantly, our core competitive advantage, the unique EOG culture, allows our employees to innovate and operate at a high level, supporting efficient operations and long-term returns.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     48,
+     [
+      "positive"
+     ]
+    ],
+    [
+     98,
+     106,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     156,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "We executed strongly in the first half of 2026 and enter the second half with positive momentum.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     20,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     78,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Based on current guidance, we expect to deliver 5% oil production growth and 14% total production growth this year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "At the current forward strip, this performance is expected to drive substantial free cash flow for the full-year 2026, supporting opportunistic and disciplined cash returns to shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     130,
+     143,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "We remain focused on sustainable value creation through industry cycles by being among the highest return and lowest cost producers.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     91,
+     98,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     110,
+     116,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Return of Capital.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Board of Directors today declared a regular dividend of $1.02 per share on EOG's common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The regular dividend will be payable October 30, 2026, to stockholders of record as of October 16, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     25,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "The indicated annual rate is $4.08 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "During the second quarter, the company repurchased 9.6 million shares for $1,294 million under its share repurchase authorization, at an average purchase price of $135 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As of June 30, 2026, EOG had $11.7 billion remaining on its current repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
