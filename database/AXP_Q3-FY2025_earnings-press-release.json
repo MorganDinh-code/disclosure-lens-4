@@ -1,0 +1,448 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-17",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2025/q3/Q3-2025-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "American Express Company (NYSE: AXP) today reported third-quarter net income of $2.9 billion,\ncompared with net income of $2.5 billion a year ago. Earnings per share was $4.14, up 19 percent\nfrom $3.49 a year ago.\nStephen J. Squeri | Chairman and Chief Executive Officer\n\u201cWe delivered a very strong quarter, with revenues growing 11 percent year-over-year to a record $18.4\nbillion, and EPS rising 19 percent to $4.14. Card Member spend growth accelerated to 8 percent on an\nFX-adjusted basis, and our credit metrics remained best-in-class.\n\u201cThe successful launch of our updated U.S. Consumer and Business Platinum Cards reinforces our\nleadership in the premium space. The initial customer demand and engagement exceeded our\nexpectations, with new U.S. Platinum account acquisitions doubling compared to pre-refresh levels.\n\u201cGiven our strong performance year to date, we are raising our full-year guidance to revenue growth of 9\nto 10 percent and EPS of $15.20 to $15.50. Looking ahead, we are confident in our growth prospects as\nwe continue to execute our proven product refresh strategy and enhance our powerful Membership\nModel to deliver value for our Card Members, merchant partners, and shareholders.\u201d\n\nConsolidated Financial Results Business Highlights\nThird-quarter consolidated total revenues net of\ninterest expense were $18.4 billion, up 11 percent\nyear-over-year. The increase was primarily driven\nby increased Card Member spending, higher net\ninterest income supported by growth in revolving\nloan balances, and continued strong card fee\ngrowth.\nConsolidated provisions for credit losses were\n$1.3 billion, compared with $1.4 billion a year ago.\nThe decrease reflected a lower reserve build\ncompared to prior year, partially offset by higher\nnet write-offs. The third-quarter net write-off rate\nwas 1.9 percent, flat year-over-year.4\nConsolidated expenses were $13.3 billion, up 10\npercent year-over-year. The increase was\nprimarily driven by higher variable customer\nengagement costs due to increased Card Member\nspending and usage of travel- and lifestyle-related\nbenefits, and higher operating expenses.\nThe consolidated effective tax rate was 24.1\npercent, up from 21.8 percent a year ago, primarily\nreflecting the impact of tax law changes across\njurisdictions.\n\u2022 American Express unveiled its updated U.S.\nConsumer and Business Platinum Cards, with\nstrong early demand and engagement.\n\u2022 The company launched an all-in-one Amex\nTravel App and digital tools for U.S. Card\nMembers to simplify and enhance the\npremium travel experience.\n\u2022 American Express Cards are now accepted at\nan estimated 160 million merchant locations\nworldwide; Amex-accepting locations have\nincreased by nearly 5x since 2017.5\n\u2022 American Express and Toast announced a\nmulti-year partnership to power more\npersonalized hospitality experiences across\nthe Resy, Tock, and Toast restaurant\nnetworks.\n\u2022 The company introduced Amex Ads, a new\ndigital advertising platform designed to help\nbrands connect with American Express Card\nMembers.\n\u2022 American Express was ranked the #1 issuer\nand #1 in the Rewards - Annual Fee category\nin the J.D. Power 2025 U.S. Credit Card\nSatisfaction Study.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 2,
+  "n_positive": 7,
+  "mean_pos_negative": 0.4666666666666667,
+  "mean_pos_positive": 0.29523809523809524,
+  "placement_asymmetry": 0.17142857142857143,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.36666666666666664,
+  "hedge_near_negative": 0.00980392156862745,
+  "hedge_near_positive": 0.0026455026455026454,
+  "hedging_asymmetry": 3.7058823529411766,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.75,
+  "overall_hedge": 0.00425531914893617,
+  "mean_tone": 0.14338451187446044
+ },
+ "lexicon": {
+  "words": 470,
+  "per_1000": {
+   "Negative": 2.1,
+   "Positive": 23.4,
+   "Uncertainty": 4.3,
+   "Litigious": 4.3,
+   "Strong modal": 2.1,
+   "Weak modal": 2.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 11,
+   "Uncertainty": 2,
+   "Litigious": 2,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "American Express Company (NYSE: AXP) today reported third-quarter net income of $2.9 billion, compared with net income of $2.5 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earnings per share was $4.14, up 19 percent from $3.49 a year ago.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Squeri | Chairman and Chief Executive Officer. \u201cWe delivered a very strong quarter, with revenues growing 11 percent year-over-year to a record $18.4 billion, and EPS rising 19 percent to $4.14.",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Card Member spend growth accelerated to 8 percent on an.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "FX-adjusted basis, and our credit metrics remained best-in-class. \u201cThe successful launch of our updated U.S. Consumer and Business Platinum Cards reinforces our leadership in the premium space.",
+   "d": 0,
+   "m": false,
+   "tone": 0.968,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     55,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     71,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     161,
+     171,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "The initial customer demand and engagement exceeded our expectations, with new U.S. Platinum account acquisitions doubling compared to pre-refresh levels. \u201cGiven our strong performance year to date, we are raising our full-year guidance to revenue growth of 9 to 10 percent and EPS of $15.20 to $15.50.",
+   "d": 1,
+   "m": false,
+   "tone": 0.217,
+   "h": 0.0,
+   "hits": [
+    [
+     166,
+     172,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Looking ahead, we are confident in our growth prospects as we continue to execute our proven product refresh strategy and enhance our powerful Membership.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     122,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Model to deliver value for our Card Members, merchant partners, and shareholders.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Consolidated Financial Results Business Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Third-quarter consolidated total revenues net of interest expense were $18.4 billion, up 11 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The increase was primarily driven by increased Card Member spending, higher net interest income supported by growth in revolving loan balances, and continued strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     158,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Consolidated provisions for credit losses were.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "$1.3 billion, compared with $1.4 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The decrease reflected a lower reserve build compared to prior year, partially offset by higher net write-offs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The third-quarter net write-off rate was 1.9 percent, flat year-over-year.4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Consolidated expenses were $13.3 billion, up 10 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The increase was primarily driven by higher variable customer engagement costs due to increased Card Member spending and usage of travel- and lifestyle-related benefits, and higher operating expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     44,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The consolidated effective tax rate was 24.1 percent, up from 21.8 percent a year ago, primarily reflecting the impact of tax law changes across jurisdictions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     126,
+     129,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     145,
+     158,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "American Express unveiled its updated U.S. Consumer and Business Platinum Cards, with strong early demand and engagement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The company launched an all-in-one Amex.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Travel App and digital tools for U.S. Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Members to simplify and enhance the premium travel experience.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "American Express Cards are now accepted at an estimated 160 million merchant locations worldwide; Amex-accepting locations have increased by nearly 5x since 2017.5.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     141,
+     147,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "American Express and Toast announced a multi-year partnership to power more personalized hospitality experiences across the Resy, Tock, and Toast restaurant networks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The company introduced Amex Ads, a new digital advertising platform designed to help brands connect with American Express Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Members.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "American Express was ranked the #1 issuer and #1 in the Rewards - Annual Fee category in the J.D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Power 2025 U.S. Credit Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Satisfaction Study.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
