@@ -1,0 +1,372 @@
+{
+ "company": "Boston Scientific",
+ "ticker": "BSX",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2025-04-22",
+ "source_url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-results-for-first-quarter-2026-302749437.html",
+ "demo": false,
+ "source_text": "\nMARLBOROUGH, Mass., April 22, 2026 /PRNewswire/ -- Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.203 billion during the first quarter of 2026, growing 11.6 percent on a reported basis and 9.4 percent on an operational1 and organic2 basis, all compared to the prior year period. The company reported GAAP net income attributable to Boston Scientific common stockholders of $1.341 billion or $0.90 per share (EPS), compared to $674 million or $0.45 per share a year ago, and achieved adjusted3 EPS of $0.80 for the period, compared to $0.75 a year ago.\n\n\"Our global team and the strength of our category leadership strategy enabled us to deliver solid results this quarter,\" said Mike Mahoney, chairman and chief executive officer, Boston Scientific. \"We remain focused on executing our long-term strategy and advancing our differentiated pipeline to drive meaningful impact for patients, physicians and hospital systems.\"\n\nFirst quarter financial results and recent developments:\n\nReported net sales of $5.203 billion, representing an increase of 11.6 percent on a reported basis, compared to the company's guidance range of 10.5 to 12.0 percent; and 9.4 percent on an operational and organic basis, compared to the company's guidance range of 8.5 to 10.0 percent, all compared to the prior year period.\nReported GAAP net income attributable to Boston Scientific common stockholders of $0.90 per share, and achieved adjusted EPS of $0.80 per share, compared to the guidance range of $0.78 to $0.80 per share.\nAchieved the following net sales growth in each reportable segment, compared to the prior year period:\nMedSurg: 7.8 percent reported, 5.7 percent operational and organic\nCardiovascular: 13.5 percent reported, 11.2 percent operational and organic\nAchieved the following net sales growth in each region, compared to the prior year period:\nUnited States (U.S.): 10.9 percent reported and operational\nEurope, Middle East and Africa (EMEA): 10.1 percent reported and 1.2 percent operational\nAsia-Pacific (APAC): 14.7 percent reported and 12.0 percent operational\nLatin America and Canada (LACA): 19.0 percent reported and 12.0 percent operational\nAnnounced clinical trial results that were presented in late-breaking sessions at the 75th Annual Scientific Session of the American College of Cardiology and simultaneously published in The New England Journal of Medicine including: \nThe CHAMPION-AF study of the WATCHMAN FLX\u2122 Left Atrial Appendage Closure Device as a first-line option for stroke risk reduction, which met all primary and secondary endpoints and demonstrated superior bleeding risk reduction and similar efficacy of the WATCHMAN FLX device compared to oral anticoagulants in a broad population of patients with non-valvular atrial fibrillation (AF). \nThe HI-PEITHO clinical trial evaluating the EKOS\u2122 Endovascular System for the treatment of acute pulmonary embolism (PE) in patients with intermediate-risk PE, which demonstrated the EKOS system plus anticoagulation was superior to anticoagulation alone.\nAnnounced positive outcomes from the ADVENT Long-Term Outcomes clinical trial, which demonstrated greater long-term AF treatment success, fewer hospital-based arrhythmia interventions and lower repeat ablation rates at four years with FARAPULSE\u2122 Pulsed Field Ablation (PFA) compared to thermal ablation.\nReceived National Medical Products Association approval in China for the OPAL HDx\u2122 Mapping System, which enables catheter visualization during FARAPULSE PFA procedures. \nPublished in Chronic Pain and Management Journal outcomes from the 24-month COMFORT clinical trial demonstrating durable and statistically significant pain relief and improved quality of life with peripheral nerve stimulation therapy with the Nalu Neurostimulation System compared to conventional medical management in patients with chronic pain.\nReceived U.S. Food and Drug Administration 510(k) clearance for the Asurys\u2122 Fluid Management System, designed to provide real-time irrigation management during endoscopic urologic procedures; when used with the LithoVue\u2122 Elite Single-Use Flexible Ureteroscope System, it also supports intrarenal pressure (IRP) management during ureteroscopy.\nCompleted the acquisition of\u202fValencia Technologies Corporation, a privately held company focused on the development and commercialization of the eCoin\u00ae System, an implantable tibial nerve stimulation device for the treatment of urge urinary incontinence.\nElected to the company's board of directors Cathy Smith, chief financial officer of Starbucks, and Christophe Weber, president and chief executive officer of Takeda Pharmaceutical.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.4095238095238095,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004672897196261682,
+  "mean_tone": 0.20509354681554295
+ },
+ "lexicon": {
+  "words": 642,
+  "per_1000": {
+   "Negative": 1.6,
+   "Positive": 21.8,
+   "Uncertainty": 4.7,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 14,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "MARLBOROUGH, Mass., April 22, 2026 /PRNewswire/ -- Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.203 billion during the first quarter of 2026, growing 11.6 percent on a reported basis and 9.4 percent on an operational1 and organic2 basis, all compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "The company reported GAAP net income attributable to Boston Scientific common stockholders of $1.341 billion or $0.90 per share (EPS), compared to $674 million or $0.45 per share a year ago, and achieved adjusted3 EPS of $0.80 for the period, compared to $0.75 a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     195,
+     203,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"Our global team and the strength of our category leadership strategy enabled us to deliver solid results this quarter,\" said Mike Mahoney, chairman and chief executive officer, Boston Scientific.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     50,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     70,
+     77,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "\"We remain focused on executing our long-term strategy and advancing our differentiated pipeline to drive meaningful impact for patients, physicians and hospital systems.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "First quarter financial results and recent developments:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Reported net sales of $5.203 billion, representing an increase of 11.6 percent on a reported basis, compared to the company's guidance range of 10.5 to 12.0 percent; and 9.4 percent on an operational and organic basis, compared to the company's guidance range of 8.5 to 10.0 percent, all compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Reported GAAP net income attributable to Boston Scientific common stockholders of $0.90 per share, and achieved adjusted EPS of $0.80 per share, compared to the guidance range of $0.78 to $0.80 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieved the following net sales growth in each reportable segment, compared to the prior year period: MedSurg: 7.8 percent reported, 5.7 percent operational and organic.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Cardiovascular: 13.5 percent reported, 11.2 percent operational and organic.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Achieved the following net sales growth in each region, compared to the prior year period: United States (U.S.): 10.9 percent reported and operational.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Europe, Middle East and Africa (EMEA): 10.1 percent reported and 1.2 percent operational.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Asia-Pacific (APAC): 14.7 percent reported and 12.0 percent operational.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Latin America and Canada (LACA): 19.0 percent reported and 12.0 percent operational.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Announced clinical trial results that were presented in late-breaking sessions at the 75th Annual Scientific Session of the American College of Cardiology and simultaneously published in The New England Journal of Medicine including: The CHAMPION-AF study of the WATCHMAN FLX\u2122 Left Atrial Appendage Closure Device as a first-line option for stroke risk reduction, which met all primary and secondary endpoints and demonstrated superior bleeding risk reduction and similar efficacy of the WATCHMAN FLX device compared to oral anticoagulants in a broad population of patients with non-valvular atrial fibrillation (AF).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0215,
+   "hits": [
+    [
+     299,
+     306,
+     [
+      "negative"
+     ]
+    ],
+    [
+     348,
+     352,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     427,
+     435,
+     [
+      "positive"
+     ]
+    ],
+    [
+     445,
+     449,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The HI-PEITHO clinical trial evaluating the EKOS\u2122 Endovascular System for the treatment of acute pulmonary embolism (PE) in patients with intermediate-risk PE, which demonstrated the EKOS system plus anticoagulation was superior to anticoagulation alone.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0278,
+   "hits": [
+    [
+     151,
+     155,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     220,
+     228,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Announced positive outcomes from the ADVENT Long-Term Outcomes clinical trial, which demonstrated greater long-term AF treatment success, fewer hospital-based arrhythmia interventions and lower repeat ablation rates at four years with FARAPULSE\u2122 Pulsed Field Ablation (PFA) compared to thermal ablation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     129,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Received National Medical Products Association approval in China for the OPAL HDx\u2122 Mapping System, which enables catheter visualization during FARAPULSE PFA procedures.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Published in Chronic Pain and Management Journal outcomes from the 24-month COMFORT clinical trial demonstrating durable and statistically significant pain relief and improved quality of life with peripheral nerve stimulation therapy with the Nalu Neurostimulation System compared to conventional medical management in patients with chronic pain.",
+   "d": 1,
+   "m": false,
+   "tone": 0.217,
+   "h": 0.0,
+   "hits": [
+    [
+     167,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Received U.S. Food and Drug Administration 510(k) clearance for the Asurys\u2122 Fluid Management System, designed to provide real-time irrigation management during endoscopic urologic procedures; when used with the LithoVue\u2122 Elite Single-Use Flexible Ureteroscope System, it also supports intrarenal pressure (IRP) management during ureteroscopy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Completed the acquisition of\u202fValencia Technologies Corporation, a privately held company focused on the development and commercialization of the eCoin\u00ae System, an implantable tibial nerve stimulation device for the treatment of urge urinary incontinence.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Elected to the company's board of directors Cathy Smith, chief financial officer of Starbucks, and Christophe Weber, president and chief executive officer of Takeda Pharmaceutical.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
