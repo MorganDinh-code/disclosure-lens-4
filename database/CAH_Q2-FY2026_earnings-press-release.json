@@ -1,0 +1,170 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-02-05",
+ "source_url": "https://newsroom.cardinalhealth.com/2026-02-05-Cardinal-Health-Reports-Second-Quarter-Fiscal-Year-2026-Results-and-Raises-Outlook",
+ "demo": false,
+ "source_text": "Revenue increased 19% to $65.6 billion\nGAAP1 operating earnings increased 29% to $707 million; GAAP diluted EPS increased 19% to $1.97\nNon-GAAP operating earnings increased 38% to $877 million; non-GAAP diluted EPS increased 36% to $2.63\nCardinal Health raises fiscal year 2026 non-GAAP EPS guidance2 to $10.15 to $10.35\nCardinal Health completes annual baseline share repurchase of $750 million\nCardinal Health reaches targeted leverage range3\nDUBLIN, Ohio, Feb. 5, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported second quarter fiscal year 2026 revenues of $65.6 billion, an increase of 19% from the second quarter of fiscal year 2025. Second quarter GAAP operating earnings increased 29% to $707 million and GAAP diluted earnings per share (EPS) increased 19% to $1.97. Second quarter non-GAAP operating earnings increased 38% to $877 million. Non-GAAP diluted EPS increased 36% to $2.63, reflecting the increase in non-GAAP operating earnings and a lower share count, partially offset by an increase in interest and other expense due to financing costs related to previously announced acquisitions.\n\n\"Our strong second-quarter performance reflects at least double-digit segment profit growth across all five of our operating segments,\" said Jason Hollar, CEO of Cardinal Health. \"Our ongoing momentum and the team's consistent execution against our strategic priorities gives us confidence to raise our fiscal 2026 outlook.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.53125,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": -0.01080246913580247
+ },
+ "lexicon": {
+  "words": 192,
+  "per_1000": {
+   "Negative": 5.2,
+   "Positive": 5.2,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 1,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 19% to $65.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "GAAP1 operating earnings increased 29% to $707 million; GAAP diluted EPS increased 19% to $1.97.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Non-GAAP operating earnings increased 38% to $877 million; non-GAAP diluted EPS increased 36% to $2.63.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Cardinal Health raises fiscal year 2026 non-GAAP EPS guidance2 to $10.15 to $10.35.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Cardinal Health completes annual baseline share repurchase of $750 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Cardinal Health reaches targeted leverage range3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "DUBLIN, Ohio, Feb. 5, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported second quarter fiscal year 2026 revenues of $65.6 billion, an increase of 19% from the second quarter of fiscal year 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Second quarter GAAP operating earnings increased 29% to $707 million and GAAP diluted earnings per share (EPS) increased 19% to $1.97.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Second quarter non-GAAP operating earnings increased 38% to $877 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Non-GAAP diluted EPS increased 36% to $2.63, reflecting the increase in non-GAAP operating earnings and a lower share count, partially offset by an increase in interest and other expense due to financing costs related to previously announced acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\"Our strong second-quarter performance reflects at least double-digit segment profit growth across all five of our operating segments,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\"Our ongoing momentum and the team's consistent execution against our strategic priorities gives us confidence to raise our fiscal 2026 outlook.\"",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     65,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
