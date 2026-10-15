@@ -1,0 +1,900 @@
+{
+ "company": "EOG Resources, Inc.",
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-07",
+ "source_url": "https://investors.eogresources.com/2024-11-07-EOG-Resources-Reports-Third-Quarter-2024-Results-and-Raises-Regular-Dividend-7",
+ "demo": false,
+ "source_text": "Third Quarter Highlights\n\nVolumes and per-unit cash operating costs better than guidance midpoints\nUpdated full-year guidance to reflect higher volumes and lower per-unit cash operating costs\nEarned adjusted net income of $1.6 billion, or $2.89 per share\nGenerated $1.5 billion of free cash flow\nIncreased regular quarterly dividend by 7 percent to $0.975 per share, a $3.90 per share indicated annual rate\nRepurchased $758 million of shares, totaling $2.2 billion YTD as of September 30, 2024\n\nFrom Ezra Yacob, Chairman and Chief Executive Officer\n\"EOG delivered strong third quarter results, with oil volumes and total volumes better than expectations, demonstrating another quarter of outstanding execution across our multi-basin portfolio. Strong volumes and price realizations, combined with lower-than-expected per-unit cash operating costs, helped drive outstanding financial results in the quarter.\n\n\"EOG continues to generate significant free cash flow and deliver on its cash return commitments. In the third quarter, we returned approximately $1.3 billion of capital to shareholders, including $758 million of share repurchases. We are on track to return more than 85% of our expected full-year free cash flow to shareholders and have the potential for additional cash return over the balance of the year.\n\n\"We are pleased to announce a 7% increase in our regular dividend. The increase reflects both the confidence in our business and the ability to support the higher dividend through commodity price cycles. A sustainable growing regular dividend remains the primary mode of cash return to our shareholders. We also announced a $5 billion increase in our authorization for opportunistic share repurchases. This increased authorization allows us to retain flexibility on how we return additional cash to shareholders.\n\n\"EOG's balance sheet underpins the financial strength of the company and remains a strategic priority. The cash balance is expected to be consistent with levels maintained over the last several quarters. However, we anticipate increasing total debt by refinancing upcoming maturities to optimize EOG's capital structure.\n\n\"Our unique culture, focused on continuous improvement, is the key driver of our success. We continue to advance operational efficiencies and innovation to enhance productivity and reduce costs. Combined with EOG's peer-leading financial strength, the company is uniquely positioned to deliver long-term shareholder value through commodity price cycles.\"\n\nRegular Dividend, Share Repurchases, and Capital Structure\n\nRegular Dividend Increased 7% to $3.90 per Share Indicated Annual Rate\nThe Board of Directors today declared a dividend of $0.975 per share on EOG's common stock. The dividend will be payable January 31, 2025, to stockholders of record as of January 17, 2025. The new dividend represents an indicated annual rate of $3.90 per share, a 7% increase from the previous level. EOG has never suspended or reduced its regular dividend.\n\nThird Quarter Share Repurchases\nDuring the third quarter, the company repurchased 6.1 million shares for $758 million under its share repurchase authorization, at an average purchase price of $123 per share.\n\nShare Repurchase Authorization\nThe Board of Directors approved a $5 billion increase in the company's share repurchase authorization. The increased authorization is consistent with EOG's long-standing free cash flow priorities anchored on a stable and growing regular dividend, with additional cash return through opportunistic share repurchases and special dividends.\n\nAs of September 30, 2024, the company has repurchased 26.7 million shares for $3.2 billion and has an aggregate $6.8 billion remaining under its repurchase authorization.\n\nCapital Structure\nEOG plans to optimize its capital structure. The company anticipates refinancing debt maturities due in the next 12-18 months while maintaining a cash balance similar to the past several quarters.\n\nThird Quarter 2024 Financial Performance\n\nPrices\n\nCrude oil and NGL prices decreased in 3Q compared with 2Q, partially offset by an increase in natural gas prices from 2Q\nVolumes\n\nTotal 3Q oil production of 493,000 Bopd was above the midpoint of the guidance range and up from 2Q\nNGL production was above the midpoint of the guidance range and up 4% from 2Q\nNatural gas production was above the midpoint of the guidance range and up 5% from 2Q\nTotal company equivalent production was above the midpoint of the guidance range and increased 3% from 2Q\nPer-Unit Costs\n\nG&A, GP&T, and DD&A expenses increased in 3Q compared with 2Q, while LOE costs decreased\nHedges\n\nMark-to-market hedge gains increased GAAP earnings per share in 3Q compared with losses in 2Q\nCash received to settle hedges decreased from 2Q, lowering adjusted non-GAAP earnings per share\nFree Cash Flow\n\nCash flow from operations before changes in working capital was $3.0 billion\nEOG incurred $1.5 billion of capital expenditures\nFree cash flow was $1.5 billion\nCash Return and Working Capital\n\nPaid $533 million in regular dividends\nRepurchased $758 million of stock\nThird Quarter 2024 Operating Performance\n\nLease and Well\n\nQoQ: Decreased primarily due to lower water handling expenses and workover expenses\nGuidance Midpoint: Lower primarily due to lower workover expenses and fuel costs\nGathering, Processing and Transportation Costs\n\nQoQ: Increased primarily due to higher oil transportation expenses\nGuidance Midpoint: Lower primarily due to lower compression-related fuel costs\nGeneral and Administrative\n\nQoQ: Flat\nGuidance Midpoint: Lower due to lower employee-related expenses and professional fees\nDepreciation, Depletion and Amortization\n\nQoQ: Increased primarily due to an adjustment in 3Q related to non-operated royalty interests and the impact of reserve revisions.\nGuidance Midpoint: Higher primarily due to an adjustment in 3Q related to non-operated royalty interests and the impact of reserve revisions.\n \n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 72,
+  "n_material_neg": 3,
+  "n_positive": 19,
+  "mean_pos_negative": 0.6620370370370371,
+  "mean_pos_positive": 0.4904970760233918,
+  "placement_asymmetry": 0.17153996101364527,
+  "distance_from_headline": 40,
+  "first_negative_pos": 0.5833333333333334,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8333333333333334,
+  "overall_hedge": 0.003468208092485549,
+  "mean_tone": 0.05317669448104231
+ },
+ "lexicon": {
+  "words": 865,
+  "per_1000": {
+   "Negative": 5.8,
+   "Positive": 17.3,
+   "Uncertainty": 3.5,
+   "Litigious": 0.0,
+   "Strong modal": 2.3,
+   "Weak modal": 0.0,
+   "Constraining": 1.2
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 15,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Third Quarter Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Volumes and per-unit cash operating costs better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Updated full-year guidance to reflect higher volumes and lower per-unit cash operating costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Earned adjusted net income of $1.6 billion, or $2.89 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Generated $1.5 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Increased regular quarterly dividend by 7 percent to $0.975 per share, a $3.90 per share indicated annual rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Repurchased $758 million of shares, totaling $2.2 billion YTD as of September 30, 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "From Ezra Yacob, Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"EOG delivered strong third quarter results, with oil volumes and total volumes better than expectations, demonstrating another quarter of outstanding execution across our multi-basin portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Strong volumes and price realizations, combined with lower-than-expected per-unit cash operating costs, helped drive outstanding financial results in the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\"EOG continues to generate significant free cash flow and deliver on its cash return commitments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     96,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "In the third quarter, we returned approximately $1.3 billion of capital to shareholders, including $758 million of share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     34,
+     47,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We are on track to return more than 85% of our expected full-year free cash flow to shareholders and have the potential for additional cash return over the balance of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\"We are pleased to announce a 7% increase in our regular dividend.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The increase reflects both the confidence in our business and the ability to support the higher dividend through commodity price cycles.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "A sustainable growing regular dividend remains the primary mode of cash return to our shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "We also announced a $5 billion increase in our authorization for opportunistic share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "This increased authorization allows us to retain flexibility on how we return additional cash to shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "\"EOG's balance sheet underpins the financial strength of the company and remains a strategic priority.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     53,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "The cash balance is expected to be consistent with levels maintained over the last several quarters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "However, we anticipate increasing total debt by refinancing upcoming maturities to optimize EOG's capital structure.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "\"Our unique culture, focused on continuous improvement, is the key driver of our success.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     54,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "We continue to advance operational efficiencies and innovation to enhance productivity and reduce costs.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     47,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     62,
+     [
+      "positive"
+     ]
+    ],
+    [
+     66,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Combined with EOG's peer-leading financial strength, the company is uniquely positioned to deliver long-term shareholder value through commodity price cycles.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     43,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Regular Dividend, Share Repurchases, and Capital Structure",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Regular Dividend Increased 7% to $3.90 per Share Indicated Annual Rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Board of Directors today declared a dividend of $0.975 per share on EOG's common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The dividend will be payable January 31, 2025, to stockholders of record as of January 17, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "The new dividend represents an indicated annual rate of $3.90 per share, a 7% increase from the previous level.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "EOG has never suspended or reduced its regular dividend.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     13,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     14,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Third Quarter Share Repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "During the third quarter, the company repurchased 6.1 million shares for $758 million under its share repurchase authorization, at an average purchase price of $123 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Share Repurchase Authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The Board of Directors approved a $5 billion increase in the company's share repurchase authorization.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "The increased authorization is consistent with EOG's long-standing free cash flow priorities anchored on a stable and growing regular dividend, with additional cash return through opportunistic share repurchases and special dividends.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     113,
+     [
+      "positive"
+     ]
+    ],
+    [
+     180,
+     193,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "As of September 30, 2024, the company has repurchased 26.7 million shares for $3.2 billion and has an aggregate $6.8 billion remaining under its repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Capital Structure.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "EOG plans to optimize its capital structure.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The company anticipates refinancing debt maturities due in the next 12-18 months while maintaining a cash balance similar to the past several quarters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     12,
+     23,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Third Quarter 2024 Financial Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Prices",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Crude oil and NGL prices decreased in 3Q compared with 2Q, partially offset by an increase in natural gas prices from 2Q.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Volumes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Total 3Q oil production of 493,000 Bopd was above the midpoint of the guidance range and up from 2Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "NGL production was above the midpoint of the guidance range and up 4% from 2Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Natural gas production was above the midpoint of the guidance range and up 5% from 2Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Total company equivalent production was above the midpoint of the guidance range and increased 3% from 2Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Per-Unit Costs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "G&A, GP&T, and DD&A expenses increased in 3Q compared with 2Q, while LOE costs decreased.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "Hedges",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "Mark-to-market hedge gains increased GAAP earnings per share in 3Q compared with losses in 2Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     87,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "Cash received to settle hedges decreased from 2Q, lowering adjusted non-GAAP earnings per share.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "Free Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "Cash flow from operations before changes in working capital was $3.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 55,
+   "t": "EOG incurred $1.5 billion of capital expenditures.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 56,
+   "t": "Free cash flow was $1.5 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "Cash Return and Working Capital",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 58,
+   "t": "Paid $533 million in regular dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 59,
+   "t": "Repurchased $758 million of stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 60,
+   "t": "Third Quarter 2024 Operating Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 61,
+   "t": "Lease and Well",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "QoQ: Decreased primarily due to lower water handling expenses and workover expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "Guidance Midpoint: Lower primarily due to lower workover expenses and fuel costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 64,
+   "t": "Gathering, Processing and Transportation Costs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 65,
+   "t": "QoQ: Increased primarily due to higher oil transportation expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 66,
+   "t": "Guidance Midpoint: Lower primarily due to lower compression-related fuel costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "General and Administrative",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 68,
+   "t": "QoQ: Flat.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 69,
+   "t": "Guidance Midpoint: Lower due to lower employee-related expenses and professional fees.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 70,
+   "t": "Depreciation, Depletion and Amortization",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 71,
+   "t": "QoQ: Increased primarily due to an adjustment in 3Q related to non-operated royalty interests and the impact of reserve revisions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 72,
+   "t": "Guidance Midpoint: Higher primarily due to an adjustment in 3Q related to non-operated royalty interests and the impact of reserve revisions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
