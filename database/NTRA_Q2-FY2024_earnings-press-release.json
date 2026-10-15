@@ -1,0 +1,574 @@
+{
+ "company": "Natera, Inc.",
+ "ticker": "NTRA",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-08-08",
+ "source_url": "https://investor.natera.com/news/news-details/2024/Natera-Reports-Second-Quarter-2024-Financial-Results/",
+ "demo": false,
+ "source_text": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the second quarter ended June 30, 2024.\n\nRecent Strategic and Financial Highlights\n\nGenerated total revenues of $413.4 million in the second quarter of 2024, compared to $261.4 million in the second quarter of 2023, an increase of 58.1%. Product revenues grew 59.3% over the same period.\nGenerated a gross margin of 58.8% in the second quarter of 2024, compared to a gross margin of 45.2% in the second quarter of 2023.\nProcessed approximately 760,300 tests in the second quarter of 2024, compared to approximately 617,200 tests in the second quarter of 2023, an increase of 23.2%.\nPerformed approximately 125,400 oncology tests in the second quarter of 2024, compared to approximately 83,500 in the second quarter of 2023, an increase of 50.2%.\nAchieved positive cash flow of approximately $3.3 million 1 in the second quarter of 2024.\nLaunched a new feature for Prospera TM Heart, enhancing detection of rejection in heart transplant patients.\nPublished several peer-reviewed papers on Signatera TM in top journals.\nPresented new data at the American Society of Clinical Oncology (ASCO) 2024 Annual Meeting across a variety of indications, including breast cancer, colorectal cancer, lung cancer, melanoma, esophageal cancer, and urothelial cancer.\n\u201cOur second quarter financial results exceeded our expectations with incredibly strong performance in volume, revenue and gross margin,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe look forward to continuing this positive momentum in the second half of 2024 and supporting our patients with cutting-edge science, an innovative product portfolio, and excellent service that is core to our mission.\u201d\n\nSecond Quarter Ended June 30, 2024 Financial Results\n\nTotal revenues were $413.4 million in the second quarter of 2024 compared to $261.4 million in the second quarter of 2023, an increase of 58.1%. The increase in total revenues was driven primarily by a 59.3% increase in product revenues, which were $411.4 million in the second quarter of 2024 compared to $258.3 million in the second quarter of 2023. The increase in product revenues was primarily driven by an increase in volume, average selling price improvements, as well as cash receipts during the quarter related to tests delivered in prior periods that were fully collected.\n\nNatera processed approximately 760,300 tests in the second quarter of 2024, including approximately 744,000 tests accessioned in its laboratory, compared to approximately 617,200 tests processed, including approximately 599,000 tests accessioned in its laboratory, in the second quarter of 2023.\n\nIn the second quarter of 2024, Natera recognized revenue on approximately 725,200 tests for which results were reported to customers in the period (tests reported), including approximately 709,800 tests reported from its laboratory, compared to approximately 594,900 tests reported, including approximately 578,200 tests reported from its laboratory, in the second quarter of 2023, an increase of 21.9% from the prior period.\n\nGross profit 2 for the three months ended June 30, 2024 and 2023 was $243.2 million and $118.3 million, respectively, representing a gross margin of 58.8% and 45.2%, respectively. Natera had higher gross margin in the second quarter of 2024 primarily as a result of higher revenues, continuous progress in reducing cost of goods sold associated with tests processed, as well as incremental cash receipts during the quarter associated with tests delivered in prior periods that were fully collected. Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the second quarter of 2024 were $287.1 million, compared to $230.7 million in the same period of the prior year, an increase of 24.4%. The increase was primarily driven by headcount growth to support new product offerings as well as increases in consulting and legal expenses.\n\nLoss from operations for the second quarter of 2024 was $43.9 million compared to $112.4 million for the same period of the prior year.\n\nNatera reported a net loss for the second quarter of 2024 of $37.5 million, or ($0.30) per diluted share, compared to a net loss of $110.8 million, or ($0.97) per diluted share, for the same period in 2023. Weighted average shares outstanding were approximately 122.9 million in the second quarter of 2024 compared to 113.7 million in the second quarter of the prior year.\n\nAt June 30, 2024, Natera held approximately $887.1 million in cash, cash equivalents, short-term investments and restricted cash, compared to $879.0 million as of December 31, 2023. As of June 30, 2024, Natera had a total outstanding debt balance of $364.0 million, comprised of $80.4 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps and a net carrying amount of $283.6 million under its seven-year convertible senior notes issued in April 2020. The gross principal balance outstanding for the convertible senior notes was $287.5 million as of June 30, 2024.\n\nFinancial Outlook\n\nNatera anticipates 2024 total revenue of $1.49 billion to $1.52 billion; 2024 gross margin to be approximately 54% to 56% of revenues; selling, general and administrative costs to be approximately $700 million to $750 million; research and development costs to be $350 million to $375 million; and net cash (outflow) inflow to be ($25) million to $25 million 3 .\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 29,
+  "n_material_neg": 2,
+  "n_positive": 6,
+  "mean_pos_negative": 0.7758620689655172,
+  "mean_pos_positive": 0.4827586206896552,
+  "placement_asymmetry": 0.29310344827586204,
+  "distance_from_headline": 20,
+  "first_negative_pos": 0.7586206896551724,
+  "hedge_near_negative": 0.006578947368421052,
+  "hedge_near_positive": 0.006734006734006735,
+  "hedging_asymmetry": 0.9769736842105262,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4494047619047619,
+  "overall_hedge": 0.02461139896373057,
+  "mean_tone": 0.03207308564451422
+ },
+ "lexicon": {
+  "words": 772,
+  "per_1000": {
+   "Negative": 5.2,
+   "Positive": 13.0,
+   "Uncertainty": 24.6,
+   "Litigious": 1.3,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 10,
+   "Uncertainty": 19,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the second quarter ended June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Recent Strategic and Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated total revenues of $413.4 million in the second quarter of 2024, compared to $261.4 million in the second quarter of 2023, an increase of 58.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Product revenues grew 59.3% over the same period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Generated a gross margin of 58.8% in the second quarter of 2024, compared to a gross margin of 45.2% in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Processed approximately 760,300 tests in the second quarter of 2024, compared to approximately 617,200 tests in the second quarter of 2023, an increase of 23.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     81,
+     94,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Performed approximately 125,400 oncology tests in the second quarter of 2024, compared to approximately 83,500 in the second quarter of 2023, an increase of 50.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     90,
+     103,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieved positive cash flow of approximately $3.3 million 1 in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Launched a new feature for Prospera TM Heart, enhancing detection of rejection in heart transplant patients.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     55,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     78,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Published several peer-reviewed papers on Signatera TM in top journals.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Presented new data at the American Society of Clinical Oncology (ASCO) 2024 Annual Meeting across a variety of indications, including breast cancer, colorectal cancer, lung cancer, melanoma, esophageal cancer, and urothelial cancer. \u201cOur second quarter financial results exceeded our expectations with incredibly strong performance in volume, revenue and gross margin,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe look forward to continuing this positive momentum in the second half of 2024 and supporting our patients with cutting-edge science, an innovative product portfolio, and excellent service that is core to our mission.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.549,
+   "h": 0.0,
+   "hits": [
+    [
+     302,
+     312,
+     [
+      "positive"
+     ]
+    ],
+    [
+     313,
+     319,
+     [
+      "positive"
+     ]
+    ],
+    [
+     461,
+     469,
+     [
+      "positive"
+     ]
+    ],
+    [
+     564,
+     574,
+     [
+      "positive"
+     ]
+    ],
+    [
+     598,
+     607,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Second Quarter Ended June 30, 2024 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Total revenues were $413.4 million in the second quarter of 2024 compared to $261.4 million in the second quarter of 2023, an increase of 58.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The increase in total revenues was driven primarily by a 59.3% increase in product revenues, which were $411.4 million in the second quarter of 2024 compared to $258.3 million in the second quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase in product revenues was primarily driven by an increase in volume, average selling price improvements, as well as cash receipts during the quarter related to tests delivered in prior periods that were fully collected.",
+   "d": 1,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Natera processed approximately 760,300 tests in the second quarter of 2024, including approximately 744,000 tests accessioned in its laboratory, compared to approximately 617,200 tests processed, including approximately 599,000 tests accessioned in its laboratory, in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1212,
+   "hits": [
+    [
+     17,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     86,
+     99,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     157,
+     170,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     206,
+     219,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "In the second quarter of 2024, Natera recognized revenue on approximately 725,200 tests for which results were reported to customers in the period (tests reported), including approximately 709,800 tests reported from its laboratory, compared to approximately 594,900 tests reported, including approximately 578,200 tests reported from its laboratory, in the second quarter of 2023, an increase of 21.9% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0741,
+   "hits": [
+    [
+     60,
+     73,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     175,
+     188,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     245,
+     258,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     293,
+     306,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Gross profit 2 for the three months ended June 30, 2024 and 2023 was $243.2 million and $118.3 million, respectively, representing a gross margin of 58.8% and 45.2%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Natera had higher gross margin in the second quarter of 2024 primarily as a result of higher revenues, continuous progress in reducing cost of goods sold associated with tests processed, as well as incremental cash receipts during the quarter associated with tests delivered in prior periods that were fully collected.",
+   "d": 1,
+   "m": false,
+   "tone": 0.204,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the second quarter of 2024 were $287.1 million, compared to $230.7 million in the same period of the prior year, an increase of 24.4%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase was primarily driven by headcount growth to support new product offerings as well as increases in consulting and legal expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     126,
+     131,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Loss from operations for the second quarter of 2024 was $43.9 million compared to $112.4 million for the same period of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Natera reported a net loss for the second quarter of 2024 of $37.5 million, or ($0.30) per diluted share, compared to a net loss of $110.8 million, or ($0.97) per diluted share, for the same period in 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     124,
+     128,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Weighted average shares outstanding were approximately 122.9 million in the second quarter of 2024 compared to 113.7 million in the second quarter of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "At June 30, 2024, Natera held approximately $887.1 million in cash, cash equivalents, short-term investments and restricted cash, compared to $879.0 million as of December 31, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     30,
+     43,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     113,
+     123,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "As of June 30, 2024, Natera had a total outstanding debt balance of $364.0 million, comprised of $80.4 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps and a net carrying amount of $283.6 million under its seven-year convertible senior notes issued in April 2020.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0192,
+   "hits": [
+    [
+     177,
+     185,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The gross principal balance outstanding for the convertible senior notes was $287.5 million as of June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Financial Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Natera anticipates 2024 total revenue of $1.49 billion to $1.52 billion; 2024 gross margin to be approximately 54% to 56% of revenues; selling, general and administrative costs to be approximately $700 million to $750 million; research and development costs to be $350 million to $375 million; and net cash (outflow) inflow to be ($25) million to $25 million 3 .",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0652,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     97,
+     110,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     183,
+     196,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
