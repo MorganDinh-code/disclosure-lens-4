@@ -7,7 +7,7 @@
  "date": "2026-10-30",
  "source_url": "https://newsroom.cardinalhealth.com/2025-10-30-Cardinal-Health-Reports-First-Quarter-Fiscal-Year-2026-Results-and-Raises-Outlook",
  "demo": false,
- "source_text": "Revenue increased 22% to $64 billion\nGAAP1 operating earnings increased 18% to $668 million; GAAP diluted EPS increased 11% to $1.88\nNon-GAAP operating earnings increased 37% to $857 million, driven by segment profit growth across all five of the company's operating segments; non-GAAP diluted EPS increased 36% to $2.55\nCardinal Health raises fiscal year 2026 non-GAAP EPS guidance2 to $9.65 to $9.85 and fiscal year 2026 non-GAAP adjusted free cash flow outlook to $3.0 to $3.5 billion\nCardinal Health anticipates completing the acquisition of Solaris Health in early November\nDUBLIN, Ohio, Oct. 30, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported first quarter fiscal year 2026 revenues of $64 billion, an increase of 22% from the first quarter of fiscal year 2025. First quarter GAAP operating earnings increased 18% to $668 million and GAAP diluted earnings per share (EPS) increased 11% to $1.88. First quarter non-GAAP operating earnings increased 37% to $857 million, driven by segment profit growth across all five of the company's operating segments. Non-GAAP diluted EPS increased 36% to $2.55, reflecting the increase in non-GAAP operating earnings, a lower share count and a lower effective tax rate, partially offset by an increase in interest and other expense due to financing costs related to announced acquisitions.\n\n\"We are pleased with our strong broad-based operational and financial performance to begin fiscal 2026,\" said Jason Hollar, CEO of Cardinal Health. \"This outstanding first quarter reflects our focused execution across each of our operating segments and provides a solid foundation as we carry forward. As a result, we are raising our fiscal 2026 outlook.\"\n\n",
+ "source_text": "Revenue increased 22% to $64 billion\nGAAP1 operating earnings increased 18% to $668 million; GAAP diluted EPS increased 11% to $1.88\nNon-GAAP operating earnings increased 37% to $857 million, driven by segment profit growth across all five of the company's operating segments; non-GAAP diluted EPS increased 36% to $2.55\nCardinal Health raises fiscal year 2026 non-GAAP EPS guidance2 to $9.65 to $9.85 and fiscal year 2026 non-GAAP adjusted free cash flow outlook to $3.0 to $3.5 billion\n\nCardinal Health anticipates completing the acquisition of Solaris Health in early November\nDUBLIN, Ohio, Oct. 30, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported first quarter fiscal year 2026 revenues of $64 billion, an increase of 22% from the first quarter of fiscal year 2025. First quarter GAAP operating earnings increased 18% to $668 million and GAAP diluted earnings per share (EPS) increased 11% to $1.88. First quarter non-GAAP operating earnings increased 37% to $857 million, driven by segment profit growth across all five of the company's operating segments. Non-GAAP diluted EPS increased 36% to $2.55, reflecting the increase in non-GAAP operating earnings, a lower share count and a lower effective tax rate, partially offset by an increase in interest and other expense due to financing costs related to announced acquisitions.\n\n\n\"We are pleased with our strong broad-based operational and financial performance to begin fiscal 2026,\" said Jason Hollar, CEO of Cardinal Health. \"This outstanding first quarter reflects our focused execution across each of our operating segments and provides a solid foundation as we carry forward. As a result, we are raising our fiscal 2026 outlook.\"\n\n",
  "boilerplate_paragraphs_removed": 0,
  "summary": {
   "n_sentences": 12,
@@ -16,7 +16,7 @@
   "mean_pos_negative": 0.75,
   "mean_pos_positive": 0.375,
   "placement_asymmetry": 0.375,
-  "distance_from_headline": -1,
+  "distance_from_headline": 4,
   "first_negative_pos": 0.75,
   "hedge_near_negative": 0.0,
   "hedge_near_positive": 0.002976190476190476,
@@ -77,7 +77,7 @@
   },
   {
    "i": 4,
-   "t": "Cardinal Health raises fiscal year 2026 non-GAAP EPS guidance2 to $9.65 to $9.85 and fiscal year 2026 non-GAAP adjusted free cash flow outlook to $3.0 to $3.5 billion.",
+   "t": "Cardinal Health raises fiscal year 2026 non-GAAP EPS guidance2 to $9.65 to $9.85 and fiscal year 2026 non-GAAP adjusted free cash flow outlook to $3.0 to $3.5 billion",
    "d": 0,
    "m": false,
    "tone": 0.0,
