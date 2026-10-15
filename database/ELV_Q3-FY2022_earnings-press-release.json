@@ -1,0 +1,714 @@
+{
+ "company": "Elevance Health",
+ "ticker": "ELV",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2022",
+ "date": "2022-10-19",
+ "source_url": "https://www.elevancehealth.com/newsroom/elv-quarterly-earnings-q3-2022",
+ "demo": false,
+ "source_text": "Third quarter GAAP net income was $6.68 per share, including net negative adjustment items of $0.85 per share.  Adjusted net income was $7.53* per share.\n\nOperating revenue grew 11.5% over the prior year quarter to $39.6 billion.\n\nOperating gain grew 10.2% over the prior year quarter to $2.3 billion.\n\nMedical enrollment increased 2.2 million members year-over-year and 232 thousand members during the quarter to 47.3 million members.\n\nFourth quarter 2022 dividend of $1.28 per share declared to shareholders.\nIndianapolis, Ind. - October 19, 2022 - Elevance Health, Inc. (NYSE: ELV) reported third quarter 2022 results reflecting strong financial performance, including double-digit growth in revenue, operating earnings, and adjusted earnings per share.\n\n\u201cBroad based momentum across Elevance Health continued in the third quarter, driven by the focused execution of our strategy and the dedication of our over 100,000 associates,\u201d said Gail K. Boudreaux, President and CEO. \u201cWe are united in our purpose to improve the health of humanity, and I am proud of the work our associates are doing to support their colleagues and communities so tragically impacted by the recent hurricanes in Florida and Puerto Rico. It\u2019s in times such as these that our culture shines through.\u201d\n\nAs a result of stronger than expected results for the first nine months of the year, the Company now expects GAAP net income to be greater than $25.33 per share, including approximately $3.62 per share of net unfavorable adjustment items.  The Company now expects full-year adjusted net income to be greater than $28.95 per share.\n\n*Refer to GAAP reconciliation tables.\n\nConsolidated Highlights\nEarnings Per Share: GAAP net income was $6.68 per share in the third quarter, including net negative adjustment items of $0.85 per share. Adjusted net income was $7.53* per share, reflecting growth of 10.9% from $6.79 in the same period a year ago.\n\n*Please refer to the GAAP reconciliation tables.\n\nMembership: Medical membership totaled approximately 47.3 million as of September 30, 2022, an increase of 2.2 million, or 4.9 percent year-over-year. Commercial & Specialty Business membership increased by 1.2 million year-over-year driven by strong sales to fee-based employers. Government Business membership increased by 1.0 million compared to the prior year quarter, driven primarily by growth in the Medicaid business, the acquisitions of Paramount Advantage and Integra Managed Care, and organic growth in Medicare Advantage.\n\nDuring the third quarter of 2022, medical membership increased by 232 thousand driven by organic growth in Medicaid, which we attribute primarily to the suspension of eligibility recertification, and organic growth in our commercial fee-based membership.\n\nOperating Revenue: Operating revenue was $39.6 billion in the third quarter of 2022, an increase of $4.1 billion, or 11.5 percent year-over-year. The increase was driven by higher premium revenue due to membership growth in Medicaid, including the acquisitions of Integra Managed Care and Paramount Advantage, growth in Medicare Advantage and commercial risk-based membership, as well as premium rate increases to cover overall cost trends.  The increase in operating revenue was further attributable to the growth in pharmacy product revenue within IngenioRx related to growth in membership and higher utilization of prescription drugs.\n\nBenefit Expense Ratio: The benefit expense ratio was 87.2 percent in the third quarter of 2022, a decrease of 50 basis points year-over-year. The decrease was primarily driven by the realignment of certain quality improvement costs to match recent regulatory clarifications.  Excluding the realignment, our benefit expense ratio would have been approximately flat year-over-year. \n\nMedical claims reserves established at December 31, 2021 developed in line with the Company\u2019s expectations as of the third quarter of 2022.\n\nDays in Claims Payable: Days in Claims Payable was 47.7 days as of September 30, 2022, a decrease of 0.1 days from June 30, 2022 and an increase of 0.9 days compared to September 30, 2021.\n\nSG&A Expense Ratio: The SG&A expense ratio was 11.4 percent in the third quarter of 2022, an increase of 30 basis points from 11.1 percent in the third quarter of 2021. The increase was primarily driven by increased spend to support growth in operations and the realignment of certain quality improvement expenses out of benefit expense and into SG&A expense, partially offset by operating expense leverage associated with growth in operating revenue.\n\nOperating Cash Flow: Operating cash flow was approximately $4.9 billion, or 3.1 times net income in the third quarter of 2022, an increase of $2.4 billion as compared to the prior year quarter. The year-on-year increase was driven by the timing of CMS payments received in the current quarter, partially offset by the BCBSA litigation settlement payment that occurred in the third quarter of 2022.\n\nShare Repurchase Program: During the third quarter of 2022, the Company repurchased 1.2 million shares of its common stock for $579 million, at a weighted average price of $476.70. Year-to-date, as of the end of the third quarter, the Company repurchased 3.7 million shares of its common stock for $1.7 billion, at a weighted average price of $473.36.  As of September 30, 2022, the Company had approximately $2.4 billion of Board-approved share repurchase authorization remaining.\n\nCash Dividend: During the third quarter of 2022, the Company paid a quarterly dividend of $1.28 per share, representing a distribution of cash totaling $306 million.\n\nOn October 18, 2022, the Audit Committee of the Company's Board of Directors declared a fourth quarter 2022 dividend to shareholders of $1.28 per share. The fourth quarter dividend is payable on December 21, 2022, to shareholders of record at the close of business on December 5, 2022.\n\nInvestment Portfolio & Capital Position: During the third quarter of 2022, the Company recorded net losses of $57 million. During the third quarter of 2021, the Company recorded net losses of $61 million. These amounts are excluded from adjusted earnings per share.\n\nAs of September 30, 2022, the Company\u2019s net unrealized loss position in the investment portfolio was $2.8 billion, consisting primarily of fixed maturity securities. As of September 30, 2022, cash and investments at the parent company totaled approximately $1.0 billion.\n\nReportable Segments\nElevance Health has four reportable segments: Commercial & Specialty Business (comprised of Individual, Group risk-based, Group fee-based, and BlueCard businesses); Government Business (comprised of the Medicaid, Medicare, and Federal Health Products & Services businesses); IngenioRx; and Other (comprised of the Carelon companies, formerly known as our Diversified Business Group, and corporate expenses not allocated to our other reportable segments).",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 44,
+  "n_material_neg": 4,
+  "n_positive": 14,
+  "mean_pos_negative": 0.8465909090909091,
+  "mean_pos_positive": 0.400974025974026,
+  "placement_asymmetry": 0.4456168831168831,
+  "distance_from_headline": 28,
+  "first_negative_pos": 0.7045454545454546,
+  "hedge_near_negative": 0.008555381400208987,
+  "hedge_near_positive": 0.0059476369861809235,
+  "hedging_asymmetry": 1.4384505006084003,
+  "framing_ratio": 0.2,
+  "mean_tone_gap_on_negatives": 0.6679292929292929,
+  "overall_hedge": 0.01131687242798354,
+  "mean_tone": -0.025535150731075495
+ },
+ "lexicon": {
+  "words": 972,
+  "per_1000": {
+   "Negative": 12.3,
+   "Positive": 11.3,
+   "Uncertainty": 9.3,
+   "Litigious": 6.2,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 12,
+   "Positive": 11,
+   "Uncertainty": 9,
+   "Litigious": 6,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Third quarter GAAP net income was $6.68 per share, including net negative adjustment items of $0.85 per share.",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     73,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Adjusted net income was $7.53* per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Operating revenue grew 11.5% over the prior year quarter to $39.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating gain grew 10.2% over the prior year quarter to $2.3 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Medical enrollment increased 2.2 million members year-over-year and 232 thousand members during the quarter to 47.3 million members.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Fourth quarter 2022 dividend of $1.28 per share declared to shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Indianapolis, Ind. - October 19, 2022 - Elevance Health, Inc. (NYSE: ELV) reported third quarter 2022 results reflecting strong financial performance, including double-digit growth in revenue, operating earnings, and adjusted earnings per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     121,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "\u201cBroad based momentum across Elevance Health continued in the third quarter, driven by the focused execution of our strategy and the dedication of our over 100,000 associates,\u201d said Gail K.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Boudreaux, President and CEO. \u201cWe are united in our purpose to improve the health of humanity, and I am proud of the work our associates are doing to support their colleagues and communities so tragically impacted by the recent hurricanes in Florida and Puerto Rico.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     70,
+     [
+      "positive"
+     ]
+    ],
+    [
+     194,
+     204,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "It\u2019s in times such as these that our culture shines through.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "As a result of stronger than expected results for the first nine months of the year, the Company now expects GAAP net income to be greater than $25.33 per share, including approximately $3.62 per share of net unfavorable adjustment items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     15,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     172,
+     185,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     209,
+     220,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "The Company now expects full-year adjusted net income to be greater than $28.95 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Consolidated Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Earnings Per Share: GAAP net income was $6.68 per share in the third quarter, including net negative adjustment items of $0.85 per share.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     92,
+     100,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Adjusted net income was $7.53* per share, reflecting growth of 10.9% from $6.79 in the same period a year ago.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Membership: Medical membership totaled approximately 47.3 million as of September 30, 2022, an increase of 2.2 million, or 4.9 percent year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     39,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Commercial & Specialty Business membership increased by 1.2 million year-over-year driven by strong sales to fee-based employers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Government Business membership increased by 1.0 million compared to the prior year quarter, driven primarily by growth in the Medicaid business, the acquisitions of Paramount Advantage and Integra Managed Care, and organic growth in Medicare Advantage.",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     175,
+     184,
+     [
+      "positive"
+     ]
+    ],
+    [
+     242,
+     251,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "During the third quarter of 2022, medical membership increased by 232 thousand driven by organic growth in Medicaid, which we attribute primarily to the suspension of eligibility recertification, and organic growth in our commercial fee-based membership.",
+   "d": 1,
+   "m": false,
+   "tone": -0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     153,
+     163,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Operating Revenue: Operating revenue was $39.6 billion in the third quarter of 2022, an increase of $4.1 billion, or 11.5 percent year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase was driven by higher premium revenue due to membership growth in Medicaid, including the acquisitions of Integra Managed Care and Paramount Advantage, growth in Medicare Advantage and commercial risk-based membership, as well as premium rate increases to cover overall cost trends.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0227,
+   "hits": [
+    [
+     153,
+     162,
+     [
+      "positive"
+     ]
+    ],
+    [
+     183,
+     192,
+     [
+      "positive"
+     ]
+    ],
+    [
+     208,
+     212,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "The increase in operating revenue was further attributable to the growth in pharmacy product revenue within IngenioRx related to growth in membership and higher utilization of prescription drugs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Benefit Expense Ratio: The benefit expense ratio was 87.2 percent in the third quarter of 2022, a decrease of 50 basis points year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "The decrease was primarily driven by the realignment of certain quality improvement costs to match recent regulatory clarifications.",
+   "d": -1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0556,
+   "hits": [
+    [
+     72,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     116,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     117,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Excluding the realignment, our benefit expense ratio would have been approximately flat year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     69,
+     82,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Medical claims reserves established at December 31, 2021 developed in line with the Company\u2019s expectations as of the third quarter of 2022.",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     14,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Days in Claims Payable: Days in Claims Payable was 47.7 days as of September 30, 2022, a decrease of 0.1 days from June 30, 2022 and an increase of 0.9 days compared to September 30, 2021.",
+   "d": 0,
+   "m": false,
+   "tone": -0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     14,
+     [
+      "negative",
+      "litigious"
+     ]
+    ],
+    [
+     32,
+     38,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "SG&A Expense Ratio: The SG&A expense ratio was 11.4 percent in the third quarter of 2022, an increase of 30 basis points from 11.1 percent in the third quarter of 2021.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The increase was primarily driven by increased spend to support growth in operations and the realignment of certain quality improvement expenses out of benefit expense and into SG&A expense, partially offset by operating expense leverage associated with growth in operating revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     124,
+     135,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Operating Cash Flow: Operating cash flow was approximately $4.9 billion, or 3.1 times net income in the third quarter of 2022, an increase of $2.4 billion as compared to the prior year quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     45,
+     58,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "The year-on-year increase was driven by the timing of CMS payments received in the current quarter, partially offset by the BCBSA litigation settlement payment that occurred in the third quarter of 2022.",
+   "d": -1,
+   "m": true,
+   "tone": -0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     130,
+     140,
+     [
+      "negative",
+      "litigious"
+     ]
+    ],
+    [
+     141,
+     151,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Share Repurchase Program: During the third quarter of 2022, the Company repurchased 1.2 million shares of its common stock for $579 million, at a weighted average price of $476.70.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Year-to-date, as of the end of the third quarter, the Company repurchased 3.7 million shares of its common stock for $1.7 billion, at a weighted average price of $473.36.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "As of September 30, 2022, the Company had approximately $2.4 billion of Board-approved share repurchase authorization remaining.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     42,
+     55,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Cash Dividend: During the third quarter of 2022, the Company paid a quarterly dividend of $1.28 per share, representing a distribution of cash totaling $306 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "On October 18, 2022, the Audit Committee of the Company's Board of Directors declared a fourth quarter 2022 dividend to shareholders of $1.28 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The fourth quarter dividend is payable on December 21, 2022, to shareholders of record at the close of business on December 5, 2022.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Investment Portfolio & Capital Position: During the third quarter of 2022, the Company recorded net losses of $57 million.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     106,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "During the third quarter of 2021, the Company recorded net losses of $61 million.",
+   "d": -1,
+   "m": true,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     65,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "These amounts are excluded from adjusted earnings per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "As of September 30, 2022, the Company\u2019s net unrealized loss position in the investment portfolio was $2.8 billion, consisting primarily of fixed maturity securities.",
+   "d": -1,
+   "m": true,
+   "tone": -0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     59,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "As of September 30, 2022, cash and investments at the parent company totaled approximately $1.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": [
+    [
+     77,
+     90,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Reportable Segments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Elevance Health has four reportable segments: Commercial & Specialty Business (comprised of Individual, Group risk-based, Group fee-based, and BlueCard businesses); Government Business (comprised of the Medicaid, Medicare, and Federal Health Products & Services businesses); IngenioRx; and Other (comprised of the Carelon companies, formerly known as our Diversified Business Group, and corporate expenses not allocated to our other reportable segments).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0169,
+   "hits": [
+    [
+     110,
+     114,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
