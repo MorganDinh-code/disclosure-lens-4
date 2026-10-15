@@ -1,0 +1,220 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2024-08-14",
+ "source_url": "https://newsroom.cardinalhealth.com/2024-08-14-Cardinal-Health-Reports-Fourth-Quarter-and-Fiscal-Year-2024-Results-and-Raises-Fiscal-Year-2025-Guidance",
+ "demo": false,
+ "source_text": "Fourth quarter revenue increased 12% to $59.9 billion\nFourth quarter GAAP1 operating earnings were $401 million and GAAP diluted EPS was $0.96\nFourth quarter non-GAAP operating earnings increased 14% to $605 million and non-GAAP diluted EPS increased 29% to $1.84\nFiscal Year 2024 operating cash flow and adjusted free cash flow reached all-time highs of $3.8 billion and $3.9 billion, respectively\nFiscal year 2025 non-GAAP EPS guidance raised to $7.55 to $7.70, from at least $7.50\nDUBLIN, Ohio, Aug. 14, 2024 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported fourth quarter fiscal year 2024 revenues of $59.9 billion, an increase of 12% from the prior year. GAAP operating earnings were $401 million and GAAP diluted earnings per share (EPS) were $0.96. Non-GAAP operating earnings increased 14% to $605 million, driven primarily by segment profit increases in Global Medical Products and Distribution (GMPD) and Pharmaceutical and Specialty Solutions. Non-GAAP diluted earnings per share (EPS) increased 29% to $1.84 in the quarter, reflecting the increase in non-GAAP operating earnings across the business, lower interest and other expense, a lower non-GAAP effective tax rate and a lower share count.\n\nFiscal year 2024 revenues were $226.8 billion, an 11% increase from fiscal year 2023. GAAP operating earnings were $1.2 billion and GAAP diluted EPS was $3.45. Non-GAAP operating earnings increased 16% to $2.4 billion, driven primarily by segment profit increases in GMPD and Pharmaceutical and Specialty Solutions. Non-GAAP diluted EPS increased 29% to $7.53 for the year, reflecting the increase in non-GAAP operating earnings across the business, lower interest and other expense, a lower non-GAAP effective tax rate and a lower share count following in-year share repurchases.\n\n\"Fiscal 2024 marked a year of strong operational execution and record financial results, delivered in tandem with key strategic progress in the portfolio,\" said Jason Hollar, CEO of Cardinal Health. \"We delivered robust cash flow generation, continued profit growth in the Pharmaceutical and Specialty Solutions segment and significant improvement driven by our GMPD Improvement Plan. We enter the new fiscal year with momentum and confidence, evidenced by our raised fiscal year 2025 guidance.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 0,
+  "n_positive": 10,
+  "mean_pos_positive": 0.56875,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.09310344827586207
+ },
+ "lexicon": {
+  "words": 320,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 12.5,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Fourth quarter revenue increased 12% to $59.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth quarter GAAP1 operating earnings were $401 million and GAAP diluted EPS was $0.96.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Fourth quarter non-GAAP operating earnings increased 14% to $605 million and non-GAAP diluted EPS increased 29% to $1.84.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Fiscal Year 2024 operating cash flow and adjusted free cash flow reached all-time highs of $3.8 billion and $3.9 billion, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Fiscal year 2025 non-GAAP EPS guidance raised to $7.55 to $7.70, from at least $7.50.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "DUBLIN, Ohio, Aug. 14, 2024 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported fourth quarter fiscal year 2024 revenues of $59.9 billion, an increase of 12% from the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "GAAP operating earnings were $401 million and GAAP diluted earnings per share (EPS) were $0.96.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Non-GAAP operating earnings increased 14% to $605 million, driven primarily by segment profit increases in Global Medical Products and Distribution (GMPD) and Pharmaceutical and Specialty Solutions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Non-GAAP diluted earnings per share (EPS) increased 29% to $1.84 in the quarter, reflecting the increase in non-GAAP operating earnings across the business, lower interest and other expense, a lower non-GAAP effective tax rate and a lower share count.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fiscal year 2024 revenues were $226.8 billion, an 11% increase from fiscal year 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "GAAP operating earnings were $1.2 billion and GAAP diluted EPS was $3.45.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Non-GAAP operating earnings increased 16% to $2.4 billion, driven primarily by segment profit increases in GMPD and Pharmaceutical and Specialty Solutions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Non-GAAP diluted EPS increased 29% to $7.53 for the year, reflecting the increase in non-GAAP operating earnings across the business, lower interest and other expense, a lower non-GAAP effective tax rate and a lower share count following in-year share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\"Fiscal 2024 marked a year of strong operational execution and record financial results, delivered in tandem with key strategic progress in the portfolio,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     128,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\"We delivered robust cash flow generation, continued profit growth in the Pharmaceutical and Specialty Solutions segment and significant improvement driven by our GMPD Improvement Plan.",
+   "d": 1,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     148,
+     [
+      "positive"
+     ]
+    ],
+    [
+     168,
+     179,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We enter the new fiscal year with momentum and confidence, evidenced by our raised fiscal year 2025 guidance.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
