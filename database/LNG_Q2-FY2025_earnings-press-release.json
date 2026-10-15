@@ -1,0 +1,487 @@
+{
+ "company": "Cheniere Energy, Inc.",
+ "ticker": "LNG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-08-07",
+ "source_url": "https://cqpir.cheniere.com/news-presentations/press-releases/detail/260/cheniere-partners-reports-second-quarter-2025-results-and",
+ "demo": false,
+ "source_text": "HIGHLIGHTS\n\nDuring the three and six months ended June 30, 2025, Cheniere Partners generated revenues of $2.5 billion and $5.4 billion, net income of $553 million and $1.2 billion, and Adjusted EBITDA1 of $0.7 billion and $1.8 billion, respectively.\nWith respect to the second quarter of 2025, Cheniere Partners declared a cash distribution of $0.820 per common unit to unitholders of record as of August 8, 2025, comprised of a base amount equal to $0.775 and a variable amount equal to $0.045. The common unit distribution and the related general partner distribution will be paid on August 14, 2025.\nReconfirming full year 2025 distribution guidance of $3.25 - $3.35 per common unit, maintaining a base distribution of $3.10 per common unit.\nIn June 2025, certain subsidiaries of Cheniere Partners updated the SPL Expansion Project\u2019s (defined below) application with the Federal Energy Regulatory Commission (\u201cFERC\u201d) to reflect a two-phased project, inclusive of three liquefaction trains and supporting infrastructure, maintaining an expected total peak production capacity of up to approximately 20 million tonnes per annum (\u201cmtpa\u201d) of liquefied natural gas (\u201cLNG\u201d), inclusive of estimated debottlenecking opportunities.\nIn July 2025, Cheniere Partners produced and loaded its 3,000th LNG cargo since commencing export operations at the Sabine Pass LNG terminal in February 2016.\n\nAs compared to the corresponding 2024 periods, net income decreased approximately $17 million and $58 million during the three and six months ended June 30, 2025, respectively, while Adjusted EBITDA1 decreased by approximately $106 million and $68 million during the three and six months ended June 30, 2025, respectively. The decreases for both periods were primarily attributable to planned maintenance activities during the three months ended June 30, 2025 resulting in higher operating expenses and lower volumes recognized in income during the period. The decreases were partially offset by higher gross margins per MMBtu of LNG delivered during the 2025 periods as compared to the corresponding 2024 periods.\n\nDuring the three and six months ended June 30, 2025, we recognized in income 351 and 756 TBtu, respectively, of LNG loaded from the SPL Project (defined below).\n\nRecent Key Financial Transactions and Updates\n\nIn July 2025, we issued $1.0 billion of aggregate principal amount of 5.550% Senior Notes due 2035, and the net proceeds, together with cash on hand, were used to redeem $1.0 billion of the aggregate principal amount of SPL\u2019s 5.875% Senior Secured Notes due 2026.\n\nDuring the six months ended June 30, 2025, SPL repaid the remaining $300 million in principal amount of its 5.625% Senior Secured Notes due 2025 with cash on hand.\n\nSABINE PASS OVERVIEW\n\nWe own natural gas liquefaction facilities with total production capacity of over 30 mtpa of LNG at the Sabine Pass LNG terminal in Cameron Parish, Louisiana (the \u201cSPL Project\u201d).\n\nAs of August 1, 2025, approximately 3,030 cumulative LNG cargoes totaling approximately 210 million tonnes of LNG have been produced, loaded, and exported from the SPL Project.\n\nSPL Expansion Project\n\nWe are developing an expansion adjacent to the SPL Project with an expected total peak production capacity of up to approximately 20 mtpa of LNG (the \u201cSPL Expansion Project\u201d), inclusive of estimated debottlenecking opportunities. In February 2024, certain of our subsidiaries submitted an application to the FERC for authorization to site, construct and operate the SPL Expansion Project, as well as an application to the Department of Energy (\u201cDOE\u201d) requesting authorization to export LNG to Free-Trade Agreement (\u201cFTA\u201d) and non-FTA countries, both of which applications exclude debottlenecking. In October 2024, we received authorization from the DOE to export LNG to FTA countries. In June 2025, the SPL Expansion Project\u2019s FERC application was updated to reflect a two-phased project, inclusive of three liquefaction trains and supporting infrastructure, maintaining an expected total peak production capacity of up to approximately 20 mtpa of LNG.\n\nDISTRIBUTIONS TO UNITHOLDERS\n\nIn July 2025, we declared a cash distribution of $0.820 per common unit to unitholders of record as of August 8, 2025, comprised of a base amount equal to $0.775 ($3.10 annualized) and a variable amount equal to $0.045, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of the business. The common unit distribution and the related general partner distribution will be paid on August 14, 2025.\n\nINVESTOR CONFERENCE CALL AND WEBCAST\n\nCheniere Energy, Inc. (NYSE: LNG) will host a conference call to discuss its financial and operating results for the second quarter 2025 on Thursday, August 7, 2025, at 11 a.m. Eastern time / 10 a.m. Central time. A listen-only webcast of the call and an accompanying slide presentation may be accessed through our website at www.cheniere.com. Following the call, an archived recording will be made available on our website. The call and accompanying slide presentation will include financial and operating results or other information regarding Cheniere Partners.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 1,
+  "n_positive": 3,
+  "mean_pos_negative": 0.25,
+  "mean_pos_positive": 0.6041666666666666,
+  "placement_asymmetry": -0.35416666666666663,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.25,
+  "hedge_near_negative": 0.021052631578947368,
+  "hedge_near_positive": 0.018017184075549277,
+  "hedging_asymmetry": 1.168475134109188,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.014686248331108143,
+  "mean_tone": 0.01443001443001443
+ },
+ "lexicon": {
+  "words": 749,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 2.7,
+   "Uncertainty": 14.7,
+   "Litigious": 1.3,
+   "Strong modal": 6.7,
+   "Weak modal": 1.3,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 2,
+   "Uncertainty": 11,
+   "Litigious": 1,
+   "Strong modal": 5,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HIGHLIGHTS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "During the three and six months ended June 30, 2025, Cheniere Partners generated revenues of $2.5 billion and $5.4 billion, net income of $553 million and $1.2 billion, and Adjusted EBITDA1 of $0.7 billion and $1.8 billion, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "With respect to the second quarter of 2025, Cheniere Partners declared a cash distribution of $0.820 per common unit to unitholders of record as of August 8, 2025, comprised of a base amount equal to $0.775 and a variable amount equal to $0.045.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     213,
+     221,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "The common unit distribution and the related general partner distribution will be paid on August 14, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     78,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Reconfirming full year 2025 distribution guidance of $3.25 - $3.35 per common unit, maintaining a base distribution of $3.10 per common unit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "In June 2025, certain subsidiaries of Cheniere Partners updated the SPL Expansion Project\u2019s (defined below) application with the Federal Energy Regulatory Commission (\u201cFERC\u201d) to reflect a two-phased project, inclusive of three liquefaction trains and supporting infrastructure, maintaining an expected total peak production capacity of up to approximately 20 million tonnes per annum (\u201cmtpa\u201d) of liquefied natural gas (\u201cLNG\u201d), inclusive of estimated debottlenecking opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.159,
+   "h": 0.0159,
+   "hits": [
+    [
+     144,
+     154,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     342,
+     355,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     466,
+     479,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "In July 2025, Cheniere Partners produced and loaded its 3,000th LNG cargo since commencing export operations at the Sabine Pass LNG terminal in February 2016.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "As compared to the corresponding 2024 periods, net income decreased approximately $17 million and $58 million during the three and six months ended June 30, 2025, respectively, while Adjusted EBITDA1 decreased by approximately $106 million and $68 million during the three and six months ended June 30, 2025, respectively.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     68,
+     81,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     213,
+     226,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "The decreases for both periods were primarily attributable to planned maintenance activities during the three months ended June 30, 2025 resulting in higher operating expenses and lower volumes recognized in income during the period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "The decreases were partially offset by higher gross margins per MMBtu of LNG delivered during the 2025 periods as compared to the corresponding 2024 periods.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "During the three and six months ended June 30, 2025, we recognized in income 351 and 756 TBtu, respectively, of LNG loaded from the SPL Project (defined below).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Recent Key Financial Transactions and Updates",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "In July 2025, we issued $1.0 billion of aggregate principal amount of 5.550% Senior Notes due 2035, and the net proceeds, together with cash on hand, were used to redeem $1.0 billion of the aggregate principal amount of SPL\u2019s 5.875% Senior Secured Notes due 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "During the six months ended June 30, 2025, SPL repaid the remaining $300 million in principal amount of its 5.625% Senior Secured Notes due 2025 with cash on hand.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "SABINE PASS OVERVIEW",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "We own natural gas liquefaction facilities with total production capacity of over 30 mtpa of LNG at the Sabine Pass LNG terminal in Cameron Parish, Louisiana (the \u201cSPL Project\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "As of August 1, 2025, approximately 3,030 cumulative LNG cargoes totaling approximately 210 million tonnes of LNG have been produced, loaded, and exported from the SPL Project.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.087,
+   "hits": [
+    [
+     22,
+     35,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     74,
+     87,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "SPL Expansion Project",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "We are developing an expansion adjacent to the SPL Project with an expected total peak production capacity of up to approximately 20 mtpa of LNG (the \u201cSPL Expansion Project\u201d), inclusive of estimated debottlenecking opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     116,
+     129,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     215,
+     228,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "In February 2024, certain of our subsidiaries submitted an application to the FERC for authorization to site, construct and operate the SPL Expansion Project, as well as an application to the Department of Energy (\u201cDOE\u201d) requesting authorization to export LNG to Free-Trade Agreement (\u201cFTA\u201d) and non-FTA countries, both of which applications exclude debottlenecking.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "In October 2024, we received authorization from the DOE to export LNG to FTA countries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "In June 2025, the SPL Expansion Project\u2019s FERC application was updated to reflect a two-phased project, inclusive of three liquefaction trains and supporting infrastructure, maintaining an expected total peak production capacity of up to approximately 20 mtpa of LNG.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0256,
+   "hits": [
+    [
+     238,
+     251,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "DISTRIBUTIONS TO UNITHOLDERS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In July 2025, we declared a cash distribution of $0.820 per common unit to unitholders of record as of August 8, 2025, comprised of a base amount equal to $0.775 ($3.10 annualized) and a variable amount equal to $0.045, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.029,
+   "hits": [
+    [
+     187,
+     195,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     345,
+     356,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The common unit distribution and the related general partner distribution will be paid on August 14, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     78,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "INVESTOR CONFERENCE CALL AND WEBCAST",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Cheniere Energy, Inc. (NYSE: LNG) will host a conference call to discuss its financial and operating results for the second quarter 2025 on Thursday, August 7, 2025, at 11 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     38,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Eastern time / 10 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Central time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "A listen-only webcast of the call and an accompanying slide presentation may be accessed through our website at www.cheniere.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     73,
+     76,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Following the call, an archived recording will be made available on our website.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     46,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The call and accompanying slide presentation will include financial and operating results or other information regarding Cheniere Partners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     49,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
