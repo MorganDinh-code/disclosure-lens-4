@@ -1,0 +1,556 @@
+{
+ "company": "Veeva",
+ "ticker": "VEEV",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2027",
+ "date": "2024-08-26",
+ "source_url": "https://ir.veeva.com/news/news-details/2026/Veeva-Announces-Fiscal-2027-Second-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "\n(opens in new window)\nTotal Revenues of $928.0M, up 18% Year Over Year\nSubscription Revenues of $766.8M, up 16% Year Over Year\n\nPLEASANTON, Calif., Aug. 26, 2026 /PRNewswire/ -- Veeva Systems Inc. (NYSE: VEEV), a leading provider of industry cloud solutions for the global life sciences industry, today announced results for its second quarter ended July 31, 2026.\n\n\"AI is opening up the next big chapter for Veeva and life sciences,\" said CEO Peter Gassner. \"Vault CRM had its best quarter ever and Veeva Falcon accelerated rapidly. By bringing together deep industry applications, agents, data, and consulting, we are helping the industry drive new efficiencies from clinical to commercial and deliver better outcomes for patients.\"\n\nFiscal 2027 Second Quarter Results:\n\nRevenues: Total revenues for the second quarter were $928.0 million, up from $789.1 million one year ago, an increase of 18% year over year. Subscription revenues for the second quarter were $766.8 million, up from $659.2 million one year ago, an increase of 16% year over year.\nOperating Income and Non-GAAP Operating Income:(1) Second quarter operating income was $275.0 million, compared to $195.9 million one year ago, an increase of 40% year over year. Non-GAAP operating income for the second quarter was $415.9 million, compared to $352.6 million one year ago, an increase of 18% year over year.\nNet Income and Non-GAAP Net Income:(1) Second quarter net income was $273.4 million, compared to $200.3 million one year ago, an increase of 37% year over year. Non-GAAP net income for the second quarter was $387.4 million, compared to $333.4 million one year ago, an increase of 16% year over year.\nNet Income per Share and Non-GAAP Net Income per Share:(1) For the second quarter, fully diluted net income per share was $1.66, compared to $1.19 one year ago, while non-GAAP fully diluted net income per share was $2.35, compared to $1.99 one year ago.\n\"Second quarter results exceeded guidance on all metrics and our view for the full year improved across the board,\" said CFO Brian Van Wagener. \"We continue to execute well across the business while also accelerating innovation and progress in new growth areas.\"\n\nRecent Highlights:\n\nVault CRM Leadership Grows with More Top 20 Wins, Go-lives, and AI Adoption \u2013 Vault CRM leadership grew with more than 180 customers live, including five top 20 biopharmas. In August, two top 20 biopharmas and one large enterprise biopharma committed to Vault CRM, bringing total top 20 commitments to 12 globally. As the industry's fastest path to agentic CRM, a top 20 biopharma deployed Vault CRM and the Agentic Call Report across its full U.S. field team in the quarter.\nMajor AI Milestones for Vault AI and Falcon, and Agentic MLR Launches \u2013 Veeva AI advanced rapidly across all areas. Development of Veeva Falcon, the agentic labor platform for clinical, regulatory, and safety, is moving quickly with five early adopters and on track for initial go-lives this year. The company also acquired Copli in the quarter and launched Veeva Falcon MLR to automate content reviews. August marked a major milestone for Vault AI with new standard agents, broader capabilities for existing agents, and advanced tools for custom agent development.\nDelivering the Connected Foundation for R&D and Quality \u2013 Development Cloud and Quality Cloud saw broad adoption, deepening relationships with new and existing customers. In clinical, a large enterprise biopharma selected Veeva EDC, building on its existing eTMF, CTMS, and Study Startup foundation. Veeva Safety surpassed 100 total customers while securing its second top 20 biopharma win for Safety Workbench. In Quality, Veeva added more than 30 new customers, driven by 20 or more wins each across QualityDocs, QMS, and Training.\nFinancial Outlook:\n\nVeeva is providing guidance for its fiscal third quarter ending October 31, 2026 as follows:\n\nTotal revenues between $932 and $935 million.\nNon-GAAP operating income between $417 and $420 million.(2)\nNon-GAAP fully diluted net income per share between $2.33 and $2.34.(2)\nVeeva is providing updated guidance for its fiscal year ending January 31, 2027 as follows:\n\nTotal revenues between $3,682 and $3,687 million.\nNon-GAAP operating income of about $1,640 million.(2)\nNon-GAAP fully diluted net income per share of approximately $9.21.(2)\nConference Call Information\n\nPrepared remarks and an investor presentation providing additional information and analysis can be found on Veeva's investor relations website at ir.veeva.com. Veeva will host a Q&A conference call at 2:00 p.m. PT today, August 26, 2026, and a replay of the call will be available on Veeva's investor relations website.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 42,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.2585034013605442,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0014285714285714286,
+  "mean_tone": 0.12038326496851842
+ },
+ "lexicon": {
+  "words": 700,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 15.7,
+   "Uncertainty": 1.4,
+   "Litigious": 1.4,
+   "Strong modal": 4.3,
+   "Weak modal": 0.0,
+   "Constraining": 2.9
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 11,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 3,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "(opens in new window).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Total Revenues of $928.0M, up 18% Year Over Year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Subscription Revenues of $766.8M, up 16% Year Over Year",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "PLEASANTON, Calif., Aug. 26, 2026 /PRNewswire/ -- Veeva Systems Inc. (NYSE: VEEV), a leading provider of industry cloud solutions for the global life sciences industry, today announced results for its second quarter ended July 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "\"AI is opening up the next big chapter for Veeva and life sciences,\" said CEO Peter Gassner.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"Vault CRM had its best quarter ever and Veeva Falcon accelerated rapidly.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     23,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "By bringing together deep industry applications, agents, data, and consulting, we are helping the industry drive new efficiencies from clinical to commercial and deliver better outcomes for patients.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     117,
+     129,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     176,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Fiscal 2027 Second Quarter Results:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Revenues: Total revenues for the second quarter were $928.0 million, up from $789.1 million one year ago, an increase of 18% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Subscription revenues for the second quarter were $766.8 million, up from $659.2 million one year ago, an increase of 16% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Operating Income and Non-GAAP Operating Income:(1) Second quarter operating income was $275.0 million, compared to $195.9 million one year ago, an increase of 40% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Non-GAAP operating income for the second quarter was $415.9 million, compared to $352.6 million one year ago, an increase of 18% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Net Income and Non-GAAP Net Income:(1) Second quarter net income was $273.4 million, compared to $200.3 million one year ago, an increase of 37% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Non-GAAP net income for the second quarter was $387.4 million, compared to $333.4 million one year ago, an increase of 16% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Net Income per Share and Non-GAAP Net Income per Share:(1) For the second quarter, fully diluted net income per share was $1.66, compared to $1.19 one year ago, while non-GAAP fully diluted net income per share was $2.35, compared to $1.99 one year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "\"Second quarter results exceeded guidance on all metrics and our view for the full year improved across the board,\" said CFO Brian Van Wagener.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\"We continue to execute well across the business while also accelerating innovation and progress in new growth areas.\"",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     73,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     88,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Recent Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Vault CRM Leadership Grows with More Top 20 Wins, Go-lives, and AI Adoption \u2013 Vault CRM leadership grew with more than 180 customers live, including five top 20 biopharmas.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     88,
+     98,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "In August, two top 20 biopharmas and one large enterprise biopharma committed to Vault CRM, bringing total top 20 commitments to 12 globally.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     77,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     114,
+     125,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "As the industry's fastest path to agentic CRM, a top 20 biopharma deployed Vault CRM and the Agentic Call Report across its full U.S. field team in the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Major AI Milestones for Vault AI and Falcon, and Agentic MLR Launches \u2013 Veeva AI advanced rapidly across all areas.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Development of Veeva Falcon, the agentic labor platform for clinical, regulatory, and safety, is moving quickly with five early adopters and on track for initial go-lives this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     80,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The company also acquired Copli in the quarter and launched Veeva Falcon MLR to automate content reviews.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "August marked a major milestone for Vault AI with new standard agents, broader capabilities for existing agents, and advanced tools for custom agent development.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Delivering the Connected Foundation for R&D and Quality \u2013 Development Cloud and Quality Cloud saw broad adoption, deepening relationships with new and existing customers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "In clinical, a large enterprise biopharma selected Veeva EDC, building on its existing eTMF, CTMS, and Study Startup foundation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Veeva Safety surpassed 100 total customers while securing its second top 20 biopharma win for Safety Workbench.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     86,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "In Quality, Veeva added more than 30 new customers, driven by 20 or more wins each across QualityDocs, QMS, and Training.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Financial Outlook:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Veeva is providing guidance for its fiscal third quarter ending October 31, 2026 as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Total revenues between $932 and $935 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Non-GAAP operating income between $417 and $420 million.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Non-GAAP fully diluted net income per share between $2.33 and $2.34.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Veeva is providing updated guidance for its fiscal year ending January 31, 2027 as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Total revenues between $3,682 and $3,687 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Non-GAAP operating income of about $1,640 million.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Non-GAAP fully diluted net income per share of approximately $9.21.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     47,
+     60,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Conference Call Information",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Prepared remarks and an investor presentation providing additional information and analysis can be found on Veeva's investor relations website at ir.veeva.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Veeva will host a Q&A conference call at 2:00 p.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     10,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "PT today, August 26, 2026, and a replay of the call will be available on Veeva's investor relations website.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     56,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
