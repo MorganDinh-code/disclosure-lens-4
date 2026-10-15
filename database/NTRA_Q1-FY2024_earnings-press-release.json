@@ -1,0 +1,602 @@
+{
+ "company": "Natera, Inc.",
+ "ticker": "NTRA",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-09",
+ "source_url": "https://investor.natera.com/news/news-details/2024/Natera-Reports-First-Quarter-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the first quarter ended March 31, 2024.\n\nRecent Strategic and Financial Highlights\n\nAchieved positive cash flow of approximately $3.0 million1 in the first quarter of 2024.\nGenerated total revenues of $367.7 million in the first quarter of 2024, compared to $241.8 million in the first quarter of 2023, an increase of 52.1%. Product revenues grew 53.4% over the same period.\nGenerated gross margins of 56.7% in the first quarter of 2024, compared to gross margins of 38.7% in the first quarter of 2023.\nProcessed approximately 735,800 tests in the first quarter of 2024, compared to approximately 626,200 tests in the first quarter of 2023, an increase of 17.5%.\nPerformed approximately 114,800 oncology tests in the first quarter of 2024, compared to approximately 71,000 in the first quarter of 2023, an increase of 61.7%.\nLaunched fetal RhD NIPT test backed by excellent performance in clinical validation study.\nAnnounced updated guidelines from a leading medical society in nephrology that support genetic testing in patients with chronic kidney disease to establish cause of disease.\nPublished largest, prospective, donor-derived cfDNA study in kidney transplantation.\nReleased analysis from randomized, phase III IMvigor011 trial in bladder cancer demonstrating that patients with undetectable circulating tumor DNA on serial Signatera testing may be able to forgo treatment.\nPublished key data in breast cancer and uterine cancer.\n\u201cWe had an excellent start to the year, driving robust volume, revenue and margin growth and achieving cash flow breakeven earlier than expected,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe continued to deliver on our mission to transform disease management with the launch of a highly differentiated product in women\u2019s health and the publication of practice-changing data in oncology and organ health.\u201d\n\nFirst Quarter Ended March 31, 2024 Financial Results\n\nTotal revenues were $367.7 million in the first quarter of 2024 compared to $241.8 million in the first quarter of 2023, an increase of 52.1%. The increase in total revenues was driven primarily by a 53.4% increase in product revenues, which were $364.7 million in the first quarter of 2024 compared to $237.8 million in the first quarter of 2023. The increase in product revenues was primarily driven by an increase in volume, as well as average selling price improvements.\n\nNatera processed approximately 735,800 tests in the first quarter of 2024, including approximately 718,700 tests accessioned in its laboratory, compared to approximately 626,200 tests processed, including approximately 607,700 tests accessioned in its laboratory, in the first quarter of 2023.\n\nIn the first quarter of 2024, Natera recognized revenue on approximately 679,400 tests for which results were reported to customers in the period (tests reported), including approximately 663,500 tests reported from its laboratory, compared to approximately 583,400 tests reported, including approximately 566,000 tests reported from its laboratory, in the first quarter of 2023, an overall increase of 16.5% from the prior period.\n\nGross profit2 for the three months ended March 31, 2024 and 2023 was $208.6 million and $93.6 million, respectively, representing a gross margin of 56.7% and 38.7%, respectively. Natera had higher gross margin in the first quarter of 2024 primarily as a result of higher revenues and continuous progress in reducing cost of goods sold associated with tests processed. Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the first quarter of 2024 were $282.9 million, compared to $231.9 million in the same period of the prior year, an increase of 22.0%. The increase was primarily driven by headcount growth to support new product offerings as well as increases in consulting and legal expenses.\n\nLoss from operations for the first quarter of 2024 was $74.3 million compared to $138.3 million for the same period of the prior year.\n\nNatera reported a net loss for the first quarter of 2024 of $67.6 million, or ($0.56) per diluted share, compared to a net loss of $136.9 million, or ($1.23) per diluted share, for the same period in 2023. Weighted average shares outstanding were approximately 120.8 million in the first quarter of 2024 compared to 111.8 million in the first quarter of the prior year.\n\nAt March 31, 2024, Natera held approximately $882.9 million in cash, cash equivalents, short-term investments and restricted cash, compared to $879.0 million as of December 31, 2023. As of March 31, 2024, Natera had a total outstanding debt balance of $363.7 million, comprised of $80.4 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps and a net carrying amount of $283.3 million under its seven-year convertible senior notes issued in April 2020. The gross principal balance outstanding for the convertible senior notes was $287.5 million as of March 31, 2024.\n\nFinancial Outlook\n\nNatera anticipates 2024 total revenue of $1.42 billion to $1.45 billion; 2024 gross margin to be approximately 53% to 55% of revenues; selling, general and administrative costs to be approximately $700 million to $750 million; research and development costs to be $350 million to $375 million, and net cash inflow (consumption) to be ($25) million to $25 million3.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 31,
+  "n_material_neg": 2,
+  "n_positive": 6,
+  "mean_pos_negative": 0.7903225806451613,
+  "mean_pos_positive": 0.510752688172043,
+  "placement_asymmetry": 0.27956989247311825,
+  "distance_from_headline": 22,
+  "first_negative_pos": 0.7741935483870968,
+  "hedge_near_negative": 0.006578947368421052,
+  "hedge_near_positive": 0.012577583059510771,
+  "hedging_asymmetry": 0.5230692842410816,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4494047619047619,
+  "overall_hedge": 0.02857142857142857,
+  "mean_tone": 0.08106025416926418
+ },
+ "lexicon": {
+  "words": 770,
+  "per_1000": {
+   "Negative": 3.9,
+   "Positive": 11.7,
+   "Uncertainty": 28.6,
+   "Litigious": 1.3,
+   "Strong modal": 0.0,
+   "Weak modal": 1.3,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 9,
+   "Uncertainty": 22,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the first quarter ended March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Recent Strategic and Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Achieved positive cash flow of approximately $3.0 million1 in the first quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Generated total revenues of $367.7 million in the first quarter of 2024, compared to $241.8 million in the first quarter of 2023, an increase of 52.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Product revenues grew 53.4% over the same period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Generated gross margins of 56.7% in the first quarter of 2024, compared to gross margins of 38.7% in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Processed approximately 735,800 tests in the first quarter of 2024, compared to approximately 626,200 tests in the first quarter of 2023, an increase of 17.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Performed approximately 114,800 oncology tests in the first quarter of 2024, compared to approximately 71,000 in the first quarter of 2023, an increase of 61.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Launched fetal RhD NIPT test backed by excellent performance in clinical validation study.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Announced updated guidelines from a leading medical society in nephrology that support genetic testing in patients with chronic kidney disease to establish cause of disease.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Published largest, prospective, donor-derived cfDNA study in kidney transplantation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Released analysis from randomized, phase III IMvigor011 trial in bladder cancer demonstrating that patients with undetectable circulating tumor DNA on serial Signatera testing may be able to forgo treatment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.1034,
+   "hits": [
+    [
+     23,
+     33,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     113,
+     125,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     176,
+     179,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     183,
+     187,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Published key data in breast cancer and uterine cancer. \u201cWe had an excellent start to the year, driving robust volume, revenue and margin growth and achieving cash flow breakeven earlier than expected,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe continued to deliver on our mission to transform disease management with the launch of a highly differentiated product in women\u2019s health and the publication of practice-changing data in oncology and organ health.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.267,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     76,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     158,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "First Quarter Ended March 31, 2024 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Total revenues were $367.7 million in the first quarter of 2024 compared to $241.8 million in the first quarter of 2023, an increase of 52.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The increase in total revenues was driven primarily by a 53.4% increase in product revenues, which were $364.7 million in the first quarter of 2024 compared to $237.8 million in the first quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The increase in product revenues was primarily driven by an increase in volume, as well as average selling price improvements.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     125,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Natera processed approximately 735,800 tests in the first quarter of 2024, including approximately 718,700 tests accessioned in its laboratory, compared to approximately 626,200 tests processed, including approximately 607,700 tests accessioned in its laboratory, in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1212,
+   "hits": [
+    [
+     17,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     85,
+     98,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     156,
+     169,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     205,
+     218,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "In the first quarter of 2024, Natera recognized revenue on approximately 679,400 tests for which results were reported to customers in the period (tests reported), including approximately 663,500 tests reported from its laboratory, compared to approximately 583,400 tests reported, including approximately 566,000 tests reported from its laboratory, in the first quarter of 2023, an overall increase of 16.5% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0727,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     174,
+     187,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     244,
+     257,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     292,
+     305,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Gross profit2 for the three months ended March 31, 2024 and 2023 was $208.6 million and $93.6 million, respectively, representing a gross margin of 56.7% and 38.7%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Natera had higher gross margin in the first quarter of 2024 primarily as a result of higher revenues and continuous progress in reducing cost of goods sold associated with tests processed.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     124,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the first quarter of 2024 were $282.9 million, compared to $231.9 million in the same period of the prior year, an increase of 22.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The increase was primarily driven by headcount growth to support new product offerings as well as increases in consulting and legal expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     126,
+     131,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Loss from operations for the first quarter of 2024 was $74.3 million compared to $138.3 million for the same period of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Natera reported a net loss for the first quarter of 2024 of $67.6 million, or ($0.56) per diluted share, compared to a net loss of $136.9 million, or ($1.23) per diluted share, for the same period in 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     123,
+     127,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Weighted average shares outstanding were approximately 120.8 million in the first quarter of 2024 compared to 111.8 million in the first quarter of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "At March 31, 2024, Natera held approximately $882.9 million in cash, cash equivalents, short-term investments and restricted cash, compared to $879.0 million as of December 31, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     114,
+     124,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "As of March 31, 2024, Natera had a total outstanding debt balance of $363.7 million, comprised of $80.4 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps and a net carrying amount of $283.3 million under its seven-year convertible senior notes issued in April 2020.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0192,
+   "hits": [
+    [
+     178,
+     186,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "The gross principal balance outstanding for the convertible senior notes was $287.5 million as of March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Financial Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Natera anticipates 2024 total revenue of $1.42 billion to $1.45 billion; 2024 gross margin to be approximately 53% to 55% of revenues; selling, general and administrative costs to be approximately $700 million to $750 million; research and development costs to be $350 million to $375 million, and net cash inflow (consumption) to be ($25) million to $25 million3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0652,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     97,
+     110,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     183,
+     196,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
