@@ -1,0 +1,557 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-31",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2025/2025-07-31-05-30-00-3124660",
+ "demo": false,
+ "source_text": "Q2: double-digit sales and solid business EPS growth. 2025 sales guidance is now high single-digit growth, at upper end of range\n\nParis, July 31, 2025\n\nQ2 sales growth of 10.1% at CER1 and business EPS2 of \u20ac1.59\n\nPharma launches increased sales by 39.8%, reaching \u20ac0.9 billion, driven by ALTUVIIIO\nDupixent sales increased by 21.1% to \u20ac3.8 billion, supported by the COPD launch\nVaccines sales increased by 10.3% to \u20ac1.2 billion\nResearch and Development expenses were \u20ac1.9 billion, up 17.7%\nSelling, general and administrative expenses were \u20ac2.3 billion, up 7.8%\nBusiness EPS was \u20ac1.59, up 8.3% at CER and up 1.9% reported; IFRS EPS was \u20ac3.24\nPipeline progress\n\nThree regulatory approvals: Dupixent BP (US), Sarclisa NDMM, TE (EU), and MenQuadfi meningitis (US)\nThree phase 3 readouts, incl. itepekimab COPD (one met primary endpoint/one did not); positive SP0087 in rabies prevention\nSeven regulatory designations, including orphan and fast track, in rare diseases, neurology, and oncology\nCapital allocation\n\nSanofi and CD&R closed the Opella transaction, creating an independent global consumer healthcare leader\nAcquisitions completed: Blueprint, in rare diseases/immunology, and Dren Bio\u2019s DR-0201, early-stage pipeline in immunology\nAcquisitions announced: Vigil, in Alzheimer\u2019s disease, and Vicebio, in respiratory vaccines, adding to the early-stage pipeline3\nSustainability\n\nSanofi ranked the world\u2019s tenth most sustainable company and number one in Pharmaceuticals & Biotechnology by TIME\nGuidance\n\nIn 2025, sales are anticipated to grow by a high single-digit percentage at CER (previously mid-to-high single-digit). Sanofi confirms the expectation of a strong business EPS rebound with growth at a low double-digit percentage at CER (before share buyback), now including all expenses from newly acquired businesses4\nSanofi intends to complete its \u20ac5 billion share buyback program in 2025. 80.3% has been repurchased to date\nPaul Hudson, Chief Executive Officer: \u201cWe delivered strong performance in Q2 with 10.1% sales growth. Our nine newly launched medicines and vaccines grew by 47.3%. Eight years after market introduction, Dupixent grew by more than 20%, supported by the COPD launch. Based on strong sales performance in H1, we are refining our 2025 sales guidance to the upper end of our previous range. At the same time, we confirm our guidance of a strong business EPS rebound, which now includes all expenses from newly acquired businesses.\n\nOur pipeline continues to make progress despite the mixed results with itepekimab in COPD. We are progressing the data analysis and once finished, we will discuss with regulatory authorities. We remain steadfast in our dedication to bringing new medicines and vaccines to patients. We eagerly anticipate several important phase 3 data readouts in the second half of the year, including amlitelimab in atopic dermatitis and tolebrutinib in primary progressive multiple sclerosis.\n\nEarlier in July, we successfully closed the acquisition of Blueprint in rare diseases, and we are anticipating the closing of the Vigil acquisition in neurology during Q3. Sanofi will remain focused on strategically redeploying capital towards growth and differentiated science with attractive financial returns. We continue to advance our strategy as an R&D driven, AI-powered biopharma company committed to improving people\u2019s lives and delivering compelling growth.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 2,
+  "n_positive": 13,
+  "mean_pos_negative": 0.2142857142857143,
+  "mean_pos_positive": 0.4725274725274725,
+  "placement_asymmetry": -0.2582417582417582,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.2,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0037596183081132916,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.006072874493927126,
+  "mean_tone": 0.16372785798127884
+ },
+ "lexicon": {
+  "words": 494,
+  "per_1000": {
+   "Negative": 2.0,
+   "Positive": 28.3,
+   "Uncertainty": 6.1,
+   "Litigious": 6.1,
+   "Strong modal": 4.0,
+   "Weak modal": 0.0,
+   "Constraining": 4.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 14,
+   "Uncertainty": 3,
+   "Litigious": 3,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Q2: double-digit sales and solid business EPS growth. 2025 sales guidance is now high single-digit growth, at upper end of range",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Paris, July 31, 2025",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Q2 sales growth of 10.1% at CER1 and business EPS2 of \u20ac1.59",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Pharma launches increased sales by 39.8%, reaching \u20ac0.9 billion, driven by ALTUVIIIO.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Dupixent sales increased by 21.1% to \u20ac3.8 billion, supported by the COPD launch.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Vaccines sales increased by 10.3% to \u20ac1.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Research and Development expenses were \u20ac1.9 billion, up 17.7%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Selling, general and administrative expenses were \u20ac2.3 billion, up 7.8%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Business EPS was \u20ac1.59, up 8.3% at CER and up 1.9% reported; IFRS EPS was \u20ac3.24.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Pipeline progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Three regulatory approvals: Dupixent BP (US), Sarclisa NDMM, TE (EU), and MenQuadfi meningitis (US).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     16,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Three phase 3 readouts, incl. itepekimab COPD (one met primary endpoint/one did not); positive SP0087 in rabies prevention.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     94,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     122,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Seven regulatory designations, including orphan and fast track, in rare diseases, neurology, and oncology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     16,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Capital allocation",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Sanofi and CD&R closed the Opella transaction, creating an independent global consumer healthcare leader.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Acquisitions completed: Blueprint, in rare diseases/immunology, and Dren Bio\u2019s DR-0201, early-stage pipeline in immunology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Acquisitions announced: Vigil, in Alzheimer\u2019s disease, and Vicebio, in respiratory vaccines, adding to the early-stage pipeline3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Sustainability",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Sanofi ranked the world\u2019s tenth most sustainable company and number one in Pharmaceuticals & Biotechnology by TIME.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "In 2025, sales are anticipated to grow by a high single-digit percentage at CER (previously mid-to-high single-digit).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     19,
+     30,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Sanofi confirms the expectation of a strong business EPS rebound with growth at a low double-digit percentage at CER (before share buyback), now including all expenses from newly acquired businesses4.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     57,
+     64,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Sanofi intends to complete its \u20ac5 billion share buyback program in 2025. 80.3% has been repurchased to date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Paul Hudson, Chief Executive Officer: \u201cWe delivered strong performance in Q2 with 10.1% sales growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     58,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Our nine newly launched medicines and vaccines grew by 47.3%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Eight years after market introduction, Dupixent grew by more than 20%, supported by the COPD launch.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Based on strong sales performance in H1, we are refining our 2025 sales guidance to the upper end of our previous range.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "At the same time, we confirm our guidance of a strong business EPS rebound, which now includes all expenses from newly acquired businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     53,
+     [
+      "positive"
+     ]
+    ],
+    [
+     67,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Our pipeline continues to make progress despite the mixed results with itepekimab in COPD.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     39,
+     [
+      "positive"
+     ]
+    ],
+    [
+     40,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "We are progressing the data analysis and once finished, we will discuss with regulatory authorities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     59,
+     63,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     77,
+     87,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "We remain steadfast in our dedication to bringing new medicines and vaccines to patients.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "We eagerly anticipate several important phase 3 data readouts in the second half of the year, including amlitelimab in atopic dermatitis and tolebrutinib in primary progressive multiple sclerosis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     11,
+     21,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Earlier in July, we successfully closed the acquisition of Blueprint in rare diseases, and we are anticipating the closing of the Vigil acquisition in neurology during Q3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     20,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     98,
+     110,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Sanofi will remain focused on strategically redeploying capital towards growth and differentiated science with attractive financial returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     111,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "We continue to advance our strategy as an R&D driven, AI-powered biopharma company committed to improving people\u2019s lives and delivering compelling growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     92,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     96,
+     105,
+     [
+      "positive"
+     ]
+    ],
+    [
+     136,
+     146,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  }
+ ]
+}
