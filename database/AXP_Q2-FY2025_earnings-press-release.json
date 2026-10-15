@@ -1,0 +1,532 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-18",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2025/q2/Q2-2025-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "Stephen J. Squeri | Chairman and Chief Executive Officer\nOur second-quarter results continued the strong momentum we have seen in our business over the last\nseveral quarters, with revenues growing 9 percent year-over-year to reach a record $17.9 billion, and\nadjusted EPS rising 17 percent.\nWe saw record Card Member spending in the quarter, demand for our premium products was strong,\nand our credit performance remained best in class. Based on our strong performance year to date, we\nare reaffirming our full-year guidance for revenue growth of 8 to 10 percent and EPS of $15.00 to\n$15.50.\nLooking at the upcoming refresh of our U.S. Consumer and Business Platinum Cards this fall, we are\nconfident in our ability to sustain our leadership in the premium space, drawing on our competitive\nstrengths. With our differentiated Membership model and proven product refresh strategy, combined\nwith the expansion of the premium category, we see a long runway for growth.\n\nAmerican Express Company (NYSE: AXP) today reported second-quarter net income of $2.9 billion,\ncompared with net income of $3.0 billion a year ago. Earnings per share was $4.08, down 2 percent from\n$4.15 a year ago, or up 17 percent excluding the $0.66 gain from the sale of Accertify in the prior year.\nSecond-quarter consolidated total revenues net of interest\nexpense were $17.9 billion, up 9 percent year-over-year. The\nincrease was primarily driven by increased Card Member\nspending, higher net interest income supported by growth in\nrevolving loan balances, and continued strong card fee\ngrowth.\nConsolidated provisions for credit losses were $1.4 billion,\ncompared with $1.3 billion a year ago. The increase\nreflected a higher net reserve build and higher net write-offs\nyear-over-year driven by growth in Total loans and Card\nMember receivables. The second-quarter net write-off rate\nwas 2.0 percent, down from 2.1 percent a year ago.4\nConsolidated expenses were $12.9 billion, up 14 percent\nyear-over-year. The increase was driven by higher operating\nexpenses, primarily due to the prior year gain from the sale\nof Accertify and higher investments in enterprise risk\nmanagement capabilities and technology, and higher\nvariable customer engagement costs driven by increased\nCard Member spending and usage of travel-related benefits.\nThe consolidated effective tax rate was 18.7 percent, down\nfrom 20.4 percent a year ago, primarily reflecting discrete\ntax benefits in the current quarter related to the resolution\nof prior year tax items. \n\nBusiness Highlights\n\u2022 The results of the 2025\nComprehensive Capital Analysis and\nReview demonstrated that American\nExpress has the lowest projected\ncredit card loss rate and highest\nprojected Return on Assets under the\nFederal Reserve\u2019s stress test.5\n\u2022 American Express announced major\nupdates coming to the Consumer and\nBusiness Platinum Cards in the U.S.\nthis fall.\n\u2022 The new Coinbase One Card will launch\non the American Express network.\n\u2022 The company ranked #1 U.S. Credit\nCard Mobile App and #1 U.S. Credit\nCard Website Experience for Customer\nSatisfaction by J.D. Power.6\n\u2022 American Express ranked #4 on the\n2025 Best Companies to Work For\u00ae in\nthe U.S. list by Great Place to Work\u00ae",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 4,
+  "n_positive": 6,
+  "mean_pos_negative": 0.375,
+  "mean_pos_positive": 0.2222222222222222,
+  "placement_asymmetry": 0.1527777777777778,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.2777777777777778,
+  "hedge_near_negative": 0.007936507936507936,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.16666666666666666,
+  "mean_tone_gap_on_negatives": 0.9145299145299145,
+  "overall_hedge": 0.00404040404040404,
+  "mean_tone": 0.09114887170442726
+ },
+ "lexicon": {
+  "words": 495,
+  "per_1000": {
+   "Negative": 6.1,
+   "Positive": 26.3,
+   "Uncertainty": 4.0,
+   "Litigious": 0.0,
+   "Strong modal": 10.1,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 13,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 5,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Squeri | Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Our second-quarter results continued the strong momentum we have seen in our business over the last several quarters, with revenues growing 9 percent year-over-year to reach a record $17.9 billion, and adjusted EPS rising 17 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "We saw record Card Member spending in the quarter, demand for our premium products was strong, and our credit performance remained best in class.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     93,
+     [
+      "positive"
+     ]
+    ],
+    [
+     131,
+     135,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Based on our strong performance year to date, we are reaffirming our full-year guidance for revenue growth of 8 to 10 percent and EPS of $15.00 to.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "$15.50.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Looking at the upcoming refresh of our U.S. Consumer and Business Platinum Cards this fall, we are confident in our ability to sustain our leadership in the premium space, drawing on our competitive strengths.",
+   "d": 0,
+   "m": false,
+   "tone": 0.857,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     108,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     149,
+     [
+      "positive"
+     ]
+    ],
+    [
+     199,
+     208,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "With our differentiated Membership model and proven product refresh strategy, combined with the expansion of the premium category, we see a long runway for growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "American Express Company (NYSE: AXP) today reported second-quarter net income of $2.9 billion, compared with net income of $3.0 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Earnings per share was $4.08, down 2 percent from.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "$4.15 a year ago, or up 17 percent excluding the $0.66 gain from the sale of Accertify in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Second-quarter consolidated total revenues net of interest expense were $17.9 billion, up 9 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The increase was primarily driven by increased Card Member spending, higher net interest income supported by growth in revolving loan balances, and continued strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     158,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Consolidated provisions for credit losses were $1.4 billion, compared with $1.3 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The increase reflected a higher net reserve build and higher net write-offs year-over-year driven by growth in Total loans and Card.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Member receivables.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The second-quarter net write-off rate was 2.0 percent, down from 2.1 percent a year ago.4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Consolidated expenses were $12.9 billion, up 14 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The increase was driven by higher operating expenses, primarily due to the prior year gain from the sale of Accertify and higher investments in enterprise risk management capabilities and technology, and higher variable customer engagement costs driven by increased.",
+   "d": -1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0513,
+   "hits": [
+    [
+     86,
+     90,
+     [
+      "positive"
+     ]
+    ],
+    [
+     155,
+     159,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     211,
+     219,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Card Member spending and usage of travel-related benefits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The consolidated effective tax rate was 18.7 percent, down from 20.4 percent a year ago, primarily reflecting discrete tax benefits in the current quarter related to the resolution of prior year tax items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Business Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The results of the 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Comprehensive Capital Analysis and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Review demonstrated that American.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Express has the lowest projected credit card loss rate and highest projected Return on Assets under the.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     22,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     45,
+     49,
+     [
+      "negative"
+     ]
+    ],
+    [
+     59,
+     66,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Federal Reserve\u2019s stress test.5.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     24,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "American Express announced major updates coming to the Consumer and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Business Platinum Cards in the U.S. this fall.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The new Coinbase One Card will launch on the American Express network.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     30,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "The company ranked #1 U.S. Credit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Card Mobile App and #1 U.S. Credit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Card Website Experience for Customer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Satisfaction by J.D.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Power.6.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "American Express ranked #4 on the 2025 Best Companies to Work For\u00ae in the U.S. list by Great Place to Work\u00ae",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     43,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
