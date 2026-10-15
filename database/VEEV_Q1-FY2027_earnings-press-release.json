@@ -1,0 +1,538 @@
+{
+ "company": "Veeva",
+ "ticker": "VEEV",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2027",
+ "date": "2024-06-03",
+ "source_url": "https://ir.veeva.com/news/news-details/2026/Veeva-Announces-Fiscal-2027-First-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "Total Revenues of $882.9M, up 16% Year Over Year\nSubscription Revenues of $730.2M, up 15% Year Over Year\n\nPLEASANTON, Calif., June 3, 2026 /PRNewswire/ -- Veeva Systems Inc. (NYSE: VEEV), a leading provider of industry cloud solutions for the global life sciences industry, today announced results for its first quarter ended April 30, 2026.\n\n\"Our rapid progress with Veeva AI sets the foundation as we enter the next chapter of our industry cloud,\" said CEO Peter Gassner. \"We are moving from an industry-specific application company to an industry-specific application and AI agent company. This is a major transformation for Veeva and the industry that will help our customers bring the right medicines to patients faster.\"\n\nFiscal 2027 First Quarter Results:\n\nRevenues: Total revenues for the first quarter were $882.9 million, up from $759.0 million one year ago, an increase of 16% year over year. Subscription revenues for the first quarter were $730.2 million, up from $634.8 million one year ago, an increase of 15% year over year.\n\nOperating Income and Non-GAAP Operating Income:(1) First quarter operating income was $273.1 million, compared to $233.7 million one year ago, an increase of 17% year over year. Non-GAAP operating income for the first quarter was $395.4 million, compared to $349.9 million one year ago, an increase of 13% year over year.\n\nNet Income and Non-GAAP Net Income:(1) First quarter net income was $260.9 million, compared to $228.2 million one year ago, an increase of 14% year over year. Non-GAAP net income for the first quarter was $371.1 million, compared to $327.8 million one year ago, an increase of 13% year over year.\n\nNet Income per Share and Non-GAAP Net Income per Share:(1) For the first quarter, fully diluted net income per share was $1.57, compared to $1.37 one year ago, while non-GAAP fully diluted net income per share was $2.24, compared to $1.97 one year ago.\n\"Our first quarter results exceeded guidance on all metrics, reflecting another quarter of broad-based growth and profitability,\" said CFO Brian Van Wagener. \"We're pleased with the raised fiscal 2027 guidance and energized by the large and growing opportunity ahead.\"\n\nRecent Highlights:\n\nAdvancing Industry AI with Rapid Progress Across Veeva AI \u2013 Veeva significantly advanced its industry AI strategy this quarter. Ostro, acquired in March, is delivering compliant, conversational AI for more than 50 brands. Vault AI is on track to expand to all Vault applications in August. Veeva Falcon, the new platform delivering agentic labor for clinical, regulatory, and safety, is planned for early adopter release in November.\nLeading the Industry with Agentic Commercial \u2013 At Commercial Summit in May, Veeva shared its vision for Agentic Commercial, leveraging AI to help biopharmas bring the right medicines to more patients. With capabilities like the Agentic Call Report in Vault CRM and Ostro's conversational AI on brand websites, biopharmas can now generate and act on Commercial Evidence. In Vault CRM, the industry's fastest path to Agentic CRM success, Veeva added 27 new Vault CRM customers in the quarter and now has more than 150 customers live.\nBringing Agentic Labor to Veeva Development Cloud \u2013 Veeva expanded its leadership with multiple enterprise biopharma wins across clinical, regulatory, and safety. Additionally, Veeva showcased its AI strategy at the recent European R&D and Quality Summit in Copenhagen, generating strong customer interest in Vault AI and Veeva Falcon to drive productivity and speed in drug development.\nFinancial Outlook:\n\nVeeva is providing guidance for its fiscal second quarter ending July 31, 2026 as follows:\n\nTotal revenues between $902 and $905 million.\nNon-GAAP operating income between $392 and $395 million.(2)\nNon-GAAP fully diluted net income per share between $2.21 and $2.22.(2)\nVeeva is providing updated guidance for its fiscal year ending January 31, 2027 as follows:\n\nTotal revenues between $3,635 and $3,645 million.\nNon-GAAP operating income of about $1,610 million.(2)\nNon-GAAP fully diluted net income per share of approximately $9.05.(2)\nConference Call Information\n\nPrepared remarks and an investor presentation providing additional information and analysis can be found on Veeva's investor relations website at ir.veeva.com. Veeva will host a Q&A conference call at 2:00 p.m. PT today, June 3, 2026, and a replay of the call will be available on Veeva's investor relations website.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 39,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.1794871794871795,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0030211480362537764,
+  "mean_tone": 0.11942959815797591
+ },
+ "lexicon": {
+  "words": 662,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 16.6,
+   "Uncertainty": 3.0,
+   "Litigious": 3.0,
+   "Strong modal": 4.5,
+   "Weak modal": 1.5,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 11,
+   "Uncertainty": 2,
+   "Litigious": 2,
+   "Strong modal": 3,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Total Revenues of $882.9M, up 16% Year Over Year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Subscription Revenues of $730.2M, up 15% Year Over Year",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "PLEASANTON, Calif., June 3, 2026 /PRNewswire/ -- Veeva Systems Inc. (NYSE: VEEV), a leading provider of industry cloud solutions for the global life sciences industry, today announced results for its first quarter ended April 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "\"Our rapid progress with Veeva AI sets the foundation as we enter the next chapter of our industry cloud,\" said CEO Peter Gassner.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "\"We are moving from an industry-specific application company to an industry-specific application and AI agent company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "This is a major transformation for Veeva and the industry that will help our customers bring the right medicines to patients faster.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     67,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Fiscal 2027 First Quarter Results:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Revenues: Total revenues for the first quarter were $882.9 million, up from $759.0 million one year ago, an increase of 16% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Subscription revenues for the first quarter were $730.2 million, up from $634.8 million one year ago, an increase of 15% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Operating Income and Non-GAAP Operating Income:(1) First quarter operating income was $273.1 million, compared to $233.7 million one year ago, an increase of 17% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Non-GAAP operating income for the first quarter was $395.4 million, compared to $349.9 million one year ago, an increase of 13% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Net Income and Non-GAAP Net Income:(1) First quarter net income was $260.9 million, compared to $228.2 million one year ago, an increase of 14% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Non-GAAP net income for the first quarter was $371.1 million, compared to $327.8 million one year ago, an increase of 13% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Net Income per Share and Non-GAAP Net Income per Share:(1) For the first quarter, fully diluted net income per share was $1.57, compared to $1.37 one year ago, while non-GAAP fully diluted net income per share was $2.24, compared to $1.97 one year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "\"Our first quarter results exceeded guidance on all metrics, reflecting another quarter of broad-based growth and profitability,\" said CFO Brian Van Wagener.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "\"We're pleased with the raised fiscal 2027 guidance and energized by the large and growing opportunity ahead.\"",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     91,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Recent Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Advancing Industry AI with Rapid Progress Across Veeva AI \u2013 Veeva significantly advanced its industry AI strategy this quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ],
+    [
+     33,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Ostro, acquired in March, is delivering compliant, conversational AI for more than 50 brands.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Vault AI is on track to expand to all Vault applications in August.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Veeva Falcon, the new platform delivering agentic labor for clinical, regulatory, and safety, is planned for early adopter release in November.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     80,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Leading the Industry with Agentic Commercial \u2013 At Commercial Summit in May, Veeva shared its vision for Agentic Commercial, leveraging AI to help biopharmas bring the right medicines to more patients.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     74,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "With capabilities like the Agentic Call Report in Vault CRM and Ostro's conversational AI on brand websites, biopharmas can now generate and act on Commercial Evidence.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In Vault CRM, the industry's fastest path to Agentic CRM success, Veeva added 27 new Vault CRM customers in the quarter and now has more than 150 customers live.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     64,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Bringing Agentic Labor to Veeva Development Cloud \u2013 Veeva expanded its leadership with multiple enterprise biopharma wins across clinical, regulatory, and safety.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     149,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Additionally, Veeva showcased its AI strategy at the recent European R&D and Quality Summit in Copenhagen, generating strong customer interest in Vault AI and Veeva Falcon to drive productivity and speed in drug development.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     124,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Financial Outlook:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Veeva is providing guidance for its fiscal second quarter ending July 31, 2026 as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Total revenues between $902 and $905 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Non-GAAP operating income between $392 and $395 million.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Non-GAAP fully diluted net income per share between $2.21 and $2.22.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Veeva is providing updated guidance for its fiscal year ending January 31, 2027 as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Total revenues between $3,635 and $3,645 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Non-GAAP operating income of about $1,610 million.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Non-GAAP fully diluted net income per share of approximately $9.05.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     47,
+     60,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Conference Call Information",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Prepared remarks and an investor presentation providing additional information and analysis can be found on Veeva's investor relations website at ir.veeva.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Veeva will host a Q&A conference call at 2:00 p.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     10,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "PT today, June 3, 2026, and a replay of the call will be available on Veeva's investor relations website.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     53,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
