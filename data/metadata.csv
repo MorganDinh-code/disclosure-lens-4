@@ -1,3 +1,5 @@
 filename,ticker,company,sector,filing_type,period,date,source_url
-Boeing_Q2FY2026__EarningsTranscript.txt,,,,,,,
-Dow-Inc-_2Q26_Earnings-Call_Final.txt,,,,,,,
+Boeing_Earnings-Call_Q2FY2026_2026_07_28.txt,,,,Earnings call transcript,Q2 2026,,
+Boeing_Q2FY2026__EarningsTranscript.txt,,,,Earnings call transcript,Q2 2026,,
+Dow-Inc-_2Q26_Earnings-Call_Final.txt,,,,Earnings call transcript,Q2 2026,2026-07-23,
+Dow-Inc-_Earnings-Call_Q2-2026_2026_07_23.txt,,,,Earnings call transcript,Q2 2026,2026-07-23,
