@@ -1,0 +1,199 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2026",
+ "date": "2026-04-30",
+ "source_url": "https://newsroom.cardinalhealth.com/2026-04-30-Cardinal-Health-Reports-Third-Quarter-Fiscal-Year-2026-Results-and-Raises-Outlook",
+ "demo": false,
+ "source_text": "Revenue increased 11% to $60.9 billion\nGAAP1 operating earnings decreased 30% to $509 million; GAAP diluted EPS decreased 20% to $1.69\nNon-GAAP operating earnings increased 18% to $956 million; non-GAAP diluted EPS increased 35% to $3.17\nCardinal Health raises and narrows fiscal year 2026 non-GAAP EPS guidance2 to $10.70 to $10.80\nCardinal Health reduces debt and completes additional $250 million share repurchase, bringing FY26 repurchase total to $1.0 billion\nDUBLIN, Ohio, April 30, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2026 revenues of $60.9 billion, an increase of 11% from the third quarter of fiscal year 2025.\n\nThird quarter GAAP operating earnings decreased 30% to $509 million and GAAP diluted earnings per share (EPS) decreased 20% to $1.69, reflecting a $184 million pre-tax goodwill impairment in the company's Navista & ION reporting unit primarily due to changes in the risk profile of the business plans resulting in an increase in the discount rate. These changes reflect business model updates and base operational performance.\n\nThird quarter non-GAAP operating earnings increased 18% to $956 million. Non-GAAP diluted EPS increased 35% to $3.17, reflecting the increase in non-GAAP operating earnings, a lower non-GAAP effective tax rate and a lower share count, partially offset by an increase in interest and other expense.\n\n\"An excellent third quarter extends our FY26 momentum, due to the durability and resilience of our business,\" said Jason Hollar, CEO of Cardinal Health. \"We were pleased to see strong operating performance led by Pharmaceutical and Specialty Solutions and our three growth businesses, positioning us for long-term value creation and giving us the confidence to again raise our fiscal 2026 outlook.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 3,
+  "n_positive": 6,
+  "mean_pos_negative": 0.5277777777777778,
+  "mean_pos_positive": 0.5,
+  "placement_asymmetry": 0.02777777777777779,
+  "distance_from_headline": -5,
+  "first_negative_pos": 0.16666666666666666,
+  "hedge_near_negative": 0.003787878787878788,
+  "hedge_near_positive": 0.0017730496453900709,
+  "hedging_asymmetry": 2.1363636363636367,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.934640522875817,
+  "overall_hedge": 0.00398406374501992,
+  "mean_tone": 0.06342739798622152
+ },
+ "lexicon": {
+  "words": 251,
+  "per_1000": {
+   "Negative": 4.0,
+   "Positive": 12.0,
+   "Uncertainty": 4.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 4.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 3,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 11% to $60.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "GAAP1 operating earnings decreased 30% to $509 million; GAAP diluted EPS decreased 20% to $1.69.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Non-GAAP operating earnings increased 18% to $956 million; non-GAAP diluted EPS increased 35% to $3.17.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Cardinal Health raises and narrows fiscal year 2026 non-GAAP EPS guidance2 to $10.70 to $10.80.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Cardinal Health reduces debt and completes additional $250 million share repurchase, bringing FY26 repurchase total to $1.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "DUBLIN, Ohio, April 30, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2026 revenues of $60.9 billion, an increase of 11% from the third quarter of fiscal year 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Third quarter GAAP operating earnings decreased 30% to $509 million and GAAP diluted earnings per share (EPS) decreased 20% to $1.69, reflecting a $184 million pre-tax goodwill impairment in the company's Navista & ION reporting unit primarily due to changes in the risk profile of the business plans resulting in an increase in the discount rate.",
+   "d": -1,
+   "m": true,
+   "tone": -0.196,
+   "h": 0.0196,
+   "hits": [
+    [
+     177,
+     187,
+     [
+      "negative",
+      "constraining"
+     ]
+    ],
+    [
+     266,
+     270,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "These changes reflect business model updates and base operational performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Third quarter non-GAAP operating earnings increased 18% to $956 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Non-GAAP diluted EPS increased 35% to $3.17, reflecting the increase in non-GAAP operating earnings, a lower non-GAAP effective tax rate and a lower share count, partially offset by an increase in interest and other expense.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\"An excellent third quarter extends our FY26 momentum, due to the durability and resilience of our business,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\"We were pleased to see strong operating performance led by Pharmaceutical and Specialty Solutions and our three growth businesses, positioning us for long-term value creation and giving us the confidence to again raise our fiscal 2026 outlook.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.541,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     24,
+     30,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
