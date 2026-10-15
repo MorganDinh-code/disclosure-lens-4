@@ -1,0 +1,427 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-25",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-04-25-05-30-00-2869276",
+ "demo": false,
+ "source_text": "Sanofi Q1: robust 7% sales growth driven by launches, underpins full-year guidance\n\nParis, April 25, 2024\n\nSales growth of 6.7% at CER and business EPS(1) of \u20ac1.78\n\nDupixent sales up 24.9% to \u20ac2,835 million, on target to deliver ~\u20ac13bn in 2024\nPharma launches up 90.5% to \u20ac606 million, led by Nexviazyme and ALTUVIIIO\nVaccines sales up 5.6%, boosted by Beyfortus\nConsumer Healthcare (CHC) up 9.0%, benefiting from the Qunol acquisition in Physical and Mental Wellness and strong Digestive Wellness performance\nR&D expenses grew 11.8%, reflecting strategic shift of resources into development\nSG&A expenses grew 2.9%, less than sales growth\nBusiness EPS(1) of \u20ac1.78, down 17.6% reported and 7.4% at CER\nIFRS EPS of \u20ac0.91, down 43.1% reported\nR&D transformation advanced further\n\nThree regulatory approvals: new Dupixent indications in the US and Japan and Beyfortus in Japan\nPositive phase 3 results for rilzabrutinib in immune thrombocytopenia, a rare disease\nReaffirming increasing pipeline news flow over 2024-2025, including 12 phase 3 data readouts\n\nCorporate Social Responsibility progress\n\nSanofi Global Health Unit: making a difference for patients in low- and middle-income countries\nCancer and work: Sanofi supporting health and wellbeing in the workplace\nBusiness EPS guidance reiterated\n\nSanofi expects 2024 business EPS(1) to remain roughly stable excluding the impact of an expected effective tax rate increase to 21% and decrease low single-digit(2) at CER including the higher expected tax rate, barring unforeseen major adverse events. Applying average April 2024 exchange rates, the currency impact on 2024 business EPS is estimated between -5.5% to -6.5%.\n\n\nPaul Hudson, Chief Executive Officer, commented:\n\n\u201cWe are off to an excellent start in 2024, delivering on our strategic priorities and a transformation of our portfolio of medicines and vaccines to become a development-driven, tech-powered biopharma company committed to serving patients and accelerating growth. Continued strong performance by Dupixent and our new launches drove sales growth of seven percent. In parallel, we are delivering on our promise of increased investments in our late-stage pipeline to fully realize its value for patients and Sanofi. We are awaiting regulatory decisions for Dupixent in COPD, a progressive disease with limited effective treatment options. If approved, Dupixent will be the first biologic treatment in COPD. With the robust progress in our portfolio transformation, we reaffirm our financial guidance for 2024.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 28,
+  "n_material_neg": 3,
+  "n_positive": 8,
+  "mean_pos_negative": 0.34523809523809523,
+  "mean_pos_positive": 0.42410714285714285,
+  "placement_asymmetry": -0.07886904761904762,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.2857142857142857,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.005633802816901409,
+  "mean_tone": 0.18843511700654558
+ },
+ "lexicon": {
+  "words": 355,
+  "per_1000": {
+   "Negative": 5.6,
+   "Positive": 25.4,
+   "Uncertainty": 2.8,
+   "Litigious": 5.6,
+   "Strong modal": 2.8,
+   "Weak modal": 0.0,
+   "Constraining": 2.8
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 9,
+   "Uncertainty": 1,
+   "Litigious": 2,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Sanofi Q1: robust 7% sales growth driven by launches, underpins full-year guidance",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Paris, April 25, 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales growth of 6.7% at CER and business EPS(1) of \u20ac1.78",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Dupixent sales up 24.9% to \u20ac2,835 million, on target to deliver ~\u20ac13bn in 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Pharma launches up 90.5% to \u20ac606 million, led by Nexviazyme and ALTUVIIIO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Vaccines sales up 5.6%, boosted by Beyfortus.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Consumer Healthcare (CHC) up 9.0%, benefiting from the Qunol acquisition in Physical and Mental Wellness and strong Digestive Wellness performance.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     109,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "R&D expenses grew 11.8%, reflecting strategic shift of resources into development.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "SG&A expenses grew 2.9%, less than sales growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Business EPS(1) of \u20ac1.78, down 17.6% reported and 7.4% at CER.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "IFRS EPS of \u20ac0.91, down 43.1% reported.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "R&D transformation advanced further",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Three regulatory approvals: new Dupixent indications in the US and Japan and Beyfortus in Japan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     16,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Positive phase 3 results for rilzabrutinib in immune thrombocytopenia, a rare disease.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Reaffirming increasing pipeline news flow over 2024-2025, including 12 phase 3 data readouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Corporate Social Responsibility progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Sanofi Global Health Unit: making a difference for patients in low- and middle-income countries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Cancer and work: Sanofi supporting health and wellbeing in the workplace.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Business EPS guidance reiterated",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Sanofi expects 2024 business EPS(1) to remain roughly stable excluding the impact of an expected effective tax rate increase to 21% and decrease low single-digit(2) at CER including the higher expected tax rate, barring unforeseen major adverse events.",
+   "d": 0,
+   "m": false,
+   "tone": -0.27,
+   "h": 0.0541,
+   "hits": [
+    [
+     46,
+     53,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     54,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     220,
+     230,
+     [
+      "negative"
+     ]
+    ],
+    [
+     237,
+     244,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Applying average April 2024 exchange rates, the currency impact on 2024 business EPS is estimated between -5.5% to -6.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Paul Hudson, Chief Executive Officer, commented:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "\u201cWe are off to an excellent start in 2024, delivering on our strategic priorities and a transformation of our portfolio of medicines and vaccines to become a development-driven, tech-powered biopharma company committed to serving patients and accelerating growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     209,
+     218,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Continued strong performance by Dupixent and our new launches drove sales growth of seven percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "In parallel, we are delivering on our promise of increased investments in our late-stage pipeline to fully realize its value for patients and Sanofi.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "We are awaiting regulatory decisions for Dupixent in COPD, a progressive disease with limited effective treatment options.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     26,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "If approved, Dupixent will be the first biologic treatment in COPD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "With the robust progress in our portfolio transformation, we reaffirm our financial guidance for 2024.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
