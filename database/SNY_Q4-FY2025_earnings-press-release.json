@@ -1,0 +1,568 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-01-29",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-01-29-06-30-00-3228191",
+ "demo": false,
+ "source_text": "2025: strong sales and EPS growth.\nContinued profitable growth expected in 2026\n\nParis, January 29, 2026\n\nQ4 sales growth of 13.3% at CER1 and business earnings per share (EPS)2 of \u20ac1.53\n\nPharma launches increased sales by 49.4%, reaching \u20ac1.1 billion, primarily driven by Ayvakit and ALTUVIIIO\nDupixent sales increased by 32.2% to \u20ac4.2 billion, a strong end to the year\nVaccines sales decreased by 2.5% to \u20ac2.0 billion, with influenza performing better than anticipated\nResearch and Development expenses reached \u20ac2.3 billion, up by 6.6%\nSelling, general and administrative expenses reached \u20ac2.7 billion, up by 9.6%, supporting launches\nBusiness EPS was \u20ac1.53, up by 26.7% at CER; 16.8% at actual exchange rates, delivering profitable growth; IFRS EPS -\u20ac0.66\nPipeline progress\n\nTen regulatory approvals across immunology, rare diseases, and other\nPositive phase 3 readouts: amlitelimab program in AD (COAST 2, SHORE) and Dupixent in AFRS\nTolebrutinib in PPMS did not meet the primary endpoint\nFour regulatory submission acceptances, five phase 3 study starts, three regulatory designations (orphan, priority reviews)\nCapital allocation\n\nAnnouncement of the Dynavax acquisition3 and completion of the Vicebio acquisition\nCompletion of the \u20ac5 billion share buyback program\nProposed dividend of \u20ac4.12; up by 5.1%\nOther major developments\n\nSanofi reached agreement with the US government to lower medicine costs while strengthening innovation\nSanofi leads an industry working group on biopharma life cycle assessment\nGuidance\n\nIn 2026, sales are expected to grow by a high single-digit percentage at CER. Business EPS at CER is expected to grow slightly faster than sales (before share buyback), delivering profitable growth.4 Sanofi intends to execute a share buyback program in 2026 of \u20ac1 billion.\nPaul Hudson, Chief Executive Officer: \u201cIn the fourth quarter, sales growth accelerated to 13.3%, delivering another strong performance. Growth was supported by new medicines and Dupixent, reaching a new quarterly high. Business EPS was up by 26.7% with the benefit of cost discipline and growth leverage. We obtained ten regulatory approvals across immunology, rare diseases, and other, and had several positive phase 3 readouts.\n\nIn 2025, we achieved a strong year of profitable growth. Sales increased by 9.9% at constant exchange rates, while business EPS improved significantly faster by 15.0%. We launched three new medicines and vaccines: Qfitlia, Wayrilz, and Nuvaxovid, providing innovative options to patients with rare diseases and COVID-19 prevention. All this was made possible by the dedicated effort of all Sanofi colleagues worldwide.\n\nIn 2026, we expect sales to grow by a high single-digit percentage and business EPS to grow slightly faster than sales. We anticipate profitable growth to continue over at least five years.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 3,
+  "n_positive": 17,
+  "mean_pos_negative": 0.22857142857142856,
+  "mean_pos_positive": 0.5512605042016807,
+  "placement_asymmetry": -0.3226890756302522,
+  "distance_from_headline": 4,
+  "first_negative_pos": 0.2,
+  "hedge_near_negative": 0.021169354838709676,
+  "hedge_near_positive": 0.009102612843022051,
+  "hedging_asymmetry": 2.3256349801736143,
+  "framing_ratio": 0.3333333333333333,
+  "mean_tone_gap_on_negatives": 1.277777777777778,
+  "overall_hedge": 0.010178117048346057,
+  "mean_tone": 0.32015920667760717
+ },
+ "lexicon": {
+  "words": 393,
+  "per_1000": {
+   "Negative": 2.5,
+   "Positive": 45.8,
+   "Uncertainty": 7.6,
+   "Litigious": 10.2,
+   "Strong modal": 0.0,
+   "Weak modal": 2.5,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 18,
+   "Uncertainty": 3,
+   "Litigious": 4,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "2025: strong sales and EPS growth.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Continued profitable growth expected in 2026",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Paris, January 29, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Q4 sales growth of 13.3% at CER1 and business earnings per share (EPS)2 of \u20ac1.53",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Pharma launches increased sales by 49.4%, reaching \u20ac1.1 billion, primarily driven by Ayvakit and ALTUVIIIO.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Dupixent sales increased by 32.2% to \u20ac4.2 billion, a strong end to the year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Vaccines sales decreased by 2.5% to \u20ac2.0 billion, with influenza performing better than anticipated.",
+   "d": -1,
+   "m": true,
+   "tone": 0.833,
+   "h": 0.0833,
+   "hits": [
+    [
+     76,
+     82,
+     [
+      "positive"
+     ]
+    ],
+    [
+     88,
+     99,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Research and Development expenses reached \u20ac2.3 billion, up by 6.6%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Selling, general and administrative expenses reached \u20ac2.7 billion, up by 9.6%, supporting launches.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Business EPS was \u20ac1.53, up by 26.7% at CER; 16.8% at actual exchange rates, delivering profitable growth; IFRS EPS -\u20ac0.66.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     97,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Pipeline progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Ten regulatory approvals across immunology, rare diseases, and other.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Positive phase 3 readouts: amlitelimab program in AD (COAST 2, SHORE) and Dupixent in AFRS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Tolebrutinib in PPMS did not meet the primary endpoint.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Four regulatory submission acceptances, five phase 3 study starts, three regulatory designations (orphan, priority reviews).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     73,
+     83,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Capital allocation",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Announcement of the Dynavax acquisition3 and completion of the Vicebio acquisition.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Completion of the \u20ac5 billion share buyback program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Proposed dividend of \u20ac4.12; up by 5.1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Other major developments",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Sanofi reached agreement with the US government to lower medicine costs while strengthening innovation.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Sanofi leads an industry working group on biopharma life cycle assessment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In 2026, sales are expected to grow by a high single-digit percentage at CER.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Business EPS at CER is expected to grow slightly faster than sales (before share buyback), delivering profitable growth.4 Sanofi intends to execute a share buyback program in 2026 of \u20ac1 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Paul Hudson, Chief Executive Officer: \u201cIn the fourth quarter, sales growth accelerated to 13.3%, delivering another strong performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Growth was supported by new medicines and Dupixent, reaching a new quarterly high.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Business EPS was up by 26.7% with the benefit of cost discipline and growth leverage.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "We obtained ten regulatory approvals across immunology, rare diseases, and other, and had several positive phase 3 readouts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     26,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     98,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "In 2025, we achieved a strong year of profitable growth.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     23,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     38,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Sales increased by 9.9% at constant exchange rates, while business EPS improved significantly faster by 15.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "We launched three new medicines and vaccines: Qfitlia, Wayrilz, and Nuvaxovid, providing innovative options to patients with rare diseases and COVID-19 prevention.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     89,
+     99,
+     [
+      "positive"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "All this was made possible by the dedicated effort of all Sanofi colleagues worldwide.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     18,
+     26,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "In 2026, we expect sales to grow by a high single-digit percentage and business EPS to grow slightly faster than sales.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "We anticipate profitable growth to continue over at least five years.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0909,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     14,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
