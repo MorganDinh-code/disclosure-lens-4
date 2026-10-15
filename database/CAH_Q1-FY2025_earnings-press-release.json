@@ -7,7 +7,7 @@
  "date": "2024-11-01",
  "source_url": "https://newsroom.cardinalhealth.com/2024-11-01-Cardinal-Health-Reports-First-Quarter-Fiscal-Year-2025-Results-and-Raises-Fiscal-Year-2025-Outlook",
  "demo": false,
- "source_text": "\nRevenue decreased 4% to $52.3 billion; revenue increased 15% excluding the impact of the previously communicated large customer contract expiration\nGAAP1 operating earnings were $568 million; GAAP diluted EPS was $1.70\nNon-GAAP operating earnings increased 12% to $625 million, driven by significant growth in Pharmaceutical and Specialty Solutions segment profit\nNon-GAAP diluted EPS increased 9% to $1.88\nFiscal year 2025 non-GAAP EPS guidance2 raised to $7.75 to $7.90, from $7.55 to $7.70\nDUBLIN, Ohio, Nov. 1, 2024 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported first quarter fiscal year 2025 revenue of $52.3 billion, a decrease of 4% from the first quarter of fiscal year 2024. First quarter revenue increased 15% excluding the impact of the previously communicated large customer contract expiration. First quarter GAAP operating earnings were $568 million and GAAP diluted earnings per share (EPS) were $1.70. First quarter non-GAAP operating earnings increased 12% to $625 million, driven by significant growth in  Pharmaceutical and Specialty Solutions segment profit. Non-GAAP diluted EPS increased 9% to $1.88, due to the increase in non-GAAP operating earnings and a lower share count following share repurchase activity, partially offset by an increase in interest and other expense and a higher non-GAAP effective tax rate.\n\n\"We began fiscal 2025 by delivering strong operational and financial performance, led by the Pharmaceutical and Specialty Solutions segment,\" said Jason Hollar, CEO of Cardinal Health. \"The strength and resiliency of our largest and most significant business continues to shine, giving us confidence to raise our fiscal 2025 enterprise guidance only a quarter into the year. Across the business, we remain focused on executing our plan to best serve our customers and create value for our shareholders.\"",
+ "source_text": "\nRevenue decreased 4% to $52.3 billion; revenue increased 15% excluding the impact of the previously communicated large customer contract expiration\nGAAP1 operating earnings were $568 million; GAAP diluted EPS was $1.70\nNon-GAAP operating earnings increased 12% to $625 million, driven by significant growth in Pharmaceutical and Specialty Solutions segment profit\nNon-GAAP diluted EPS increased 9% to $1.88\nFiscal year 2025 non-GAAP EPS guidance2 raised to $7.75 to $7.90, from $7.55 to $7.70\n\nDUBLIN, Ohio, Nov. 1, 2024 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported first quarter fiscal year 2025 revenue of $52.3 billion, a decrease of 4% from the first quarter of fiscal year 2024. First quarter revenue increased 15% excluding the impact of the previously communicated large customer contract expiration. First quarter GAAP operating earnings were $568 million and GAAP diluted earnings per share (EPS) were $1.70. First quarter non-GAAP operating earnings increased 12% to $625 million, driven by significant growth in  Pharmaceutical and Specialty Solutions segment profit. Non-GAAP diluted EPS increased 9% to $1.88, due to the increase in non-GAAP operating earnings and a lower share count following share repurchase activity, partially offset by an increase in interest and other expense and a higher non-GAAP effective tax rate.\n\n\"We began fiscal 2025 by delivering strong operational and financial performance, led by the Pharmaceutical and Specialty Solutions segment,\" said Jason Hollar, CEO of Cardinal Health. \"The strength and resiliency of our largest and most significant business continues to shine, giving us confidence to raise our fiscal 2025 enterprise guidance only a quarter into the year. Across the business, we remain focused on executing our plan to best serve our customers and create value for our shareholders.\"",
  "boilerplate_paragraphs_removed": 0,
  "summary": {
   "n_sentences": 13,
@@ -16,7 +16,7 @@
   "mean_pos_negative": 0.4358974358974359,
   "mean_pos_positive": 0.4423076923076923,
   "placement_asymmetry": -0.0064102564102563875,
-  "distance_from_headline": -10,
+  "distance_from_headline": -5,
   "first_negative_pos": 0.07692307692307693,
   "hedge_near_negative": 0.0,
   "hedge_near_positive": 0.0,
@@ -94,7 +94,7 @@
   },
   {
    "i": 5,
-   "t": "Fiscal year 2025 non-GAAP EPS guidance2 raised to $7.75 to $7.90, from $7.55 to $7.70.",
+   "t": "Fiscal year 2025 non-GAAP EPS guidance2 raised to $7.75 to $7.90, from $7.55 to $7.70",
    "d": 0,
    "m": false,
    "tone": 0.0,
