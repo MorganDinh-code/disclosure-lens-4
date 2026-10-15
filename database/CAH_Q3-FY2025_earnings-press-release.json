@@ -7,7 +7,7 @@
  "date": "2025-05-01",
  "source_url": "https://newsroom.cardinalhealth.com/2025-05-01-Cardinal-Health-Reports-Third-Quarter-Fiscal-Year-2025-Results-and-Raises-Fiscal-Year-2025-Outlook",
  "demo": false,
- "source_text": "Revenue was flat at $54.9 billion; revenue increased 19% excluding the impact of the previously communicated customer contract expiration\nGAAP1 operating earnings were $730 million; GAAP diluted EPS was $2.10\nNon-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments; non-GAAP diluted EPS increased 13% to $2.35\nFiscal year 2025 non-GAAP EPS guidance2 raised and narrowed to $8.05 to $8.15, from $7.85 to $8.00\nGI Alliance announces expansion into urology specialty therapeutic area\nDUBLIN, Ohio, May 1, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2025 revenues of $54.9 billion, flat to the third quarter of fiscal year 2024. Third quarter revenue increased 19% excluding the impact of the previously communicated customer contract expiration. Third quarter GAAP operating earnings increased to $730 million and GAAP diluted earnings per share (EPS) were $2.10. Third quarter non-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments. Non-GAAP diluted EPS increased 13% to $2.35, reflecting the increase in non-GAAP operating earnings and a lower share count, partially offset by an increase in interest and other expense primarily due to previously anticipated financing costs related to recent acquisitions and a higher non-GAAP effective tax rate.\n\n\"Our strong momentum continued into our third quarter as our team's ongoing focus on operational execution and value creation led to excellent financial results,\" said Jason Hollar, CEO of Cardinal Health. \"I am delighted to see the broad-based performance, with all five of our operating segments contributing to our strong growth. We are pleased to raise our fiscal 2025 guidance demonstrating the strength and resilience of Cardinal Health.\"\n\n",
+ "source_text": "Revenue was flat at $54.9 billion; revenue increased 19% excluding the impact of the previously communicated customer contract expiration\nGAAP1 operating earnings were $730 million; GAAP diluted EPS was $2.10\nNon-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments; non-GAAP diluted EPS increased 13% to $2.35\nFiscal year 2025 non-GAAP EPS guidance2 raised and narrowed to $8.05 to $8.15, from $7.85 to $8.00\nGI Alliance announces expansion into urology specialty therapeutic area\n\nDUBLIN, Ohio, May 1, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2025 revenues of $54.9 billion, flat to the third quarter of fiscal year 2024. Third quarter revenue increased 19% excluding the impact of the previously communicated customer contract expiration. Third quarter GAAP operating earnings increased to $730 million and GAAP diluted earnings per share (EPS) were $2.10. Third quarter non-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments. Non-GAAP diluted EPS increased 13% to $2.35, reflecting the increase in non-GAAP operating earnings and a lower share count, partially offset by an increase in interest and other expense primarily due to previously anticipated financing costs related to recent acquisitions and a higher non-GAAP effective tax rate.\n\n\"Our strong momentum continued into our third quarter as our team's ongoing focus on operational execution and value creation led to excellent financial results,\" said Jason Hollar, CEO of Cardinal Health. \"I am delighted to see the broad-based performance, with all five of our operating segments contributing to our strong growth. We are pleased to raise our fiscal 2025 guidance demonstrating the strength and resilience of Cardinal Health.\"\n\n",
  "boilerplate_paragraphs_removed": 0,
  "summary": {
   "n_sentences": 13,
@@ -16,7 +16,7 @@
   "mean_pos_negative": 0.7692307692307693,
   "mean_pos_positive": 0.5128205128205128,
   "placement_asymmetry": 0.2564102564102565,
-  "distance_from_headline": -1,
+  "distance_from_headline": 4,
   "first_negative_pos": 0.7692307692307693,
   "hedge_near_negative": 0.01,
   "hedge_near_positive": 0.00196078431372549,
@@ -94,7 +94,7 @@
   },
   {
    "i": 5,
-   "t": "GI Alliance announces expansion into urology specialty therapeutic area.",
+   "t": "GI Alliance announces expansion into urology specialty therapeutic area",
    "d": 0,
    "m": false,
    "tone": 1.0,
