@@ -1,0 +1,568 @@
+{
+ "company": "Veeva",
+ "ticker": "VEEV",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2026",
+ "date": "2025-11-20",
+ "source_url": "https://ir.veeva.com/news/news-details/2025/Veeva-Announces-Fiscal-2026-Third-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "Total Revenues of $811.2M, up 16% Year Over Year\nSubscription Services Revenues of $682.5M, up 17% Year Over Year\n\nPLEASANTON, Calif., Nov. 20, 2025 /PRNewswire/ -- Veeva Systems Inc. (NYSE: VEEV), a leading provider of industry cloud solutions for the global life sciences industry, today announced results for its third quarter ended October 31, 2025.\n\n\"Continuing to lead through innovation, Veeva AI delivers on our vision for industry-specific AI that will help the life sciences industry reach new levels of productivity and customer centricity,\" said CEO Peter Gassner. \"Veeva AI is advancing rapidly and our early adopter projects are demonstrating the clear value in deep, specialized AI agents running in Veeva applications.\"\n\nFiscal 2026 Third Quarter Results:\n\nRevenues: Total revenues for the third quarter were $811.2 million, up from $699.2 million one year ago, an increase of 16% year over year. Subscription services revenues for the third quarter were $682.5 million, up from $580.9 million one year ago, an increase of 17% year over year.\n\nOperating Income and Non-GAAP Operating Income:(1) Third quarter operating income was $240.9 million, compared to $181.4 million one year ago, an increase of 33% year over year. Non-GAAP operating income for the third quarter was $364.9 million, compared to $304.0 million one year ago, an increase of 20% year over year.\n\nNet Income and Non-GAAP Net Income:(1) Third quarter net income was $236.2 million, compared to $185.8 million one year ago, an increase of 27% year over year. Non-GAAP net income for the third quarter was $345.1 million, compared to $288.3 million one year ago, an increase of 20% year over year.\n\nNet Income per Share and Non-GAAP Net Income per Share:(1) For the third quarter, fully diluted net income per share was $1.40, compared to $1.13 one year ago, while non-GAAP fully diluted net income per share was $2.04, compared to $1.75 one year ago.\n\"Our third quarter results and increased full-year guidance demonstrate the broad-based strength we see across the business,\" said CFO Brian Van Wagener. \"We are executing well against the large opportunity ahead and are on track toward our 2030 $6 billion revenue run-rate goal.\"\n\nRecent Highlights:\n\nVeeva AI Progress Continues and Reaches Key Milestones \u2013 Veeva AI is progressing rapidly with a focused strategy to deliver deep, industry-specific AI agents that will fundamentally transform productivity and execution for the life sciences industry. The first agents for CRM and commercial content are on track for release in early December, with R&D, quality, and additional commercial agents planned for 2026.\n\nLeading in CRM with Product Excellence and Customer Success \u2013 Veeva Vault CRM had a strong quarter, with 23 new customer additions and now has a total of 115 customers live. The quarter was marked by a significant top 20 biopharma rollout in Japan, demonstrating Vault CRM's depth and capability to handle global complexity. This adds to the success of two top 20 biopharmas live and successful across major regions.\n\nEarly in a Large Development Cloud Opportunity to Transform R&D \u2013 Veeva made significant progress advancing Veeva Development Cloud, its largest go-forward opportunity in life sciences. Three top 20 biopharmas selected Veeva Development Cloud applications as their enterprise standard in the quarter, including one each for Veeva Study Startup, Veeva Study Training, and Veeva Safety. In safety, the newest area in Development Cloud, the third top 20 biopharma went live in the quarter and Veeva advanced a number of key opportunities as the industry looks to Veeva to help modernize pharmacovigilance.\nFinancial Outlook:\n\nVeeva is providing guidance for its fiscal fourth quarter ending January 31, 2026 as follows:\n\nTotal revenues between $807 and $810 million.\n\nNon-GAAP operating income of about $350 million.(2)\n\nNon-GAAP fully diluted net income per share of approximately $1.92.(2)\nVeeva is providing updated guidance for its fiscal year ending January 31, 2026 as follows:\n\nTotal revenues between $3,166 and $3,169 million.\n\nNon-GAAP operating income of about $1,417 million.(2)\n\nNon-GAAP fully diluted net income per share of approximately $7.93.(2)\nConference Call Information\n\nPrepared remarks and an investor presentation providing additional information and analysis can be found on Veeva's investor relations website at ir.veeva.com. Veeva will host a Q&A conference call at 2:00 p.m. PT today, November 20, 2025, and a replay of the call will be available on Veeva's investor relations website.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 37,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.17297297297297298,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0029542097488921715,
+  "mean_tone": 0.14300814775198076
+ },
+ "lexicon": {
+  "words": 677,
+  "per_1000": {
+   "Negative": 1.5,
+   "Positive": 26.6,
+   "Uncertainty": 3.0,
+   "Litigious": 0.0,
+   "Strong modal": 5.9,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 18,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Total Revenues of $811.2M, up 16% Year Over Year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Subscription Services Revenues of $682.5M, up 17% Year Over Year",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "PLEASANTON, Calif., Nov. 20, 2025 /PRNewswire/ -- Veeva Systems Inc. (NYSE: VEEV), a leading provider of industry cloud solutions for the global life sciences industry, today announced results for its third quarter ended October 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "\"Continuing to lead through innovation, Veeva AI delivers on our vision for industry-specific AI that will help the life sciences industry reach new levels of productivity and customer centricity,\" said CEO Peter Gassner.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     38,
+     [
+      "positive"
+     ]
+    ],
+    [
+     102,
+     106,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "\"Veeva AI is advancing rapidly and our early adopter projects are demonstrating the clear value in deep, specialized AI agents running in Veeva applications.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     22,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Fiscal 2026 Third Quarter Results:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Revenues: Total revenues for the third quarter were $811.2 million, up from $699.2 million one year ago, an increase of 16% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Subscription services revenues for the third quarter were $682.5 million, up from $580.9 million one year ago, an increase of 17% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Operating Income and Non-GAAP Operating Income:(1) Third quarter operating income was $240.9 million, compared to $181.4 million one year ago, an increase of 33% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Non-GAAP operating income for the third quarter was $364.9 million, compared to $304.0 million one year ago, an increase of 20% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Net Income and Non-GAAP Net Income:(1) Third quarter net income was $236.2 million, compared to $185.8 million one year ago, an increase of 27% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Non-GAAP net income for the third quarter was $345.1 million, compared to $288.3 million one year ago, an increase of 20% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Net Income per Share and Non-GAAP Net Income per Share:(1) For the third quarter, fully diluted net income per share was $1.40, compared to $1.13 one year ago, while non-GAAP fully diluted net income per share was $2.04, compared to $1.75 one year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\"Our third quarter results and increased full-year guidance demonstrate the broad-based strength we see across the business,\" said CFO Brian Van Wagener.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\"We are executing well against the large opportunity ahead and are on track toward our 2030 $6 billion revenue run-rate goal.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     30,
+     [
+      "negative"
+     ]
+    ],
+    [
+     41,
+     52,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Recent Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Veeva AI Progress Continues and Reaches Key Milestones \u2013 Veeva AI is progressing rapidly with a focused strategy to deliver deep, industry-specific AI agents that will fundamentally transform productivity and execution for the life sciences industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     163,
+     167,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The first agents for CRM and commercial content are on track for release in early December, with R&D, quality, and additional commercial agents planned for 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Leading in CRM with Product Excellence and Customer Success \u2013 Veeva Vault CRM had a strong quarter, with 23 new customer additions and now has a total of 115 customers live.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     28,
+     38,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     59,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     90,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "The quarter was marked by a significant top 20 biopharma rollout in Japan, demonstrating Vault CRM's depth and capability to handle global complexity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "This adds to the success of two top 20 biopharmas live and successful across major regions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     59,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Early in a Large Development Cloud Opportunity to Transform R&D \u2013 Veeva made significant progress advancing Veeva Development Cloud, its largest go-forward opportunity in life sciences.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     89,
+     97,
+     [
+      "positive"
+     ]
+    ],
+    [
+     98,
+     107,
+     [
+      "positive"
+     ]
+    ],
+    [
+     156,
+     167,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Three top 20 biopharmas selected Veeva Development Cloud applications as their enterprise standard in the quarter, including one each for Veeva Study Startup, Veeva Study Training, and Veeva Safety.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In safety, the newest area in Development Cloud, the third top 20 biopharma went live in the quarter and Veeva advanced a number of key opportunities as the industry looks to Veeva to help modernize pharmacovigilance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     136,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Financial Outlook:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Veeva is providing guidance for its fiscal fourth quarter ending January 31, 2026 as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Total revenues between $807 and $810 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Non-GAAP operating income of about $350 million.(2)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Non-GAAP fully diluted net income per share of approximately $1.92.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     47,
+     60,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Veeva is providing updated guidance for its fiscal year ending January 31, 2026 as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Total revenues between $3,166 and $3,169 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Non-GAAP operating income of about $1,417 million.(2)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Non-GAAP fully diluted net income per share of approximately $7.93.(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     47,
+     60,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Conference Call Information",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Prepared remarks and an investor presentation providing additional information and analysis can be found on Veeva's investor relations website at ir.veeva.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Veeva will host a Q&A conference call at 2:00 p.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     10,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "PT today, November 20, 2025, and a replay of the call will be available on Veeva's investor relations website.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     58,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
