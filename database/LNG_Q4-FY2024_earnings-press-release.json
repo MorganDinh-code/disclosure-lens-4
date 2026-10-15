@@ -1,0 +1,671 @@
+{
+ "company": "Cheniere Energy, Inc.",
+ "ticker": "LNG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-02-20",
+ "source_url": "https://cqpir.cheniere.com/news-presentations/press-releases/detail/253/cheniere-partners-reports-fourth-quarter-and-full-year-2024",
+ "demo": false,
+ "source_text": "HIGHLIGHTS\n\nDuring the three and twelve months ended December 31, 2024, Cheniere Partners generated revenues of $2.5 billion and $8.7 billion, net income of $623 million and $2.5 billion, and Adjusted EBITDA1 of $890 million and $3.6 billion, respectively.\nWith respect to the fourth quarter of 2024, Cheniere Partners declared a cash distribution of $0.820 per common unit to unitholders of record as of February 10, 2025, comprised of a base amount equal to $0.775 and a variable amount equal to $0.045. The common unit distribution and the related general partner distribution were paid on February 14, 2025. For full year 2024, Cheniere Partners paid total cash distributions of $3.25 per common unit, comprised of a base amount equal to $3.10 and a variable amount equal to $0.15.\nIntroducing full year 2025 distribution guidance of $3.25 - $3.35 per common unit, maintaining a base distribution of $3.10 per common unit.\n\nNet income decreased approximately $283 million and $1.7 billion during the three and twelve months ended December 31, 2024, respectively, as compared to the corresponding 2023 periods. The decreases were primarily attributable to approximately $129 million and $1.7 billion of unfavorable variances related to changes in fair value of our derivative instruments (further described below) for the three and twelve months ended December 31, 2024, respectively, as compared to the corresponding 2023 periods.\n\nAdjusted EBITDA1 decreased by approximately $160 million and $52 million during the three and twelve months ended December 31, 2024, respectively, as compared to the corresponding 2023 periods. The decreases were primarily due to lower gross margins per MMBtu of liquefied natural gas (\u201cLNG\u201d) delivered. The decrease during the twelve months ended December 31, 2024 was partially offset by higher volumes delivered compared to the prior period.\n\nA portion of the derivative gains are attributable to the recognition at fair value of our long-term Integrated Production Marketing (\u201cIPM\u201d) agreements, natural gas supply contracts with pricing indexed to international gas and LNG prices. Our IPM agreements are structured to provide stable margins on purchases of natural gas and sales of LNG over the life of the agreements and have a fixed fee component, similar to that of LNG sold under our long-term, fixed fee LNG sale and purchase agreements. However, the long-term duration and international price basis of our IPM agreements make them particularly susceptible to fluctuations in fair market value from period to period. In addition, accounting requirements prescribe recognition of these long-term gas supply agreements at fair value each reporting period on a mark-to-market basis, but do not currently permit mark-to-market recognition of the corresponding sale of LNG, resulting in a mismatch of accounting recognition for the purchase of natural gas and sale of LNG. As a result of continued moderation of international gas price volatility and changes in international forward commodity curves during the three and twelve months ended December 31, 2024, we recognized approximately $13 million and $251 million, respectively, of non-cash favorable changes in fair value attributable to these IPM agreements, as compared to approximately $305 million and $1.8 billion of non-cash favorable changes in fair value in the corresponding 2023 periods.\n\nDuring the three and twelve months ended December 31, 2024, we recognized as revenue 401 and 1,567 TBtu, respectively, of LNG loaded from the SPL Project (defined below).\n\nCapital Resources\n\nAs of December 31, 2024, our total available liquidity was approximately $2.2 billion. We had cash and cash equivalents of approximately $270 million, restricted cash and cash equivalents of $109 million, $1.0 billion of available commitments under the Cheniere Partners Revolving Credit Facility, and $776 million of available commitments under the Sabine Pass Liquefaction, LLC (\u201cSPL\u201d) Revolving Credit Facility.\n\nRecent Key Financial Transactions and Updates\n\nDuring the three months ended December 31, 2024, SPL repaid $350 million in principal amount of its 5.625% Senior Secured Notes due 2025 with cash on hand.\n\nSABINE PASS OVERVIEW\n\nWe own natural gas liquefaction facilities consisting of six liquefaction Trains, with a total production capacity of approximately 30 million tonnes per annum (\u201cmtpa\u201d) of LNG at the Sabine Pass LNG terminal in Cameron Parish, Louisiana (the \u201cSPL Project\u201d).\n\nAs of February 14, 2025, approximately 2,840 cumulative LNG cargoes totaling over 195 million tonnes of LNG have been produced, loaded, and exported from the SPL Project.\n\nSPL Expansion Project\n\nWe are developing an expansion adjacent to the SPL Project with an expected total production capacity of up to approximately 20 mtpa of LNG (the \u201cSPL Expansion Project\u201d), inclusive of estimated debottlenecking opportunities. In February 2024, certain of our subsidiaries submitted an application to the Federal Energy Regulatory Commission for authorization to site, construct and operate the SPL Expansion Project, as well as an application to the Department of Energy requesting authorization to export LNG to Free-Trade Agreement (\u201cFTA\u201d) and non-FTA countries, both of which applications exclude debottlenecking. In October 2024, we received authorization from the DOE to export LNG to FTA countries.\n\nDISTRIBUTIONS TO UNITHOLDERS\n\nIn January 2025, we declared a cash distribution of $0.820 per common unit to unitholders of record as of February 10, 2025, comprised of a base amount equal to $0.775 ($3.10 annualized) and a variable amount equal to $0.045, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of the business. The common unit distribution and the related general partner distribution was paid on February 14, 2025.\n\nINVESTOR CONFERENCE CALL AND WEBCAST\n\nCheniere Energy, Inc. (NYSE: LNG) will host a conference call to discuss its financial and operating results for fourth quarter and full year 2024 on Thursday, February 20, 2025, at 11 a.m. Eastern time / 10 a.m. Central time. A listen-only webcast of the call and an accompanying slide presentation may be accessed through our website at www.cheniere.com. Following the call, an archived recording will be made available on our website. The call and accompanying slide presentation will include financial and operating results or other information regarding Cheniere Partners.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 39,
+  "n_material_neg": 2,
+  "n_positive": 3,
+  "mean_pos_negative": 0.20512820512820512,
+  "mean_pos_positive": 0.6153846153846154,
+  "placement_asymmetry": -0.4102564102564103,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.1794871794871795,
+  "hedge_near_negative": 0.03726851851851852,
+  "hedge_near_positive": 0.018156472498045313,
+  "hedging_asymmetry": 2.0526299104922923,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.019271948608137045,
+  "mean_tone": 0.004286627773967987
+ },
+ "lexicon": {
+  "words": 934,
+  "per_1000": {
+   "Negative": 4.3,
+   "Positive": 5.4,
+   "Uncertainty": 19.3,
+   "Litigious": 2.1,
+   "Strong modal": 3.2,
+   "Weak modal": 1.1,
+   "Constraining": 4.3
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 5,
+   "Uncertainty": 18,
+   "Litigious": 2,
+   "Strong modal": 3,
+   "Weak modal": 1,
+   "Constraining": 4
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HIGHLIGHTS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "During the three and twelve months ended December 31, 2024, Cheniere Partners generated revenues of $2.5 billion and $8.7 billion, net income of $623 million and $2.5 billion, and Adjusted EBITDA1 of $890 million and $3.6 billion, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "With respect to the fourth quarter of 2024, Cheniere Partners declared a cash distribution of $0.820 per common unit to unitholders of record as of February 10, 2025, comprised of a base amount equal to $0.775 and a variable amount equal to $0.045.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     216,
+     224,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "The common unit distribution and the related general partner distribution were paid on February 14, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "For full year 2024, Cheniere Partners paid total cash distributions of $3.25 per common unit, comprised of a base amount equal to $3.10 and a variable amount equal to $0.15.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     142,
+     150,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Introducing full year 2025 distribution guidance of $3.25 - $3.35 per common unit, maintaining a base distribution of $3.10 per common unit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Net income decreased approximately $283 million and $1.7 billion during the three and twelve months ended December 31, 2024, respectively, as compared to the corresponding 2023 periods.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     21,
+     34,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The decreases were primarily attributable to approximately $129 million and $1.7 billion of unfavorable variances related to changes in fair value of our derivative instruments (further described below) for the three and twelve months ended December 31, 2024, respectively, as compared to the corresponding 2023 periods.",
+   "d": 0,
+   "m": false,
+   "tone": -0.244,
+   "h": 0.0488,
+   "hits": [
+    [
+     45,
+     58,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     92,
+     103,
+     [
+      "negative"
+     ]
+    ],
+    [
+     104,
+     113,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Adjusted EBITDA1 decreased by approximately $160 million and $52 million during the three and twelve months ended December 31, 2024, respectively, as compared to the corresponding 2023 periods.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     30,
+     43,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "The decreases were primarily due to lower gross margins per MMBtu of liquefied natural gas (\u201cLNG\u201d) delivered.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The decrease during the twelve months ended December 31, 2024 was partially offset by higher volumes delivered compared to the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "A portion of the derivative gains are attributable to the recognition at fair value of our long-term Integrated Production Marketing (\u201cIPM\u201d) agreements, natural gas supply contracts with pricing indexed to international gas and LNG prices.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     172,
+     181,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Our IPM agreements are structured to provide stable margins on purchases of natural gas and sales of LNG over the life of the agreements and have a fixed fee component, similar to that of LNG sold under our long-term, fixed fee LNG sale and purchase agreements.",
+   "d": 0,
+   "m": false,
+   "tone": 0.213,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "However, the long-term duration and international price basis of our IPM agreements make them particularly susceptible to fluctuations in fair market value from period to period.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     107,
+     118,
+     [
+      "negative"
+     ]
+    ],
+    [
+     122,
+     134,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "In addition, accounting requirements prescribe recognition of these long-term gas supply agreements at fair value each reporting period on a mark-to-market basis, but do not currently permit mark-to-market recognition of the corresponding sale of LNG, resulting in a mismatch of accounting recognition for the purchase of natural gas and sale of LNG.",
+   "d": 0,
+   "m": false,
+   "tone": -0.175,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     36,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     267,
+     275,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "As a result of continued moderation of international gas price volatility and changes in international forward commodity curves during the three and twelve months ended December 31, 2024, we recognized approximately $13 million and $251 million, respectively, of non-cash favorable changes in fair value attributable to these IPM agreements, as compared to approximately $305 million and $1.8 billion of non-cash favorable changes in fair value in the corresponding 2023 periods.",
+   "d": 0,
+   "m": false,
+   "tone": 0.154,
+   "h": 0.0462,
+   "hits": [
+    [
+     63,
+     73,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     202,
+     215,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     272,
+     281,
+     [
+      "positive"
+     ]
+    ],
+    [
+     357,
+     370,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     413,
+     422,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "During the three and twelve months ended December 31, 2024, we recognized as revenue 401 and 1,567 TBtu, respectively, of LNG loaded from the SPL Project (defined below).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Capital Resources",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "As of December 31, 2024, our total available liquidity was approximately $2.2 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "We had cash and cash equivalents of approximately $270 million, restricted cash and cash equivalents of $109 million, $1.0 billion of available commitments under the Cheniere Partners Revolving Credit Facility, and $776 million of available commitments under the Sabine Pass Liquefaction, LLC (\u201cSPL\u201d) Revolving Credit Facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0238,
+   "hits": [
+    [
+     36,
+     49,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     64,
+     74,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     144,
+     155,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     241,
+     252,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Recent Key Financial Transactions and Updates",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "During the three months ended December 31, 2024, SPL repaid $350 million in principal amount of its 5.625% Senior Secured Notes due 2025 with cash on hand.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "SABINE PASS OVERVIEW",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "We own natural gas liquefaction facilities consisting of six liquefaction Trains, with a total production capacity of approximately 30 million tonnes per annum (\u201cmtpa\u201d) of LNG at the Sabine Pass LNG terminal in Cameron Parish, Louisiana (the \u201cSPL Project\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0263,
+   "hits": [
+    [
+     118,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "As of February 14, 2025, approximately 2,840 cumulative LNG cargoes totaling over 195 million tonnes of LNG have been produced, loaded, and exported from the SPL Project.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     25,
+     38,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "SPL Expansion Project",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "We are developing an expansion adjacent to the SPL Project with an expected total production capacity of up to approximately 20 mtpa of LNG (the \u201cSPL Expansion Project\u201d), inclusive of estimated debottlenecking opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     111,
+     124,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     210,
+     223,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "In February 2024, certain of our subsidiaries submitted an application to the Federal Energy Regulatory Commission for authorization to site, construct and operate the SPL Expansion Project, as well as an application to the Department of Energy requesting authorization to export LNG to Free-Trade Agreement (\u201cFTA\u201d) and non-FTA countries, both of which applications exclude debottlenecking.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     103,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "In October 2024, we received authorization from the DOE to export LNG to FTA countries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "DISTRIBUTIONS TO UNITHOLDERS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "In January 2025, we declared a cash distribution of $0.820 per common unit to unitholders of record as of February 10, 2025, comprised of a base amount equal to $0.775 ($3.10 annualized) and a variable amount equal to $0.045, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.029,
+   "hits": [
+    [
+     193,
+     201,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     351,
+     362,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The common unit distribution and the related general partner distribution was paid on February 14, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "INVESTOR CONFERENCE CALL AND WEBCAST",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Cheniere Energy, Inc. (NYSE: LNG) will host a conference call to discuss its financial and operating results for fourth quarter and full year 2024 on Thursday, February 20, 2025, at 11 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     38,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Eastern time / 10 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Central time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "A listen-only webcast of the call and an accompanying slide presentation may be accessed through our website at www.cheniere.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     73,
+     76,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Following the call, an archived recording will be made available on our website.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     46,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "The call and accompanying slide presentation will include financial and operating results or other information regarding Cheniere Partners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     49,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
