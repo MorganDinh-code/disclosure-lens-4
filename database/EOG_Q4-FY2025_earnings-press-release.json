@@ -1,0 +1,596 @@
+{
+ "company": "EOG Resources, Inc.",
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-24",
+ "source_url": "https://investors.eogresources.com/2026-02-24-EOG-Resources-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Announces-2026-Capital-Plan",
+ "demo": false,
+ "source_text": "Fourth Quarter Highlights\n\nOil, NGLs and natural gas production and total per-unit operating costs better than guidance midpoints\nDelivered net cash provided by operating activities of $2.6 billion and Adjusted CFO1 of $2.6 billion\nGenerated $1.0 billion of free cash flow\nDeclared regular quarterly dividend of $1.02 per share and repurchased $675 million of shares\nEarned net income of $701 million, or $1.30 per share, and adjusted net income of $1.2 billion, or $2.27 per share\nFull-Year 2025 Highlights\n\nDelivered net cash provided by operating activities of $10.0 billion and Adjusted CFO1 of $11.0 billion\nGenerated $4.7 billion of free cash flow and returned 100% to shareholders through dividends and share repurchases\nEarned net income of $5.0 billion, or $9.12 per share, and adjusted net income of $5.5 billion, or $10.16 per share\nReduced average well costs 7% across multi-basin portfolio\n2026 Outlook\n\nAnnounced $6.5 billion 2026 capital plan, which holds oil production flat to 4Q 2025. The 2026 plan delivers year-over-year oil and total production growth of 5% and 13%, respectively\nCEO Commentary\n\"2025 was a year of exceptional operational execution for EOG. We exceeded our original oil and total volume targets, capital expenditures were on target, and we continued driving down both well costs and cash operating costs. Our differentiated marketing strategy delivered peer-leading U.S. price realizations, further strengthening margins.\n\nOperational excellence drove outstanding financial results and peer-leading cash returns to shareholders. We generated $4.7 billion in free cash flow and returned 100% to shareholders through our sustainable, growing regular dividend, which increased 8%, and $2.5 billion in share repurchases. Since initiating buybacks in 2023, we've reduced our share count by approximately 10%. Our robust cash generation and pristine balance sheet position EOG to deliver shareholder value through industry cycles.\n\n2025 was also a year of transformational transactions with the strategic Encino acquisition and our entry into exciting international exploration opportunities in the UAE and Bahrain. EOG's differentiated portfolio has never been stronger. Looking ahead, we have a disciplined plan for 2026 targeting $4.5 billion in free cash flow using the midpoints of guidance at current strip pricing. Our strategy prioritizes activity in the Delaware Basin, Utica and Eagle Ford while increasing activity in Dorado alongside continued international investment. EOG's relentless focus on returns, our diverse multi-basin portfolio and industry-leading exploration capabilities provide clear visibility to sustain high returns and robust free cash flow generation for years to come.\"\n\nReturn of Capital\nThe Board of Directors today declared a dividend of $1.02 per share on EOG's common stock. The dividend will be payable April 30, 2026, to stockholders of record as of April 16, 2026. The indicated annual rate is $4.08 per share.\n\nDuring the fourth quarter, the company repurchased 6.3 million shares for $675 million under its share repurchase authorization, at an average purchase price of $107 per share.\n\nFor full-year 2025, the company repurchased 21.7 million shares for $2.5 billion under its share repurchase authorization, at an average purchase price of $115 per share. At December 31, 2025, EOG had $3.3 billion remaining on its current repurchase authorization.\n\n2025 Reserves\nTotal proved reserves increased 16% in 2025 to 5.5 Billion Boe. Extensions and discoveries added 336 MMBoe of proved reserves in 2025. Revisions other than price increased proved reserves by 65 MMBoe. Net proved reserve additions from all sources, excluding price revisions, replaced 254% of 2025 total production.\n\n2026 Capital Program\nTotal expenditures for 2026 are expected to range from $6.3 to $6.7 billion, including exploration and development drilling, facilities, leasehold acquisitions, capitalized interest, dry hole costs, and other property, plant and equipment, and excluding property acquisitions, asset retirement costs and non-cash exchanges and transactions. The capital program also excludes certain exploration costs incurred as operating expenses.\n\nThe plan holds 4Q 2025 oil production flat through 2026. Under the 2026 program, total oil production growth is 5% and total production growth is 13% year-over-year, inclusive of the Encino acquisition. EOG plans to complete 585 net wells in 2026 across our domestic multi-basin portfolio of high-return inventory.\n\nThe 2026 program targets low single-digit percentage average well cost reduction, benefiting from increasing lateral lengths and other sustainable efficiency gains. We expect higher overall activity in the Utica and Dorado, as well as continued advancement of exploration prospects in the UAE and Bahrain.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 46,
+  "n_material_neg": 1,
+  "n_positive": 8,
+  "mean_pos_negative": 0.43478260869565216,
+  "mean_pos_positive": 0.5516304347826088,
+  "placement_asymmetry": -0.1168478260869566,
+  "distance_from_headline": 18,
+  "first_negative_pos": 0.43478260869565216,
+  "hedge_near_negative": 0.019230769230769232,
+  "hedge_near_positive": 0.0026041666666666665,
+  "hedging_asymmetry": 7.384615384615385,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.00303951367781155,
+  "mean_tone": 0.11244092627599243
+ },
+ "lexicon": {
+  "words": 658,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 21.3,
+   "Uncertainty": 1.5,
+   "Litigious": 0.0,
+   "Strong modal": 3.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 14,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Fourth Quarter Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Oil, NGLs and natural gas production and total per-unit operating costs better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Delivered net cash provided by operating activities of $2.6 billion and Adjusted CFO1 of $2.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Generated $1.0 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Declared regular quarterly dividend of $1.02 per share and repurchased $675 million of shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Earned net income of $701 million, or $1.30 per share, and adjusted net income of $1.2 billion, or $2.27 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Full-Year 2025 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Delivered net cash provided by operating activities of $10.0 billion and Adjusted CFO1 of $11.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Generated $4.7 billion of free cash flow and returned 100% to shareholders through dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Earned net income of $5.0 billion, or $9.12 per share, and adjusted net income of $5.5 billion, or $10.16 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Reduced average well costs 7% across multi-basin portfolio 2026 Outlook",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Announced $6.5 billion 2026 capital plan, which holds oil production flat to 4Q 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The 2026 plan delivers year-over-year oil and total production growth of 5% and 13%, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "CEO Commentary.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "\"2025 was a year of exceptional operational execution for EOG.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We exceeded our original oil and total volume targets, capital expenditures were on target, and we continued driving down both well costs and cash operating costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Our differentiated marketing strategy delivered peer-leading U.S. price realizations, further strengthening margins.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Operational excellence drove outstanding financial results and peer-leading cash returns to shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     68,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We generated $4.7 billion in free cash flow and returned 100% to shareholders through our sustainable, growing regular dividend, which increased 8%, and $2.5 billion in share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Since initiating buybacks in 2023, we've reduced our share count by approximately 10%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     68,
+     81,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Our robust cash generation and pristine balance sheet position EOG to deliver shareholder value through industry cycles.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "2025 was also a year of transformational transactions with the strategic Encino acquisition and our entry into exciting international exploration opportunities in the UAE and Bahrain.",
+   "d": 0,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     119,
+     [
+      "positive"
+     ]
+    ],
+    [
+     146,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "EOG's differentiated portfolio has never been stronger.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     40,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     46,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Looking ahead, we have a disciplined plan for 2026 targeting $4.5 billion in free cash flow using the midpoints of guidance at current strip pricing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Our strategy prioritizes activity in the Delaware Basin, Utica and Eagle Ford while increasing activity in Dorado alongside continued international investment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "EOG's relentless focus on returns, our diverse multi-basin portfolio and industry-leading exploration capabilities provide clear visibility to sustain high returns and robust free cash flow generation for years to come.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Return of Capital.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Board of Directors today declared a dividend of $1.02 per share on EOG's common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The dividend will be payable April 30, 2026, to stockholders of record as of April 16, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "The indicated annual rate is $4.08 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "During the fourth quarter, the company repurchased 6.3 million shares for $675 million under its share repurchase authorization, at an average purchase price of $107 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "For full-year 2025, the company repurchased 21.7 million shares for $2.5 billion under its share repurchase authorization, at an average purchase price of $115 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "At December 31, 2025, EOG had $3.3 billion remaining on its current repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "2025 Reserves.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Total proved reserves increased 16% in 2025 to 5.5 Billion Boe.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Extensions and discoveries added 336 MMBoe of proved reserves in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Revisions other than price increased proved reserves by 65 MMBoe.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Net proved reserve additions from all sources, excluding price revisions, replaced 254% of 2025 total production.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "2026 Capital Program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Total expenditures for 2026 are expected to range from $6.3 to $6.7 billion, including exploration and development drilling, facilities, leasehold acquisitions, capitalized interest, dry hole costs, and other property, plant and equipment, and excluding property acquisitions, asset retirement costs and non-cash exchanges and transactions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The capital program also excludes certain exploration costs incurred as operating expenses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The plan holds 4Q 2025 oil production flat through 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Under the 2026 program, total oil production growth is 5% and total production growth is 13% year-over-year, inclusive of the Encino acquisition.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "EOG plans to complete 585 net wells in 2026 across our domestic multi-basin portfolio of high-return inventory.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The 2026 program targets low single-digit percentage average well cost reduction, benefiting from increasing lateral lengths and other sustainable efficiency gains.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     92,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     157,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     163,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "We expect higher overall activity in the Utica and Dorado, as well as continued advancement of exploration prospects in the UAE and Bahrain.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0435,
+   "hits": [
+    [
+     80,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
