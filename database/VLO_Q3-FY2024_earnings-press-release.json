@@ -1,0 +1,563 @@
+{
+ "company": "Valero Energy Corporation",
+ "ticker": "VLO",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-24",
+ "source_url": "https://investorvalero.com/news/news-details/2024/Valero-Energy-Reports-Third-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "Reported net income attributable to Valero stockholders of $364 million, or $1.14 per share\nReturned $907 million to stockholders through dividends and stock buybacks\nSuccessfully completed the Diamond Green Diesel (DGD) Port Arthur Sustainable Aviation Fuel (SAF) project in October\nSAN ANTONIO--(BUSINESS WIRE)-- Valero Energy Corporation (NYSE: VLO, \u201cValero\u201d) today reported net income attributable to Valero stockholders of $364 million, or $1.14 per share, for the third quarter of 2024, compared to $2.6 billion, or $7.49 per share, for the third quarter of 2023.\n\nRefining\n\nThe Refining segment reported operating income of $565 million for the third quarter of 2024, compared to $3.4 billion for the third quarter of 2023. Refining throughput volumes averaged 2.9 million barrels per day during a period of heavy maintenance activities in the third quarter of 2024.\n\nRenewable Diesel\n\nThe Renewable Diesel segment, which consists of the DGD joint venture, reported $35 million of operating income for the third quarter of 2024, compared to $123 million for the third quarter of 2023. Segment sales volumes averaged 3.5 million gallons per day in the third quarter of 2024, which was 552 thousand gallons per day higher than the third quarter of 2023.\n\nEthanol\n\nThe Ethanol segment reported $153 million of operating income for the third quarter of 2024, compared to $197 million for the third quarter of 2023. Ethanol production volumes averaged 4.6 million gallons per day in the third quarter of 2024, which was 255 thousand gallons per day higher than the third quarter of 2023.\n\nCorporate and Other\n\nGeneral and administrative expenses were $234 million in the third quarter of 2024, compared to $250 million in the third quarter of 2023. The effective tax rate for the third quarter of 2024 was 20 percent.\n\nInvesting and Financing Activities\n\nNet cash provided by operating activities was $1.3 billion in the third quarter of 2024. Included in this amount was a $166 million favorable change in working capital and $47 million of adjusted net cash provided by operating activities associated with the other joint venture member\u2019s share of DGD. Excluding these items, adjusted net cash provided by operating activities was $1.1 billion in the third quarter of 2024.\n\nCapital investments totaled $429 million in the third quarter of 2024, of which $338 million was for sustaining the business, including costs for turnarounds, catalysts and regulatory compliance. Excluding capital investments attributable to the other joint venture member\u2019s share of DGD and other variable interest entities, capital investments attributable to Valero were $394 million.\n\nValero returned $907 million to stockholders in the third quarter of 2024, of which $342 million was paid as dividends and $565 million was for the purchase of approximately 3.8 million shares of common stock, resulting in a payout ratio of 84 percent of adjusted net cash provided by operating activities.\n\nValero remains committed to a through-cycle minimum annual payout ratio of 40 to 50 percent. Valero defines payout ratio as the sum of dividends paid and the total cost of stock buybacks divided by adjusted net cash provided by operating activities.\n\n\u201cOur focus on operational excellence, capital discipline and honoring our commitment to shareholder returns has served us well through multiple commodity cycles and will continue to anchor our strategy going forward,\u201d said Lane Riggs, Valero\u2019s Chief Executive Officer and President.\n\nLiquidity and Financial Position\n\nValero ended the third quarter of 2024 with $8.4 billion of total debt, $2.5 billion of finance lease obligations, and $5.2 billion of cash and cash equivalents. The debt to capitalization ratio, net of cash and cash equivalents, was 17 percent as of September 30, 2024.\n\nStrategic Update\n\nThe SAF project at the DGD Port Arthur plant was successfully completed in October. The project is expected to be fully operational this year, providing the plant the optionality to upgrade approximately 50 percent of its current 470 million gallon renewable diesel annual production capacity to SAF.\n\n\u201cThe DGD SAF project was completed on schedule and under budget and is a testament to the strength of our project and operations teams,\u201d said Riggs.\n\nConference Call\n\nValero\u2019s senior management will hold a conference call at 10 a.m. ET today to discuss this earnings release and to provide an update on operations and strategy.\n\nAbout Valero\n\nValero Energy Corporation, through its subsidiaries (collectively, Valero), is a multinational manufacturer and marketer of petroleum-based and low-carbon liquid transportation fuels and petrochemical products, and it sells its products primarily in the United States (U.S.), Canada, the United Kingdom (U.K.), Ireland and Latin America. Valero owns 15 petroleum refineries located in the U.S., Canada and the U.K. with a combined throughput capacity of approximately 3.2 million barrels per day. Valero is a joint venture member in Diamond Green Diesel Holdings LLC, which owns two renewable diesel plants located in the U.S. Gulf Coast region with a combined production capacity of approximately 1.2 billion gallons per year, and Valero owns 12 ethanol plants located in the U.S. Mid-Continent region with a combined production capacity of approximately 1.6 billion gallons per year. Valero manages its operations through its Refining, Renewable Diesel and Ethanol segments. Please visit investorvalero.com for more information.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 42,
+  "n_material_neg": 0,
+  "n_positive": 0,
+  "hedge_near_negative": null,
+  "hedge_near_positive": null,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.007509386733416771,
+  "mean_tone": 0.059874673332861485
+ },
+ "lexicon": {
+  "words": 799,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 7.5,
+   "Uncertainty": 7.5,
+   "Litigious": 1.3,
+   "Strong modal": 2.5,
+   "Weak modal": 0.0,
+   "Constraining": 3.8
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 6,
+   "Uncertainty": 6,
+   "Litigious": 1,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Reported net income attributable to Valero stockholders of $364 million, or $1.14 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Returned $907 million to stockholders through dividends and stock buybacks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Successfully completed the Diamond Green Diesel (DGD) Port Arthur Sustainable Aviation Fuel (SAF) project in October.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "SAN ANTONIO--(BUSINESS WIRE)-- Valero Energy Corporation (NYSE: VLO, \u201cValero\u201d) today reported net income attributable to Valero stockholders of $364 million, or $1.14 per share, for the third quarter of 2024, compared to $2.6 billion, or $7.49 per share, for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Refining",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "The Refining segment reported operating income of $565 million for the third quarter of 2024, compared to $3.4 billion for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Refining throughput volumes averaged 2.9 million barrels per day during a period of heavy maintenance activities in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Renewable Diesel",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The Renewable Diesel segment, which consists of the DGD joint venture, reported $35 million of operating income for the third quarter of 2024, compared to $123 million for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Segment sales volumes averaged 3.5 million gallons per day in the third quarter of 2024, which was 552 thousand gallons per day higher than the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Ethanol",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The Ethanol segment reported $153 million of operating income for the third quarter of 2024, compared to $197 million for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Ethanol production volumes averaged 4.6 million gallons per day in the third quarter of 2024, which was 255 thousand gallons per day higher than the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Corporate and Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "General and administrative expenses were $234 million in the third quarter of 2024, compared to $250 million in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The effective tax rate for the third quarter of 2024 was 20 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Investing and Financing Activities",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Net cash provided by operating activities was $1.3 billion in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Included in this amount was a $166 million favorable change in working capital and $47 million of adjusted net cash provided by operating activities associated with the other joint venture member\u2019s share of DGD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     52,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Excluding these items, adjusted net cash provided by operating activities was $1.1 billion in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Capital investments totaled $429 million in the third quarter of 2024, of which $338 million was for sustaining the business, including costs for turnarounds, catalysts and regulatory compliance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     173,
+     183,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Excluding capital investments attributable to the other joint venture member\u2019s share of DGD and other variable interest entities, capital investments attributable to Valero were $394 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     102,
+     110,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Valero returned $907 million to stockholders in the third quarter of 2024, of which $342 million was paid as dividends and $565 million was for the purchase of approximately 3.8 million shares of common stock, resulting in a payout ratio of 84 percent of adjusted net cash provided by operating activities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0222,
+   "hits": [
+    [
+     160,
+     173,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Valero remains committed to a through-cycle minimum annual payout ratio of 40 to 50 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     24,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Valero defines payout ratio as the sum of dividends paid and the total cost of stock buybacks divided by adjusted net cash provided by operating activities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "\u201cOur focus on operational excellence, capital discipline and honoring our commitment to shareholder returns has served us well through multiple commodity cycles and will continue to anchor our strategy going forward,\u201d said Lane Riggs, Valero\u2019s Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     69,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     84,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     165,
+     169,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Liquidity and Financial Position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Valero ended the third quarter of 2024 with $8.4 billion of total debt, $2.5 billion of finance lease obligations, and $5.2 billion of cash and cash equivalents.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     113,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "The debt to capitalization ratio, net of cash and cash equivalents, was 17 percent as of September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Strategic Update",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The SAF project at the DGD Port Arthur plant was successfully completed in October.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The project is expected to be fully operational this year, providing the plant the optionality to upgrade approximately 50 percent of its current 470 million gallon renewable diesel annual production capacity to SAF.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     106,
+     119,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "\u201cThe DGD SAF project was completed on schedule and under budget and is a testament to the strength of our project and operations teams,\u201d said Riggs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     90,
+     98,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Conference Call",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Valero\u2019s senior management will hold a conference call at 10 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     31,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "ET today to discuss this earnings release and to provide an update on operations and strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "About Valero",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Valero Energy Corporation, through its subsidiaries (collectively, Valero), is a multinational manufacturer and marketer of petroleum-based and low-carbon liquid transportation fuels and petrochemical products, and it sells its products primarily in the United States (U.S.), Canada, the United Kingdom (U.K.), Ireland and Latin America.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Valero owns 15 petroleum refineries located in the U.S., Canada and the U.K. with a combined throughput capacity of approximately 3.2 million barrels per day.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     116,
+     129,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Valero is a joint venture member in Diamond Green Diesel Holdings LLC, which owns two renewable diesel plants located in the U.S. Gulf Coast region with a combined production capacity of approximately 1.2 billion gallons per year, and Valero owns 12 ethanol plants located in the U.S. Mid-Continent region with a combined production capacity of approximately 1.6 billion gallons per year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0328,
+   "hits": [
+    [
+     187,
+     200,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     345,
+     358,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Valero manages its operations through its Refining, Renewable Diesel and Ethanol segments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Please visit investorvalero.com for more information.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
