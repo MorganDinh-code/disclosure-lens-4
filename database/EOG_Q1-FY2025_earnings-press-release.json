@@ -1,0 +1,823 @@
+{
+ "company": "EOG Resources, Inc.",
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-05-01",
+ "source_url": "https://investors.eogresources.com/2025-05-01-EOG-Resources-Reports-First-Quarter-2025-Results-and-Updates-2025-Plan",
+ "demo": false,
+ "source_text": "First Quarter Highlights\n\nEarned adjusted net income of $1.6 billion, or $2.87 per share\nGenerated $1.3 billion of free cash flow\nDeclared regular quarterly dividend of $0.975 per share\nPaid $538 million in regular dividends and repurchased $788 million of shares\nVolumes and per-unit operating costs better than guidance midpoints\n2025 Capital Plan Update & Other Highlights\n\nOptimized full-year capital plan to $6.0 billion to grow oil production 2% and total production 5%\nAnnounced oil discovery in Trinidad\n\nFrom Ezra Yacob, Chairman and Chief Executive Officer\n\"EOG had a strong start to the year, with oil and total volumes, cash operating costs, and DD&A better than expected. Results were driven by solid execution across both foundational and emerging plays.\n\n\"The company's financial position provides EOG the ability to return greater than 100% of annual free cash flow in the near term. Strong operating results generated $1.3 billion of free cash flow in the quarter. EOG returned $1.3 billion to shareholders through $538 million in regular dividends and $788 million of share repurchases.\n\n\"Significant progress in the company's exploration efforts complements positive operational developments across our multi-basin portfolio. Recent exploration success in Trinidad, continued cost reduction and resource additions in foundational assets, along with operating efficiency and productivity improvements in emerging plays, provide high confidence in the low-cost basis and long duration of our resource base.\n\n\"We adjusted our plan for the year to optimize capital investment. The focus remains on capital discipline, such that we appropriately balance both macro and operational considerations to drive returns, strong free cash flow and continued improvement in our business. EOG's low-cost position supports profitability during periods of price volatility, allowing the company to create significant value for shareholders through commodity price cycles.\"\n\nRegular Dividend and First Quarter Share Repurchases\nThe Board of Directors today declared a dividend of $0.975 per share on EOG's common stock. The dividend will be payable July 31, 2025, to stockholders of record as of July 17, 2025. The indicated annual rate is $3.90 per share.\n\nDuring the first quarter, the company repurchased 6.2 million shares for $788 million under its share repurchase authorization. EOG has $5.1 billion remaining on its current share buyback authorization.\n\n2025 Capital Plan Update & Other Highlights\n\n2025 Capital Plan Update\nIn light of our strong first quarter performance and potential near-term impacts on global demand due to ongoing discussions regarding tariffs, we are proactively optimizing our full-year 2025 plan. Total capital expenditures for 2025 are now expected to range from $5.8 to $6.2 billion, a $200 million reduction relative to our prior plan. As a result, the company expects to maintain oil production at first quarter 2025 levels for the balance of the year and deliver full-year oil production growth of 2% and total production growth of 5%.\n\nEOG Exploration Update\nEOG has announced a shallow water offshore oil discovery in Trinidad. The Beryl oil discovery is based on a successful exploration well in the TSP Deep Area.\n\nFirst Quarter 2025 Financial Performance\n\nPrices\n\nCrude oil, NGL and natural gas prices increased in 1Q compared with 4Q\nVolumes\n\nOil production of 502,100 Bopd was above the midpoint of the guidance range and up from 4Q\nNGL production was above the midpoint of the guidance range and down from 4Q\nNatural gas production was above the midpoint of the guidance range and down from 4Q\nTotal company equivalent production was above the midpoint of the guidance range and down from 4Q\nPer-Unit Costs\n\nLOE, GP&T, and DD&A expenses increased in 1Q compared with 4Q, while G&A costs decreased\nHedges\n\nMark-to-market hedge losses decreased GAAP earnings per share in 1Q compared with 4Q\nCash paid to settle hedges decreased adjusted non-GAAP earnings per share in 1Q compared with 4Q\nFree Cash Flow\n\nCash flow from operations before changes in working capital was $2.8 billion\nIncurred $1.5 billion of capital expenditures\nThis resulted in $1.3 billion of free cash flow\nCash Return and Working Capital\n\nPaid $538 million in regular dividends\nRepurchased $788 million of stock\nPaid approximately $700 million in taxes associated with postponed tax payments due to severe weather tax relief in 2024\nFirst Quarter 2025 Operating Performance\n\nLease and Well\n\nQoQ: Increased primarily due to higher water handling expenses and fuel costs\nGuidance Midpoint: Lower primarily due to lower workover expenses and labor costs\nGathering, Processing and Transportation Costs\n\nQoQ: Increased primarily due to higher gas transportation expenses and fuel costs\nGuidance Midpoint: Lower primarily due to lower compression-related costs\nGeneral and Administrative\n\nQoQ: Decreased due to lower employee-related expenses\nGuidance Midpoint: Lower due to lower employee-related expenses\nDepreciation, Depletion and Amortization\n\nQoQ: Increased primarily due to the impact of reserve revisions and well mix\nGuidance Midpoint: Lower primarily due to the addition of lower cost reserves",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 67,
+  "n_material_neg": 2,
+  "n_positive": 12,
+  "mean_pos_negative": 0.664179104477612,
+  "mean_pos_positive": 0.6791044776119403,
+  "placement_asymmetry": -0.01492537313432829,
+  "distance_from_headline": 41,
+  "first_negative_pos": 0.6417910447761194,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0027901785714285715,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0039164490861618795,
+  "mean_tone": 0.05213398284679808
+ },
+ "lexicon": {
+  "words": 766,
+  "per_1000": {
+   "Negative": 6.5,
+   "Positive": 19.6,
+   "Uncertainty": 2.6,
+   "Litigious": 0.0,
+   "Strong modal": 1.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 15,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First Quarter Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earned adjusted net income of $1.6 billion, or $2.87 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated $1.3 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Declared regular quarterly dividend of $0.975 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Paid $538 million in regular dividends and repurchased $788 million of shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Volumes and per-unit operating costs better than guidance midpoints 2025 Capital Plan Update & Other Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Optimized full-year capital plan to $6.0 billion to grow oil production 2% and total production 5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Announced oil discovery in Trinidad",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "From Ezra Yacob, Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\"EOG had a strong start to the year, with oil and total volumes, cash operating costs, and DD&A better than expected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     96,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Results were driven by solid execution across both foundational and emerging plays.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\"The company's financial position provides EOG the ability to return greater than 100% of annual free cash flow in the near term.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Strong operating results generated $1.3 billion of free cash flow in the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "EOG returned $1.3 billion to shareholders through $538 million in regular dividends and $788 million of share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "\"Significant progress in the company's exploration efforts complements positive operational developments across our multi-basin portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Recent exploration success in Trinidad, continued cost reduction and resource additions in foundational assets, along with operating efficiency and productivity improvements in emerging plays, provide high confidence in the low-cost basis and long duration of our resource base.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     143,
+     [
+      "positive"
+     ]
+    ],
+    [
+     161,
+     173,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\"We adjusted our plan for the year to optimize capital investment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The focus remains on capital discipline, such that we appropriately balance both macro and operational considerations to drive returns, strong free cash flow and continued improvement in our business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     136,
+     142,
+     [
+      "positive"
+     ]
+    ],
+    [
+     172,
+     183,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "EOG's low-cost position supports profitability during periods of price volatility, allowing the company to create significant value for shareholders through commodity price cycles.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     33,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     81,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Regular Dividend and First Quarter Share Repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The Board of Directors today declared a dividend of $0.975 per share on EOG's common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The dividend will be payable July 31, 2025, to stockholders of record as of July 17, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "The indicated annual rate is $3.90 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "During the first quarter, the company repurchased 6.2 million shares for $788 million under its share repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "EOG has $5.1 billion remaining on its current share buyback authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "2025 Capital Plan Update & Other Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "2025 Capital Plan Update.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "In light of our strong first quarter performance and potential near-term impacts on global demand due to ongoing discussions regarding tariffs, we are proactively optimizing our full-year 2025 plan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     151,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Total capital expenditures for 2025 are now expected to range from $5.8 to $6.2 billion, a $200 million reduction relative to our prior plan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As a result, the company expects to maintain oil production at first quarter 2025 levels for the balance of the year and deliver full-year oil production growth of 2% and total production growth of 5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "EOG Exploration Update.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "EOG has announced a shallow water offshore oil discovery in Trinidad.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "The Beryl oil discovery is based on a successful exploration well in the TSP Deep Area.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "First Quarter 2025 Financial Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Prices",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Crude oil, NGL and natural gas prices increased in 1Q compared with 4Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Volumes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Oil production of 502,100 Bopd was above the midpoint of the guidance range and up from 4Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "NGL production was above the midpoint of the guidance range and down from 4Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Natural gas production was above the midpoint of the guidance range and down from 4Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Total company equivalent production was above the midpoint of the guidance range and down from 4Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Per-Unit Costs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "LOE, GP&T, and DD&A expenses increased in 1Q compared with 4Q, while G&A costs decreased.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Hedges",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Mark-to-market hedge losses decreased GAAP earnings per share in 1Q compared with 4Q.",
+   "d": 1,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "Cash paid to settle hedges decreased adjusted non-GAAP earnings per share in 1Q compared with 4Q.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Free Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Cash flow from operations before changes in working capital was $2.8 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "Incurred $1.5 billion of capital expenditures.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "This resulted in $1.3 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "Cash Return and Working Capital",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "Paid $538 million in regular dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "Repurchased $788 million of stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "Paid approximately $700 million in taxes associated with postponed tax payments due to severe weather tax relief in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     5,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     57,
+     66,
+     [
+      "negative"
+     ]
+    ],
+    [
+     87,
+     93,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 55,
+   "t": "First Quarter 2025 Operating Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 56,
+   "t": "Lease and Well",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "QoQ: Increased primarily due to higher water handling expenses and fuel costs.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 58,
+   "t": "Guidance Midpoint: Lower primarily due to lower workover expenses and labor costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 59,
+   "t": "Gathering, Processing and Transportation Costs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 60,
+   "t": "QoQ: Increased primarily due to higher gas transportation expenses and fuel costs.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 61,
+   "t": "Guidance Midpoint: Lower primarily due to lower compression-related costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "General and Administrative",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "QoQ: Decreased due to lower employee-related expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 64,
+   "t": "Guidance Midpoint: Lower due to lower employee-related expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 65,
+   "t": "Depreciation, Depletion and Amortization",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 66,
+   "t": "QoQ: Increased primarily due to the impact of reserve revisions and well mix.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "Guidance Midpoint: Lower primarily due to the addition of lower cost reserves",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
