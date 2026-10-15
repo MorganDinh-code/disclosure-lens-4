@@ -1,0 +1,492 @@
+{
+ "company": "EOG Resources, Inc.",
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-05",
+ "source_url": "https://investors.eogresources.com/2026-05-05-EOG-Resources-Reports-First-Quarter-2026-Results",
+ "demo": false,
+ "source_text": "First Quarter Highlights\n\nEarned net income of $2.0 billion, or $3.70 per share, and adjusted net income of $1.8 billion, or $3.41 per share\nDelivered net cash provided by operating activities of $3.0 billion and Adjusted CFO1 of $3.1 billion\nGenerated $1.5 billion of free cash flow\nDeclared regular quarterly dividend of $1.02 per share\nPaid $544 million in regular dividends and repurchased $402 million of shares\nVolumes better than guidance midpoints with in-line capital expenditures\nTotal per-unit cash operating costs and DD&A better than guidance midpoints\nOil and natural gas price realizations better than guidance midpoints\nIncreasing full year oil and NGL production guidance reflecting reallocation of capital program\nCEO Commentary\n\n\"EOG delivered exceptional results in the first quarter, with oil, gas, and NGL volumes exceeding the midpoints of guidance while maintaining rigorous cost discipline - total per-unit cash operating costs and DD&A both came in better than guidance midpoints. Operational excellence translated into robust financial performance: we generated $1.5 billion in free cash flow and returned nearly $950 million to shareholders through our regular dividend and share repurchases.\n\nOur first quarter results reflect strong execution and progress towards our full-year objectives. We are reallocating some capital for the remainder of this year to liquids assets while keeping our capital budget unchanged. This drives a modest increase in oil and NGL production this year versus our prior guidance while providing optionality for future growth. This change reflects the flexibility to invest across our high-return, multi-basin portfolio with differentiated exposure to natural gas, liquids, conventionals, and unconventionals.\n\nEOG is well positioned to thrive in the current dynamic macro environment. Our competitive advantages drive differentiated performance: a best-in-class balance sheet providing financial strength and flexibility to invest through cycles; premium pricing exposure in key markets enhancing revenue realizations; differentiated exploration expertise driving low-cost, high-quality inventory across multiple basins; vertical integration and in-house technology strengthening our operational efficiency and cost structure; and a unique culture that empowers our teams to innovate and execute at the highest level.\n\nEOG has never been stronger. Our multi-basin portfolio, operational excellence, and financial strength provide unmatched flexibility to deliver superior returns and significant cash to shareholders across commodity price cycles.\"\n\nReturn of Capital \nThe Board of Directors today declared a dividend of $1.02 per share on EOG's common stock. The dividend will  be payable July 31, 2026, to stockholders of record as of July 17, 2026. The indicated annual rate is $4.08 per share.\n\nDuring the first quarter, the company repurchased 3.2 million shares for $402 million under its share repurchase authorization, at an average purchase price of $125 per share. As of March 31, 2026, EOG had $2.9 billion remaining on its current repurchase authorization. \n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 0,
+  "n_positive": 2,
+  "mean_pos_positive": 0.7407407407407407,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.007575757575757576,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.00683371298405467,
+  "mean_tone": 0.2088741162815237
+ },
+ "lexicon": {
+  "words": 439,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 50.1,
+   "Uncertainty": 6.8,
+   "Litigious": 0.0,
+   "Strong modal": 9.1,
+   "Weak modal": 2.3,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 22,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First Quarter Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earned net income of $2.0 billion, or $3.70 per share, and adjusted net income of $1.8 billion, or $3.41 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Delivered net cash provided by operating activities of $3.0 billion and Adjusted CFO1 of $3.1 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Generated $1.5 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Declared regular quarterly dividend of $1.02 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Paid $544 million in regular dividends and repurchased $402 million of shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Volumes better than guidance midpoints with in-line capital expenditures.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Total per-unit cash operating costs and DD&A better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Oil and natural gas price realizations better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     45,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Increasing full year oil and NGL production guidance reflecting reallocation of capital program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "CEO Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\"EOG delivered exceptional results in the first quarter, with oil, gas, and NGL volumes exceeding the midpoints of guidance while maintaining rigorous cost discipline - total per-unit cash operating costs and DD&A both came in better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     227,
+     233,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Operational excellence translated into robust financial performance: we generated $1.5 billion in free cash flow and returned nearly $950 million to shareholders through our regular dividend and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     132,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Our first quarter results reflect strong execution and progress towards our full-year objectives.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     55,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "We are reallocating some capital for the remainder of this year to liquids assets while keeping our capital budget unchanged.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "This drives a modest increase in oil and NGL production this year versus our prior guidance while providing optionality for future growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "This change reflects the flexibility to invest across our high-return, multi-basin portfolio with differentiated exposure to natural gas, liquids, conventionals, and unconventionals.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     113,
+     121,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "EOG is well positioned to thrive in the current dynamic macro environment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Our competitive advantages drive differentiated performance: a best-in-class balance sheet providing financial strength and flexibility to invest through cycles; premium pricing exposure in key markets enhancing revenue realizations; differentiated exploration expertise driving low-cost, high-quality inventory across multiple basins; vertical integration and in-house technology strengthening our operational efficiency and cost structure; and a unique culture that empowers our teams to innovate and execute at the highest level.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0141,
+   "hits": [
+    [
+     16,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     63,
+     67,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     111,
+     119,
+     [
+      "positive"
+     ]
+    ],
+    [
+     178,
+     186,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     202,
+     211,
+     [
+      "positive"
+     ]
+    ],
+    [
+     381,
+     394,
+     [
+      "positive"
+     ]
+    ],
+    [
+     411,
+     421,
+     [
+      "positive"
+     ]
+    ],
+    [
+     468,
+     476,
+     [
+      "positive"
+     ]
+    ],
+    [
+     490,
+     498,
+     [
+      "positive"
+     ]
+    ],
+    [
+     518,
+     525,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "EOG has never been stronger.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     13,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     19,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Our multi-basin portfolio, operational excellence, and financial strength provide unmatched flexibility to deliver superior returns and significant cash to shareholders across commodity price cycles.\"",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     65,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     82,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     115,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Return of Capital.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Board of Directors today declared a dividend of $1.02 per share on EOG's common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "The dividend will  be payable July 31, 2026, to stockholders of record as of July 17, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The indicated annual rate is $4.08 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "During the first quarter, the company repurchased 3.2 million shares for $402 million under its share repurchase authorization, at an average purchase price of $125 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "As of March 31, 2026, EOG had $2.9 billion remaining on its current repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
