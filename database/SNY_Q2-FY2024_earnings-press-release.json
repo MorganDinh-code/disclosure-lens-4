@@ -1,0 +1,367 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-07-25",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-07-25-05-30-00-2918503",
+ "demo": false,
+ "source_text": "Sanofi Q2: strong performance with 10% sales growth; 2024 guidance upgraded\n\nParis, July 25, 2024\n\nQ2 sales growth of 10.2% at CER and business EPS(1) of \u20ac1.73\n\nDupixent sales up 29.2% to \u20ac3,303 million; target of ~\u20ac13 billion in 2024 unchanged\nPharma launches up 80.4% to \u20ac689 million, led by ALTUVIIIO, Nexviazyme, Rezurock, and Sarclisa\nVaccines sales -4.8% due to COVID-19 sales in 2023\nOpella (former Sanofi Consumer Healthcare) up 9.6%, driven by the Qunol acquisition\nResearch and Development expenses grew 5.5%\nSelling, general and administrative expenses grew 4.9%, substantially less than sales growth\nBusiness EPS(1) of \u20ac1.73, down 0.6% reported and up 4.0% at CER\nIFRS EPS of \u20ac0.89, down 22.6% reported\nQ2 pipeline progress\n\nThree regulatory approvals; Dupixent COPD (EU, July), Kevzara pJIA (US), Altuvoct hemophilia A (EU)\nFour regulatory submissions, including fitusiran in hemophilia A/B and Sarclisa in multiple myeloma\nIncreasing pipeline news flow over 2024-2025, including 12 phase 3 data readouts\n\nOther key updates\n\nSanofi ranked world\u2019s 7th most sustainable company by TIME Magazine\nOpella (Consumer Healthcare) intended separation on track with previously communicated timelines*\n2024 business EPS guidance upgraded\n\n2024 business EPS(1) to be stable at CER(2), an upgrade from a low single-digit percentage decrease previously, underpinned by accelerated delivery of Sanofi\u2019s pipeline-driven transformation. Applying the average July 2024 exchange rates, the currency impact on 2024 business EPS is c.-5.5% to -6.5%.\n\nPaul Hudson, Chief Executive Officer, commented:\n\n\u201cWe are continuing our strong performance in 2024 and delivered broad-based, double-digit sales growth in the second quarter. We also made important progress in our pipeline of new medicines, including approvals for Dupixent in COPD, Kevzara in pediatric arthritis and ALTUVIIIO (EU) in hemophilia A. With the EU approval in COPD, Dupixent is the first-ever biologic medicine approved in this debilitating disease impacting hundreds of thousands of patients globally. As we accelerate our focused mid- and late-stage pipeline, we started a number of new phase 2 and phase 3 studies that will benefit patients in the future. We are well on track, delivering on our strategic priorities for Sanofi to become a development-driven, tech-powered biopharma company committed to serving patients and accelerating growth. Underpinned by accelerated delivery of Sanofi\u2019s transformation, we upgrade our earnings per share guidance for 2024.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 2,
+  "n_positive": 6,
+  "mean_pos_negative": 0.35185185185185186,
+  "mean_pos_positive": 0.4012345679012346,
+  "placement_asymmetry": -0.04938271604938271,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.2962962962962963,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.12100209371164537
+ },
+ "lexicon": {
+  "words": 350,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 14.3,
+   "Uncertainty": 0.0,
+   "Litigious": 5.7,
+   "Strong modal": 2.9,
+   "Weak modal": 0.0,
+   "Constraining": 2.9
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 5,
+   "Uncertainty": 0,
+   "Litigious": 2,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Sanofi Q2: strong performance with 10% sales growth; 2024 guidance upgraded",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Paris, July 25, 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Q2 sales growth of 10.2% at CER and business EPS(1) of \u20ac1.73",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Dupixent sales up 29.2% to \u20ac3,303 million; target of ~\u20ac13 billion in 2024 unchanged.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Pharma launches up 80.4% to \u20ac689 million, led by ALTUVIIIO, Nexviazyme, Rezurock, and Sarclisa.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Vaccines sales -4.8% due to COVID-19 sales in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Opella (former Sanofi Consumer Healthcare) up 9.6%, driven by the Qunol acquisition.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Research and Development expenses grew 5.5%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Selling, general and administrative expenses grew 4.9%, substantially less than sales growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Business EPS(1) of \u20ac1.73, down 0.6% reported and up 4.0% at CER.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "IFRS EPS of \u20ac0.89, down 22.6% reported.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Q2 pipeline progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Three regulatory approvals; Dupixent COPD (EU, July), Kevzara pJIA (US), Altuvoct hemophilia A (EU).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     16,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Four regulatory submissions, including fitusiran in hemophilia A/B and Sarclisa in multiple myeloma.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Increasing pipeline news flow over 2024-2025, including 12 phase 3 data readouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Other key updates",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Sanofi ranked world\u2019s 7th most sustainable company by TIME Magazine.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Opella (Consumer Healthcare) intended separation on track with previously communicated timelines* 2024 business EPS guidance upgraded",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "2024 business EPS(1) to be stable at CER(2), an upgrade from a low single-digit percentage decrease previously, underpinned by accelerated delivery of Sanofi\u2019s pipeline-driven transformation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     33,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Applying the average July 2024 exchange rates, the currency impact on 2024 business EPS is c.-5.5% to -6.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Paul Hudson, Chief Executive Officer, commented:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "\u201cWe are continuing our strong performance in 2024 and delivered broad-based, double-digit sales growth in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "We also made important progress in our pipeline of new medicines, including approvals for Dupixent in COPD, Kevzara in pediatric arthritis and ALTUVIIIO (EU) in hemophilia A.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "With the EU approval in COPD, Dupixent is the first-ever biologic medicine approved in this debilitating disease impacting hundreds of thousands of patients globally.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "As we accelerate our focused mid- and late-stage pipeline, we started a number of new phase 2 and phase 3 studies that will benefit patients in the future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     119,
+     123,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "We are well on track, delivering on our strategic priorities for Sanofi to become a development-driven, tech-powered biopharma company committed to serving patients and accelerating growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     135,
+     144,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Underpinned by accelerated delivery of Sanofi\u2019s transformation, we upgrade our earnings per share guidance for 2024.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
