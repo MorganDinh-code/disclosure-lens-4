@@ -1,0 +1,448 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-24",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_earnings/2026/q2/earnings-result/Q2-2026-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "American Express Company (NYSE: AXP) today reported second-quarter 2026 net income of $3.1\nbillion, compared with net income of $2.9 billion a year ago. Earnings per share was $4.53, up 11 percent\nfrom $4.08 a year ago.\nStephen J. Squeri | Chairman and Chief Executive Officer\n\u201cWe had another excellent quarter, with 10 percent revenue growth, EPS of $4.53, and Card Member\nspending growth of 9 percent, the highest rate we've seen in three years on an FX-adjusted basis.\nBased on our better-than-expected performance in the first half of the year, we are raising our full-year\nrevenue growth guidance to 10 percent and plan to reinvest this outperformance in growth initiatives\ngiven the significant opportunities we see ahead. We continue to expect full-year EPS of $17.30 to\n$17.90.\n\u201cSix months into the year, we\u2019re seeing stronger momentum than we expected. The investments we\nmade in our value propositions have driven accelerated spend and revenue growth; our Platinum\nportfolio is now the fastest growing in our U.S. Consumer business; our best-in-class credit\nperformance further strengthened; and we continued to attract a large number of new customers,\nparticularly Millennials and Gen-Zs who represent greater lifetime value.\n\u201cWe are competing from a position of strength and generating momentum that enables us to continue\ninvesting in our differentiated Membership Model, which reinforce our confidence in our ability to drive\nsustainable growth and shareholder returns over the long term.\u201d\n\nSecond-Quarter 2026 Results Business Highlights\nSecond-quarter consolidated total revenues net of\ninterest expense were $19.6 billion, up 10 percent\nyear-over-year. The increase was primarily driven\nby higher Card Member spending and increased net\ninterest income supported by growth in card\nbalances, as well as strong card fee growth.\nConsolidated provisions for credit losses were $1.1\nbillion, compared with $1.4 billion a year ago. The\ndecrease reflected a reserve release during the\nquarter compared to a reserve build in the prior\nyear, partially offset by higher net write-offs. The\nsecond-quarter net write-off rate was 2.0 percent,\nflat year-over-year.3\nConsolidated expenses were $14.5 billion, up 12\npercent year-over-year. The increase was primarily\ndriven by higher variable customer engagement\ncosts due to increased Card Member spending, the\nU.S. Platinum Card\u00ae refresh, and usage of Card\nMember benefits, as well as higher operating\nexpenses.\nThe consolidated effective tax rate was 23.6\npercent, up from 18.7 percent a year ago, primarily\nreflecting discrete tax benefits in the prior year.\n\u2022 American Express announced the proposed\nacquisition of TheFork, a leading European\nrestaurant booking platform with 50,000\nrestaurants across 11 countries.\n\u2022 The company piloted its new expense\nmanagement platform to an initial group of\nmiddle-market customers.\n\u2022 American Express enabled Membership\nRewards\u00ae points redemption for U.S. Card\nMembers checking out with Apple Pay.\n\u2022 The company introduced new travel benefits\nfor Delta SkyMiles Card Members.\n\u2022 American Express became the Official\nPayments Partner of Fanatics across select\nFanatics online and retail locations\nworldwide.\n\u2022 American Express announced a new global\npartnership with ALL Accor, the booking and\nloyalty platform for Accor\u2019s portfolio of 45\nworldwide brands, including Raffles,\nFairmont, and Sofitel.\n\u2022 The company ranked #1 in the JD Power\n2026 U.S. Credit Card Mobile App & Online\nSatisfaction Studies.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 31,
+  "n_material_neg": 3,
+  "n_positive": 5,
+  "mean_pos_negative": 0.3978494623655914,
+  "mean_pos_positive": 0.1935483870967742,
+  "placement_asymmetry": 0.2043010752688172,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.3225806451612903,
+  "hedge_near_negative": 0.008333333333333333,
+  "hedge_near_positive": 0.0022988505747126436,
+  "hedging_asymmetry": 3.625,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8461538461538461,
+  "overall_hedge": 0.0038461538461538464,
+  "mean_tone": 0.14029700311593085
+ },
+ "lexicon": {
+  "words": 520,
+  "per_1000": {
+   "Negative": 1.9,
+   "Positive": 25.0,
+   "Uncertainty": 1.9,
+   "Litigious": 0.0,
+   "Strong modal": 3.8,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 13,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "American Express Company (NYSE: AXP) today reported second-quarter 2026 net income of $3.1 billion, compared with net income of $2.9 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earnings per share was $4.53, up 11 percent from $4.08 a year ago.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Squeri | Chairman and Chief Executive Officer. \u201cWe had another excellent quarter, with 10 percent revenue growth, EPS of $4.53, and Card Member spending growth of 9 percent, the highest rate we've seen in three years on an FX-adjusted basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.541,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     178,
+     185,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Based on our better-than-expected performance in the first half of the year, we are raising our full-year revenue growth guidance to 10 percent and plan to reinvest this outperformance in growth initiatives given the significant opportunities we see ahead.",
+   "d": 1,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     229,
+     242,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We continue to expect full-year EPS of $17.30 to.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "$17.90. \u201cSix months into the year, we\u2019re seeing stronger momentum than we expected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The investments we made in our value propositions have driven accelerated spend and revenue growth; our Platinum portfolio is now the fastest growing in our U.S. Consumer business; our best-in-class credit performance further strengthened; and we continued to attract a large number of new customers, particularly Millennials and Gen-Zs who represent greater lifetime value. \u201cWe are competing from a position of strength and generating momentum that enables us to continue investing in our differentiated Membership Model, which reinforce our confidence in our ability to drive sustainable growth and shareholder returns over the long term.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.408,
+   "h": 0.0,
+   "hits": [
+    [
+     185,
+     189,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     226,
+     238,
+     [
+      "positive"
+     ]
+    ],
+    [
+     412,
+     420,
+     [
+      "positive"
+     ]
+    ],
+    [
+     450,
+     457,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Second-Quarter 2026 Results Business Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Second-quarter consolidated total revenues net of interest expense were $19.6 billion, up 10 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The increase was primarily driven by higher Card Member spending and increased net interest income supported by growth in card balances, as well as strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     148,
+     154,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Consolidated provisions for credit losses were $1.1 billion, compared with $1.4 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The decrease reflected a reserve release during the quarter compared to a reserve build in the prior year, partially offset by higher net write-offs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The second-quarter net write-off rate was 2.0 percent, flat year-over-year.3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Consolidated expenses were $14.5 billion, up 12 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The increase was primarily driven by higher variable customer engagement costs due to increased Card Member spending, the.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     44,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "U.S. Platinum Card\u00ae refresh, and usage of Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Member benefits, as well as higher operating expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The consolidated effective tax rate was 23.6 percent, up from 18.7 percent a year ago, primarily reflecting discrete tax benefits in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "American Express announced the proposed acquisition of TheFork, a leading European restaurant booking platform with 50,000 restaurants across 11 countries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The company piloted its new expense management platform to an initial group of middle-market customers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "American Express enabled Membership.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Rewards\u00ae points redemption for U.S. Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Members checking out with Apple Pay.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The company introduced new travel benefits for Delta SkyMiles Card Members.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "American Express became the Official.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Payments Partner of Fanatics across select.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Fanatics online and retail locations worldwide.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "American Express announced a new global partnership with ALL Accor, the booking and loyalty platform for Accor\u2019s portfolio of 45 worldwide brands, including Raffles, Fairmont, and Sofitel.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The company ranked #1 in the JD Power 2026 U.S. Credit Card Mobile App & Online.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Satisfaction Studies.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
