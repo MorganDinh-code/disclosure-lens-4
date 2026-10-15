@@ -1,0 +1,302 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-17",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2025/q2/Q2-2025-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "Stephen J. Squeri | Chairman and Chief Executive Officer\nWe delivered strong results during the first quarter, reflecting the power of our premium customer base.\nFX-adjusted revenue increased 8 percent year-over-year, or 9 percent excluding the leap year impact,3\nto $17.0 billion. Total Card Member spending continued to grow at a solid pace, up 6 percent, or 7\npercent excluding the leap year impact.3\nOur performance across key areas, including Card Member spending, customer retention, demand for\nour premium products, and credit performance, continued to be strong across our customer base,\nconsistent with and in many cases better than what we saw in 2024.\nBased on the steady spend and credit trends we have seen to date and the current economic outlook, we\nare maintaining our full-year guidance for revenue growth of 8 to 10 percent and EPS of $15.00 to\n$15.50, in line with the ranges we provided in January, subject to the macroeconomic environment.\nLooking ahead, we will continue to manage the company for the long term, focusing on backing our\ncustomers and colleagues, exercising disciplined expense management, and strategically investing in\nour business.\n\nAmerican Express Company (NYSE: AXP) today reported first-quarter net income of $2.6 billion, or\n$3.64 per share, compared with net income of $2.4 billion, or $3.33 per share, a year ago.\nFirst-quarter consolidated total revenues net of interest expense were $17.0 billion, up 7 percent year-overyear, or 8 percent on an FX-adjusted basis. The increase was primarily driven by higher net interest income\nsupported by growth in revolving loan balances, increased Card Member spending, and continued strong\ncard fee growth.\nConsolidated provisions for credit losses were $1.2 billion, compared with $1.3 billion a year ago. The\ndecrease reflected a modest net reserve release during the quarter compared to a net reserve build a year\nago, partially offset by higher net write-offs driven by growth in Total loans and Card Member receivables.\nThe first-quarter net write-off rate was 2.1 percent, flat year-over-year.4\nConsolidated expenses were $12.5 billion, up 10 percent year-over-year. The increase was driven by higher\nvariable customer engagement costs driven by higher Card Member spending, a benefit in the prior year\nresulting from enhancements to the models for estimating future Membership Rewards redemptions, and\nhigher usage of travel-related benefits. In addition, operating expenses increased, while marketing\nexpenses were roughly flat year-over-year.\nThe consolidated effective tax rate was 22.4 percent, compared to 22.5 percent a year ago. ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 20,
+  "n_material_neg": 3,
+  "n_positive": 4,
+  "mean_pos_negative": 0.7166666666666667,
+  "mean_pos_positive": 0.4875,
+  "placement_asymmetry": 0.22916666666666669,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.6,
+  "hedge_near_negative": 0.005291005291005291,
+  "hedge_near_positive": 0.002840909090909091,
+  "hedging_asymmetry": 1.8624338624338623,
+  "framing_ratio": 0.2,
+  "mean_tone_gap_on_negatives": 0.8949343339587242,
+  "overall_hedge": 0.007575757575757576,
+  "mean_tone": 0.0491431276492252
+ },
+ "lexicon": {
+  "words": 396,
+  "per_1000": {
+   "Negative": 2.5,
+   "Positive": 12.6,
+   "Uncertainty": 5.1,
+   "Litigious": 0.0,
+   "Strong modal": 2.5,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 5,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Squeri | Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "We delivered strong results during the first quarter, reflecting the power of our premium customer base.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "FX-adjusted revenue increased 8 percent year-over-year, or 9 percent excluding the leap year impact,3 to $17.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Total Card Member spending continued to grow at a solid pace, up 6 percent, or 7 percent excluding the leap year impact.3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Our performance across key areas, including Card Member spending, customer retention, demand for our premium products, and credit performance, continued to be strong across our customer base, consistent with and in many cases better than what we saw in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.513,
+   "h": 0.0,
+   "hits": [
+    [
+     159,
+     165,
+     [
+      "positive"
+     ]
+    ],
+    [
+     226,
+     232,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Based on the steady spend and credit trends we have seen to date and the current economic outlook, we are maintaining our full-year guidance for revenue growth of 8 to 10 percent and EPS of $15.00 to.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "$15.50, in line with the ranges we provided in January, subject to the macroeconomic environment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Looking ahead, we will continue to manage the company for the long term, focusing on backing our customers and colleagues, exercising disciplined expense management, and strategically investing in our business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     22,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "American Express Company (NYSE: AXP) today reported first-quarter net income of $2.6 billion, or.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "$3.64 per share, compared with net income of $2.4 billion, or $3.33 per share, a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "First-quarter consolidated total revenues net of interest expense were $17.0 billion, up 7 percent year-overyear, or 8 percent on an FX-adjusted basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The increase was primarily driven by higher net interest income supported by growth in revolving loan balances, increased Card Member spending, and continued strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     158,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Consolidated provisions for credit losses were $1.2 billion, compared with $1.3 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The decrease reflected a modest net reserve release during the quarter compared to a net reserve build a year ago, partially offset by higher net write-offs driven by growth in Total loans and Card Member receivables.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The first-quarter net write-off rate was 2.1 percent, flat year-over-year.4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Consolidated expenses were $12.5 billion, up 10 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The increase was driven by higher variable customer engagement costs driven by higher Card Member spending, a benefit in the prior year resulting from enhancements to the models for estimating future Membership Rewards redemptions, and higher usage of travel-related benefits.",
+   "d": -1,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0244,
+   "hits": [
+    [
+     34,
+     42,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     151,
+     163,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "In addition, operating expenses increased, while marketing expenses were roughly flat year-over-year.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     73,
+     80,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "The consolidated effective tax rate was 22.4 percent, compared to 22.5 percent a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
