@@ -1,0 +1,584 @@
+{
+ "company": "Natera, Inc.",
+ "ticker": "NTRA",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-08",
+ "source_url": "https://investor.natera.com/news/news-details/2025/Natera-Reports-Second-Quarter-2025-Financial-Results/",
+ "demo": false,
+ "source_text": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today reported its financial results for the second quarter ended June 30, 2025.\n\nRecent Financial Highlights\n\nGenerated total revenues of $546.6 million in the second quarter of 2025, compared to $413.4 million in the second quarter of 2024, an increase of 32.2%. Product revenues grew 32.3% over the same period.\nGenerated a gross margin of 63.4% in the second quarter of 2025, compared to a gross margin of 58.8% in the second quarter of 2024.\nProcessed approximately 853,100 tests in the second quarter of 2025, compared to approximately 760,300 tests in the second quarter of 2024, an increase of 12.2%.\nPerformed approximately 188,800 oncology tests in the second quarter of 2025, compared to approximately 125,400 in the second quarter of 2024, an increase of 50.6%; this included record sequential growth of approximately 20,000 Signatera clinical units compared to the first quarter of 2025.\nAchieved positive cash flow of approximately $24.3 million 1 in the second quarter of 2025.\nRaising 2025 annual revenue outlook by $80 million at the midpoint, from $1.94 billion - $2.02 billion to $2.02 billion - $2.10 billion, while maintaining current outlook for operating expenses.\n\u201cWe delivered outstanding results in the second quarter, with record Signatera growth and continued strength across our women\u2019s health and organ health product lines,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe\u2019re raising our outlook for the year and advancing a robust pipeline of data and innovation to help even more patients in the future.\u201d\n\nSecond Quarter Ended June 30, 2025 Financial Results\n\nTotal revenues were $546.6 million in the second quarter of 2025 compared to $413.4 million in the second quarter of 2024, an increase of 32.2%. The increase in total revenues was driven primarily by a 32.3% increase in product revenues, which were $544.4 million in the second quarter of 2025 compared to $411.4 million in the second quarter of 2024. The increase in product revenues was primarily driven by an increase in volume and average selling price improvements, as well as cash receipts that were collected during the quarter in excess of initial revenue estimates for tests delivered in prior quarters.\n\nNatera processed approximately 853,100 tests in the second quarter of 2025, including approximately 839,300 tests accessioned in its laboratory, compared to approximately 760,300 tests processed, including approximately 744,000 tests accessioned in its laboratory, in the second quarter of 2024, an increase of 12.2% from the prior period.\n\nIn the second quarter of 2025, Natera recognized revenue on approximately 812,900 tests for which results were reported to customers in the period (tests reported), including approximately 799,900 tests reported from its laboratory, compared to approximately 725,200 tests reported, including approximately 709,800 tests reported from its laboratory, in the second quarter of 2024, an increase of 12.1% from the prior period.\n\nGross profit2 for the three months ended June 30, 2025 and 2024 was $346.6 million and $243.2 million, respectively, representing a gross margin of 63.4% and 58.8%, respectively. Natera had higher gross margin in the second quarter of 2025 primarily as a result of higher revenues, continued progress in reducing cost of revenues associated with tests processed, as well as incremental cash receipts during the quarter in excess of initial revenue estimates for tests delivered in the prior period. Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the second quarter of 2025 were $457.0 million, compared to $287.1 million in the same period of the prior year, an increase of 59.2%. The increase was primarily driven by salary and related compensation expenditures, including stock-based compensation expense, to support new product offerings as well as increases in accruals for legal matters.\n\nLoss from operations for the second quarter of 2025 was $110.4 million compared to $43.9 million for the same period of the prior year.\n\nNatera reported a net loss for the second quarter of 2025 of $100.9 million, or ($0.74) per diluted share, compared to a net loss of $37.5 million, or ($0.30) per diluted share, for the same period in 2024. The net loss for the second quarter of 2025 of ($0.74) per diluted share was affected by legal accruals of approximately $19.8 million and a stock-based compensation expense change in estimate of approximately $9.2 million, which contributed to a net loss of approximately ($0.21) per diluted share. Weighted average shares outstanding were approximately 136.4 million in the second quarter of 2025 compared to 122.9 million in the second quarter of the prior year.\n\nAt June 30, 2025, Natera held approximately $1,016.0 million in cash, cash equivalents, short-term investments and restricted cash, compared to $968.3 million as of December 31, 2024. As of June 30, 2025, Natera had a total outstanding debt balance of $80.3 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps.\n\nFinancial Outlook\n\nNatera anticipates 2025 total revenue of $2.02 billion to $2.10 billion; 2025 gross margin to be approximately 61% to 64% of revenues; selling, general and administrative costs to be approximately $0.975 billion to $1.05 billion; research and development costs to be $550 million to $590 million; and net cash inflow to be positive3.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 3,
+  "n_positive": 6,
+  "mean_pos_negative": 0.7777777777777778,
+  "mean_pos_positive": 0.38271604938271603,
+  "placement_asymmetry": 0.39506172839506176,
+  "distance_from_headline": 18,
+  "first_negative_pos": 0.7407407407407407,
+  "hedge_near_negative": 0.024022108843537414,
+  "hedge_near_positive": 0.022412568631056028,
+  "hedging_asymmetry": 1.071814178864404,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6084233111849391,
+  "overall_hedge": 0.029715762273901807,
+  "mean_tone": 0.01796866012218631
+ },
+ "lexicon": {
+  "words": 774,
+  "per_1000": {
+   "Negative": 6.5,
+   "Positive": 10.3,
+   "Uncertainty": 29.7,
+   "Litigious": 2.6,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 8,
+   "Uncertainty": 23,
+   "Litigious": 2,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today reported its financial results for the second quarter ended June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Recent Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated total revenues of $546.6 million in the second quarter of 2025, compared to $413.4 million in the second quarter of 2024, an increase of 32.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Product revenues grew 32.3% over the same period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Generated a gross margin of 63.4% in the second quarter of 2025, compared to a gross margin of 58.8% in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Processed approximately 853,100 tests in the second quarter of 2025, compared to approximately 760,300 tests in the second quarter of 2024, an increase of 12.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     81,
+     94,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Performed approximately 188,800 oncology tests in the second quarter of 2025, compared to approximately 125,400 in the second quarter of 2024, an increase of 50.6%; this included record sequential growth of approximately 20,000 Signatera clinical units compared to the first quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     90,
+     103,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     207,
+     220,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieved positive cash flow of approximately $24.3 million 1 in the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Raising 2025 annual revenue outlook by $80 million at the midpoint, from $1.94 billion - $2.02 billion to $2.02 billion - $2.10 billion, while maintaining current outlook for operating expenses. \u201cWe delivered outstanding results in the second quarter, with record Signatera growth and continued strength across our women\u2019s health and organ health product lines,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe\u2019re raising our outlook for the year and advancing a robust pipeline of data and innovation to help even more patients in the future.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.375,
+   "h": 0.0,
+   "hits": [
+    [
+     295,
+     303,
+     [
+      "positive"
+     ]
+    ],
+    [
+     462,
+     471,
+     [
+      "positive"
+     ]
+    ],
+    [
+     502,
+     512,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Second Quarter Ended June 30, 2025 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Total revenues were $546.6 million in the second quarter of 2025 compared to $413.4 million in the second quarter of 2024, an increase of 32.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The increase in total revenues was driven primarily by a 32.3% increase in product revenues, which were $544.4 million in the second quarter of 2025 compared to $411.4 million in the second quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The increase in product revenues was primarily driven by an increase in volume and average selling price improvements, as well as cash receipts that were collected during the quarter in excess of initial revenue estimates for tests delivered in prior quarters.",
+   "d": 1,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Natera processed approximately 853,100 tests in the second quarter of 2025, including approximately 839,300 tests accessioned in its laboratory, compared to approximately 760,300 tests processed, including approximately 744,000 tests accessioned in its laboratory, in the second quarter of 2024, an increase of 12.2% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     17,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     86,
+     99,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     157,
+     170,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     206,
+     219,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "In the second quarter of 2025, Natera recognized revenue on approximately 812,900 tests for which results were reported to customers in the period (tests reported), including approximately 799,900 tests reported from its laboratory, compared to approximately 725,200 tests reported, including approximately 709,800 tests reported from its laboratory, in the second quarter of 2024, an increase of 12.1% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0741,
+   "hits": [
+    [
+     60,
+     73,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     175,
+     188,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     245,
+     258,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     293,
+     306,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Gross profit2 for the three months ended June 30, 2025 and 2024 was $346.6 million and $243.2 million, respectively, representing a gross margin of 63.4% and 58.8%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Natera had higher gross margin in the second quarter of 2025 primarily as a result of higher revenues, continued progress in reducing cost of revenues associated with tests processed, as well as incremental cash receipts during the quarter in excess of initial revenue estimates for tests delivered in the prior period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.2,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the second quarter of 2025 were $457.0 million, compared to $287.1 million in the same period of the prior year, an increase of 59.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The increase was primarily driven by salary and related compensation expenditures, including stock-based compensation expense, to support new product offerings as well as increases in accruals for legal matters.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     197,
+     202,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Loss from operations for the second quarter of 2025 was $110.4 million compared to $43.9 million for the same period of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Natera reported a net loss for the second quarter of 2025 of $100.9 million, or ($0.74) per diluted share, compared to a net loss of $37.5 million, or ($0.30) per diluted share, for the same period in 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     125,
+     129,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "The net loss for the second quarter of 2025 of ($0.74) per diluted share was affected by legal accruals of approximately $19.8 million and a stock-based compensation expense change in estimate of approximately $9.2 million, which contributed to a net loss of approximately ($0.21) per diluted share.",
+   "d": -1,
+   "m": true,
+   "tone": -0.465,
+   "h": 0.0698,
+   "hits": [
+    [
+     8,
+     12,
+     [
+      "negative"
+     ]
+    ],
+    [
+     89,
+     94,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     107,
+     120,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     196,
+     209,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     251,
+     255,
+     [
+      "negative"
+     ]
+    ],
+    [
+     259,
+     272,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Weighted average shares outstanding were approximately 136.4 million in the second quarter of 2025 compared to 122.9 million in the second quarter of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "At June 30, 2025, Natera held approximately $1,016.0 million in cash, cash equivalents, short-term investments and restricted cash, compared to $968.3 million as of December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     30,
+     43,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     115,
+     125,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "As of June 30, 2025, Natera had a total outstanding debt balance of $80.3 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": [
+    [
+     148,
+     156,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Financial Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Natera anticipates 2025 total revenue of $2.02 billion to $2.10 billion; 2025 gross margin to be approximately 61% to 64% of revenues; selling, general and administrative costs to be approximately $0.975 billion to $1.05 billion; research and development costs to be $550 million to $590 million; and net cash inflow to be positive3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.233,
+   "h": 0.0698,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     97,
+     110,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     183,
+     196,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     323,
+     331,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
