@@ -7,7 +7,7 @@
  "date": "2023-11-03",
  "source_url": "https://newsroom.cardinalhealth.com/2023-11-03-Cardinal-Health-Reports-First-Quarter-Fiscal-2024-Results-and-Raises-Fiscal-2024-Outlook",
  "demo": false,
- "source_text": "\nRevenue increased 10% to $54.8 billion\nGAAP1 operating loss was $14 million and GAAP diluted EPS was $0.02, driven by a Medical segment goodwill impairment\nNon-GAAP operating earnings increased 35% to $571 million, driven by significant increases in both Pharmaceutical segment profit and Medical segment profit; non-GAAP diluted EPS increased 44% to $1.73\nPharmaceutical segment profit grew 18% to $507 million and the Medical segment delivered $71 million in segment profit\nFiscal 2024 non-GAAP EPS guidance raised to $6.75 to $7.00, from $6.50 to $6.75\nDUBLIN, Ohio, Nov. 3, 2023  /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported first quarter fiscal 2024 revenue of $54.8 billion, an increase of 10% from the first quarter of last year. First quarter GAAP operating loss was $14 million due to a non-cash, pre-tax goodwill impairment of $581 million related to the Medical segment, due to an increase in the discount rate.\u00b2 GAAP diluted earnings per share (EPS) were $0.02, primarily due to this impairment, net of tax effects. Non-GAAP operating earnings increased 35% to $571 million in the quarter, driven by significant increases in both Pharmaceutical segment profit and Medical segment profit. Non-GAAP diluted EPS increased 44% to $1.73, reflecting the increase in non-GAAP operating earnings, a lower share count and lower interest and other expense, partially offset by a higher non-GAAP effective tax rate.\n\n\"With strong first quarter results and an improved outlook for the year, we are continuing our operating momentum into fiscal 2024,\" said Jason Hollar, CEO of Cardinal Health. \"In Q1, we delivered significant profit growth in both the Pharmaceutical and Medical segments, which along with our favorable capital structure and opportunistic capital deployment, gives us confidence to raise fiscal 2024 non-GAAP EPS guidance. Across the enterprise, we continue to prioritize focused execution to best serve our customers and create value for our shareholders.\"",
+ "source_text": "\nRevenue increased 10% to $54.8 billion\nGAAP1 operating loss was $14 million and GAAP diluted EPS was $0.02, driven by a Medical segment goodwill impairment\n\nNon-GAAP operating earnings increased 35% to $571 million, driven by significant increases in both Pharmaceutical segment profit and Medical segment profit; non-GAAP diluted EPS increased 44% to $1.73\nPharmaceutical segment profit grew 18% to $507 million and the Medical segment delivered $71 million in segment profit\n\nFiscal 2024 non-GAAP EPS guidance raised to $6.75 to $7.00, from $6.50 to $6.75\nDUBLIN, Ohio, Nov. 3, 2023  /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported first quarter fiscal 2024 revenue of $54.8 billion, an increase of 10% from the first quarter of last year. First quarter GAAP operating loss was $14 million due to a non-cash, pre-tax goodwill impairment of $581 million related to the Medical segment, due to an increase in the discount rate.\u00b2 GAAP diluted earnings per share (EPS) were $0.02, primarily due to this impairment, net of tax effects. Non-GAAP operating earnings increased 35% to $571 million in the quarter, driven by significant increases in both Pharmaceutical segment profit and Medical segment profit. Non-GAAP diluted EPS increased 44% to $1.73, reflecting the increase in non-GAAP operating earnings, a lower share count and lower interest and other expense, partially offset by a higher non-GAAP effective tax rate.\n\n\"With strong first quarter results and an improved outlook for the year, we are continuing our operating momentum into fiscal 2024,\" said Jason Hollar, CEO of Cardinal Health. \"In Q1, we delivered significant profit growth in both the Pharmaceutical and Medical segments, which along with our favorable capital structure and opportunistic capital deployment, gives us confidence to raise fiscal 2024 non-GAAP EPS guidance. Across the enterprise, we continue to prioritize focused execution to best serve our customers and create value for our shareholders.\"",
  "boilerplate_paragraphs_removed": 0,
  "summary": {
   "n_sentences": 12,
@@ -16,7 +16,7 @@
   "mean_pos_negative": 0.16666666666666666,
   "mean_pos_positive": 0.5462962962962963,
   "placement_asymmetry": -0.37962962962962965,
-  "distance_from_headline": -8,
+  "distance_from_headline": -1,
   "first_negative_pos": 0.16666666666666666,
   "hedge_near_negative": 0.0,
   "hedge_near_positive": 0.0,
@@ -59,7 +59,7 @@
   },
   {
    "i": 2,
-   "t": "GAAP1 operating loss was $14 million and GAAP diluted EPS was $0.02, driven by a Medical segment goodwill impairment.",
+   "t": "GAAP1 operating loss was $14 million and GAAP diluted EPS was $0.02, driven by a Medical segment goodwill impairment",
    "d": -1,
    "m": true,
    "tone": -1.0,
@@ -93,7 +93,7 @@
   },
   {
    "i": 4,
-   "t": "Pharmaceutical segment profit grew 18% to $507 million and the Medical segment delivered $71 million in segment profit.",
+   "t": "Pharmaceutical segment profit grew 18% to $507 million and the Medical segment delivered $71 million in segment profit",
    "d": 1,
    "m": false,
    "tone": 0.0,
