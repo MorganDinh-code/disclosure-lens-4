@@ -1,0 +1,747 @@
+{
+ "company": "Prologis, Inc.",
+ "ticker": "PLD",
+ "sector": "Real Estate",
+ "filing_type": "Shareholder letter",
+ "period": "2025 Annual Report",
+ "date": "2026-03-19",
+ "source_url": "prologis.com/shareholder-letter-2025",
+ "demo": false,
+ "source_text": "To our shareholders,\n\nWe are entering a new chapter for Prologis, focused on expanding what we deliver for customers and how we create value. \n\nWe were built on a clear idea: where and how goods move matters. Our co-founder and executive chairman, Hamid Moghadam, saw that early and built a company that set the standard for the logistics industry. That foundation puts us in a position of strength, with a business that is more relevant than ever and a clear view of the opportunity ahead. \n\nToday, we are evolving how we operate, bringing our real estate, energy, data and private capital capabilities together to deliver integrated solutions at scale and capture a broader set of opportunities as customer needs evolve.\n\nA platform built around the customer \n\nThis evolution starts with the customer. Demand for logistics space continues to concentrate in major population hubs as consumer expectations for delivery accelerate. Our customers need to be closer to where people live, and they need solutions that work across their full supply chain. Every decision we make starts with enabling their growth. \n\nWhat makes this powerful is how our platform comes together. We combine logistics real estate, energy capabilities, digital infrastructure and flexible sources of capital, including our balance sheet and private capital, across the same global footprint to solve increasingly complex challenges for our customers.\n\nAt the same time, the need for infrastructure is evolving.\n\nEnergy is now central to our customers\u2019 operations, and often a constraint on growth. Across our portfolio, we are integrating solar, storage and on-site generation solutions to help customers manage risk, improve performance and maintain continuity. Our OnPrem solution addresses energy supply delays by bringing speed and certainty to projects where power availability would otherwise slow progress.\n\nThe growth of cloud computing and AI is increasing demand for data centers that are reliable and power secure. We are scaling to support this demand by utilizing our land bank, power access and development expertise to deliver solutions.  \n\nBuilt for the long term\n\nOur capital strength sets us apart. An A-rated balance sheet provides stability, and our global access to capital gives us reach. \n\nOur Strategic Capital business adds another dimension, allowing us to invest alongside partners and generate steady fee-based income. Together, this gives us flexibility and speed in deploying capital. It also sharpens how we see capital flows and market conditions, helping us allocate capital with discipline and create long-term value. New and expanded partnerships with investors like GIC and LaCaisse are helping expand our development capacity as we support our customers\u2019 growth.\n\nTechnology is accelerating our advantage.\n\nSupply chains are becoming more digital and connected. Our scale and proprietary data give us a broad view across markets and how they are changing. We are using AI to turn that insight into better, faster decisions. This builds on years of investment in our proprietary data foundation. \n\nWe expect AI to play a growing role in how we manage our portfolio, improving forecasting, leasing insights and capital allocation. It allows us to better analyze complex data across markets and assets, while our teams continue to apply judgment and accountability to every decision.\n\nThis combination of capital strength and operating discipline allows us to remain focused on long-term value creation, even as conditions evolve.\n\nCulture is our rocket fuel\n\nNone of this happens without our people.\n\nWe have built a culture that expects ownership and rewards execution. Our teams stay close to customers and investors and focus on delivering results. We continue to see high employee engagement, which helps us attract and retain talent.\n\nWe have been entrepreneurial since day one. We apply that same mindset to anticipating what our customers will need next. The Prologis Venture Capital team helps us stay ahead of future trends and technologies. Celebrating its tenth year this year, we\u2019ve invested $300 million in more than 50 early and mid-stage startups. \n\nPrologis has benefitted from strong leadership on our Board of Directors. I\u2019d like to recognize Irving \u201cBud\u201d Lyons, who is retiring after many years of service, including serving as our lead independent director. His guidance has been invaluable to our success. \n\nThank you for your continued trust in Prologis. It is a privilege to step into the role of CEO at this point in our company\u2019s evolution. We have a strong foundation, a clear strategy and a significant opportunity ahead.\n\nI am excited about what we can achieve together - as a team and alongside our customers and partners - as we continue to build the next chapter of Prologis.\n\nRespectfully,\n\nDaniel S. Letter \nChief Executive Officer",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 54,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.2671957671957672,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005502567865003668,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.005194805194805195,
+  "mean_tone": 0.18961928121135282
+ },
+ "lexicon": {
+  "words": 770,
+  "per_1000": {
+   "Negative": 3.9,
+   "Positive": 27.3,
+   "Uncertainty": 2.6,
+   "Litigious": 0.0,
+   "Strong modal": 1.3,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 21,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "To our shareholders,",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "We are entering a new chapter for Prologis, focused on expanding what we deliver for customers and how we create value.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "We were built on a clear idea: where and how goods move matters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Our co-founder and executive chairman, Hamid Moghadam, saw that early and built a company that set the standard for the logistics industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "That foundation puts us in a position of strength, with a business that is more relevant than ever and a clear view of the opportunity ahead.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Today, we are evolving how we operate, bringing our real estate, energy, data and private capital capabilities together to deliver integrated solutions at scale and capture a broader set of opportunities as customer needs evolve.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     190,
+     203,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "A platform built around the customer",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "This evolution starts with the customer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Demand for logistics space continues to concentrate in major population hubs as consumer expectations for delivery accelerate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Our customers need to be closer to where people live, and they need solutions that work across their full supply chain.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Every decision we make starts with enabling their growth.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "What makes this powerful is how our platform comes together.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "We combine logistics real estate, energy capabilities, digital infrastructure and flexible sources of capital, including our balance sheet and private capital, across the same global footprint to solve increasingly complex challenges for our customers.",
+   "d": 1,
+   "m": false,
+   "tone": -0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     223,
+     233,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "At the same time, the need for infrastructure is evolving.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Energy is now central to our customers\u2019 operations, and often a constraint on growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     74,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Across our portfolio, we are integrating solar, storage and on-site generation solutions to help customers manage risk, improve performance and maintain continuity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0435,
+   "hits": [
+    [
+     114,
+     118,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     120,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Our OnPrem solution addresses energy supply delays by bringing speed and certainty to projects where power availability would otherwise slow progress.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     50,
+     [
+      "negative"
+     ]
+    ],
+    [
+     136,
+     140,
+     [
+      "negative"
+     ]
+    ],
+    [
+     141,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The growth of cloud computing and AI is increasing demand for data centers that are reliable and power secure.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "We are scaling to support this demand by utilizing our land bank, power access and development expertise to deliver solutions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Built for the long term",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Our capital strength sets us apart.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "An A-rated balance sheet provides stability, and our global access to capital gives us reach.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Our Strategic Capital business adds another dimension, allowing us to invest alongside partners and generate steady fee-based income.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Together, this gives us flexibility and speed in deploying capital.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "It also sharpens how we see capital flows and market conditions, helping us allocate capital with discipline and create long-term value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "New and expanded partnerships with investors like GIC and LaCaisse are helping expand our development capacity as we support our customers\u2019 growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Technology is accelerating our advantage.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Supply chains are becoming more digital and connected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Our scale and proprietary data give us a broad view across markets and how they are changing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "We are using AI to turn that insight into better, faster decisions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "This builds on years of investment in our proprietary data foundation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "We expect AI to play a growing role in how we manage our portfolio, improving forecasting, leasing insights and capital allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     68,
+     77,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "It allows us to better analyze complex data across markets and assets, while our teams continue to apply judgment and accountability to every decision.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     22,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "This combination of capital strength and operating discipline allows us to remain focused on long-term value creation, even as conditions evolve.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Culture is our rocket fuel",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "None of this happens without our people.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "We have built a culture that expects ownership and rewards execution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Our teams stay close to customers and investors and focus on delivering results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "We continue to see high employee engagement, which helps us attract and retain talent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "We have been entrepreneurial since day one.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "We apply that same mindset to anticipating what our customers will need next.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": [
+    [
+     30,
+     42,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     62,
+     66,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "The Prologis Venture Capital team helps us stay ahead of future trends and technologies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Celebrating its tenth year this year, we\u2019ve invested $300 million in more than 50 early and mid-stage startups.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Prologis has benefitted from strong leadership on our Board of Directors.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     29,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     36,
+     46,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "I\u2019d like to recognize Irving \u201cBud\u201d Lyons, who is retiring after many years of service, including serving as our lead independent director.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "His guidance has been invaluable to our success.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "Thank you for your continued trust in Prologis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "It is a privilege to step into the role of CEO at this point in our company\u2019s evolution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "We have a strong foundation, a clear strategy and a significant opportunity ahead.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     64,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "I am excited about what we can achieve together - as a team and alongside our customers and partners - as we continue to build the next chapter of Prologis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     38,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "Respectfully,",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "Daniel S.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "Letter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "Chief Executive Officer",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
