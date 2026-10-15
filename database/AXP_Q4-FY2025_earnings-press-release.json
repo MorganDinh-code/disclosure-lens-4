@@ -1,0 +1,621 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-01-30",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_earnings/2025/q4/earnings-result/Q4-2025-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "American Express Company (NYSE: AXP) today reported full-year 2025 net income of $10.8 billion,\ncompared with net income of $10.1 billion a year ago. Earnings per share was $15.38, up 10 percent\nfrom $14.01 a year ago, or 15 percent excluding the prior-year Accertify transaction gain.3\nStephen J. Squeri | Chairman and Chief Executive Officer\n\"2025 was a very strong year for American Express. Full-year revenues grew 10 percent to reach\nanother record, and adjusted EPS increased 15 percent over last year. In the fourth quarter, Card\nMember spending increased 8 percent FX-adjusted, net card fee revenues grew double digits for the\n30th consecutive quarter, and our credit metrics remained best-in-class.\n\"Importantly, we continued to strategically invest in areas that strengthen our Membership Model and\ndrive our growth, such as our successful U.S. Platinum Card refresh and technology enhancements\nlike new app and Gen AI-powered experiences. As demonstrated in our results, our investments are\npaying off \u2013 driving increased customer demand, engagement and loyalty, while generating\nefficiencies across the enterprise and supporting our excellent credit performance.\n\"Looking ahead, we plan to continue to execute our proven investment philosophy in order to deliver\nsustained revenue and EPS growth and strong shareholder returns over the long term. For the full\nyear 2026, we expect revenue growth of 9 to 10 percent and EPS in the range of $17.30 to $17.90,\nand we plan to increase our quarterly common stock dividend by approximately 16 percent.\"\n\n\n\nFull-Year 2025 Results\nConsolidated total revenues net of interest expense for the full year were $72.2 billion, up 10 percent\nyear-over-year, or 9 percent on an FX-adjusted basis. The increase was primarily driven by higher\nCard Member spending, increased net interest income supported by growth in revolving loan balances,\nand strong card fee growth.\nConsolidated provisions for credit losses for the full year were $5.3 billion, compared with $5.2 billion a\nyear ago. The increase reflected higher net write-offs driven by growth in total loans and Card Member\nreceivables, partially offset by a lower reserve build year-over-year. The full-year net write-off rate was\n2.0 percent, flat year-over-year.4\nConsolidated expenses for the full year were $53.2 billion, up 11 percent year-over-year. The increase\nprimarily reflected higher variable customer engagement costs driven by higher Card Member spending\nand usage of travel- and lifestyle-related benefits, as well as higher operating expenses driven by\ninvestments in enterprise risk management capabilities and technology and the prior-year transaction\ngain.\nThe full-year consolidated effective tax rate was 21.5 percent for both the current and prior year.\nFourth-Quarter 2025 Results Q4 Business Highlights\nFourth-quarter consolidated total revenues net of interest\nexpense were $19.0 billion, up 10 percent year-over-year,\nor 9 percent on an FX-adjusted basis. The increase was\nprimarily driven by higher Card Member spending,\nincreased net interest income supported by growth in\nrevolving loan balances, and strong card fee growth.\nConsolidated provisions for credit losses were $1.4\nbillion, compared with $1.3 billion a year ago. The\nincrease reflected higher net write-offs, partially offset by\na lower net reserve build compared to the prior year. The\nfourth-quarter net write-off rate was 2.1 percent,\ncompared to 1.9 percent a year ago.4\nConsolidated expenses were $14.5 billion, up 10 percent\nyear-over-year. The increase was primarily driven by\nhigher variable customer engagement costs due to\nincreased Card Member spending and the U.S. Platinum\nCard refresh.\nThe consolidated effective tax rate was 20.3 percent,\ndown from 21.3 percent a year ago, primarily reflecting\nchanges in the geographic mix of income.\n\u2022 American Express signed a multiyear extension of its British Airways\nCobrand Card partnership.\n\u2022 The company advanced Gen AI and\nagentic commerce initiatives,\nlaunching Dining Companion and\ndeveloping standards with partners\nto enable agent-driven commerce.\n\u2022 The company opened its 31st\nCenturion Lounge at the Salt Lake\nCity International Airport.\n\u2022 The company ranked #1 in U.S.\nSmall Business Credit Card\nCustomer Satisfaction by J.D. Power\nfor the fifth consecutive year.5\n\u2022 American Express was named #10\non Fortune's 2026 World\u2019s Most\nAdmired Companies\u2122 list.\n\nPlanned Dividend Increase\nThe company plans to increase the regular quarterly dividend on its common shares outstanding by\napproximately 16 percent, from $0.82 to $0.95 per share, beginning with the first-quarter 2026 dividend\ndeclaration.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 45,
+  "n_material_neg": 6,
+  "n_positive": 12,
+  "mean_pos_negative": 0.48148148148148145,
+  "mean_pos_positive": 0.3814814814814815,
+  "placement_asymmetry": 0.09999999999999998,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.3111111111111111,
+  "hedge_near_negative": 0.008318024086548276,
+  "hedge_near_positive": 0.009657314256700224,
+  "hedging_asymmetry": 0.8613185680249815,
+  "framing_ratio": 0.125,
+  "mean_tone_gap_on_negatives": 0.8580945198592258,
+  "overall_hedge": 0.008733624454148471,
+  "mean_tone": 0.11081016735619775
+ },
+ "lexicon": {
+  "words": 687,
+  "per_1000": {
+   "Negative": 2.9,
+   "Positive": 20.4,
+   "Uncertainty": 7.3,
+   "Litigious": 0.0,
+   "Strong modal": 1.5,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 14,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "American Express Company (NYSE: AXP) today reported full-year 2025 net income of $10.8 billion, compared with net income of $10.1 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earnings per share was $15.38, up 10 percent from $14.01 a year ago, or 15 percent excluding the prior-year Accertify transaction gain.3.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     130,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Squeri | Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"2025 was a very strong year for American Express.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     23,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Full-year revenues grew 10 percent to reach another record, and adjusted EPS increased 15 percent over last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "In the fourth quarter, Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Member spending increased 8 percent FX-adjusted, net card fee revenues grew double digits for the 30th consecutive quarter, and our credit metrics remained best-in-class.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     156,
+     160,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\"Importantly, we continued to strategically invest in areas that strengthen our Membership Model and drive our growth, such as our successful U.S. Platinum Card refresh and technology enhancements like new app and Gen AI-powered experiences.",
+   "d": 1,
+   "m": false,
+   "tone": 0.811,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     75,
+     [
+      "positive"
+     ]
+    ],
+    [
+     131,
+     141,
+     [
+      "positive"
+     ]
+    ],
+    [
+     184,
+     196,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "As demonstrated in our results, our investments are paying off \u2013 driving increased customer demand, engagement and loyalty, while generating efficiencies across the enterprise and supporting our excellent credit performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     141,
+     153,
+     [
+      "positive"
+     ]
+    ],
+    [
+     195,
+     204,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\"Looking ahead, we plan to continue to execute our proven investment philosophy in order to deliver sustained revenue and EPS growth and strong shareholder returns over the long term.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     143,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "For the full year 2026, we expect revenue growth of 9 to 10 percent and EPS in the range of $17.30 to $17.90, and we plan to increase our quarterly common stock dividend by approximately 16 percent.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0645,
+   "hits": [
+    [
+     173,
+     186,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Full-Year 2025 Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Consolidated total revenues net of interest expense for the full year were $72.2 billion, up 10 percent year-over-year, or 9 percent on an FX-adjusted basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase was primarily driven by higher.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Card Member spending, increased net interest income supported by growth in revolving loan balances, and strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Consolidated provisions for credit losses for the full year were $5.3 billion, compared with $5.2 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The increase reflected higher net write-offs driven by growth in total loans and Card Member receivables, partially offset by a lower reserve build year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The full-year net write-off rate was 2.0 percent, flat year-over-year.4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Consolidated expenses for the full year were $53.2 billion, up 11 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase primarily reflected higher variable customer engagement costs driven by higher Card Member spending and usage of travel- and lifestyle-related benefits, as well as higher operating expenses driven by investments in enterprise risk management capabilities and technology and the prior-year transaction gain.",
+   "d": -1,
+   "m": false,
+   "tone": 0.222,
+   "h": 0.0444,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     239,
+     243,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     314,
+     318,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "The full-year consolidated effective tax rate was 21.5 percent for both the current and prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Fourth-Quarter 2025 Results Q4 Business Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Fourth-quarter consolidated total revenues net of interest expense were $19.0 billion, up 10 percent year-over-year, or 9 percent on an FX-adjusted basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The increase was primarily driven by higher Card Member spending, increased net interest income supported by growth in revolving loan balances, and strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     148,
+     154,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Consolidated provisions for credit losses were $1.4 billion, compared with $1.3 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The increase reflected higher net write-offs, partially offset by a lower net reserve build compared to the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The fourth-quarter net write-off rate was 2.1 percent, compared to 1.9 percent a year ago.4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Consolidated expenses were $14.5 billion, up 10 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The increase was primarily driven by higher variable customer engagement costs due to increased Card Member spending and the U.S. Platinum.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     44,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Card refresh.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The consolidated effective tax rate was 20.3 percent, down from 21.3 percent a year ago, primarily reflecting changes in the geographic mix of income.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "American Express signed a multiyear extension of its British Airways.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Cobrand Card partnership.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "The company advanced Gen AI and agentic commerce initiatives, launching Dining Companion and developing standards with partners to enable agent-driven commerce.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     131,
+     137,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "The company opened its 31st.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Centurion Lounge at the Salt Lake.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "City International Airport.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The company ranked #1 in U.S. Small Business Credit Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Customer Satisfaction by J.D.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Power for the fifth consecutive year.5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "American Express was named #10 on Fortune's 2026 World\u2019s Most.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Admired Companies\u2122 list.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Planned Dividend Increase.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The company plans to increase the regular quarterly dividend on its common shares outstanding by approximately 16 percent, from $0.82 to $0.95 per share, beginning with the first-quarter 2026 dividend declaration.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     97,
+     110,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
