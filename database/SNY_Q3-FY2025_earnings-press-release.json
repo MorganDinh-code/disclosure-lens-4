@@ -1,0 +1,597 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-24",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2025/2025-10-24-05-30-00-3172594",
+ "demo": false,
+ "source_text": "Q3: continued sales and earnings progress\n\nParis, October 24, 2025\n\nQ3 sales growth of 7.0% at CER1 and business earnings per share (EPS)2 of \u20ac2.91\n\nPharma launches increased sales by 57.1%, reaching \u20ac1.0 billion, driven by ALTUVIIIO and Ayvakit\nDupixent sales increased by 26.2% to \u20ac4.2 billion, first time above \u20ac4 billion in a quarter\nVaccines sales decreased by 7.8% to \u20ac3.4 billion, from lower influenza sales\nResearch and Development expenses were \u20ac1.8 billion, an increase of 4.9%\nSelling, general and administrative expenses were \u20ac2.3 billion, up 7.1% to support launches\nBusiness EPS was \u20ac2.91, up 13.2% at CER and 7.0% at actual exchange rates, delivering profitable growth; IFRS EPS was \u20ac2.30\nPipeline progress\n\nTwo regulatory approvals: Wayrilz (US) in ITP, a rare disease, and Tzield (China) for delaying onset of stage 3, type 1 diabetes\nTwo positive phase 3 readouts: amlitelimab\u2019s first phase 3 study in atopic dermatitis and Fluzone HD in influenza 50+ years\nEight regulatory submission acceptances, three phase 3 study starts, and three regulatory designations (fast track, orphan)\nCapital allocation\n\nCompletion of the Vigil Neuroscience acquisition, adding to the early-stage pipeline\nAdditional commitment of $625 million to Sanofi Ventures, investing in innovative biotech and digital health companies\nSanofi intends to complete its \u20ac5 billion share buyback program in 2025. 86.1% has been executed to date\nSustainability\n\nGlobal Health Unit: one million patients have now received treatments for non-communicable diseases since 2021\nInsulins Valyou Savings Program: improving access to reliable and affordable supply of critical medicines in the US\nGuidance unchanged\n\nIn 2025, sales are anticipated to grow by a high single-digit percentage at CER. Sanofi confirms the expectation of a strong business EPS rebound with growth at a low double-digit percentage at CER (before share buyback)3\nPaul Hudson, Chief Executive Officer: \u201cWe continued executing on our strategy and the growth momentum continued in Q3 with sales up by 7.0% over a high base of comparison last year. Newly launched medicines and vaccines grew by 40.8%. Dupixent grew by 26.2% and exceeded for the first time both four billion euros in quarterly global sales and three billion euros in the US, despite an unfavorable currency impact. As expected, our flu vaccines business declined because of increased price competition and lower vaccination rate. Business EPS increased by 13.2%, supported by disciplined spending, R&D prioritization, and operational efficiency. After three quarters of profitable growth, we reiterate our 2025 guidance.\n\nOur strategic focus on science, patients, and pipeline delivered important milestones in the quarter, including positive phase 3 data for amlitelimab in atopic dermatitis with all primary and key secondary endpoints met, increasing efficacy over time, and a patient-friendly quarterly dosing. We obtained two regulatory approvals: Wayrilz in the US for the rare disease immune thrombocytopenia and Tzield in China to delay the onset of stage 3, type 1 diabetes. We submitted eight regulatory applications, initiated three new phase 3 studies, and received three new regulatory designations.\n\nThe acquisition of Vigil Neuroscience closed in August, and we will complete our share buyback program by the end of the year. Sanofi will strategically deploy capital towards growth and differentiated science with expected attractive financial returns. As we are looking forward to 2026, we are confident in our ability to pursue our current trajectory of profitable growth.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 3,
+  "n_positive": 13,
+  "mean_pos_negative": 0.2,
+  "mean_pos_positive": 0.5868131868131868,
+  "placement_asymmetry": -0.3868131868131868,
+  "distance_from_headline": 4,
+  "first_negative_pos": 0.17142857142857143,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.003120492213488769,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.84375,
+  "overall_hedge": 0.0019569471624266144,
+  "mean_tone": 0.21833271189941747
+ },
+ "lexicon": {
+  "words": 511,
+  "per_1000": {
+   "Negative": 7.8,
+   "Positive": 31.3,
+   "Uncertainty": 2.0,
+   "Litigious": 11.7,
+   "Strong modal": 3.9,
+   "Weak modal": 0.0,
+   "Constraining": 2.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 16,
+   "Uncertainty": 1,
+   "Litigious": 6,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Q3: continued sales and earnings progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Paris, October 24, 2025",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Q3 sales growth of 7.0% at CER1 and business earnings per share (EPS)2 of \u20ac2.91",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Pharma launches increased sales by 57.1%, reaching \u20ac1.0 billion, driven by ALTUVIIIO and Ayvakit.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Dupixent sales increased by 26.2% to \u20ac4.2 billion, first time above \u20ac4 billion in a quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Vaccines sales decreased by 7.8% to \u20ac3.4 billion, from lower influenza sales.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Research and Development expenses were \u20ac1.8 billion, an increase of 4.9%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Selling, general and administrative expenses were \u20ac2.3 billion, up 7.1% to support launches.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Business EPS was \u20ac2.91, up 13.2% at CER and 7.0% at actual exchange rates, delivering profitable growth; IFRS EPS was \u20ac2.30.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Pipeline progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Two regulatory approvals: Wayrilz (US) in ITP, a rare disease, and Tzield (China) for delaying onset of stage 3, type 1 diabetes.",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     86,
+     94,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Two positive phase 3 readouts: amlitelimab\u2019s first phase 3 study in atopic dermatitis and Fluzone HD in influenza 50+ years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Eight regulatory submission acceptances, three phase 3 study starts, and three regulatory designations (fast track, orphan).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     16,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     79,
+     89,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Capital allocation",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Completion of the Vigil Neuroscience acquisition, adding to the early-stage pipeline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Additional commitment of $625 million to Sanofi Ventures, investing in innovative biotech and digital health companies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     21,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     71,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Sanofi intends to complete its \u20ac5 billion share buyback program in 2025. 86.1% has been executed to date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Sustainability",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Global Health Unit: one million patients have now received treatments for non-communicable diseases since 2021.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Insulins Valyou Savings Program: improving access to reliable and affordable supply of critical medicines in the US.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Guidance unchanged",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "In 2025, sales are anticipated to grow by a high single-digit percentage at CER.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     19,
+     30,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Sanofi confirms the expectation of a strong business EPS rebound with growth at a low double-digit percentage at CER (before share buyback)3.",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     57,
+     64,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Paul Hudson, Chief Executive Officer: \u201cWe continued executing on our strategy and the growth momentum continued in Q3 with sales up by 7.0% over a high base of comparison last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Newly launched medicines and vaccines grew by 40.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Dupixent grew by 26.2% and exceeded for the first time both four billion euros in quarterly global sales and three billion euros in the US, despite an unfavorable currency impact.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     140,
+     147,
+     [
+      "positive"
+     ]
+    ],
+    [
+     151,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "As expected, our flu vaccines business declined because of increased price competition and lower vaccination rate.",
+   "d": -1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     47,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Business EPS increased by 13.2%, supported by disciplined spending, R&D prioritization, and operational efficiency.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "After three quarters of profitable growth, we reiterate our 2025 guidance.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     34,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Our strategic focus on science, patients, and pipeline delivered important milestones in the quarter, including positive phase 3 data for amlitelimab in atopic dermatitis with all primary and key secondary endpoints met, increasing efficacy over time, and a patient-friendly quarterly dosing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     120,
+     [
+      "positive"
+     ]
+    ],
+    [
+     266,
+     274,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "We obtained two regulatory approvals: Wayrilz in the US for the rare disease immune thrombocytopenia and Tzield in China to delay the onset of stage 3, type 1 diabetes.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     26,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     124,
+     129,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "We submitted eight regulatory applications, initiated three new phase 3 studies, and received three new regulatory designations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     29,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     104,
+     114,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "The acquisition of Vigil Neuroscience closed in August, and we will complete our share buyback program by the end of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     67,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Sanofi will strategically deploy capital towards growth and differentiated science with expected attractive financial returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     97,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "As we are looking forward to 2026, we are confident in our ability to pursue our current trajectory of profitable growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     51,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
