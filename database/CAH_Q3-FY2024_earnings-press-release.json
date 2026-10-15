@@ -1,0 +1,224 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-05-02",
+ "source_url": "https://newsroom.cardinalhealth.com/2024-05-02-Cardinal-Health-Reports-Third-Quarter-Fiscal-Year-2024-Results-and-Raises-Fiscal-Year-2024-Non-GAAP-EPS-Guidance",
+ "demo": false,
+ "source_text": "Revenue increased 9% to $54.9 billion\nGAAP1 operating earnings were $367 million; GAAP diluted EPS was $1.05\nNon-GAAP operating earnings increased 10% to $666 million; non-GAAP diluted EPS increased 20% to $2.08\nFiscal year 2024 non-GAAP EPS guidance2 raised and narrowed to $7.30 to $7.40, from $7.20 to $7.35\nCompany provides preliminary fiscal year 2025 non-GAAP EPS guidance of at least $7.50\nDUBLIN, Ohio, May 2, 2024  /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2024 revenues of $54.9 billion, an increase of 9% from the third quarter of fiscal year 2023. Third quarter GAAP operating earnings were $367 million and GAAP diluted earnings per share (EPS) were $1.05, which included a non-cash, pre-tax goodwill impairment of $90 million related to the Global Medical Products and Distribution (GMPD) segment as a result of the reallocation of goodwill related to the reporting structure update. Third quarter non-GAAP operating earnings increased 10% to $666 million driven by growth in Global Medical Products and Distribution segment profit and Pharmaceutical and Specialty Solutions segment profit. Non-GAAP diluted EPS increased 20% to $2.08, primarily due to the growth in non-GAAP operating earnings and a lower share count.\n\n\"In Q3, we delivered broad-based growth, including solid profit growth in Pharmaceutical and Specialty Solutions, on top of an exceptionally strong quarter from a year ago,\" said Jason Hollar, CEO of Cardinal Health. \"We were also pleased to see the ongoing acceleration in GMPD. With confidence in our outlook for the year, we are raising and narrowing our FY24 EPS guidance and providing preliminary guidance for FY25 that reflects the strength and resiliency of our company.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 1,
+  "n_positive": 6,
+  "mean_pos_negative": 0.5833333333333334,
+  "mean_pos_positive": 0.5138888888888888,
+  "placement_asymmetry": 0.06944444444444453,
+  "distance_from_headline": -3,
+  "first_negative_pos": 0.5833333333333334,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0018726591760299626,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8,
+  "overall_hedge": 0.007905138339920948,
+  "mean_tone": 0.13415218360071302
+ },
+ "lexicon": {
+  "words": 253,
+  "per_1000": {
+   "Negative": 4.0,
+   "Positive": 15.8,
+   "Uncertainty": 11.9,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 4.0,
+   "Constraining": 4.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 4,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 9% to $54.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "GAAP1 operating earnings were $367 million; GAAP diluted EPS was $1.05.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Non-GAAP operating earnings increased 10% to $666 million; non-GAAP diluted EPS increased 20% to $2.08.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Fiscal year 2024 non-GAAP EPS guidance2 raised and narrowed to $7.30 to $7.40, from $7.20 to $7.35.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Company provides preliminary fiscal year 2025 non-GAAP EPS guidance of at least $7.50.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     17,
+     28,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "DUBLIN, Ohio, May 2, 2024  /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2024 revenues of $54.9 billion, an increase of 9% from the third quarter of fiscal year 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     17,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Third quarter GAAP operating earnings were $367 million and GAAP diluted earnings per share (EPS) were $1.05, which included a non-cash, pre-tax goodwill impairment of $90 million related to the Global Medical Products and Distribution (GMPD) segment as a result of the reallocation of goodwill related to the reporting structure update.",
+   "d": -1,
+   "m": true,
+   "tone": -0.2,
+   "h": 0.0,
+   "hits": [
+    [
+     154,
+     164,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Third quarter non-GAAP operating earnings increased 10% to $666 million driven by growth in Global Medical Products and Distribution segment profit and Pharmaceutical and Specialty Solutions segment profit.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Non-GAAP diluted EPS increased 20% to $2.08, primarily due to the growth in non-GAAP operating earnings and a lower share count.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\"In Q3, we delivered broad-based growth, including solid profit growth in Pharmaceutical and Specialty Solutions, on top of an exceptionally strong quarter from a year ago,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     127,
+     140,
+     [
+      "positive"
+     ]
+    ],
+    [
+     141,
+     147,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\"We were also pleased to see the ongoing acceleration in GMPD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "With confidence in our outlook for the year, we are raising and narrowing our FY24 EPS guidance and providing preliminary guidance for FY25 that reflects the strength and resiliency of our company.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     110,
+     121,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     158,
+     166,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
