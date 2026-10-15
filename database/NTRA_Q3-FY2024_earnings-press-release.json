@@ -1,0 +1,555 @@
+{
+ "company": "Natera, Inc.",
+ "ticker": "NTRA",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-12",
+ "source_url": "https://investor.natera.com/news/news-details/2024/Natera-Reports-Third-Quarter-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the third quarter ended September 30, 2024.\n\nRecent Strategic and Financial Highlights\n\nGenerated total revenues of $439.8 million in the third quarter of 2024, compared to $268.3 million in the third quarter of 2023, a record increase of 63.9%. Product revenues grew 64.4% over the same period.\nGenerated a gross margin of 61.8% in the third quarter of 2024, compared to a gross margin of 45.1% in the third quarter of 2023.\nProcessed approximately 775,800 tests in the third quarter of 2024, compared to approximately 626,000 tests in the third quarter of 2023, an increase of 23.9%.\nPerformed approximately 137,100 oncology tests in the third quarter of 2024, compared to approximately 88,800 in the third quarter of 2023, an increase of 54.4%.\nAchieved positive cash flow of approximately $34.5 million1 in the third quarter of 2024.\nRaising annual guidance and now expecting 2024 total revenue of $1.61 billion to $1.64 billion, gross margin of 58% to 61%, and $50 million to $75 million in net cash inflow.\nAnnounced completion of study using SignateraTM from the CALGB (Alliance)/SWOG 80702 randomized, phase III clinical trial in colorectal cancer.\nPublished first-of-its-kind colorectal cancer data from the GALAXY study in Nature Medicine and concurrently presented the data at the 2024 Congress of the European Society for Medical Oncology (ESMO).\n\u201cOur strong performance in the third quarter reflects our unwavering dedication to the patients we serve and the passion of our employees in each of our business areas,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe grew volumes, revenue, gross margin, and cash flow in what continues to be a transformational year for Natera.\u201d\n\nThird Quarter Ended September 30, 2024 Financial Results\n\nTotal revenues were $439.8 million in the third quarter of 2024 compared to $268.3 million in the third quarter of 2023, an increase of 63.9%. The increase in total revenues was driven primarily by a 64.4% increase in product revenues, which were $436.1 million in the third quarter of 2024 compared to $265.2 million in the third quarter of 2023. The increase in product revenues was primarily driven by an increase in volume, average selling price improvements, as well as cash receipts that were collected during the quarter related to tests delivered in prior quarters that were fully collected.\n\nNatera processed approximately 775,800 tests in the third quarter of 2024, including approximately 760,700 tests accessioned in its laboratory, compared to approximately 626,000 tests processed, including approximately 609,800 tests accessioned in its laboratory, in the third quarter of 2023.\n\nIn the third quarter of 2024, Natera recognized revenue on approximately 750,100 tests for which results were reported to customers in the period (tests reported), including approximately 735,900 tests reported from its laboratory, compared to approximately 590,000 tests reported, including approximately 575,000 tests reported from its laboratory, in the third quarter of 2023, an increase of 27.1% from the prior period.\n\nGross profit2 for the three months ended September 30, 2024 and September 30, 2023 was $271.7 million and $121.0 million, respectively, representing a gross margin of 61.8% and 45.1%, respectively. Natera had higher gross margin in the third quarter of 2024 primarily as a result of higher revenues, continued progress in reducing cost of revenues associated with tests processed, as well as incremental cash receipts during the quarter associated with tests delivered in prior periods that were fully collected. Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the third quarter of 2024 were $311.1 million, compared to $232.0 million in the same period of the prior year, an increase of 34.0%. The increase was primarily driven by headcount growth to support new product offerings as well as increases in consulting and legal expenses.\n\nLoss from operations for the third quarter of 2024 was $39.3 million compared to $111.0 million for the same period of the prior year. Natera reported a net loss for the third quarter of 2024 of $31.6 million, or ($0.26) per diluted share, compared to a net loss of $109.0 million, or ($0.95) per diluted share, for the same period in 2023. Weighted average shares outstanding were approximately 123.3 million in the third quarter of 2024 compared to 115.2 million in the third quarter of the prior year.\n\nAt September 30, 2024, Natera held approximately $922.3 million in cash, cash equivalents, short-term investments and restricted cash, compared to $879.0 million as of December 31, 2023. As of September 30, 2024, Natera had a total outstanding debt balance of $367.0 million, comprised of $80.4 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps and a net carrying amount of $286.6 million under its seven-year convertible senior notes issued in April 2020. The gross principal balance outstanding for the convertible senior notes was $287.5 million as of September 30, 2024. All outstanding convertible senior notes were redeemed or converted on October 11, 2024.\n\nFinancial Outlook\n\nNatera anticipates 2024 total revenue of $1.61 billion to $1.64 billion; 2024 gross margin to be approximately 58% to 61% of revenues; selling, general and administrative costs to be approximately $775 million to $825 million; research and development costs to be $375 million to $400 million; and net cash inflow to be $50 million to $75 million3.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 2,
+  "n_positive": 7,
+  "mean_pos_negative": 0.75,
+  "mean_pos_positive": 0.41428571428571426,
+  "placement_asymmetry": 0.33571428571428574,
+  "distance_from_headline": 20,
+  "first_negative_pos": 0.7333333333333333,
+  "hedge_near_negative": 0.006578947368421052,
+  "hedge_near_positive": 0.00688924218335983,
+  "hedging_asymmetry": 0.9549595141700404,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4494047619047619,
+  "overall_hedge": 0.025094102885821833,
+  "mean_tone": 0.033538265759807985
+ },
+ "lexicon": {
+  "words": 797,
+  "per_1000": {
+   "Negative": 3.8,
+   "Positive": 7.5,
+   "Uncertainty": 25.1,
+   "Litigious": 1.3,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 6,
+   "Uncertainty": 20,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the third quarter ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Recent Strategic and Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated total revenues of $439.8 million in the third quarter of 2024, compared to $268.3 million in the third quarter of 2023, a record increase of 63.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Product revenues grew 64.4% over the same period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Generated a gross margin of 61.8% in the third quarter of 2024, compared to a gross margin of 45.1% in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Processed approximately 775,800 tests in the third quarter of 2024, compared to approximately 626,000 tests in the third quarter of 2023, an increase of 23.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Performed approximately 137,100 oncology tests in the third quarter of 2024, compared to approximately 88,800 in the third quarter of 2023, an increase of 54.4%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieved positive cash flow of approximately $34.5 million1 in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Raising annual guidance and now expecting 2024 total revenue of $1.61 billion to $1.64 billion, gross margin of 58% to 61%, and $50 million to $75 million in net cash inflow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Announced completion of study using SignateraTM from the CALGB (Alliance)/SWOG 80702 randomized, phase III clinical trial in colorectal cancer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     64,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     85,
+     95,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Published first-of-its-kind colorectal cancer data from the GALAXY study in Nature Medicine and concurrently presented the data at the 2024 Congress of the European Society for Medical Oncology (ESMO). \u201cOur strong performance in the third quarter reflects our unwavering dedication to the patients we serve and the passion of our employees in each of our business areas,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe grew volumes, revenue, gross margin, and cash flow in what continues to be a transformational year for Natera.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.116,
+   "h": 0.0,
+   "hits": [
+    [
+     207,
+     213,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Third Quarter Ended September 30, 2024 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Total revenues were $439.8 million in the third quarter of 2024 compared to $268.3 million in the third quarter of 2023, an increase of 63.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The increase in total revenues was driven primarily by a 64.4% increase in product revenues, which were $436.1 million in the third quarter of 2024 compared to $265.2 million in the third quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase in product revenues was primarily driven by an increase in volume, average selling price improvements, as well as cash receipts that were collected during the quarter related to tests delivered in prior quarters that were fully collected.",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Natera processed approximately 775,800 tests in the third quarter of 2024, including approximately 760,700 tests accessioned in its laboratory, compared to approximately 626,000 tests processed, including approximately 609,800 tests accessioned in its laboratory, in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1212,
+   "hits": [
+    [
+     17,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     85,
+     98,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     156,
+     169,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     205,
+     218,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "In the third quarter of 2024, Natera recognized revenue on approximately 750,100 tests for which results were reported to customers in the period (tests reported), including approximately 735,900 tests reported from its laboratory, compared to approximately 590,000 tests reported, including approximately 575,000 tests reported from its laboratory, in the third quarter of 2023, an increase of 27.1% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0741,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     174,
+     187,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     244,
+     257,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     292,
+     305,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Gross profit2 for the three months ended September 30, 2024 and September 30, 2023 was $271.7 million and $121.0 million, respectively, representing a gross margin of 61.8% and 45.1%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Natera had higher gross margin in the third quarter of 2024 primarily as a result of higher revenues, continued progress in reducing cost of revenues associated with tests processed, as well as incremental cash receipts during the quarter associated with tests delivered in prior periods that were fully collected.",
+   "d": 1,
+   "m": false,
+   "tone": 0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     120,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the third quarter of 2024 were $311.1 million, compared to $232.0 million in the same period of the prior year, an increase of 34.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase was primarily driven by headcount growth to support new product offerings as well as increases in consulting and legal expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     126,
+     131,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Loss from operations for the third quarter of 2024 was $39.3 million compared to $111.0 million for the same period of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Natera reported a net loss for the third quarter of 2024 of $31.6 million, or ($0.26) per diluted share, compared to a net loss of $109.0 million, or ($0.95) per diluted share, for the same period in 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     123,
+     127,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Weighted average shares outstanding were approximately 123.3 million in the third quarter of 2024 compared to 115.2 million in the third quarter of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "At September 30, 2024, Natera held approximately $922.3 million in cash, cash equivalents, short-term investments and restricted cash, compared to $879.0 million as of December 31, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     35,
+     48,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     118,
+     128,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "As of September 30, 2024, Natera had a total outstanding debt balance of $367.0 million, comprised of $80.4 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps and a net carrying amount of $286.6 million under its seven-year convertible senior notes issued in April 2020.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0192,
+   "hits": [
+    [
+     182,
+     190,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The gross principal balance outstanding for the convertible senior notes was $287.5 million as of September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "All outstanding convertible senior notes were redeemed or converted on October 11, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Financial Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Natera anticipates 2024 total revenue of $1.61 billion to $1.64 billion; 2024 gross margin to be approximately 58% to 61% of revenues; selling, general and administrative costs to be approximately $775 million to $825 million; research and development costs to be $375 million to $400 million; and net cash inflow to be $50 million to $75 million3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     97,
+     110,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     183,
+     196,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
