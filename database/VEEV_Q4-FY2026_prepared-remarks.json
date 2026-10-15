@@ -1,0 +1,2331 @@
+{
+ "company": "Veeva",
+ "ticker": "VEEV",
+ "sector": "Health Care",
+ "filing_type": "Prepared remarks",
+ "period": "Q4 FY2026",
+ "date": "2026-03-04",
+ "source_url": "https://s206.q4cdn.com/200001835/files/doc_earnings/2026/q4/supplemental-info/Veeva-Q4-26-Earnings-Prepared-Remarks.pdf",
+ "demo": false,
+ "source_text": "March 4, 2026\n\nQ4 FY2026 Earnings\nPrepared Remarks\nPeter Gassner, Founder & CEO\nBrian Van Wagener, CFO\n\n\fLegal Disclaimer\n\nThese prepared remarks contain forward-looking statements regarding Veeva\u2019s expected future\nperformance and, in particular, includes statements regarding Veeva\u2019s products and services and guidance,\nprovided as of March 04, 2026, about Veeva\u2019s expected future financial results. Estimating guidance\naccurately for future periods is difficult. It involves assumptions and internal estimates that may prove to be\nincorrect and is based on plans that may change. Hence, there is a significant risk that actual results could\ndiffer materially from the guidance we have provided in these prepared remarks and we have no obligation\nto update such guidance. There are also numerous risks that have the potential to negatively impact our\nfinancial performance, including issues related to the performance, availability, security, or privacy of our\nproducts, competitive factors, customer decisions and priorities, developments that impact the life sciences\nindustry (including regulatory, funding, or policy changes), general macroeconomic and geopolitical events\n(including changes in trade policy or practices, inflationary pressures, currency exchange fluctuations,\nchanges in interest rates, and geopolitical conflicts), and issues that impact our ability to hire, retain and\nadequately compensate talented employees. We have summarized what we believe are the principal risks to\nour business in a section titled \u201cSummary of Risk Factors\u201d on pages 33 and 34 in our filing on Form 10-Q for\nthe period ended October 31, 2025 which you can find here. Additional details on the risks and uncertainties\nthat may impact our business can be found in the same filing on Form 10-Q and in our subsequent SEC\nfilings, which you can access at sec.gov. We recommend that you familiarize yourself with these risks and\nuncertainties before making an investment decision.\n\n\u00a92025 Veeva Systems Inc. All rights reserved.\n\u00a92026\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 1\n\n\fQ4\u201926 Business Update\nPeter Gassner, Founder & CEO\n\nFinancial Results\nWe had a strong finish to the year with results ahead of our guidance. Total revenue was $836 million,\nup 16% year over year. Non-GAAP operating income was $366 million, or 44% of total revenue.\nFiscal year 2026 revenue was $3.195 billion, up 16% year over year. Non-GAAP operating income was\n$1.434 billion, or 45% of total revenue.\n\n2025: A Year of Execution and Innovation\n2025 was an outstanding year and I am very proud of the Veeva team. Amid economic and political\nuncertainty and a lot of noise and change in technology, we stayed focused. We got so many things done,\ndelivered for customers, and started some foundational new products.\nWe surpassed our $3 billion revenue run rate goal and substantially grew our strategic partnerships with\ncustomers. We set the right course for industry-specific AI for life sciences and delivered Veeva AI and our\nfirst agents. We saw great success with Vault CRM and now have more than 125 customers live across all\nmajor regions. R&D and Quality had significant progress in new application areas to address major long-term\nopportunities. And Veeva Basics, now used by more than 100 emerging biotechs, is driving greater efficiency\nand innovation for the industry and for Veeva.\nIt was an outstanding year for hiring. There\u2019s a lot of interest in Veeva because we\u2019re seen by many as\nan innovative, caring, and well-run company with significant future potential. We added more than 600\nexceptional people in 2025, primarily in services and products to support the long-term growth opportunities\nwe see ahead. Many will go on to be leaders in Veeva and the industry in the years to come.\n\nVeeva AI\nAI is an exciting new computing paradigm and the next major evolution in software and hardware.\nBut there\u2019s a lot of hype and fear that AI will replace today\u2019s software systems. The reality is, not all software\nis the same. Core systems of record like Veeva, SAP, and Workday are essential and will incorporate and\nwork seamlessly with AI, not be replaced by it.\nWhile the major large language models are the catalyst for this shift, the agentic layer provides far broader\nand more diverse value. The agentic transformation underway represents a substantial opportunity for\nVeeva and life sciences. With our core systems of record spanning the industry\u2019s most critical functions and\nunique datasets, we can deliver industry-specific AI deeply integrated into our core applications.\n\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 2\n\n\fFor example, Vault CRM Free Text Agent captures rich, compliant call notes for deeper customer insights.\nPromoMats agents help deliver approved content faster. Regulatory and safety agents coming this year can\nstreamline health authority interactions and safety case processing. And this is just the beginning.\nBuilding reliable industry-specific AI across a wide range of use cases for a highly regulated industry is hard.\nIt takes time, focus, and the right skills. It integrates proprietary datasets, sophisticated logic, validated\nprocesses, and depends on specialized domain expertise and safeguards to maintain compliance and data\nintegrity. If done well, our agents will provide significant value for customers and Veeva.\nIt\u2019s early days for industry AI, and we are in a great position to lead. We have a well-established life sciences\ncloud that\u2019s expanding to connect the industry, strong momentum with Veeva AI, and much more innovation\non the way.\n\nVeeva Development Cloud\nVeeva Development Cloud had a great quarter that included several top 20 biopharma wins in clinical,\nregulatory, and safety.\nFirst, I want to take a moment to focus on an exciting newer Development Cloud application, Veeva RTSM.\nIn the quarter, a top 20 biopharma selected our RTSM solution as their enterprise standard. This is a milestone\nwin for Veeva and we believe the first of its kind for the industry.\nRTSM is a highly complex, mission-critical area in clinical. We entered the market four years ago with a very\nsmall acquisition of a founder-led company. That founder is still at Veeva and has seen his start-up grow to\nnow run more than 100 concurrent trials, forge a top 20 enterprise partnership that will change the industry,\nand become an integral part of Development Cloud. This is a clear example of employee success, customer\nsuccess, and the value of strategic, well-executed acquisitions.\nWe had a number of other top 20 wins in clinical including additional top 20 biopharmas selecting Site\nConnect and Study Training. We also had good traction with eCOA where we have an outstanding and\ninnovative solution.\nWe're also focusing product and go-to-market efforts this year on providing EDC, RTSM, and eCOA through\nCROs that bundle technology and services for smaller biotechs on a study-by-study basis. This is a major\nuntapped opportunity for Veeva. The timing is right as we work to simplify and standardize the industry.\nAlso on the CRO front, our clinical partnership with IQVIA is going well and their first EDC study build is live\nwith many others on the way.\nOur momentum in safety continues. We won our sixth top 20 biopharma in the quarter and in February our\nfirst top 20 biopharma went live on Workbench and Signal. We are also making great progress on our first\ntwo Veeva AI Agents in safety, Case Intake and Case Narrative coming in April. Customer interest is high as\nthe industry looks to AI to drive efficiency in safety case processing.\nOur leadership in the regulatory area also expanded. In the quarter the 19th top 20 biopharma selected\nSubmissions as part of their multi-year transformation with Veeva.\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 3\n\n\fVeeva Quality Cloud\nWe are delivering on a big vision to connect and streamline quality and manufacturing processes across\nsystems, people, and partners with Quality Cloud. It\u2019s a critical and growing market for Veeva and one where\nour long track record of consistent delivery with product excellence is key to our success and also helping us\nin new areas like LIMS.\nWe added 20 new QualityDocs and 27 new QMS customers in the quarter, including a top 20 biopharma that\nselected QMS as their global standard. We ended the year with 450 customers, including 15 of the top 20\nbiopharmas, who have selected QMS to manage their quality processes for greater visibility and control.\nLIMS is a substantial growth opportunity for us to help the industry modernize their lab environments.\nOur first top 20 biopharma early adopter is on track to have two manufacturing sites live with Veeva LIMS\nlater this year which, if successful, will start our reference selling in this large market.\n\nVeeva Commercial Cloud\nCommercial Cloud had a good year and quarter, and I am especially pleased with our Vault CRM progress\nin the year.\nWe now have more than 125 customers of all sizes live on Vault CRM. Two top 20 biopharmas are live and\nhappy in major markets and many more are on track to go live this year and next. We ended the year with 10\ntop 20 biopharmas committed to Vault CRM globally, including the recent commitment from Novo Nordisk\nInternational Operations. These customers are now on the fast path to high-value agentic CRM.\nIn commercial content we expanded our leadership and impact, adding 22 new PromoMats customers in the\nquarter to end the year with more than 500 customers overall. This number will grow over the years as we\nexpand in medtech and in smaller biotechs with PromoMats Basics. I am also pleased with the progress of\nVeeva AI for PromoMats. A number of early adopters are now live, more projects are underway, and the\nsuccess of these agents is generating a lot of interest.\nIt was an outstanding quarter and year for Crossix, which grew in Measurement and Audiences and all\ncustomer segments. In the quarter, we had two top 20 biopharma wins for Crossix Measurement. We expect\ncontinued strength this year and beyond as we further our position in a healthy end market. Looking back\nover the roughly six years since we acquired Crossix, it has proven to be an outstanding success and a\ngreat win for customers, Crossix, and Veeva. It\u2019s a great example of our approach to strategic acquisitions.\nCrossix shaped Veeva in many positive ways, opened up new and important areas of life sciences, and\nprovided the privacy-safe data platform for Compass.\n\nVeeva Data Cloud\nOur unique and modern approach to data is resonating with the industry, providing a harmonized data\nfoundation that fits seamlessly with our commercial software. High quality, standardized and connected\ndata is critical for speed and efficiency and is a required foundation for AI.\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 4\n\n\fVeeva Link, our family of deep data products, provides critical insights for commercial and medical teams.\nIn the quarter, we had 11 wins and two top 20 biopharmas expanded their use of Key People. Now 13 top 20\nbiopharmas have standardized on Link Key People across all therapeutic areas. We also finished with good\nmomentum in newer Link products like Link Key Accounts and Medical Insights that each had top 20\nbiopharma wins.\nVeeva Compass Patient ended the year strong, adding 25 new brands in the quarter, and is now used by\nmore than 140 brands.\n\nFiscal Year Guidance\nFor fiscal year 2027, we expect total revenue between $3.585 and $3.600 billion representing a 13% increase.\nOur expected growth is driven by about 13% subscription revenue growth and 10% services revenue growth.\nNon-GAAP operating income is expected to be about $1.59 billion, or about 44% of total revenue.\n\nLooking Ahead\nOur diversified business and consistent execution have us on track for our $6 billion revenue goal by 2030.\nAnd most exciting is the potential we have to meaningfully advance how life sciences operates by delivering\nindustry-specific AI and helping life sciences companies better connect with their external ecosystem of\ncustomers, regulators, and clinical research partners.\n\nPeter Gassner, Founder & CEO\n\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 5\n\n\fQ4\u201926 Financial Update\nBrian Van Wagener, CFO\n\nFourth Quarter and Fiscal Year 2026 Performance\nWe finished the year strong in Q4 with results exceeding guidance across all metrics.\nIn the fourth quarter, total revenue grew 16% year over year to $836 million and subscription revenue\ngrew 16% year over year to $708 million. Growth was broad-based in R&D and Quality and led by Crossix\nin Commercial.\nServices revenue in Q4 was $128 million, up 14% year over year, driven by strong demand and project\nexecution.\nQ4 normalized billings1 grew 18% year over year to $1.506 billion. The outperformance compared to\nguidance was primarily driven by services and the timing and billing duration of new subscriptions.\nNon-GAAP operating income in Q4 was $366 million, or 44% of total revenue. Results were ahead of\nguidance primarily due to revenue outperformance in the quarter. Net headcount increased by 131.\nQ4 non-GAAP fully diluted earnings per share was $2.06.\nThe effect of foreign exchange (FX) in the quarter was in line with expectations, resulting in an immaterial\nyear-over-year impact on total revenue and non-GAAP operating income and a $21 million benefit to\nnormalized billings.\nFor fiscal 2026, total revenue grew 16% year over year to $3.195 billion and subscription revenue grew 17%\nyear over year to $2.684 billion. Full-year normalized billings was $3.425 billion and grew 15% year over year.\nNon-GAAP operating income in fiscal 2026 was $1.434 billion, or 45% of total revenue, and non-GAAP fully\ndiluted earnings per share was $8.10. Non-GAAP cash flow from operations2 was $1.390 billion and cash and\nshort-term investments totaled about $6.6 billion at year-end.\nWe initiated our first share repurchase program in January with authorization to purchase up to $2 billion\nshares over two years, reflecting confidence in our long-term growth trajectory, strong free cash flow,\nand healthy balance sheet. In the quarter, we repurchased approximately 0.8 million shares for a total of\nabout $180 million.\n\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 6\n\n\fGuidance for Fiscal Year and First Quarter 2027\nWe are providing the following guidance for fiscal 2027:\n\u2022 Total revenue of $3.585 to $3.600 billion, representing growth of about 13% year over year.\n\u2022 \u0007Subscription revenue of approximately $3.040 billion. This represents growth of about 13% and\nconsists of\n- Commercial subscription revenue of about $1.380 billion, and\n- R&D and Quality subscription revenue of about $1.660 billion.\n\u2022 Professional services revenue of $545 to $560 million.\n\u2022 \u0007Non-GAAP operating income of approximately $1.590 billion, resulting in a non-GAAP operating\nmargin of about 44%.\n\u2022 \u0007Non-GAAP earnings per share of about $8.85 based on a fully diluted share count of approximately\n166 million.\n\u2022 \u0007Normalized billings1 of about $3.780 billion, representing growth of about 11% year over year.\nNormalized billings is expected to be about $16 million below calculated billings due to customer\nterm changes.\n\u2022 Non-GAAP cash flow from operations of about $1.520 billion.\nFor Q1, we expect total revenue to be between $855 and $858 million, representing 13% growth year over\nyear. We anticipate subscription revenue to be about $720 million, also representing 13% growth year over\nyear. We expect Q1 services revenue to be between $135 and $138 million.\nQ1 non-GAAP operating income is expected to be between $378 and $381 million, reflecting non-GAAP\noperating margin of about 44%.\nNon-GAAP earnings per share for Q1 is expected to be between $2.13 and $2.14 based on a fully diluted\nshare count of approximately 167 million. Our earnings per share guidance includes the expected impact\nfrom our share repurchase program on our share count.\nStarting in fiscal 2027, we will continue providing full-year normalized billings guidance and update it\nquarterly alongside other metrics. We are discontinuing billings guidance for individual fiscal quarters,\nconsistent with our view that quarterly billings growth is not a good indicator of the underlying momentum of\nour business.\nOur guidance assumes no significant changes in the macroeconomic environment and foreign exchange\nrates remain near current levels. Guidance for total revenue reflects FX tailwinds of approximately $7 million\nin Q1 and $22 million in fiscal 2027. FX is expected to have an immaterial impact on non-GAAP operating\nincome in Q1 and fiscal 2027 and normalized billings in fiscal 2027.\n\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 7\n\n\fLooking Ahead\nIn closing, fiscal 2026 was a year of strong execution as we advanced our vision of building the industry\ncloud for life sciences. We had a breakout year with Crossix, delivered a next generation CRM with Vault\nCRM, accelerated development of Veeva AI, and built momentum across Development Cloud and Quality\nCloud. Entering fiscal 2027, we remain on track to achieve our 2030 revenue run rate goal of $6 billion.\n\nBrian Van Wagener, CFO\n\nNOTES\n1\n\n\u0007Normalized billings reflect calculated billings adjusted for the impact of customer term changes in our renewal business and\ndelayed renewals that have closed and billed after the period end. A reconciliation of normalized to calculated billings can be found\nin our supplemental investor presentation.\n\n2\n\nFiscal 2026 non-GAAP cash flow from operations excluded an excess tax benefit of about $25 million.\n\n\u00a92026 Veeva Systems Inc. All rights reserved.\nVeeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.\n\nQ4 FY2026 Earnings / Prepared Remarks 8\n\n\f",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 180,
+  "n_material_neg": 0,
+  "n_positive": 25,
+  "mean_pos_positive": 0.5837777777777777,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.009974558774558774,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.006336633663366337,
+  "mean_tone": 0.12913419550185468
+ },
+ "lexicon": {
+  "words": 2525,
+  "per_1000": {
+   "Negative": 1.2,
+   "Positive": 21.0,
+   "Uncertainty": 4.8,
+   "Litigious": 2.8,
+   "Strong modal": 3.2,
+   "Weak modal": 0.4,
+   "Constraining": 1.6
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 53,
+   "Uncertainty": 12,
+   "Litigious": 7,
+   "Strong modal": 8,
+   "Weak modal": 1,
+   "Constraining": 4
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "March 4, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Q4 FY2026 Earnings.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Prepared Remarks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Peter Gassner, Founder & CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Brian Van Wagener, CFO",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Legal Disclaimer",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     5,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     6,
+     16,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u00a92025 Veeva Systems Inc. All rights reserved. \u00a92026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 1",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Q4\u201926 Business Update.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Peter Gassner, Founder & CEO",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Financial Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "We had a strong finish to the year with results ahead of our guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Total revenue was $836 million, up 16% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Non-GAAP operating income was $366 million, or 44% of total revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Fiscal year 2026 revenue was $3.195 billion, up 16% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Non-GAAP operating income was.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "$1.434 billion, or 45% of total revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "2025: A Year of Execution and Innovation 2025 was an outstanding year and I am very proud of the Veeva team.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Amid economic and political uncertainty and a lot of noise and change in technology, we stayed focused.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     28,
+     39,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "We got so many things done, delivered for customers, and started some foundational new products.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "We surpassed our $3 billion revenue run rate goal and substantially grew our strategic partnerships with customers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "We set the right course for industry-specific AI for life sciences and delivered Veeva AI and our first agents.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "We saw great success with Vault CRM and now have more than 125 customers live across all major regions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "R&D and Quality had significant progress in new application areas to address major long-term opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     93,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "And Veeva Basics, now used by more than 100 emerging biotechs, is driving greater efficiency and innovation for the industry and for Veeva.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     92,
+     [
+      "positive"
+     ]
+    ],
+    [
+     97,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "It was an outstanding year for hiring.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "There\u2019s a lot of interest in Veeva because we\u2019re seen by many as an innovative, caring, and well-run company with significant future potential.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "We added more than 600 exceptional people in 2025, primarily in services and products to support the long-term growth opportunities we see ahead.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     118,
+     131,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Many will go on to be leaders in Veeva and the industry in the years to come.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     9,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Veeva AI.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "AI is an exciting new computing paradigm and the next major evolution in software and hardware.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "But there\u2019s a lot of hype and fear that AI will replace today\u2019s software systems.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     34,
+     [
+      "negative"
+     ]
+    ],
+    [
+     43,
+     47,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "The reality is, not all software is the same.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Core systems of record like Veeva, SAP, and Workday are essential and will incorporate and work seamlessly with AI, not be replaced by it.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     74,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "While the major large language models are the catalyst for this shift, the agentic layer provides far broader and more diverse value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The agentic transformation underway represents a substantial opportunity for.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     72,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Veeva and life sciences.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "With our core systems of record spanning the industry\u2019s most critical functions and unique datasets, we can deliver industry-specific AI deeply integrated into our core applications.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "\u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 2",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "For example, Vault CRM Free Text Agent captures rich, compliant call notes for deeper customer insights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "PromoMats agents help deliver approved content faster.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Regulatory and safety agents coming this year can streamline health authority interactions and safety case processing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "And this is just the beginning.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Building reliable industry-specific AI across a wide range of use cases for a highly regulated industry is hard.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     94,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "It takes time, focus, and the right skills.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "It integrates proprietary datasets, sophisticated logic, validated processes, and depends on specialized domain expertise and safeguards to maintain compliance and data integrity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0455,
+   "hits": [
+    [
+     82,
+     89,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     169,
+     178,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "If done well, our agents will provide significant value for customers and Veeva.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     29,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "It\u2019s early days for industry AI, and we are in a great position to lead.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "We have a well-established life sciences cloud that\u2019s expanding to connect the industry, strong momentum with Veeva AI, and much more innovation on the way.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     89,
+     95,
+     [
+      "positive"
+     ]
+    ],
+    [
+     134,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "Veeva Development Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "Veeva Development Cloud had a great quarter that included several top 20 biopharma wins in clinical, regulatory, and safety.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     101,
+     111,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 55,
+   "t": "First, I want to take a moment to focus on an exciting newer Development Cloud application, Veeva RTSM.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 56,
+   "t": "In the quarter, a top 20 biopharma selected our RTSM solution as their enterprise standard.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "This is a milestone win for Veeva and we believe the first of its kind for the industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0556,
+   "hits": [
+    [
+     20,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     41,
+     48,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 58,
+   "t": "RTSM is a highly complex, mission-critical area in clinical.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 59,
+   "t": "We entered the market four years ago with a very small acquisition of a founder-led company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 60,
+   "t": "That founder is still at Veeva and has seen his start-up grow to now run more than 100 concurrent trials, forge a top 20 enterprise partnership that will change the industry, and become an integral part of Development Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     149,
+     153,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 61,
+   "t": "This is a clear example of employee success, customer success, and the value of strategic, well-executed acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     54,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 62,
+   "t": "We had a number of other top 20 wins in clinical including additional top 20 biopharmas selecting Site.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "Connect and Study Training.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 64,
+   "t": "We also had good traction with eCOA where we have an outstanding and innovative solution.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 65,
+   "t": "We're also focusing product and go-to-market efforts this year on providing EDC, RTSM, and eCOA through.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 66,
+   "t": "CROs that bundle technology and services for smaller biotechs on a study-by-study basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "This is a major untapped opportunity for Veeva.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 68,
+   "t": "The timing is right as we work to simplify and standardize the industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 69,
+   "t": "Also on the CRO front, our clinical partnership with IQVIA is going well and their first EDC study build is live with many others on the way.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 70,
+   "t": "Our momentum in safety continues.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 71,
+   "t": "We won our sixth top 20 biopharma in the quarter and in February our first top 20 biopharma went live on Workbench and Signal.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 72,
+   "t": "We are also making great progress on our first two Veeva AI Agents in safety, Case Intake and Case Narrative coming in April.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 73,
+   "t": "Customer interest is high as the industry looks to AI to drive efficiency in safety case processing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 74,
+   "t": "Our leadership in the regulatory area also expanded.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     22,
+     32,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 75,
+   "t": "In the quarter the 19th top 20 biopharma selected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 76,
+   "t": "Submissions as part of their multi-year transformation with Veeva. \u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 77,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 78,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 3",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 79,
+   "t": "Veeva Quality Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 80,
+   "t": "We are delivering on a big vision to connect and streamline quality and manufacturing processes across systems, people, and partners with Quality Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 81,
+   "t": "It\u2019s a critical and growing market for Veeva and one where our long track record of consistent delivery with product excellence is key to our success and also helping us in new areas like LIMS.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     117,
+     127,
+     [
+      "positive"
+     ]
+    ],
+    [
+     142,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 82,
+   "t": "We added 20 new QualityDocs and 27 new QMS customers in the quarter, including a top 20 biopharma that selected QMS as their global standard.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 83,
+   "t": "We ended the year with 450 customers, including 15 of the top 20 biopharmas, who have selected QMS to manage their quality processes for greater visibility and control.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 84,
+   "t": "LIMS is a substantial growth opportunity for us to help the industry modernize their lab environments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 85,
+   "t": "Our first top 20 biopharma early adopter is on track to have two manufacturing sites live with Veeva LIMS later this year which, if successful, will start our reference selling in this large market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     132,
+     142,
+     [
+      "positive"
+     ]
+    ],
+    [
+     144,
+     148,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 86,
+   "t": "Veeva Commercial Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 87,
+   "t": "Commercial Cloud had a good year and quarter, and I am especially pleased with our Vault CRM progress in the year.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     66,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     93,
+     101,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 88,
+   "t": "We now have more than 125 customers of all sizes live on Vault CRM.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 89,
+   "t": "Two top 20 biopharmas are live and happy in major markets and many more are on track to go live this year and next.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 90,
+   "t": "We ended the year with 10 top 20 biopharmas committed to Vault CRM globally, including the recent commitment from Novo Nordisk.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     53,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     98,
+     108,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     114,
+     118,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 91,
+   "t": "International Operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 92,
+   "t": "These customers are now on the fast path to high-value agentic CRM.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 93,
+   "t": "In commercial content we expanded our leadership and impact, adding 22 new PromoMats customers in the quarter to end the year with more than 500 customers overall.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 94,
+   "t": "This number will grow over the years as we expand in medtech and in smaller biotechs with PromoMats Basics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     16,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 95,
+   "t": "I am also pleased with the progress of.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     27,
+     35,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 96,
+   "t": "Veeva AI for PromoMats.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 97,
+   "t": "A number of early adopters are now live, more projects are underway, and the success of these agents is generating a lot of interest.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 98,
+   "t": "It was an outstanding quarter and year for Crossix, which grew in Measurement and Audiences and all customer segments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 99,
+   "t": "In the quarter, we had two top 20 biopharma wins for Crossix Measurement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 100,
+   "t": "We expect continued strength this year and beyond as we further our position in a healthy end market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0556,
+   "hits": [
+    [
+     20,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 101,
+   "t": "Looking back over the roughly six years since we acquired Crossix, it has proven to be an outstanding success and a great win for customers, Crossix, and Veeva.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0357,
+   "hits": [
+    [
+     22,
+     29,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     102,
+     109,
+     [
+      "positive"
+     ]
+    ],
+    [
+     122,
+     125,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 102,
+   "t": "It\u2019s a great example of our approach to strategic acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 103,
+   "t": "Crossix shaped Veeva in many positive ways, opened up new and important areas of life sciences, and provided the privacy-safe data platform for Compass.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 104,
+   "t": "Veeva Data Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 105,
+   "t": "Our unique and modern approach to data is resonating with the industry, providing a harmonized data foundation that fits seamlessly with our commercial software.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 106,
+   "t": "High quality, standardized and connected data is critical for speed and efficiency and is a required foundation for AI. \u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     82,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     100,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 107,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 108,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 4",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 109,
+   "t": "Veeva Link, our family of deep data products, provides critical insights for commercial and medical teams.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 110,
+   "t": "In the quarter, we had 11 wins and two top 20 biopharmas expanded their use of Key People.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 111,
+   "t": "Now 13 top 20 biopharmas have standardized on Link Key People across all therapeutic areas.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 112,
+   "t": "We also finished with good momentum in newer Link products like Link Key Accounts and Medical Insights that each had top 20 biopharma wins.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 113,
+   "t": "Veeva Compass Patient ended the year strong, adding 25 new brands in the quarter, and is now used by more than 140 brands.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 114,
+   "t": "Fiscal Year Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 115,
+   "t": "For fiscal year 2027, we expect total revenue between $3.585 and $3.600 billion representing a 13% increase.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 116,
+   "t": "Our expected growth is driven by about 13% subscription revenue growth and 10% services revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 117,
+   "t": "Non-GAAP operating income is expected to be about $1.59 billion, or about 44% of total revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 118,
+   "t": "Looking Ahead.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 119,
+   "t": "Our diversified business and consistent execution have us on track for our $6 billion revenue goal by 2030.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 120,
+   "t": "And most exciting is the potential we have to meaningfully advance how life sciences operates by delivering industry-specific AI and helping life sciences companies better connect with their external ecosystem of customers, regulators, and clinical research partners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     165,
+     171,
+     [
+      "positive"
+     ]
+    ],
+    [
+     224,
+     234,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 121,
+   "t": "Peter Gassner, Founder & CEO",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 122,
+   "t": "\u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 123,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 124,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 5",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 125,
+   "t": "Q4\u201926 Financial Update.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 126,
+   "t": "Brian Van Wagener, CFO",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 127,
+   "t": "Fourth Quarter and Fiscal Year 2026 Performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 128,
+   "t": "We finished the year strong in Q4 with results exceeding guidance across all metrics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 129,
+   "t": "In the fourth quarter, total revenue grew 16% year over year to $836 million and subscription revenue grew 16% year over year to $708 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 130,
+   "t": "Growth was broad-based in R&D and Quality and led by Crossix in Commercial.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 131,
+   "t": "Services revenue in Q4 was $128 million, up 14% year over year, driven by strong demand and project execution.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     80,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 132,
+   "t": "Q4 normalized billings1 grew 18% year over year to $1.506 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 133,
+   "t": "The outperformance compared to guidance was primarily driven by services and the timing and billing duration of new subscriptions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 134,
+   "t": "Non-GAAP operating income in Q4 was $366 million, or 44% of total revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 135,
+   "t": "Results were ahead of guidance primarily due to revenue outperformance in the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 136,
+   "t": "Net headcount increased by 131.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 137,
+   "t": "Q4 non-GAAP fully diluted earnings per share was $2.06.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 138,
+   "t": "The effect of foreign exchange (FX) in the quarter was in line with expectations, resulting in an immaterial year-over-year impact on total revenue and non-GAAP operating income and a $21 million benefit to normalized billings.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 139,
+   "t": "For fiscal 2026, total revenue grew 16% year over year to $3.195 billion and subscription revenue grew 17% year over year to $2.684 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 140,
+   "t": "Full-year normalized billings was $3.425 billion and grew 15% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 141,
+   "t": "Non-GAAP operating income in fiscal 2026 was $1.434 billion, or 45% of total revenue, and non-GAAP fully diluted earnings per share was $8.10.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 142,
+   "t": "Non-GAAP cash flow from operations2 was $1.390 billion and cash and short-term investments totaled about $6.6 billion at year-end.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 143,
+   "t": "We initiated our first share repurchase program in January with authorization to purchase up to $2 billion shares over two years, reflecting confidence in our long-term growth trajectory, strong free cash flow, and healthy balance sheet.",
+   "d": 1,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     188,
+     194,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 144,
+   "t": "In the quarter, we repurchased approximately 0.8 million shares for a total of about $180 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 145,
+   "t": "\u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 146,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 147,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 6",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 148,
+   "t": "Guidance for Fiscal Year and First Quarter 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 149,
+   "t": "We are providing the following guidance for fiscal 2027: Total revenue of $3.585 to $3.600 billion, representing growth of about 13% year over year. \u0007Subscription revenue of approximately $3.040 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     174,
+     187,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 150,
+   "t": "This represents growth of about 13% and consists of - Commercial subscription revenue of about $1.380 billion, and - R&D and Quality subscription revenue of about $1.660 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 151,
+   "t": "Professional services revenue of $545 to $560 million. \u0007Non-GAAP operating income of approximately $1.590 billion, resulting in a non-GAAP operating margin of about 44%. \u0007Non-GAAP earnings per share of about $8.85 based on a fully diluted share count of approximately 166 million. \u0007Normalized billings1 of about $3.780 billion, representing growth of about 11% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0392,
+   "hits": [
+    [
+     85,
+     98,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     254,
+     267,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 152,
+   "t": "Normalized billings is expected to be about $16 million below calculated billings due to customer term changes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 153,
+   "t": "Non-GAAP cash flow from operations of about $1.520 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 154,
+   "t": "For Q1, we expect total revenue to be between $855 and $858 million, representing 13% growth year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 155,
+   "t": "We anticipate subscription revenue to be about $720 million, also representing 13% growth year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 156,
+   "t": "We expect Q1 services revenue to be between $135 and $138 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": []
+  },
+  {
+   "i": 157,
+   "t": "Q1 non-GAAP operating income is expected to be between $378 and $381 million, reflecting non-GAAP operating margin of about 44%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 158,
+   "t": "Non-GAAP earnings per share for Q1 is expected to be between $2.13 and $2.14 based on a fully diluted share count of approximately 167 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     117,
+     130,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 159,
+   "t": "Our earnings per share guidance includes the expected impact from our share repurchase program on our share count.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 160,
+   "t": "Starting in fiscal 2027, we will continue providing full-year normalized billings guidance and update it quarterly alongside other metrics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 161,
+   "t": "We are discontinuing billings guidance for individual fiscal quarters, consistent with our view that quarterly billings growth is not a good indicator of the underlying momentum of our business.",
+   "d": 1,
+   "m": false,
+   "tone": -0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     20,
+     [
+      "negative"
+     ]
+    ],
+    [
+     136,
+     140,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 162,
+   "t": "Our guidance assumes no significant changes in the macroeconomic environment and foreign exchange rates remain near current levels.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 163,
+   "t": "Guidance for total revenue reflects FX tailwinds of approximately $7 million in Q1 and $22 million in fiscal 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     52,
+     65,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 164,
+   "t": "FX is expected to have an immaterial impact on non-GAAP operating income in Q1 and fiscal 2027 and normalized billings in fiscal 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 165,
+   "t": "\u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 166,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 167,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 7",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 168,
+   "t": "Looking Ahead.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 169,
+   "t": "In closing, fiscal 2026 was a year of strong execution as we advanced our vision of building the industry cloud for life sciences.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     44,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 170,
+   "t": "We had a breakout year with Crossix, delivered a next generation CRM with Vault.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 171,
+   "t": "CRM, accelerated development of Veeva AI, and built momentum across Development Cloud and Quality.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 172,
+   "t": "Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 173,
+   "t": "Entering fiscal 2027, we remain on track to achieve our 2030 revenue run rate goal of $6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 174,
+   "t": "Brian Van Wagener, CFO",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 175,
+   "t": "NOTES 1",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 176,
+   "t": "2",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 177,
+   "t": "Fiscal 2026 non-GAAP cash flow from operations excluded an excess tax benefit of about $25 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 178,
+   "t": "\u00a92026 Veeva Systems Inc. All rights reserved.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 179,
+   "t": "Veeva, Vault, and Crossix are registered trademarks of Veeva Systems Inc.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 180,
+   "t": "Q4 FY2026 Earnings / Prepared Remarks 8",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
