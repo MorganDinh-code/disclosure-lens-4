@@ -1,0 +1,897 @@
+{
+ "company": "EOG Resources, Inc.",
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-08-07",
+ "source_url": "https://investors.eogresources.com/2025-08-07-EOG-Resources-Reports-Second-Quarter-2025-Results-and-Updates-2025-Guidance",
+ "demo": false,
+ "source_text": "Second Quarter Highlights\n\nEarned adjusted net income of $1.3 billion, or $2.32 per share\nGenerated $1.0 billion of free cash flow\nPaid $528 million in regular dividends and repurchased $600 million of shares\nOil, NGLs and natural gas production above guidance midpoints\nCapital expenditures and per-unit operating costs better than guidance midpoints\nCompleted $3.5 billion debt offering to fund the acquisition of Encino Acquisition Partners (Encino)\n\nFrom Ezra Yacob, Chairman and Chief Executive Officer\n\"EOG delivered excellent second quarter results, with oil, gas, and NGL volumes exceeding the midpoints of our guidance. At the same time, we maintained our focus on cost discipline, with capital expenditures, cash operating costs, and DD&A all coming in below guidance. Strong operational execution across our multi-basin portfolio continues to be the foundation of our success.\n\n\"Our operational excellence translated into strong financial performance. EOG generated $973 million in free cash flow during the quarter. We continued to deliver on our cash return commitment by returning $1.1 billion to shareholders, including $600 million of share repurchases. The regular dividend remains our top cash return priority. The 5% increase in our regular quarterly dividend, announced in tandem with the Encino acquisition, reflects both our continued confidence in our business and the positive impact we expect from the transaction.\n\n\"With the close of the Encino acquisition, the Utica is now positioned as a foundational asset for EOG. We have updated our full year 2025 guidance, which reflects both capital discipline and our high conviction in the quality and potential of this asset. Our focus is on optimizing the development of the play as we integrate Encino with our operations.\n\n\"EOG has never been better positioned to create long-term value for shareholders. The expansion of our portfolio through the Encino acquisition, our entry into Bahrain and the UAE, as well as strong exploration progress across our domestic portfolio and in Trinidad, has significantly enhanced our industry-leading asset base. We continue to improve our resource base while also maintaining one of the strongest balance sheets in the industry. Our multi- basin portfolio, operational excellence, and financial strength provide us unmatched flexibility to deliver high returns and significant cash return to shareholders through commodity price cycles.\"\n\nPreviously Announced Regular Dividend and Second Quarter Share Repurchases\nOn May 30, 2025, the Board of Directors declared a dividend of $1.02 per share on EOG's common stock. The dividend will be payable on October 31, 2025, to shareholders of record as of October 17, 2025. The indicated annual rate is $4.08 per share.\n\nDuring the second quarter, the company repurchased 5.4 million shares for $600 million under its share repurchase authorization. EOG has $4.5 billion remaining on its current share buyback authorization.\n\n2025 Guidance\n\n2025 Guidance Update\n\nFull year guidance has been updated after the close of the Encino acquisition. The revised outlook also incorporates strong year-to-date operational performance and the impact of recently enacted U.S. tax legislation.\n\nTotal capital expenditures for 2025 are now expected to range from $6.2 to $6.4 billion delivering full year average oil production of 521 MBod and average total production of 1,224 MBoed.\n\nSecond Quarter 2025 Financial Performance\n\nPrices\n\nCrude oil, NGL and natural gas prices decreased in 2Q compared with 1Q\nVolumes\n\nOil production of 504,200 Bopd was above the midpoint of the guidance range and up from 1Q\nNGL production was above the midpoint of the guidance range and up 7% from 1Q\nNatural gas production was above the midpoint of the guidance range and up 7% from 1Q\nTotal company equivalent production was above the midpoint of the guidance range and increased 4% from 1Q\nPer-Unit Costs\n\nLOE, GP&T, DD&A and non-GAAP G&A costs decreased in 2Q compared to 1Q. Encino acquisition-related costs increased GAAP G&A costs in 2Q compared to 1Q\nHedges\n\nMark-to-market hedge gains increased GAAP earnings per share in 2Q compared with 1Q\nDecreased cash paid to settle hedges increased adjusted non-GAAP earnings per share in 2Q compared with 1Q\nFree Cash Flow\n\nAdjusted cash flow from operations was $2.5 billion\nIncurred $1.5 billion of capital expenditures\nThis resulted in $1.0 billion of free cash flow\nCash Return and Working Capital\n\nPaid $528 million in regular dividends\nRepurchased $600 million of stock\nRepaid $500 million of Senior Notes upon maturity\nAcquired Eagle Ford bolt-on acreage for approximately $270 million\nSecond Quarter 2025 Operating Performance\n\nLease and Well\n\nQoQ: Decreased primarily due to lower maintenance costs and water handling expenses\nGuidance Midpoint: Lower primarily due to lower maintenance costs, water handling expenses and workover expenses\nGeneral and Administrative\n\nQoQ: Decreased primarily due to lower professional fees\nGuidance Midpoint: Lower primarily due to lower professional fees\nGathering, Processing and Transportation Costs\n\nQoQ: Decreased primarily due to lower natural gas gathering and processing fees and operating expenses\nGuidance Midpoint: Lower primarily due to lower natural gas gathering and processing fees and compression fuel-related costs\nDepreciation, Depletion and Amortization\n\nQoQ: Decreased primarily due to well mix\nGuidance Midpoint: Lower primarily due to well mix\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 70,
+  "n_material_neg": 2,
+  "n_positive": 8,
+  "mean_pos_negative": 0.5857142857142857,
+  "mean_pos_positive": 0.6142857142857143,
+  "placement_asymmetry": -0.02857142857142858,
+  "distance_from_headline": 35,
+  "first_negative_pos": 0.5285714285714286,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0021551724137931034,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0037174721189591076,
+  "mean_tone": 0.0820598116681066
+ },
+ "lexicon": {
+  "words": 807,
+  "per_1000": {
+   "Negative": 2.5,
+   "Positive": 23.5,
+   "Uncertainty": 3.7,
+   "Litigious": 2.5,
+   "Strong modal": 2.5,
+   "Weak modal": 1.2,
+   "Constraining": 1.2
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 19,
+   "Uncertainty": 3,
+   "Litigious": 2,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second Quarter Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earned adjusted net income of $1.3 billion, or $2.32 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated $1.0 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Paid $528 million in regular dividends and repurchased $600 million of shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Oil, NGLs and natural gas production above guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Capital expenditures and per-unit operating costs better than guidance midpoints.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Completed $3.5 billion debt offering to fund the acquisition of Encino Acquisition Partners (Encino)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "From Ezra Yacob, Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"EOG delivered excellent second quarter results, with oil, gas, and NGL volumes exceeding the midpoints of our guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "At the same time, we maintained our focus on cost discipline, with capital expenditures, cash operating costs, and DD&A all coming in below guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Strong operational execution across our multi-basin portfolio continues to be the foundation of our success.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     100,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\"Our operational excellence translated into strong financial performance.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     44,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "EOG generated $973 million in free cash flow during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "We continued to deliver on our cash return commitment by returning $1.1 billion to shareholders, including $600 million of share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     53,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The regular dividend remains our top cash return priority.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The 5% increase in our regular quarterly dividend, announced in tandem with the Encino acquisition, reflects both our continued confidence in our business and the positive impact we expect from the transaction.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     163,
+     171,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\"With the close of the Encino acquisition, the Utica is now positioned as a foundational asset for EOG.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "We have updated our full year 2025 guidance, which reflects both capital discipline and our high conviction in the quality and potential of this asset.",
+   "d": 0,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     107,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Our focus is on optimizing the development of the play as we integrate Encino with our operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "\"EOG has never been better positioned to create long-term value for shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     14,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     20,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The expansion of our portfolio through the Encino acquisition, our entry into Bahrain and the UAE, as well as strong exploration progress across our domestic portfolio and in Trinidad, has significantly enhanced our industry-leading asset base.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     110,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     129,
+     137,
+     [
+      "positive"
+     ]
+    ],
+    [
+     203,
+     211,
+     [
+      "positive"
+     ]
+    ],
+    [
+     225,
+     232,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "We continue to improve our resource base while also maintaining one of the strongest balance sheets in the industry.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     75,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Our multi- basin portfolio, operational excellence, and financial strength provide us unmatched flexibility to deliver high returns and significant cash return to shareholders through commodity price cycles.\"",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     66,
+     74,
+     [
+      "positive"
+     ]
+    ],
+    [
+     86,
+     95,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Previously Announced Regular Dividend and Second Quarter Share Repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "On May 30, 2025, the Board of Directors declared a dividend of $1.02 per share on EOG's common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     6,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The dividend will be payable on October 31, 2025, to shareholders of record as of October 17, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The indicated annual rate is $4.08 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "During the second quarter, the company repurchased 5.4 million shares for $600 million under its share repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "EOG has $4.5 billion remaining on its current share buyback authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "2025 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "2025 Guidance Update",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Full year guidance has been updated after the close of the Encino acquisition.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "The revised outlook also incorporates strong year-to-date operational performance and the impact of recently enacted U.S. tax legislation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     4,
+     11,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     38,
+     44,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     137,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Total capital expenditures for 2025 are now expected to range from $6.2 to $6.4 billion delivering full year average oil production of 521 MBod and average total production of 1,224 MBoed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Second Quarter 2025 Financial Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Prices",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Crude oil, NGL and natural gas prices decreased in 2Q compared with 1Q.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Volumes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Oil production of 504,200 Bopd was above the midpoint of the guidance range and up from 1Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "NGL production was above the midpoint of the guidance range and up 7% from 1Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Natural gas production was above the midpoint of the guidance range and up 7% from 1Q.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Total company equivalent production was above the midpoint of the guidance range and increased 4% from 1Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Per-Unit Costs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "LOE, GP&T, DD&A and non-GAAP G&A costs decreased in 2Q compared to 1Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Encino acquisition-related costs increased GAAP G&A costs in 2Q compared to 1Q.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Hedges",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Mark-to-market hedge gains increased GAAP earnings per share in 2Q compared with 1Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "Decreased cash paid to settle hedges increased adjusted non-GAAP earnings per share in 2Q compared with 1Q.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "Free Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "Adjusted cash flow from operations was $2.5 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "Incurred $1.5 billion of capital expenditures.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "This resulted in $1.0 billion of free cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "Cash Return and Working Capital",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "Paid $528 million in regular dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 55,
+   "t": "Repurchased $600 million of stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 56,
+   "t": "Repaid $500 million of Senior Notes upon maturity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "Acquired Eagle Ford bolt-on acreage for approximately $270 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     40,
+     53,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 58,
+   "t": "Second Quarter 2025 Operating Performance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 59,
+   "t": "Lease and Well",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 60,
+   "t": "QoQ: Decreased primarily due to lower maintenance costs and water handling expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 61,
+   "t": "Guidance Midpoint: Lower primarily due to lower maintenance costs, water handling expenses and workover expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "General and Administrative",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 63,
+   "t": "QoQ: Decreased primarily due to lower professional fees.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 64,
+   "t": "Guidance Midpoint: Lower primarily due to lower professional fees.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 65,
+   "t": "Gathering, Processing and Transportation Costs",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 66,
+   "t": "QoQ: Decreased primarily due to lower natural gas gathering and processing fees and operating expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 67,
+   "t": "Guidance Midpoint: Lower primarily due to lower natural gas gathering and processing fees and compression fuel-related costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 68,
+   "t": "Depreciation, Depletion and Amortization",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 69,
+   "t": "QoQ: Decreased primarily due to well mix.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 70,
+   "t": "Guidance Midpoint: Lower primarily due to well mix",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
