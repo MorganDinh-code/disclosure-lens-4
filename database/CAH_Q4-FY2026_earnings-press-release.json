@@ -1,0 +1,239 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2026",
+ "date": "2026-08-11",
+ "source_url": "https://newsroom.cardinalhealth.com/2026-08-11-Cardinal-Health-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results-and-Provides-Fiscal-Year-2027-Guidance",
+ "demo": false,
+ "source_text": "Fourth quarter revenue increased 6% to $63.7 billion\nFourth quarter GAAP1 diluted EPS increased 70% to $1.70\nExcluding a one-time positive impact of $0.31 from the recognition of the IEEPA tariff refund, fourth quarter non-GAAP diluted EPS increased 25% to $2.60, with reported fourth quarter non-GAAP diluted EPS increasing 40% to $2.91\nFor fiscal year 2026, excluding the IEEPA tariff refund recognition, non-GAAP diluted EPS increased 33% to $10.95, with reported non-GAAP diluted EPS increasing 37% to $11.26\nFiscal year 2026 operating cash flow $5.2 billion and adjusted free cash flow $5.0 billion\nIncremental $350 million share repurchase completed, bringing fiscal year 2026 repurchase total to $1.4 billion, with $5.0 billion incremental repurchase authorization approved by board of directors\nCardinal Health provides fiscal year 2027 non-GAAP EPS guidance2 of 13% to 15% growth3 ($12.40 to $12.60), above the Company's long-term EPS guidance\nDUBLIN, Ohio, Aug. 11, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported fourth quarter fiscal year 2026 revenues of $63.7 billion, an increase of 6% from the fourth quarter of fiscal year 2025. Fourth quarter GAAP operating earnings increased 70% to $729 million and GAAP diluted earnings per share (EPS) increased 70% to $1.70.\n\nFourth quarter non-GAAP operating earnings increased 30% to $935 million. Non-GAAP diluted EPS increased 40% to $2.91, reflecting the increase in non-GAAP earnings, including the recognition of a one-time net operating profit impact of IEEPA tariff refunds of $100 million in the GMPD segment, a lower non-GAAP effective tax rate, and a lower share count, partially offset by an increase in interest and other expense.\n\nFiscal year 2026 revenues were $254.2 billion, a 14% increase from fiscal year 2025. GAAP operating earnings were $2.6 billion and GAAP diluted EPS was $7.23. Non-GAAP operating earnings increased 30% to $3.6 billion, driven by segment profit increases across all five operating segments. Non-GAAP diluted EPS increased 37% to $11.26 for the year, reflecting the increase in non-GAAP operating earnings across the business, including the recognition of a one-time net operating profit impact of IEEPA tariff refunds of $100 million in the GMPD segment, a lower non-GAAP effective tax rate, and a lower share count following in-year share repurchases, partially offset by an increase in interest and other expense.\n\n\"Fiscal 2026 was a standout year for Cardinal Health and I am pleased with our strong fourth quarter results,\" said Jason Hollar, CEO of Cardinal Health. \"The broad-based operational strength for the year, with all five of our operating segments growing profit double-digits, even before recognition of IEEPA tariff recoveries in GMPD, reflects the disciplined execution of our strategy and our investments for growth. We enter Fiscal 2027 with momentum and confidence in our ability to deliver continued shareholder value creation.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 0,
+  "n_positive": 13,
+  "mean_pos_positive": 0.4829059829059829,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.07516835016835018
+ },
+ "lexicon": {
+  "words": 418,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 9.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Fourth quarter revenue increased 6% to $63.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth quarter GAAP1 diluted EPS increased 70% to $1.70.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Excluding a one-time positive impact of $0.31 from the recognition of the IEEPA tariff refund, fourth quarter non-GAAP diluted EPS increased 25% to $2.60, with reported fourth quarter non-GAAP diluted EPS increasing 40% to $2.91.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "For fiscal year 2026, excluding the IEEPA tariff refund recognition, non-GAAP diluted EPS increased 33% to $10.95, with reported non-GAAP diluted EPS increasing 37% to $11.26.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Fiscal year 2026 operating cash flow $5.2 billion and adjusted free cash flow $5.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Incremental $350 million share repurchase completed, bringing fiscal year 2026 repurchase total to $1.4 billion, with $5.0 billion incremental repurchase authorization approved by board of directors.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Cardinal Health provides fiscal year 2027 non-GAAP EPS guidance2 of 13% to 15% growth3 ($12.40 to $12.60), above the Company's long-term EPS guidance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "DUBLIN, Ohio, Aug. 11, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported fourth quarter fiscal year 2026 revenues of $63.7 billion, an increase of 6% from the fourth quarter of fiscal year 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Fourth quarter GAAP operating earnings increased 70% to $729 million and GAAP diluted earnings per share (EPS) increased 70% to $1.70.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fourth quarter non-GAAP operating earnings increased 30% to $935 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Non-GAAP diluted EPS increased 40% to $2.91, reflecting the increase in non-GAAP earnings, including the recognition of a one-time net operating profit impact of IEEPA tariff refunds of $100 million in the GMPD segment, a lower non-GAAP effective tax rate, and a lower share count, partially offset by an increase in interest and other expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Fiscal year 2026 revenues were $254.2 billion, a 14% increase from fiscal year 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "GAAP operating earnings were $2.6 billion and GAAP diluted EPS was $7.23.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Non-GAAP operating earnings increased 30% to $3.6 billion, driven by segment profit increases across all five operating segments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Non-GAAP diluted EPS increased 37% to $11.26 for the year, reflecting the increase in non-GAAP operating earnings across the business, including the recognition of a one-time net operating profit impact of IEEPA tariff refunds of $100 million in the GMPD segment, a lower non-GAAP effective tax rate, and a lower share count following in-year share repurchases, partially offset by an increase in interest and other expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "\"Fiscal 2026 was a standout year for Cardinal Health and I am pleased with our strong fourth quarter results,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 0,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     69,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\"The broad-based operational strength for the year, with all five of our operating segments growing profit double-digits, even before recognition of IEEPA tariff recoveries in GMPD, reflects the disciplined execution of our strategy and our investments for growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We enter Fiscal 2027 with momentum and confidence in our ability to deliver continued shareholder value creation.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
