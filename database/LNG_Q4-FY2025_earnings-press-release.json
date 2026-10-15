@@ -1,0 +1,489 @@
+{
+ "company": "Cheniere Energy, Inc.",
+ "ticker": "LNG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-26",
+ "source_url": "https://cqpir.cheniere.com/news-presentations/press-releases/detail/265/cheniere-partners-reports-fourth-quarter-and-full-year-2025",
+ "demo": false,
+ "source_text": "HIGHLIGHTS\n\nDuring the three and twelve months ended December 31, 2025, Cheniere Partners generated revenues of $2.9 billion and $10.8 billion, net income of $1.3 billion and $3.0 billion, and Adjusted EBITDA1 of $1.0 billion and $3.7 billion, respectively.\nWith respect to the fourth quarter of 2025, Cheniere Partners declared a cash distribution of $0.830 per common unit to unitholders of record as of February 9, 2026, comprised of a base amount equal to $0.775 and a variable amount equal to $0.055. The common unit distribution and the related general partner distribution were paid on February 13, 2026. For full year 2025, Cheniere Partners paid total cash distributions of $3.300 per common unit, comprised of a base amount equal to $3.100 and a variable amount equal to $0.200.\nIntroducing full year 2026 distribution guidance of $3.10 - $3.40 per common unit, maintaining a base distribution of $3.10 per common unit.\nIn February 2026, Cheniere Partners celebrated the 10th anniversary of its first cargo of LNG, which was exported on February 24, 2016, with over 3,270 cargoes exported to-date.\nIn November 2025, S&P Global Ratings upgraded its issuer credit rating of Cheniere Partners from BBB to BBB+ with a stable outlook.\n\nNet Income increased approximately $664 million and $477 million during the three and twelve months ended December 31, 2025, respectively, as compared to the corresponding 2024 periods. The increases were primarily attributable to approximately $535 million and $344 million of favorable variances related to changes in fair value of our derivative instruments, including those impacts related to our long-term Integrated Production Marketing agreements, for the three and twelve months ended December 31, 2025, respectively.\n\nAdjusted EBITDA1 increased by approximately $124 million and $89 million during the three and twelve months ended December 31, 2025, respectively. The increases for the three and twelve months ended December 31, 2025 were driven by higher total margins per MMBtu of liquefied natural gas (\u201cLNG\u201d) delivered during both periods as compared to the corresponding 2024 periods.\n\nDuring the three and twelve months ended December 31, 2025, we recognized in income 416 and 1,546 TBtu, respectively, of LNG loaded from the SPL Project (defined below).\n\nRecent Key Financial Transactions and Updates\n\nIn December 2025, SPL redeemed $300 million aggregate principal amount outstanding of its 5.875% Senior Secured Notes due 2026 (the \u201c2026 SPL Senior Notes\u201d), and in February 2026, SPL redeemed the remaining $200 million aggregate principal amount of its 2026 SPL Senior Notes.\n\nSABINE PASS OVERVIEW\n\nWe own natural gas liquefaction facilities with total production capacity of over 30 mtpa of LNG at the Sabine Pass LNG terminal in Cameron Parish, Louisiana (the \u201cSPL Project\u201d).\n\nAs of February 20, 2026, over 3,270 cumulative LNG cargoes totaling over 225 million tonnes of LNG have been produced, loaded, and exported from the SPL Project.\n\nSPL Expansion Project\n\nWe are developing an expansion adjacent to the SPL Project with an expected total peak production capacity of up to approximately 20 mtpa of LNG (the \u201cSPL Expansion Project\u201d), inclusive of estimated debottlenecking opportunities and supporting infrastructure. We expect to execute the SPL Expansion Project in a phased approach, and a positive Final Investment Decision (\u201cFID\u201d) is subject to, among other things, receipt of necessary regulatory approvals and acceptable commercial and financing arrangements. The Federal Energy Regulatory Commission (FERC) application for authorization to site, construct and operate the SPL Expansion Project, as well as the Department of Energy (DOE) application authorizing the export of LNG to non-free trade agreement countries, remain pending.\n\nDISTRIBUTIONS TO UNITHOLDERS\n\nIn January 2026, we declared a cash distribution of $0.830 per common unit to unitholders of record as of February 9, 2026, comprised of a base amount equal to $0.775 ($3.10 annualized) and a variable amount equal to $0.055, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of the business. The common unit distribution and the related general partner distribution were paid on February 13, 2026.\n\nINVESTOR CONFERENCE CALL AND WEBCAST\n\nCheniere Energy, Inc. (NYSE: LNG) will host a conference call to discuss its financial and operating results for the fourth quarter and full year 2025 on Thursday, February 26, 2026, at 11 a.m. Eastern time / 10 a.m. Central time. A listen-only webcast of the call and an accompanying slide presentation may be accessed through our website at www.cheniere.com. Following the call, an archived recording will be made available on our website. The call and accompanying slide presentation will include financial and operating results or other information regarding Cheniere Partners.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.46875,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0223314556192633,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.018518518518518517,
+  "mean_tone": 0.038667929292929296
+ },
+ "lexicon": {
+  "words": 702,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 5.7,
+   "Uncertainty": 15.7,
+   "Litigious": 2.8,
+   "Strong modal": 4.3,
+   "Weak modal": 1.4,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 11,
+   "Litigious": 2,
+   "Strong modal": 3,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HIGHLIGHTS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "During the three and twelve months ended December 31, 2025, Cheniere Partners generated revenues of $2.9 billion and $10.8 billion, net income of $1.3 billion and $3.0 billion, and Adjusted EBITDA1 of $1.0 billion and $3.7 billion, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "With respect to the fourth quarter of 2025, Cheniere Partners declared a cash distribution of $0.830 per common unit to unitholders of record as of February 9, 2026, comprised of a base amount equal to $0.775 and a variable amount equal to $0.055.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     215,
+     223,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "The common unit distribution and the related general partner distribution were paid on February 13, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "For full year 2025, Cheniere Partners paid total cash distributions of $3.300 per common unit, comprised of a base amount equal to $3.100 and a variable amount equal to $0.200.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     144,
+     152,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Introducing full year 2026 distribution guidance of $3.10 - $3.40 per common unit, maintaining a base distribution of $3.10 per common unit.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "In February 2026, Cheniere Partners celebrated the 10th anniversary of its first cargo of LNG, which was exported on February 24, 2016, with over 3,270 cargoes exported to-date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "In November 2025, S&P Global Ratings upgraded its issuer credit rating of Cheniere Partners from BBB to BBB+ with a stable outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Net Income increased approximately $664 million and $477 million during the three and twelve months ended December 31, 2025, respectively, as compared to the corresponding 2024 periods.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     21,
+     34,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "The increases were primarily attributable to approximately $535 million and $344 million of favorable variances related to changes in fair value of our derivative instruments, including those impacts related to our long-term Integrated Production Marketing agreements, for the three and twelve months ended December 31, 2025, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0455,
+   "hits": [
+    [
+     45,
+     58,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     92,
+     101,
+     [
+      "positive"
+     ]
+    ],
+    [
+     102,
+     111,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Adjusted EBITDA1 increased by approximately $124 million and $89 million during the three and twelve months ended December 31, 2025, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     30,
+     43,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "The increases for the three and twelve months ended December 31, 2025 were driven by higher total margins per MMBtu of liquefied natural gas (\u201cLNG\u201d) delivered during both periods as compared to the corresponding 2024 periods.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "During the three and twelve months ended December 31, 2025, we recognized in income 416 and 1,546 TBtu, respectively, of LNG loaded from the SPL Project (defined below).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Recent Key Financial Transactions and Updates",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "In December 2025, SPL redeemed $300 million aggregate principal amount outstanding of its 5.875% Senior Secured Notes due 2026 (the \u201c2026 SPL Senior Notes\u201d), and in February 2026, SPL redeemed the remaining $200 million aggregate principal amount of its 2026 SPL Senior Notes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "SABINE PASS OVERVIEW",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "We own natural gas liquefaction facilities with total production capacity of over 30 mtpa of LNG at the Sabine Pass LNG terminal in Cameron Parish, Louisiana (the \u201cSPL Project\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "As of February 20, 2026, over 3,270 cumulative LNG cargoes totaling over 225 million tonnes of LNG have been produced, loaded, and exported from the SPL Project.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "SPL Expansion Project",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "We are developing an expansion adjacent to the SPL Project with an expected total peak production capacity of up to approximately 20 mtpa of LNG (the \u201cSPL Expansion Project\u201d), inclusive of estimated debottlenecking opportunities and supporting infrastructure.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0278,
+   "hits": [
+    [
+     116,
+     129,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     215,
+     228,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "We expect to execute the SPL Expansion Project in a phased approach, and a positive Final Investment Decision (\u201cFID\u201d) is subject to, among other things, receipt of necessary regulatory approvals and acceptable commercial and financing arrangements.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0556,
+   "hits": [
+    [
+     75,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     174,
+     184,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "The Federal Energy Regulatory Commission (FERC) application for authorization to site, construct and operate the SPL Expansion Project, as well as the Department of Energy (DOE) application authorizing the export of LNG to non-free trade agreement countries, remain pending.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.025,
+   "hits": [
+    [
+     19,
+     29,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     266,
+     273,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "DISTRIBUTIONS TO UNITHOLDERS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In January 2026, we declared a cash distribution of $0.830 per common unit to unitholders of record as of February 9, 2026, comprised of a base amount equal to $0.775 ($3.10 annualized) and a variable amount equal to $0.055, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.029,
+   "hits": [
+    [
+     192,
+     200,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     350,
+     361,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The common unit distribution and the related general partner distribution were paid on February 13, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "INVESTOR CONFERENCE CALL AND WEBCAST",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Cheniere Energy, Inc. (NYSE: LNG) will host a conference call to discuss its financial and operating results for the fourth quarter and full year 2025 on Thursday, February 26, 2026, at 11 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     38,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Eastern time / 10 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Central time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "A listen-only webcast of the call and an accompanying slide presentation may be accessed through our website at www.cheniere.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     73,
+     76,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Following the call, an archived recording will be made available on our website.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     46,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The call and accompanying slide presentation will include financial and operating results or other information regarding Cheniere Partners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     49,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
