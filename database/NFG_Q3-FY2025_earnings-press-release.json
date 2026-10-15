@@ -1,0 +1,570 @@
+{
+ "company": "National Fuel Gas Co",
+ "ticker": "NFG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-07-30",
+ "source_url": "https://investor.nationalfuelgas.com/news-and-events/press-releases/press-releases-details/2025/National-Fuel-Reports-Third-Quarter-Fiscal-2025-Earnings-and-Announces-Preliminary-Guidance-for-Fiscal-2026/default.aspx",
+ "demo": false,
+ "source_text": "WILLIAMSVILLE, N.Y., July 30, 2025 (GLOBE NEWSWIRE) -- National Fuel Gas Company (\u201cNational Fuel\u201d or the \u201cCompany\u201d) (NYSE:NFG) today announced consolidated results for the third quarter of its 2025 fiscal year.\n\nFISCAL 2025 THIRD QUARTER SUMMARY\n\nGAAP earnings per share of $1.64 compared to a net loss $0.59 per share in the prior year.\nAdjusted earnings per share of $1.64 increased 66% compared to $0.99 per share in the prior year. See non-GAAP reconciliation on page 2.\nExploration and Production adjusted operating results of $0.95 per share increased 157% versus the prior year, driven by lower per unit operating costs, higher realized natural gas prices, and strong well performance in the Eastern Development Area (\u201cEDA\u201d), which contributed to 112 Bcf of natural gas production, up 16% versus the prior year\u2019s third quarter.\nThe Pipeline and Storage segment achieved several development milestones for expansion projects during the quarter with the announcement of the Shippingport Lateral Project and the receipt of FERC approval for the Tioga Pathway Project, which remains on track for a late calendar 2026 in-service date.\nThe Company generated $196 million in net cash provided by operating activities less net cash used in investing activities during the third quarter.\nThe Company is revising the midpoint of its fiscal 2025 adjusted earnings per share guidance to a range of $6.80 to $6.95 per share and is initiating its fiscal 2026 preliminary earnings guidance which, based upon a NYMEX price of $4.00, is expected to increase 20% from fiscal 2025 (see Guidance Summary on page 7).\nMANAGEMENT COMMENTARY\n\nDavid P. Bauer, President and Chief Executive Officer of National Fuel Gas Company, stated: \u201cNational Fuel\u2019s excellent third quarter reflects ongoing success across the Company. Our integrated upstream and gathering operations saw record production and throughput during the quarter and a continued improvement in capital efficiency, while our regulated Utility and Pipeline & Storage segments continue to see an uplift in earnings from recent ratemaking activities and organic investment opportunities.\n\n\u201cAs we look forward to fiscal 2026, we expect to see significant earnings growth versus the prior year. This highlights the momentum in each of our businesses and the overall positive long-term outlook for natural gas. Strong well results in the EDA continue to confirm the depth of our best-in-class inventory and operational excellence in Northeast Pennsylvania, and underpin our mid-single-digit production growth expectations in the coming years. In addition, we have line of sight to further growth in our regulated businesses, supporting our 5% to 7% average annual rate base growth projections. Taken together, along with the broader tailwinds from growing demand for natural gas, National Fuel is well positioned to create meaningful value for shareholders in the years to come.\u201d\n\nRETURN OF CAPITAL UPDATE\n\nDuring the quarter, National Fuel announced that its Board of Directors approved a 4% increase in the Company\u2019s dividend for an annual rate of $2.14 per share. This is our 55th consecutive year of dividend increases and the 123rd year of consecutive dividend payments, demonstrating the Company's commitment to returning cash to shareholders.\n\nWith respect to the Company\u2019s share repurchase program, since March 2024, the Company repurchased approximately 2 million shares at an average weighted price of $59.70 per share. Consistent with our disciplined approach to capital allocation, which balances growth with return of capital to shareholders, during the quarter the Company paused repurchases as it evaluated various growth opportunities, preserving balance sheet flexibility.\n\nAdditional details on the Company\u2019s updated forecast assumptions and business segment guidance for fiscal 2026 are outlined in the table on page 7.\n\nDISCUSSION OF THIRD QUARTER RESULTS BY SEGMENT\n\nThe following earnings discussion of each operating segment for the quarter ended June 30, 2025 is summarized in a tabular form on pages 8 and 9 of this report (earnings drivers for the nine months ended June 30, 2025 are summarized on pages 10 and 11). It may be helpful to refer to those tables while reviewing this discussion.\n\nNote that management defines adjusted operating results as reported GAAP earnings adjusted for items impacting comparability, and adjusted EBITDA as reported GAAP earnings before the following items: interest expense, income taxes, depreciation, depletion and amortization, other income and deductions, impairments, and other items reflected in operating income that impact comparability.\n\n\nOn a per unit basis, third quarter total cash operating costs were lower compared to the prior year, primarily due to higher production. LOE included $61 million ($0.55 per Mcf), or 83% of total LOE, for gathering and compression service fees paid to the Company\u2019s Gathering segment to connect Seneca\u2019s production to sales points along interstate pipelines. DD&A for the quarter was $0.62 per Mcf, a decrease of $0.09 per Mcf from the prior year, largely due to ceiling test impairments recorded in prior quarters that lowered Seneca\u2019s full cost pool depletable base.\n\nMidstream Businesses\n\nPipeline and Storage Segment\n\nThe Pipeline and Storage segment\u2019s operations are carried out by National Fuel Gas Supply Corporation (\u201cSupply Corporation\u201d) and Empire Pipeline, Inc. (\u201cEmpire\u201d). The Pipeline and Storage segment provides natural gas transportation and storage services to affiliated and non-affiliated companies through an integrated system of pipelines and underground natural gas storage fields in western New York and Pennsylvania.\n\nThe Utility segment\u2019s third quarter GAAP earnings increased $2.4 million, or 95%, primarily as a result of new rates approved in the Utility\u2019s New York rate case settlement, which became effective October 1, 2024, partially offset by higher operating costs and interest expense.\n\nFor the quarter, customer margin (operating revenues less purchased gas sold) increased $8.4 million, primarily due to an increase in customer usage, due in part to colder weather, as well as an increase in rates as part of the New York rate case settlement. Other income increased $4.0 million, largely due to the New York rate settlement, which required the recognition of non-service pension and post-retirement benefit income and a corresponding reduction in new base rates, resulting in no effect on net income.\n\nO&M expense increased $2.7 million primarily driven by higher personnel costs, partially offset by a reduction in uncollectible expenses as a result of a tracker implemented as part of the New York rate case settlement. DD&A expense increased by $1.6 million primarily due to higher average depreciable plant in service compared to the prior year. Further, interest expense increased $2.5 million primarily due to a higher average amount of net borrowings.\n\nCorporate and All Other\n\nThe Company\u2019s operations that are included in Corporate and All Other generated a combined net loss of $0.7 million, which was largely consistent with the prior year.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 6,
+  "n_positive": 12,
+  "mean_pos_negative": 0.8285714285714285,
+  "mean_pos_positive": 0.44285714285714284,
+  "placement_asymmetry": 0.3857142857142857,
+  "distance_from_headline": 18,
+  "first_negative_pos": 0.5714285714285714,
+  "hedge_near_negative": 0.001937984496124031,
+  "hedge_near_positive": 0.0051619230745047736,
+  "hedging_asymmetry": 0.37543846898763755,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.7776895943562611,
+  "overall_hedge": 0.00468384074941452,
+  "mean_tone": 0.05243016717585493
+ },
+ "lexicon": {
+  "words": 854,
+  "per_1000": {
+   "Negative": 5.9,
+   "Positive": 11.7,
+   "Uncertainty": 3.5,
+   "Litigious": 7.0,
+   "Strong modal": 1.2,
+   "Weak modal": 1.2,
+   "Constraining": 4.7
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 10,
+   "Uncertainty": 3,
+   "Litigious": 6,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 4
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "WILLIAMSVILLE, N.Y., July 30, 2025 (GLOBE NEWSWIRE) -- National Fuel Gas Company (\u201cNational Fuel\u201d or the \u201cCompany\u201d) (NYSE:NFG) today announced consolidated results for the third quarter of its 2025 fiscal year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "FISCAL 2025 THIRD QUARTER SUMMARY",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "David P.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Bauer, President and Chief Executive Officer of National Fuel Gas Company, stated: \u201cNational Fuel\u2019s excellent third quarter reflects ongoing success across the Company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     109,
+     [
+      "positive"
+     ]
+    ],
+    [
+     141,
+     148,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Our integrated upstream and gathering operations saw record production and throughput during the quarter and a continued improvement in capital efficiency, while our regulated Utility and Pipeline & Storage segments continue to see an uplift in earnings from recent ratemaking activities and organic investment opportunities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.682,
+   "h": 0.0,
+   "hits": [
+    [
+     121,
+     132,
+     [
+      "positive"
+     ]
+    ],
+    [
+     144,
+     154,
+     [
+      "positive"
+     ]
+    ],
+    [
+     166,
+     175,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     311,
+     324,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\u201cAs we look forward to fiscal 2026, we expect to see significant earnings growth versus the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "This highlights the momentum in each of our businesses and the overall positive long-term outlook for natural gas.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Strong well results in the EDA continue to confirm the depth of our best-in-class inventory and operational excellence in Northeast Pennsylvania, and underpin our mid-single-digit production growth expectations in the coming years.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     68,
+     72,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     108,
+     118,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "In addition, we have line of sight to further growth in our regulated businesses, supporting our 5% to 7% average annual rate base growth projections.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     69,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Taken together, along with the broader tailwinds from growing demand for natural gas, National Fuel is well positioned to create meaningful value for shareholders in the years to come.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "RETURN OF CAPITAL UPDATE",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "During the quarter, National Fuel announced that its Board of Directors approved a 4% increase in the Company\u2019s dividend for an annual rate of $2.14 per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "This is our 55th consecutive year of dividend increases and the 123rd year of consecutive dividend payments, demonstrating the Company's commitment to returning cash to shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     147,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "With respect to the Company\u2019s share repurchase program, since March 2024, the Company repurchased approximately 2 million shares at an average weighted price of $59.70 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     98,
+     111,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Consistent with our disciplined approach to capital allocation, which balances growth with return of capital to shareholders, during the quarter the Company paused repurchases as it evaluated various growth opportunities, preserving balance sheet flexibility.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     207,
+     220,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Additional details on the Company\u2019s updated forecast assumptions and business segment guidance for fiscal 2026 are outlined in the table on page 7.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     53,
+     64,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "DISCUSSION OF THIRD QUARTER RESULTS BY SEGMENT",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The following earnings discussion of each operating segment for the quarter ended June 30, 2025 is summarized in a tabular form on pages 8 and 9 of this report (earnings drivers for the nine months ended June 30, 2025 are summarized on pages 10 and 11).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "It may be helpful to refer to those tables while reviewing this discussion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": [
+    [
+     3,
+     6,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Note that management defines adjusted operating results as reported GAAP earnings adjusted for items impacting comparability, and adjusted EBITDA as reported GAAP earnings before the following items: interest expense, income taxes, depreciation, depletion and amortization, other income and deductions, impairments, and other items reflected in operating income that impact comparability.",
+   "d": -1,
+   "m": true,
+   "tone": -0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     246,
+     255,
+     [
+      "negative"
+     ]
+    ],
+    [
+     303,
+     314,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "On a per unit basis, third quarter total cash operating costs were lower compared to the prior year, primarily due to higher production.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "LOE included $61 million ($0.55 per Mcf), or 83% of total LOE, for gathering and compression service fees paid to the Company\u2019s Gathering segment to connect Seneca\u2019s production to sales points along interstate pipelines.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "DD&A for the quarter was $0.62 per Mcf, a decrease of $0.09 per Mcf from the prior year, largely due to ceiling test impairments recorded in prior quarters that lowered Seneca\u2019s full cost pool depletable base.",
+   "d": -1,
+   "m": true,
+   "tone": -0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     117,
+     128,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Midstream Businesses",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Pipeline and Storage Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Pipeline and Storage segment\u2019s operations are carried out by National Fuel Gas Supply Corporation (\u201cSupply Corporation\u201d) and Empire Pipeline, Inc. (\u201cEmpire\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Pipeline and Storage segment provides natural gas transportation and storage services to affiliated and non-affiliated companies through an integrated system of pipelines and underground natural gas storage fields in western New York and Pennsylvania.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Utility segment\u2019s third quarter GAAP earnings increased $2.4 million, or 95%, primarily as a result of new rates approved in the Utility\u2019s New York rate case settlement, which became effective October 1, 2024, partially offset by higher operating costs and interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     162,
+     172,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "For the quarter, customer margin (operating revenues less purchased gas sold) increased $8.4 million, primarily due to an increase in customer usage, due in part to colder weather, as well as an increase in rates as part of the New York rate case settlement.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     247,
+     257,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Other income increased $4.0 million, largely due to the New York rate settlement, which required the recognition of non-service pension and post-retirement benefit income and a corresponding reduction in new base rates, resulting in no effect on net income.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     80,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     88,
+     96,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "O&M expense increased $2.7 million primarily driven by higher personnel costs, partially offset by a reduction in uncollectible expenses as a result of a tracker implemented as part of the New York rate case settlement.",
+   "d": -1,
+   "m": true,
+   "tone": -0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     127,
+     [
+      "negative"
+     ]
+    ],
+    [
+     208,
+     218,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "DD&A expense increased by $1.6 million primarily due to higher average depreciable plant in service compared to the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Further, interest expense increased $2.5 million primarily due to a higher average amount of net borrowings.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Corporate and All Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "The Company\u2019s operations that are included in Corporate and All Other generated a combined net loss of $0.7 million, which was largely consistent with the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     95,
+     99,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
