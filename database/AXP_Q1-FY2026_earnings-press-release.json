@@ -1,0 +1,531 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-23",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_earnings/2026/q1/earnings-result/Q1-2026-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "American Express Company (NYSE: AXP) today reported first-quarter 2026 net income of $3.0 billion,\ncompared with net income of $2.6 billion a year ago. Earnings per share was $4.28, up 18 percent from\n$3.64 a year ago.\nStephen J. Squeri | Chairman and Chief Executive Officer\n\u201cWe had a very strong start to the year, reflecting continued momentum across our premium customer base and\nexecution of our proven growth strategy. We delivered 10 percent FX-adjusted revenue growth and 18 percent\nEPS growth in the quarter. Card Member spending grew 9 percent FX-adjusted, the highest quarterly growth in\nthree years, driven by strong demand and engagement with our premium products. Our credit performance\nremained excellent.\n\u201cOur consistently strong performance reinforces that our strategy is working well, supported by our ongoing\ninvestments in growth initiatives. During the quarter, we continued to expand the access and experiences we\nprovide across sports, a powerful engagement engine with our Card Members, becoming the Official Payments\nPartner of the NFL globally and extending our long-term partnership with the NBA. We also shared plans for the\nlargest one-year expansion of our commercial product suite in our history, starting with the launch of our new\nGraphite Business Cash Unlimited Card. And we continued to drive AI innovation with the announcement of the\nAmex Agentic Commerce Experiences developer kit and industry-first Agent Purchase Protection.\n\u201cGiven our strong results to date, we\u2019re reaffirming our full-year 2026 guidance for 9 to 10 percent revenue\ngrowth and EPS of $17.30 to $17.90, and decided to increase our investments in marketing and technology to\ncapitalize on long-term growth opportunities. With our differentiated Membership Model, fueled by our premium\nCard Members, world-class partners, and the innovations and services delivered by our talented colleagues, we\nare confident in our ability to deliver sustainable long-term growth.\u201d\n\nFirst-Quarter 2026 Results Business Highlights\nFirst-quarter consolidated total revenues net of\ninterest expense were $18.9 billion, up 11 percent\nyear-over-year, or 10 percent on an FX-adjusted\nbasis. The increase was primarily driven by higher\nCard Member spending, increased net interest income\nsupported by growth in card balances, and strong\ncard fee growth.\nConsolidated provisions for credit losses were $1.3\nbillion, compared with $1.2 billion a year ago. The\nincrease reflected higher net write-offs and a lower\nreserve release compared to the prior year. The firstquarter net write-off rate was 2.0 percent, compared to\n2.1 percent a year ago.3\nConsolidated expenses were $13.9 billion, up 11\npercent year-over-year. The increase was primarily\ndriven by higher variable customer engagement costs\ndue to increased Card Member spending, the U.S.\nPlatinum Card refresh, and usage of travel- and\nlifestyle-related benefits, as well as higher operating\nexpenses.\nThe consolidated effective tax rate was 21.4 percent,\ndown from 22.4 percent a year ago, primarily\nreflecting discrete tax benefits in the current quarter.\n\u2022 American Express was named the Official\nPayments Partner of the NFL and\nannounced a multi-year partnership\nextension with the NBA across league\nplatforms, including the WNBA.\n\u2022 Kicking off a major expansion of integrated\nsolutions for businesses of all sizes, the\ncompany launched the American Express\nGraphite\u2122 Business Cash Unlimited Card.\n\u2022 The company announced the Amex Agentic\nCommerce Experiences\u2122 developer kit and\nindustry-first Amex Agent Purchase\nProtection\u2122.\n\u2022 Resy unveiled the next phase of its dining\nplatform, including the planned integration of\nResy and Tock venue networks.\n\u2022 American Express continues to expand the\nCenturion Lounge\u00ae network, opening new\nspaces in Las Vegas and New Delhi and\nannouncing plans in three other locations.\n\u2022 The company ranked #4 on Great Place to\nWork\u2019s\u00ae 2026 list of the 100 Best\nCompanies to Work For\u00ae in the U.S.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 41,
+  "n_material_neg": 3,
+  "n_positive": 9,
+  "mean_pos_negative": 0.5365853658536586,
+  "mean_pos_positive": 0.24390243902439024,
+  "placement_asymmetry": 0.29268292682926833,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.4634146341463415,
+  "hedge_near_negative": 0.005555555555555556,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8076923076923077,
+  "overall_hedge": 0.0016835016835016834,
+  "mean_tone": 0.11591599324741363
+ },
+ "lexicon": {
+  "words": 594,
+  "per_1000": {
+   "Negative": 1.7,
+   "Positive": 20.2,
+   "Uncertainty": 1.7,
+   "Litigious": 0.0,
+   "Strong modal": 3.4,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 12,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "American Express Company (NYSE: AXP) today reported first-quarter 2026 net income of $3.0 billion, compared with net income of $2.6 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earnings per share was $4.28, up 18 percent from.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "$3.64 a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Squeri | Chairman and Chief Executive Officer. \u201cWe had a very strong start to the year, reflecting continued momentum across our premium customer base and execution of our proven growth strategy.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We delivered 10 percent FX-adjusted revenue growth and 18 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "EPS growth in the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Card Member spending grew 9 percent FX-adjusted, the highest quarterly growth in three years, driven by strong demand and engagement with our premium products.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     60,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     104,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Our credit performance remained excellent. \u201cOur consistently strong performance reinforces that our strategy is working well, supported by our ongoing investments in growth initiatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     41,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "During the quarter, we continued to expand the access and experiences we provide across sports, a powerful engagement engine with our Card Members, becoming the Official Payments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Partner of the NFL globally and extending our long-term partnership with the NBA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We also shared plans for the largest one-year expansion of our commercial product suite in our history, starting with the launch of our new.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Graphite Business Cash Unlimited Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "And we continued to drive AI innovation with the announcement of the.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Amex Agentic Commerce Experiences developer kit and industry-first Agent Purchase Protection. \u201cGiven our strong results to date, we\u2019re reaffirming our full-year 2026 guidance for 9 to 10 percent revenue growth and EPS of $17.30 to $17.90, and decided to increase our investments in marketing and technology to capitalize on long-term growth opportunities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.392,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     111,
+     [
+      "positive"
+     ]
+    ],
+    [
+     341,
+     354,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "With our differentiated Membership Model, fueled by our premium.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Card Members, world-class partners, and the innovations and services delivered by our talented colleagues, we are confident in our ability to deliver sustainable long-term growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     55,
+     [
+      "positive"
+     ]
+    ],
+    [
+     114,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "First-Quarter 2026 Results Business Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "First-quarter consolidated total revenues net of interest expense were $18.9 billion, up 11 percent year-over-year, or 10 percent on an FX-adjusted basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The increase was primarily driven by higher.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Card Member spending, increased net interest income supported by growth in card balances, and strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Consolidated provisions for credit losses were $1.3 billion, compared with $1.2 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "The increase reflected higher net write-offs and a lower reserve release compared to the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "The firstquarter net write-off rate was 2.0 percent, compared to 2.1 percent a year ago.3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Consolidated expenses were $13.9 billion, up 11 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The increase was primarily driven by higher variable customer engagement costs due to increased Card Member spending, the U.S. Platinum Card refresh, and usage of travel- and lifestyle-related benefits, as well as higher operating expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     44,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The consolidated effective tax rate was 21.4 percent, down from 22.4 percent a year ago, primarily reflecting discrete tax benefits in the current quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "American Express was named the Official.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Payments Partner of the NFL and announced a multi-year partnership extension with the NBA across league platforms, including the WNBA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Kicking off a major expansion of integrated solutions for businesses of all sizes, the company launched the American Express.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Graphite\u2122 Business Cash Unlimited Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The company announced the Amex Agentic.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Commerce Experiences\u2122 developer kit and industry-first Amex Agent Purchase.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Protection\u2122.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Resy unveiled the next phase of its dining platform, including the planned integration of.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Resy and Tock venue networks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "American Express continues to expand the.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Centurion Lounge\u00ae network, opening new spaces in Las Vegas and New Delhi and announcing plans in three other locations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The company ranked #4 on Great Place to.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Work\u2019s\u00ae 2026 list of the 100 Best.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     33,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Companies to Work For\u00ae in the U.S.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
