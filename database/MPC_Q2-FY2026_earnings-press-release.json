@@ -1,0 +1,641 @@
+{
+ "company": "Marathon Petroleum Corporation",
+ "ticker": "MPC",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-04",
+ "source_url": "https://investorvalero.com/news/news-details/2024/Valero-Energy-Reports-First-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "Second-quarter net income attributable to MPC of $5.1 billion, or $17.73 per diluted share\n$8.5 billion of adjusted EBITDA, with strong commercial and operational performance across the system\nExecuting value-enhancing capital strategy; El Paso and Robinson yield-enhancing investments online in 2Q26, extending the competitive position of these refining assets\nAdvancing MPLX Natural Gas and NGL value chain growth strategy, expected to support 12.5% annual distribution growth in 2026 and 2027\n$2.8 billion of capital returned, reflecting strong cash generation and disciplined execution of our capital allocation priorities\nMarathon Petroleum Corp. (NYSE: MPC) today reported net income attributable to MPC of $5.1 billion, or $17.73 per diluted share, for the second quarter of 2026. This compares with a net income attributable to MPC of $1.2 billion, or $3.96 per diluted share, for the second quarter of 2025.\n\nThe second quarter of 2026 adjusted earnings before interest, taxes, depreciation, and amortization (adjusted EBITDA) was $8.5 billion, compared with $3.3 billion for the second quarter of 2025.\n\n\"Strong planning, commercial, and operational execution enabled safe and reliable operations to meet resilient consumer demand. Our results reflect the differentiated capabilities of our value chains and the execution of our optimization strategies,\" said Chairman, President and Chief Executive Officer Maryann Mannen. \"The completion of two high-return, yield-enhancing refining investments further position us to deliver incremental value. MPLX's execution of its Natural Gas and NGL strategy supports durable growth and increasing distributions that differentiate MPC, allowing us to lead in capital return.\"\n\nRefining & Marketing (R&M)\n\nSegment adjusted EBITDA was $6.7 billion in the second quarter of 2026, versus $1.9 billion for the second quarter of 2025. R&M segment adjusted EBITDA was $24.84 per barrel for the second quarter of 2026, versus $6.79 per barrel for the second quarter of 2025. Segment adjusted EBITDA excludes refining planned turnaround costs, which totaled $275 million in the second quarter of 2026 and $250 million in the second quarter of 2025.\n\nR&M margin was $36.33 per barrel for the second quarter of 2026, versus $17.58 per barrel for the second quarter of 2025. Crude capacity utilization was 94%, resulting in total throughput of 2.9 million barrels per day (bpd) for the second quarter of 2026. Results were driven primarily by higher crack spreads in all regions.\n\nRefining operating costs were $5.72 per barrel for the second quarter of 2026, versus $5.34 per barrel for the second quarter of 2025, primarily driven by decreased utilization due to planned downtime in the Mid-Con, compared to the prior year quarter. \n\nMidstream\n\nSegment adjusted EBITDA was $1.8 billion in the second quarter of 2026, versus $1.6 billion for the second quarter of 2025. The increase was primarily driven by increased rates and throughputs, including growth from equity affiliates and acquisitions, partially offset by the divestiture of non-core gathering and processing assets.\n\nRenewable Diesel\n\nSegment adjusted EBITDA was $258 million in the second quarter of 2026, versus $(19) million for the second quarter of 2025. The results reflect a stronger margin environment, higher throughputs, and improved regulatory credit values.\n\nCorporate and Items Not Allocated\n\nCorporate expenses totaled $256 million in the second quarter of 2026, compared with $243 million in the second quarter of 2025.\n\nFinancial Position, Liquidity, and Return of Capital\n\nAs of June 30, 2026, MPC had $7.8 billion of cash and cash equivalents, including $1.0 billion of cash at MPLX, and no borrowings outstanding under its $5 billion five-year bank revolving credit facility. \n\nIn the second quarter, the company returned over $2.8 billion of capital to shareholders. As of June 30, 2026, the company had $6.1 billion remaining under its share repurchase authorizations.\n\nStrategic Update\n\nMPC Strategic Update\n\nMPC's 2026 capital spending outlook (excluding MPLX) is $1.5 billion. Approximately 65% of its overall capital spending is focused on value-enhancing investments and 35% on sustaining operations. MPC's outlook includes high-return investments at its Galveston Bay, Robinson, El Paso, and Garyville refineries. In the second quarter of 2026, the El Paso yield improvement and Robinson product flexibility investments were placed in service. The El Paso yield improvement investment enhances the refinery's ability to produce specialty gasolines for the El Paso, Phoenix, and Mexico markets, reinforcing its geographic advantage and competitive position. The Robinson product flexibility investment enables approximately 10 thousand barrels per day (mbpd) of incremental jet fuel production, supporting growing regional demand. In addition to these multi-year investments, the company is executing shorter-term projects that offer high returns through margin enhancement and cost reduction. \n\nMPLX Strategic Update\n\nMPLX is increasing its 2026 growth capital spending outlook by $500 million, to $2.9 billion, primarily reflecting the accelerated execution of the Gulf Coast fractionation project to meet global demand for U.S. energy. MPLX plans to invest over 90% of organic growth capital toward opportunities to meet growing natural gas and NGL infrastructure needs. With projects concentrated in the Permian and Marcellus, two of the most prolific and competitive basins in North America, investments in these value chains reflect MPLX's confidence in the long-term fundamentals of the energy market, offer some of the most compelling investments in the midstream sector, and are expected to generate mid-teens returns.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 45,
+  "n_material_neg": 1,
+  "n_positive": 8,
+  "mean_pos_negative": 0.4444444444444444,
+  "mean_pos_positive": 0.6472222222222223,
+  "placement_asymmetry": -0.20277777777777783,
+  "distance_from_headline": 12,
+  "first_negative_pos": 0.4444444444444444,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.004293355855855855,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.736842105263158,
+  "overall_hedge": 0.002506265664160401,
+  "mean_tone": 0.18541720639294143
+ },
+ "lexicon": {
+  "words": 798,
+  "per_1000": {
+   "Negative": 2.5,
+   "Positive": 22.6,
+   "Uncertainty": 2.5,
+   "Litigious": 1.3,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 18,
+   "Uncertainty": 2,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second-quarter net income attributable to MPC of $5.1 billion, or $17.73 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "$8.5 billion of adjusted EBITDA, with strong commercial and operational performance across the system.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     44,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Executing value-enhancing capital strategy; El Paso and Robinson yield-enhancing investments online in 2Q26, extending the competitive position of these refining assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     80,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Advancing MPLX Natural Gas and NGL value chain growth strategy, expected to support 12.5% annual distribution growth in 2026 and 2027.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "$2.8 billion of capital returned, reflecting strong cash generation and disciplined execution of our capital allocation priorities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Marathon Petroleum Corp. (NYSE: MPC) today reported net income attributable to MPC of $5.1 billion, or $17.73 per diluted share, for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "This compares with a net income attributable to MPC of $1.2 billion, or $3.96 per diluted share, for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The second quarter of 2026 adjusted earnings before interest, taxes, depreciation, and amortization (adjusted EBITDA) was $8.5 billion, compared with $3.3 billion for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"Strong planning, commercial, and operational execution enabled safe and reliable operations to meet resilient consumer demand.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     1,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     56,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our results reflect the differentiated capabilities of our value chains and the execution of our optimization strategies,\" said Chairman, President and Chief Executive Officer Maryann Mannen.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\"The completion of two high-return, yield-enhancing refining investments further position us to deliver incremental value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "MPLX's execution of its Natural Gas and NGL strategy supports durable growth and increasing distributions that differentiate MPC, allowing us to lead in capital return.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Refining & Marketing (R&M)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Segment adjusted EBITDA was $6.7 billion in the second quarter of 2026, versus $1.9 billion for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "R&M segment adjusted EBITDA was $24.84 per barrel for the second quarter of 2026, versus $6.79 per barrel for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Segment adjusted EBITDA excludes refining planned turnaround costs, which totaled $275 million in the second quarter of 2026 and $250 million in the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "R&M margin was $36.33 per barrel for the second quarter of 2026, versus $17.58 per barrel for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Crude capacity utilization was 94%, resulting in total throughput of 2.9 million barrels per day (bpd) for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Results were driven primarily by higher crack spreads in all regions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Refining operating costs were $5.72 per barrel for the second quarter of 2026, versus $5.34 per barrel for the second quarter of 2025, primarily driven by decreased utilization due to planned downtime in the Mid-Con, compared to the prior year quarter.",
+   "d": -1,
+   "m": true,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     192,
+     200,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Midstream",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Segment adjusted EBITDA was $1.8 billion in the second quarter of 2026, versus $1.6 billion for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The increase was primarily driven by increased rates and throughputs, including growth from equity affiliates and acquisitions, partially offset by the divestiture of non-core gathering and processing assets.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     152,
+     163,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Renewable Diesel",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Segment adjusted EBITDA was $258 million in the second quarter of 2026, versus $(19) million for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The results reflect a stronger margin environment, higher throughputs, and improved regulatory credit values.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     30,
+     [
+      "positive"
+     ]
+    ],
+    [
+     75,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     94,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Corporate and Items Not Allocated",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Corporate expenses totaled $256 million in the second quarter of 2026, compared with $243 million in the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Financial Position, Liquidity, and Return of Capital",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As of June 30, 2026, MPC had $7.8 billion of cash and cash equivalents, including $1.0 billion of cash at MPLX, and no borrowings outstanding under its $5 billion five-year bank revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "In the second quarter, the company returned over $2.8 billion of capital to shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "As of June 30, 2026, the company had $6.1 billion remaining under its share repurchase authorizations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Strategic Update",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "MPC Strategic Update",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "MPC's 2026 capital spending outlook (excluding MPLX) is $1.5 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Approximately 65% of its overall capital spending is focused on value-enhancing investments and 35% on sustaining operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0625,
+   "hits": [
+    [
+     0,
+     13,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     70,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "MPC's outlook includes high-return investments at its Galveston Bay, Robinson, El Paso, and Garyville refineries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "In the second quarter of 2026, the El Paso yield improvement and Robinson product flexibility investments were placed in service.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "The El Paso yield improvement investment enhances the refinery's ability to produce specialty gasolines for the El Paso, Phoenix, and Mexico markets, reinforcing its geographic advantage and competitive position.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     41,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     177,
+     186,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "The Robinson product flexibility investment enables approximately 10 thousand barrels per day (mbpd) of incremental jet fuel production, supporting growing regional demand.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     44,
+     51,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     65,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "In addition to these multi-year investments, the company is executing shorter-term projects that offer high returns through margin enhancement and cost reduction.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     131,
+     142,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "MPLX Strategic Update",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "MPLX is increasing its 2026 growth capital spending outlook by $500 million, to $2.9 billion, primarily reflecting the accelerated execution of the Gulf Coast fractionation project to meet global demand for U.S. energy.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "MPLX plans to invest over 90% of organic growth capital toward opportunities to meet growing natural gas and NGL infrastructure needs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "With projects concentrated in the Permian and Marcellus, two of the most prolific and competitive basins in North America, investments in these value chains reflect MPLX's confidence in the long-term fundamentals of the energy market, offer some of the most compelling investments in the midstream sector, and are expected to generate mid-teens returns.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     258,
+     268,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  }
+ ]
+}
