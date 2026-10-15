@@ -1,0 +1,542 @@
+{
+ "company": "Natera, Inc.",
+ "ticker": "NTRA",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2025-05-07",
+ "source_url": "https://investor.natera.com/news/news-details/2026/Natera-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the first quarter ended March 31, 2026.\n\nRecent Financial Highlights\n\nGenerated total revenues of $696.6 million in the first quarter of 2026, compared to $501.8 million in the first quarter of 2025, an increase of 38.8%.\nGenerated a gross margin 1 of 64.7% in the first quarter of 2026, compared to a gross margin 1 of 63.1% in the first quarter of 2025.\nProcessed approximately 1,013,600 tests in the first quarter of 2026, compared to approximately 855,100 tests in the first quarter of 2025, an increase of 18.5%. Women\u2019s Health generated the second highest quarterly unit growth since 2019 and Oncology delivered another record quarter for volume growth.\nProcessed approximately 258,900 oncology tests in the first quarter of 2026, compared to approximately 167,700 in the first quarter of 2025, an increase of 54.4%.\nAchieved positive cash inflow of approximately $11.8 million 2 in the first quarter of 2026.\nRaising 2026 annual revenue guidance by $120 million at the midpoint, from $2.62 billion - $2.70 billion to $2.74 billion - $2.82 billion.\n\u201cWe had an outstanding first quarter, reaching over one million units processed in a single quarter for the first time and delivering strong growth across all areas,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe are seeing the impact of strong 2025 data readouts and innovation translating into increased adoption, particularly for Signatera\u2122 and Fetal Focus\u2122, reinforcing our confidence in the long-term opportunity to transform patient care.\u201d\n\nFirst Quarter Ended March 31, 2026 Financial Results\n\nTotal revenues were $696.6 million in the first quarter of 2026 compared to $501.8 million in the first quarter of 2025, an increase of 38.8%. The increase in revenues was driven by an increase in volume and average selling price improvements.\n\nNatera processed approximately 1,013,600 tests in the first quarter of 2026, including approximately 999,200 tests accessioned in its laboratory, compared to approximately 855,100 tests processed, including approximately 840,800 tests accessioned in its laboratory, in the first quarter of 2025.\n\nIn the first quarter of 2026, Natera recognized revenue on approximately 931,600 tests for which results were reported to customers in the period (tests reported), including approximately 918,100 tests reported from its laboratory, compared to approximately 804,800 tests reported, including approximately 791,400 tests reported from its laboratory, in the first quarter of 2025, an increase of 15.8% from the prior period.\n\nGross profit2 for the three months ended March 31, 2026 and 2025 was $450.8 million and $316.8 million, respectively, representing a gross margin1 of 64.7% and 63.1%, respectively. Natera had higher gross margin1 in the first quarter of 2026 primarily as a result of higher revenues and continued progress in reducing cost of revenues associated with tests processed. Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the first quarter of 2026 was $538.6 million, compared to $395.9 million in the same period of the prior year, an increase of 36.0%. The increase was primarily driven by headcount growth to support new product offerings as well as increases in clinical trial expenses. Amortization of acquired intangible assets for the first quarter of 2026 was $5.7 million. No such amortization occurred in the first quarter of 2025.\n\nLoss from operations for the first quarter of 2026 was $93.5 million compared to $79.2 million for the same period of the prior year.\n\nNatera\u2019s net loss for the first quarter of 2026 was $85.1 million, or ($0.60) per diluted share, compared to a net loss of $66.9 million, or ($0.50) per diluted share, in 2025. Weighted average shares outstanding were 141.5 million in the first quarter of 2026 compared to 134.8 million for the same period in the prior year.\n\nAt March 31, 2026, Natera held approximately $1,087.9 million in cash, cash equivalents, and restricted cash, compared to $1,076.1 million as of December 31, 2025. As of March 31, 2026, Natera had a total outstanding debt balance of $80.3 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps.\n\nFinancial Outlook\n\nNatera anticipates 2026 total revenue of $2.74 billion to $2.82 billion; 2026 gross margin1 to be approximately 64% to 66%; selling, general and administrative costs to be approximately $1.125 billion to $1.225 billion; research and development costs to be $800 million to $900 million; and net cash inflow to be positive3.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 2,
+  "n_positive": 5,
+  "mean_pos_negative": 0.7962962962962963,
+  "mean_pos_positive": 0.45185185185185184,
+  "placement_asymmetry": 0.34444444444444444,
+  "distance_from_headline": 19,
+  "first_negative_pos": 0.7777777777777778,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.029848910722274274,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.39153439153439157,
+  "overall_hedge": 0.029275808936825885,
+  "mean_tone": 0.0732861673756831
+ },
+ "lexicon": {
+  "words": 649,
+  "per_1000": {
+   "Negative": 4.6,
+   "Positive": 15.4,
+   "Uncertainty": 29.3,
+   "Litigious": 0.0,
+   "Strong modal": 1.5,
+   "Weak modal": 0.0,
+   "Constraining": 1.5
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 10,
+   "Uncertainty": 19,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and genetic testing, today reported its financial results for the first quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Recent Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated total revenues of $696.6 million in the first quarter of 2026, compared to $501.8 million in the first quarter of 2025, an increase of 38.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Generated a gross margin 1 of 64.7% in the first quarter of 2026, compared to a gross margin 1 of 63.1% in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Processed approximately 1,013,600 tests in the first quarter of 2026, compared to approximately 855,100 tests in the first quarter of 2025, an increase of 18.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     82,
+     95,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Women\u2019s Health generated the second highest quarterly unit growth since 2019 and Oncology delivered another record quarter for volume growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     43,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Processed approximately 258,900 oncology tests in the first quarter of 2026, compared to approximately 167,700 in the first quarter of 2025, an increase of 54.4%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieved positive cash inflow of approximately $11.8 million 2 in the first quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     33,
+     46,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Raising 2026 annual revenue guidance by $120 million at the midpoint, from $2.62 billion - $2.70 billion to $2.74 billion - $2.82 billion. \u201cWe had an outstanding first quarter, reaching over one million units processed in a single quarter for the first time and delivering strong growth across all areas,\u201d said Steve Chapman, chief executive officer of Natera. \u201cWe are seeing the impact of strong 2025 data readouts and innovation translating into increased adoption, particularly for Signatera\u2122 and Fetal Focus\u2122, reinforcing our confidence in the long-term opportunity to transform patient care.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.482,
+   "h": 0.0,
+   "hits": [
+    [
+     273,
+     279,
+     [
+      "positive"
+     ]
+    ],
+    [
+     390,
+     396,
+     [
+      "positive"
+     ]
+    ],
+    [
+     420,
+     430,
+     [
+      "positive"
+     ]
+    ],
+    [
+     558,
+     569,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "First Quarter Ended March 31, 2026 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Total revenues were $696.6 million in the first quarter of 2026 compared to $501.8 million in the first quarter of 2025, an increase of 38.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The increase in revenues was driven by an increase in volume and average selling price improvements.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Natera processed approximately 1,013,600 tests in the first quarter of 2026, including approximately 999,200 tests accessioned in its laboratory, compared to approximately 855,100 tests processed, including approximately 840,800 tests accessioned in its laboratory, in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1212,
+   "hits": [
+    [
+     17,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     87,
+     100,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     158,
+     171,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     207,
+     220,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "In the first quarter of 2026, Natera recognized revenue on approximately 931,600 tests for which results were reported to customers in the period (tests reported), including approximately 918,100 tests reported from its laboratory, compared to approximately 804,800 tests reported, including approximately 791,400 tests reported from its laboratory, in the first quarter of 2025, an increase of 15.8% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0741,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     174,
+     187,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     244,
+     257,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     292,
+     305,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Gross profit2 for the three months ended March 31, 2026 and 2025 was $450.8 million and $316.8 million, respectively, representing a gross margin1 of 64.7% and 63.1%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Natera had higher gross margin1 in the first quarter of 2026 primarily as a result of higher revenues and continued progress in reducing cost of revenues associated with tests processed.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     124,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the first quarter of 2026 was $538.6 million, compared to $395.9 million in the same period of the prior year, an increase of 36.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The increase was primarily driven by headcount growth to support new product offerings as well as increases in clinical trial expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Amortization of acquired intangible assets for the first quarter of 2026 was $5.7 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     25,
+     35,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "No such amortization occurred in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Loss from operations for the first quarter of 2026 was $93.5 million compared to $79.2 million for the same period of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Natera\u2019s net loss for the first quarter of 2026 was $85.1 million, or ($0.60) per diluted share, compared to a net loss of $66.9 million, or ($0.50) per diluted share, in 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "negative"
+     ]
+    ],
+    [
+     115,
+     119,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Weighted average shares outstanding were 141.5 million in the first quarter of 2026 compared to 134.8 million for the same period in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "At March 31, 2026, Natera held approximately $1,087.9 million in cash, cash equivalents, and restricted cash, compared to $1,076.1 million as of December 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     93,
+     103,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "As of March 31, 2026, Natera had a total outstanding debt balance of $80.3 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": [
+    [
+     149,
+     157,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Financial Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Natera anticipates 2026 total revenue of $2.74 billion to $2.82 billion; 2026 gross margin1 to be approximately 64% to 66%; selling, general and administrative costs to be approximately $1.125 billion to $1.225 billion; research and development costs to be $800 million to $900 million; and net cash inflow to be positive3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0732,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     98,
+     111,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     172,
+     185,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     313,
+     321,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
