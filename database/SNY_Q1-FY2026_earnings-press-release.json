@@ -1,0 +1,427 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-23",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-23-05-30-00-3279572",
+ "demo": false,
+ "source_text": "Q1 2026: double-digit sales and business EPS growth\n\nParis, April 23, 2026\n\nQ1 sales growth of 13.6% at CER1 and business earnings per share (EPS)2 of \u20ac1.88\n\nPharma launches sales increased by 49.6%, reaching \u20ac1.2 billion, driven primarily by Ayvakit, ALTUVIIIO, and Sarclisa\nDupixent sales increased by 30.8% to \u20ac4.2 billion, a strong start to 2026\nVaccines sales increased by 2.1% to \u20ac1.3 billion, benefiting from Heplisav-B\nResearch and Development expenses reached \u20ac1.7 billion, up by 1.5%\nSelling and general expenses reached \u20ac2.3 billion, up by 11.6%, mainly due to the effect of recent acquisitions\nBusiness EPS was \u20ac1.88, up by 14.0% at CER; 5.0% at actual exchange rates; IFRS EPS \u20ac1.34 \nPipeline progress\n\nFive regulatory approvals, all in immunology\nPositive pipeline readouts: venglustat in the rare disease GD3 (phase 3) and lunsekimig in respiratory diseases (phase 2)\nTwo regulatory submission acceptances, one phase 3 study start, four regulatory designations (breakthrough, orphan)\nCapital allocation\n\nCompletion of the Dynavax acquisition\nCompletion of \u20ac921 million of the \u20ac1 billion share buyback programme\nOther major developments\n\n25-year partnership with WHO3 in sleeping sickness: positive CHMP recommendation paves the way in Africa for acoziborole, the first single-dose oral treatment co-developed with DNDi4\nGuidance affirmed\n\nIn 2026, sales are expected to grow by a high single-digit percentage at CER. Business EPS at CER is expected to grow slightly faster than sales (before share buyback), delivering profitable growth.5 \nOlivier Charmeil, interim Chief Executive Officer: \u201cWe had a strong start to 2026 with double-digit sales and business EPS growth. Sales increased by 13.6%, supported by Pharma launches and recent acquisitions. Dupixent sales were above the \u20ac4 billion quarterly mark again and grew by 30.8%. Business EPS was up by 14.0%, reflecting a measured growth of 7.0% in total operating expenses. We obtained five regulatory approvals, all in immunology, achieved one positive phase 3 study readout for venglustat in rare diseases, and reported encouraging phase 2 data for lunsekimig in respiratory diseases. We reiterate our guidance for 2026: we continue to expect sales to grow by a high single-digit percentage and business EPS to grow slightly faster than sales, at constant exchange rates, delivering profitable growth. We are looking forward to welcoming Bel\u00e9n Garijo as the new CEO of Sanofi from next month.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 28,
+  "n_material_neg": 2,
+  "n_positive": 13,
+  "mean_pos_negative": 0.26785714285714285,
+  "mean_pos_positive": 0.521978021978022,
+  "placement_asymmetry": -0.25412087912087916,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.25,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0009496676163342829,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0028735632183908046,
+  "mean_tone": 0.2540812265076971
+ },
+ "lexicon": {
+  "words": 348,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 34.5,
+   "Uncertainty": 0.0,
+   "Litigious": 11.5,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 12,
+   "Uncertainty": 0,
+   "Litigious": 4,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Q1 2026: double-digit sales and business EPS growth",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Paris, April 23, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Q1 sales growth of 13.6% at CER1 and business earnings per share (EPS)2 of \u20ac1.88",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Pharma launches sales increased by 49.6%, reaching \u20ac1.2 billion, driven primarily by Ayvakit, ALTUVIIIO, and Sarclisa.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Dupixent sales increased by 30.8% to \u20ac4.2 billion, a strong start to 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Vaccines sales increased by 2.1% to \u20ac1.3 billion, benefiting from Heplisav-B.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Research and Development expenses reached \u20ac1.7 billion, up by 1.5%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Selling and general expenses reached \u20ac2.3 billion, up by 11.6%, mainly due to the effect of recent acquisitions.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Business EPS was \u20ac1.88, up by 14.0% at CER; 5.0% at actual exchange rates; IFRS EPS \u20ac1.34.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Pipeline progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Five regulatory approvals, all in immunology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Positive pipeline readouts: venglustat in the rare disease GD3 (phase 3) and lunsekimig in respiratory diseases (phase 2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Two regulatory submission acceptances, one phase 3 study start, four regulatory designations (breakthrough, orphan).",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     69,
+     79,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     94,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Capital allocation",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Completion of the Dynavax acquisition.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Completion of \u20ac921 million of the \u20ac1 billion share buyback programme.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Other major developments",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "25-year partnership with WHO3 in sleeping sickness: positive CHMP recommendation paves the way in Africa for acoziborole, the first single-dose oral treatment co-developed with DNDi4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Guidance affirmed",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "In 2026, sales are expected to grow by a high single-digit percentage at CER.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Business EPS at CER is expected to grow slightly faster than sales (before share buyback), delivering profitable growth.5.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Olivier Charmeil, interim Chief Executive Officer: \u201cWe had a strong start to 2026 with double-digit sales and business EPS growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Sales increased by 13.6%, supported by Pharma launches and recent acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Dupixent sales were above the \u20ac4 billion quarterly mark again and grew by 30.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Business EPS was up by 14.0%, reflecting a measured growth of 7.0% in total operating expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "We obtained five regulatory approvals, all in immunology, achieved one positive phase 3 study readout for venglustat in rare diseases, and reported encouraging phase 2 data for lunsekimig in respiratory diseases.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     27,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     58,
+     66,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     79,
+     [
+      "positive"
+     ]
+    ],
+    [
+     148,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "We reiterate our guidance for 2026: we continue to expect sales to grow by a high single-digit percentage and business EPS to grow slightly faster than sales, at constant exchange rates, delivering profitable growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0294,
+   "hits": [
+    [
+     198,
+     208,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "We are looking forward to welcoming Bel\u00e9n Garijo as the new CEO of Sanofi from next month.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
