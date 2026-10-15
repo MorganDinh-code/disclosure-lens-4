@@ -1,0 +1,672 @@
+{
+ "company": "National Fuel Gas Co",
+ "ticker": "NFG",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-01-28",
+ "source_url": "https://investor.nationalfuelgas.com/news-and-events/press-releases/press-releases-details/2026/National-Fuel-Reports-First-Quarter-Fiscal-2026-Earnings/default.aspx",
+ "demo": false,
+ "source_text": "FIRST QUARTER FISCAL 2026 SUMMARY\n\nGAAP earnings of $181.6 million, or earnings per share (EPS) of $1.98, compared to GAAP earnings of $45.0 million, or $0.49 per share, in the prior year.\nAdjusted earnings(1) of $187.7 million, or adjusted EPS(1) of $2.06, compared to adjusted earnings of $151.9 million, or $1.66 per share in the prior year, an increase of 24% per share.\nIntegrated Upstream and Gathering segment adjusted EPS of $1.36 increased $0.42, or 45%, compared to the prior year, driven by a 14% increase in natural gas price realizations and 12% growth in natural gas production resulting from strong Tioga County Utica well results.\nUtility segment net income increased 5% compared to the prior year as ongoing investments in system modernization programs in New York and Pennsylvania supported an increase in customer margin.\nSupply Corporation\u2019s Shippingport Lateral Project received FERC authorization in November. This project, along with the previously approved Tioga Pathway Project, remains on track for a late calendar 2026 in-service date.\nThe Company successfully issued $350 million in common equity through a private placement, fulfilling the expected equity needed to fund the previously announced CenterPoint Ohio gas utility acquisition, which is expected to close in the fourth quarter of this calendar year.\nThe Company is reaffirming its fiscal 2026 adjusted EPS guidance range of $7.60 to $8.10 per share.\nMANAGEMENT COMMENTS\n\nDavid P. Bauer, President and Chief Executive Officer of National Fuel Gas Company, stated: \u201cNational Fuel\u2019s first quarter results were a great start to the fiscal year. Strong operational execution within our Integrated Upstream and Gathering segment continues to deliver growing production and increasing cash flow generation. When combined with ongoing growth in our regulated businesses, adjusted EPS increased 24% over the prior year.\n\n\u201cAt our non-regulated business, an expanding inventory of high-quality Appalachian development locations, most recently bolstered by the addition of approximately 200 prospective Upper Utica drilling locations, along with ongoing well design optimization, positions us for continued success in driving capital efficiency improvements. On the regulated side, our focus remains on delivering growth while maintaining our long track record of customer affordability. We\u2019ve made great progress on our Tioga Pathway and Shippingport Lateral expansion projects, both of which remain on track to be in service later this calendar year. These projects, along with our pending natural gas utility acquisition in Ohio, provide strong catalysts for growth as we look to fiscal 2027.\n\n\u201cAltogether, the outlook across National Fuel is exceptionally strong. We remain focused on executing on our plan to deliver long-term growth in earnings and free cash flow, which in turn should create meaningful value for shareholders.\u201d\n\n(1) See page 2 for a reconciliation of reported GAAP earnings to adjusted earnings and GAAP EPS to adjusted EPS.\n\nAs a reminder, the acquisition of CenterPoint Energy's Ohio natural gas utility business is expected to close in the fourth quarter of calendar 2026 and, therefore, is not expected to impact fiscal 2026 guidance. Fiscal 2026 guidance also excludes financing and acquisition related costs.\n\nThe Company\u2019s other fiscal 2026 guidance assumptions remain largely unchanged and are detailed in the table on page 6.\n\nFISCAL 2026 GUIDANCE UPDATE\n\nNational Fuel is reaffirming its adjusted EPS guidance for fiscal 2026. The Company expects adjusted EPS to be within a range of $7.60 to $8.10, or $7.85 at the midpoint of the range. This updated range incorporates first quarter results with pricing assumptions consistent with previous guidance for the remaining nine months of fiscal 2026, including an average NYMEX natural gas price of $3.75 per MMBtu. Given the continued volatility in NYMEX natural gas prices the Company is providing the following sensitivities to its adjusted EPS guidance range:\n\n\nThe Integrated Upstream and Gathering segment's first quarter GAAP earnings increased $143.7 million versus the prior year. The increase in earnings was primarily driven by $104.6 million of non-cash impairment charges, after-tax, that occurred in the prior year. Excluding items impacting comparability, Seneca and Gathering's adjusted earnings in the first quarter increased $38.8 million primarily due to higher production and realized natural gas prices, partially offset by higher per unit operating expenses.\n\nDuring the first quarter, Seneca produced 109 Bcf of natural gas, an increase of 11 Bcf, or 12%, from the prior year due to new Utica pads turned in line in Tioga County.\n\nSeneca\u2019s weighted average realized natural gas price, after the impact of hedging and transportation costs, was $2.89 per Mcf, an increase of $0.36 per Mcf, or 14%, from the prior year. This increase was primarily due to higher NYMEX prices, the impact of realized gains on Seneca\u2019s natural gas hedges, and higher prices at local sales points in Pennsylvania.\n\nOn a per unit basis, first quarter adjusted total operating costs were $0.03 higher compared to the prior year, primarily due to higher per unit LOE. The increase in per unit LOE compared to the prior year was largely driven by higher third-party gathering expenses as the Company brought online a six-well pad on acreage in Tioga County that had been dedicated by a previous owner to another midstream operator. Higher workover and repairs and maintenance costs also contributed to the increase.\n\nPipeline and Storage Segment\n\nThe Pipeline and Storage segment\u2019s operations are carried out by National Fuel Gas Supply Corporation (\u201cSupply Corporation\u201d) and Empire Pipeline, Inc. (\u201cEmpire\u201d). The Pipeline and Storage segment provides natural gas transportation and storage services to affiliated and non-affiliated companies through an integrated system of pipelines and underground natural gas storage fields in western New York and Pennsylvania.\nDISCUSSION OF FIRST QUARTER RESULTS BY SEGMENT\n\nThe following earnings discussion of each operating segment for the quarter ended December 31, 2025 is summarized in a tabular form on pages 7 and 8 of this report. It may be helpful to refer to those tables while reviewing this discussion.\n\nNote that management defines adjusted earnings as reported GAAP earnings adjusted for items impacting comparability, and adjusted EBITDA as reported GAAP earnings before the following items: interest expense, income taxes, depreciation, depletion and amortization, other income and deductions, impairments, and other items reflected in operating income that impact comparability.\n\nIntegrated Upstream and Gathering Segment\n\nThe Integrated Upstream and Gathering segment's exploration and production operations are carried out by Seneca Resources Company, LLC (\u201cSeneca\u201d) and its gathering operations are carried out by National Fuel Gas Midstream Company, LLC (\"Gathering\"). Seneca explores for, develops, and produces primarily natural gas reserves in Pennsylvania. Gathering constructs, owns and operates natural gas gathering pipelines and compression facilities in the Appalachian region, which primarily delivers Seneca's production and, to a lesser extent, third-party Appalachian production to the interstate pipeline system.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 48,
+  "n_material_neg": 3,
+  "n_positive": 11,
+  "mean_pos_negative": 0.7777777777777778,
+  "mean_pos_positive": 0.40530303030303033,
+  "placement_asymmetry": 0.37247474747474746,
+  "distance_from_headline": 31,
+  "first_negative_pos": 0.6875,
+  "hedge_near_negative": 0.004975124378109453,
+  "hedge_near_positive": 0.005216832560750175,
+  "hedging_asymmetry": 0.9536676364774942,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9183673469387755,
+  "overall_hedge": 0.006679389312977099,
+  "mean_tone": 0.05797192034113653
+ },
+ "lexicon": {
+  "words": 1048,
+  "per_1000": {
+   "Negative": 3.8,
+   "Positive": 11.5,
+   "Uncertainty": 5.7,
+   "Litigious": 2.9,
+   "Strong modal": 0.0,
+   "Weak modal": 1.0,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 12,
+   "Uncertainty": 6,
+   "Litigious": 3,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "FIRST QUARTER FISCAL 2026 SUMMARY",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "GAAP earnings of $181.6 million, or earnings per share (EPS) of $1.98, compared to GAAP earnings of $45.0 million, or $0.49 per share, in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Adjusted earnings(1) of $187.7 million, or adjusted EPS(1) of $2.06, compared to adjusted earnings of $151.9 million, or $1.66 per share in the prior year, an increase of 24% per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Integrated Upstream and Gathering segment adjusted EPS of $1.36 increased $0.42, or 45%, compared to the prior year, driven by a 14% increase in natural gas price realizations and 12% growth in natural gas production resulting from strong Tioga County Utica well results.",
+   "d": 1,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     232,
+     238,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Utility segment net income increased 5% compared to the prior year as ongoing investments in system modernization programs in New York and Pennsylvania supported an increase in customer margin.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Supply Corporation\u2019s Shippingport Lateral Project received FERC authorization in November.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "This project, along with the previously approved Tioga Pathway Project, remains on track for a late calendar 2026 in-service date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The Company successfully issued $350 million in common equity through a private placement, fulfilling the expected equity needed to fund the previously announced CenterPoint Ohio gas utility acquisition, which is expected to close in the fourth quarter of this calendar year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "The Company is reaffirming its fiscal 2026 adjusted EPS guidance range of $7.60 to $8.10 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "MANAGEMENT COMMENTS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "David P.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Bauer, President and Chief Executive Officer of National Fuel Gas Company, stated: \u201cNational Fuel\u2019s first quarter results were a great start to the fiscal year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Strong operational execution within our Integrated Upstream and Gathering segment continues to deliver growing production and increasing cash flow generation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "When combined with ongoing growth in our regulated businesses, adjusted EPS increased 24% over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     50,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cAt our non-regulated business, an expanding inventory of high-quality Appalachian development locations, most recently bolstered by the addition of approximately 200 prospective Upper Utica drilling locations, along with ongoing well design optimization, positions us for continued success in driving capital efficiency improvements.",
+   "d": 0,
+   "m": false,
+   "tone": 0.93,
+   "h": 0.0233,
+   "hits": [
+    [
+     12,
+     21,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     120,
+     129,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     162,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     283,
+     290,
+     [
+      "positive"
+     ]
+    ],
+    [
+     310,
+     320,
+     [
+      "positive"
+     ]
+    ],
+    [
+     321,
+     333,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "On the regulated side, our focus remains on delivering growth while maintaining our long track record of customer affordability.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     16,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "We\u2019ve made great progress on our Tioga Pathway and Shippingport Lateral expansion projects, both of which remain on track to be in service later this calendar year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "These projects, along with our pending natural gas utility acquisition in Ohio, provide strong catalysts for growth as we look to fiscal 2027.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0455,
+   "hits": [
+    [
+     31,
+     38,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "\u201cAltogether, the outlook across National Fuel is exceptionally strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     62,
+     [
+      "positive"
+     ]
+    ],
+    [
+     63,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "We remain focused on executing on our plan to deliver long-term growth in earnings and free cash flow, which in turn should create meaningful value for shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "As a reminder, the acquisition of CenterPoint Energy's Ohio natural gas utility business is expected to close in the fourth quarter of calendar 2026 and, therefore, is not expected to impact fiscal 2026 guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Fiscal 2026 guidance also excludes financing and acquisition related costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Company\u2019s other fiscal 2026 guidance assumptions remain largely unchanged and are detailed in the table on page 6.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     41,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "FISCAL 2026 GUIDANCE UPDATE",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "National Fuel is reaffirming its adjusted EPS guidance for fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company expects adjusted EPS to be within a range of $7.60 to $8.10, or $7.85 at the midpoint of the range.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "This updated range incorporates first quarter results with pricing assumptions consistent with previous guidance for the remaining nine months of fiscal 2026, including an average NYMEX natural gas price of $3.75 per MMBtu.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     67,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Given the continued volatility in NYMEX natural gas prices the Company is providing the following sensitivities to its adjusted EPS guidance range:",
+   "d": 0,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0455,
+   "hits": [
+    [
+     20,
+     30,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "The Integrated Upstream and Gathering segment's first quarter GAAP earnings increased $143.7 million versus the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The increase in earnings was primarily driven by $104.6 million of non-cash impairment charges, after-tax, that occurred in the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     86,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Excluding items impacting comparability, Seneca and Gathering's adjusted earnings in the first quarter increased $38.8 million primarily due to higher production and realized natural gas prices, partially offset by higher per unit operating expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "During the first quarter, Seneca produced 109 Bcf of natural gas, an increase of 11 Bcf, or 12%, from the prior year due to new Utica pads turned in line in Tioga County.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Seneca\u2019s weighted average realized natural gas price, after the impact of hedging and transportation costs, was $2.89 per Mcf, an increase of $0.36 per Mcf, or 14%, from the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "This increase was primarily due to higher NYMEX prices, the impact of realized gains on Seneca\u2019s natural gas hedges, and higher prices at local sales points in Pennsylvania.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "On a per unit basis, first quarter adjusted total operating costs were $0.03 higher compared to the prior year, primarily due to higher per unit LOE.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "The increase in per unit LOE compared to the prior year was largely driven by higher third-party gathering expenses as the Company brought online a six-well pad on acreage in Tioga County that had been dedicated by a previous owner to another midstream operator.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Higher workover and repairs and maintenance costs also contributed to the increase.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Pipeline and Storage Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The Pipeline and Storage segment\u2019s operations are carried out by National Fuel Gas Supply Corporation (\u201cSupply Corporation\u201d) and Empire Pipeline, Inc. (\u201cEmpire\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "The Pipeline and Storage segment provides natural gas transportation and storage services to affiliated and non-affiliated companies through an integrated system of pipelines and underground natural gas storage fields in western New York and Pennsylvania.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "DISCUSSION OF FIRST QUARTER RESULTS BY SEGMENT",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The following earnings discussion of each operating segment for the quarter ended December 31, 2025 is summarized in a tabular form on pages 7 and 8 of this report.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "It may be helpful to refer to those tables while reviewing this discussion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": [
+    [
+     3,
+     6,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "Note that management defines adjusted earnings as reported GAAP earnings adjusted for items impacting comparability, and adjusted EBITDA as reported GAAP earnings before the following items: interest expense, income taxes, depreciation, depletion and amortization, other income and deductions, impairments, and other items reflected in operating income that impact comparability.",
+   "d": -1,
+   "m": true,
+   "tone": -0.408,
+   "h": 0.0,
+   "hits": [
+    [
+     237,
+     246,
+     [
+      "negative"
+     ]
+    ],
+    [
+     294,
+     305,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "Integrated Upstream and Gathering Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "The Integrated Upstream and Gathering segment's exploration and production operations are carried out by Seneca Resources Company, LLC (\u201cSeneca\u201d) and its gathering operations are carried out by National Fuel Gas Midstream Company, LLC (\"Gathering\").",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Seneca explores for, develops, and produces primarily natural gas reserves in Pennsylvania.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Gathering constructs, owns and operates natural gas gathering pipelines and compression facilities in the Appalachian region, which primarily delivers Seneca's production and, to a lesser extent, third-party Appalachian production to the interstate pipeline system.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
