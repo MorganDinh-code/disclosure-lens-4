@@ -1,0 +1,456 @@
+{
+ "company": "Sanofi",
+ "ticker": "SNY",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-25",
+ "source_url": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-10-25-05-30-00-2969234",
+ "demo": false,
+ "source_text": "Sanofi Q3: 15.7% sales growth boosted by earlier-than-anticipated vaccine sales; 2024 business EPS guidance raised due to strong business performance\n\nParis, October 25, 2024\n\nQ3 sales growth of 15.7% at CER and business EPS(1) of \u20ac2.86\n\nDupixent sales up 23.8% to \u20ac3,476 million; full-year 2024 target of ~\u20ac13 billion confirmed\nPharma launches up 67.1% to \u20ac727 million, led by ALTUVIIIO, Nexviazyme and Rezurock\nVaccines sales up 25.5%, boosted by phasing of flu sales, and by Beyfortus due to approved extra capacity\nOpella up 7.9%, driven by the Qunol acquisition\nResearch and Development expenses grew 12.7%\nSelling, general and administrative expenses grew 6.4%, substantially below sales growth, having a positive impact on profitability\nBusiness EPS(1) of \u20ac2.86, +12.2% reported and +17.6% at CER and IFRS EPS of \u20ac2.25, +11.9% reported\n\nQ3 pipeline progress\n\nFour regulatory approvals: Dupixent COPD (US, CN), Dupixent CRSwNP adolescents (US), and Sarclisa NDMM, TI (US)\nFour positive phase 3 data readouts: Dupixent BP, Dupixent CSU, tolebrutinib nrSPMS, and Sarclisa NDMM, TE\nOpella (consumer healthcare)\n\nOn October 21, Sanofi and CD&R entered exclusive negotiations to transfer a controlling stake of Opella.*\n\n2024 business EPS(1) guidance\n\nOn October 21, 2024, the 2024 business EPS(1) guidance was upgraded to growth of at least a low single-digit percentage at CER(2) supported by the underlying strong business performance. This reflects the new scope of guidance excluding Opella detailed in the October 21, 2024 press release. Applying the average October 2024 exchange rates, the currency impact on 2024 business EPS(1) is estimated to be -5.5% to -6.5%.\n\nPaul Hudson, Chief Executive Officer: \u201cWe reached almost 16% sales growth in the third quarter, illustrating the underlying strength of our portfolio. Our performance was boosted by the phasing of flu and Beyfortus, while we saw steady growth of 67% for our launch medicines as well as volume-driven growth by Dupixent. Dupixent is now approved as the first-ever biologic medicine to treat COPD across the EU, China, and the US allowing us to bring this innovative new treatment to hundreds of thousands of patients. Our pipeline-driven transformation continued to progress with the delivery of four new approvals and four positive phase 3 data readouts, including for tolebrutinib in secondary progressive multiple sclerosis, a disease with significant unmet medical need. We entered exclusive negotiations with CD&R on a controlling stake in Opella, allowing Sanofi to focus on innovative medicines and vaccines. Based on the strong business performance in the quarter, we recently upgraded our business EPS guidance. This momentum is already paving the way for the strong rebound we said we expected in 2025 business EPS.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 26,
+  "n_material_neg": 1,
+  "n_positive": 8,
+  "mean_pos_negative": 0.3076923076923077,
+  "mean_pos_positive": 0.3894230769230769,
+  "placement_asymmetry": -0.08173076923076922,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.3076923076923077,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.009035585061704465,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.004987531172069825,
+  "mean_tone": 0.36426644312039846
+ },
+ "lexicon": {
+  "words": 401,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 47.4,
+   "Uncertainty": 5.0,
+   "Litigious": 2.5,
+   "Strong modal": 0.0,
+   "Weak modal": 2.5,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 19,
+   "Uncertainty": 2,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Sanofi Q3: 15.7% sales growth boosted by earlier-than-anticipated vaccine sales; 2024 business EPS guidance raised due to strong business performance",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.05,
+   "hits": [
+    [
+     30,
+     37,
+     [
+      "positive"
+     ]
+    ],
+    [
+     54,
+     65,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     122,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Paris, October 25, 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Q3 sales growth of 15.7% at CER and business EPS(1) of \u20ac2.86",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Dupixent sales up 23.8% to \u20ac3,476 million; full-year 2024 target of ~\u20ac13 billion confirmed.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Pharma launches up 67.1% to \u20ac727 million, led by ALTUVIIIO, Nexviazyme and Rezurock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Vaccines sales up 25.5%, boosted by phasing of flu sales, and by Beyfortus due to approved extra capacity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Opella up 7.9%, driven by the Qunol acquisition.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Research and Development expenses grew 12.7%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Selling, general and administrative expenses grew 6.4%, substantially below sales growth, having a positive impact on profitability.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     107,
+     [
+      "positive"
+     ]
+    ],
+    [
+     118,
+     131,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Business EPS(1) of \u20ac2.86, +12.2% reported and +17.6% at CER and IFRS EPS of \u20ac2.25, +11.9% reported",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Q3 pipeline progress",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Four regulatory approvals: Dupixent COPD (US, CN), Dupixent CRSwNP adolescents (US), and Sarclisa NDMM, TI (US).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Four positive phase 3 data readouts: Dupixent BP, Dupixent CSU, tolebrutinib nrSPMS, and Sarclisa NDMM, TE.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Opella (consumer healthcare)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "On October 21, Sanofi and CD&R entered exclusive negotiations to transfer a controlling stake of Opella.*",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "2024 business EPS(1) guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "On October 21, 2024, the 2024 business EPS(1) guidance was upgraded to growth of at least a low single-digit percentage at CER(2) supported by the underlying strong business performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     158,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "This reflects the new scope of guidance excluding Opella detailed in the October 21, 2024 press release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Applying the average October 2024 exchange rates, the currency impact on 2024 business EPS(1) is estimated to be -5.5% to -6.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Paul Hudson, Chief Executive Officer: \u201cWe reached almost 16% sales growth in the third quarter, illustrating the underlying strength of our portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     124,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Our performance was boosted by the phasing of flu and Beyfortus, while we saw steady growth of 67% for our launch medicines as well as volume-driven growth by Dupixent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Dupixent is now approved as the first-ever biologic medicine to treat COPD across the EU, China, and the US allowing us to bring this innovative new treatment to hundreds of thousands of patients.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     134,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Our pipeline-driven transformation continued to progress with the delivery of four new approvals and four positive phase 3 data readouts, including for tolebrutinib in secondary progressive multiple sclerosis, a disease with significant unmet medical need.",
+   "d": 0,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "We entered exclusive negotiations with CD&R on a controlling stake in Opella, allowing Sanofi to focus on innovative medicines and vaccines.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Based on the strong business performance in the quarter, we recently upgraded our business EPS guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "This momentum is already paving the way for the strong rebound we said we expected in 2025 business EPS.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     54,
+     [
+      "positive"
+     ]
+    ],
+    [
+     55,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
