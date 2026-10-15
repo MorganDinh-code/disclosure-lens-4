@@ -1,0 +1,566 @@
+{
+ "company": "Natera, Inc.",
+ "ticker": "NTRA",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-11-06",
+ "source_url": "https://investor.natera.com/news/news-details/2025/Natera-Reports-Third-Quarter-2025-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today reported its financial results for the third quarter ended September 30, 2025.\n\nRecent Financial Highlights\n\nGenerated total revenues of $592.2 million in the third quarter of 2025, compared to $439.8 million in the third quarter of 2024, an increase of 34.7%. Product revenues grew 35.3% over the same period.\nGenerated a gross margin percentage 2 of 64.9% in the third quarter of 2025, compared to a gross margin percentage 2 of 61.8% in the third quarter of 2024.\nProcessed approximately 893,600 tests in the third quarter of 2025, compared to approximately 775,800 tests in the third quarter of 2024, an increase of 15.2% .\nPerformed approximately 211,000 oncology tests in the third quarter of 2025, compared to approximately 137,100 in the third quarter of 2024, an increase of 53.9% . This included record sequential growth of approximately 21,500 clinical molecular residual disease (MRD) units compared to the second quarter of 2025.\nAchieved positive cash flow of approximately $26.4 million 1 in the third quarter of 2025.\nRaising 2025 annual revenue guidance by $160 million at the midpoint, from $2.02 billion - $2.10 billion to $2.18 billion - $2.26 billion.\n\u201cResults in the third quarter were excellent, including our largest increase in quarterly clinical MRD units to date,\u201d said Steve Chapman, chief executive officer of Natera. \"We continue to advance innovation across the portfolio, with successful read-outs for Signatera\u2122, positive new results for our early cancer detection program, and the announcement of an expanded panel for our Fetal Focus\u2122 single-gene noninvasive prenatal test.\u201d\n\nThird Quarter Ended September 30, 2025 Financial Results\n\nTotal revenues were $592.2 million in the third quarter of 2025 compared to $439.8 million in the third quarter of 2024, an increase of 34.7%. The increase in total revenues was driven primarily by a 35.3% increase in product revenues, which were $590.2 million in the third quarter of 2025 compared to $436.1 million in the third quarter of 2024. The increase in product revenues was primarily driven by an increase in volume and average selling price improvements, as well as cash receipts that were collected during the quarter in excess of initial revenue estimates for tests delivered in prior quarters.\n\nNatera processed approximately 893,600 tests in the third quarter of 2025, including approximately 879,700 tests accessioned in its laboratory, compared to approximately 775,800 tests processed, including approximately 760,700 tests accessioned in its laboratory, in the third quarter of 2024, an increase of 15.2% from the prior period.\n\nIn the third quarter of 2025, Natera recognized revenue on approximately 832,900 tests for which results were reported to customers in the period (tests reported), including approximately 819,900 tests reported from its laboratory, compared to approximately 750,100 tests reported, including approximately 735,900 tests reported from its laboratory, in the third quarter of 2024, an increase of 11.0% from the prior period.\n\nGross margin2 for the three months ended September 30, 2025 and 2024 was $384.4 million and $271.7 million, respectively, representing a gross margin percentage2 of 64.9% and 61.8%, respectively. Natera had higher gross margin2 in the third quarter of 2025 primarily as a result of higher revenues, continued progress in reducing cost of revenues associated with tests processed, as well as incremental cash receipts during the quarter in excess of initial revenue estimates for tests delivered in the prior period. Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the third quarter of 2025 were $482.0 million, compared to $311.1 million in the same period of the prior year, an increase of 54.9%. The increase was primarily driven by salary and related compensation expenditures, including stock-based compensation expense, to support new product offerings as well as increases in consulting and legal expenses.\n\nLoss from operations for the third quarter of 2025 was $97.6 million compared to $39.3 million for the same period of the prior year.\n\nNatera reported a net loss for the third quarter of 2025 of $87.5 million, or ($ 0.64 ) per diluted share, compared to a net loss of $31.6 million, or ($ 0.26 ) per diluted share, for the same period in 2024. Weighted average shares outstanding were approximately 137.2 million in the third quarter of 2025 compared to 123.8 million in the third quarter of the prior year.\n\nAt September 30, 2025, Natera held approximately $1,042.4 million in cash, cash equivalents, short-term investments and restricted cash, compared to $968.3 million as of December 31, 2024. As of September 30, 2025, Natera had a total outstanding debt balance of $80.3 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps.\n\nFinancial Outlook\n\nNatera anticipates 2025 total revenue of $2.18 billion - $2.26 billion; 2025 gross margin2 to be approximately 62% to 64% of revenues; selling, general and administrative costs to be approximately $1.08 billion to $1.18 billion; research and development costs to be approximately $575 million to $625 million; and net cash inflow to be approximately $100 million3.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 28,
+  "n_material_neg": 2,
+  "n_positive": 5,
+  "mean_pos_negative": 0.8035714285714286,
+  "mean_pos_positive": 0.42857142857142855,
+  "placement_asymmetry": 0.37500000000000006,
+  "distance_from_headline": 20,
+  "first_negative_pos": 0.7857142857142857,
+  "hedge_near_negative": 0.006578947368421052,
+  "hedge_near_positive": 0.022893481717011128,
+  "hedging_asymmetry": 0.2873720760233918,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6329365079365079,
+  "overall_hedge": 0.02981029810298103,
+  "mean_tone": 0.04842304182460977
+ },
+ "lexicon": {
+  "words": 738,
+  "per_1000": {
+   "Negative": 4.1,
+   "Positive": 10.8,
+   "Uncertainty": 29.8,
+   "Litigious": 1.4,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.4
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 8,
+   "Uncertainty": 22,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "AUSTIN, Texas--(BUSINESS WIRE)-- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today reported its financial results for the third quarter ended September 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Recent Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated total revenues of $592.2 million in the third quarter of 2025, compared to $439.8 million in the third quarter of 2024, an increase of 34.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Product revenues grew 35.3% over the same period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Generated a gross margin percentage 2 of 64.9% in the third quarter of 2025, compared to a gross margin percentage 2 of 61.8% in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Processed approximately 893,600 tests in the third quarter of 2025, compared to approximately 775,800 tests in the third quarter of 2024, an increase of 15.2% .",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Performed approximately 211,000 oncology tests in the third quarter of 2025, compared to approximately 137,100 in the third quarter of 2024, an increase of 53.9% .",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "This included record sequential growth of approximately 21,500 clinical molecular residual disease (MRD) units compared to the second quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     42,
+     55,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Achieved positive cash flow of approximately $26.4 million 1 in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Raising 2025 annual revenue guidance by $160 million at the midpoint, from $2.02 billion - $2.10 billion to $2.18 billion - $2.26 billion. \u201cResults in the third quarter were excellent, including our largest increase in quarterly clinical MRD units to date,\u201d said Steve Chapman, chief executive officer of Natera.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     174,
+     183,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\"We continue to advance innovation across the portfolio, with successful read-outs for Signatera\u2122, positive new results for our early cancer detection program, and the announcement of an expanded panel for our Fetal Focus\u2122 single-gene noninvasive prenatal test.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     62,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     99,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Third Quarter Ended September 30, 2025 Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Total revenues were $592.2 million in the third quarter of 2025 compared to $439.8 million in the third quarter of 2024, an increase of 34.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The increase in total revenues was driven primarily by a 35.3% increase in product revenues, which were $590.2 million in the third quarter of 2025 compared to $436.1 million in the third quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase in product revenues was primarily driven by an increase in volume and average selling price improvements, as well as cash receipts that were collected during the quarter in excess of initial revenue estimates for tests delivered in prior quarters.",
+   "d": 1,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Natera processed approximately 893,600 tests in the third quarter of 2025, including approximately 879,700 tests accessioned in its laboratory, compared to approximately 775,800 tests processed, including approximately 760,700 tests accessioned in its laboratory, in the third quarter of 2024, an increase of 15.2% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     17,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     85,
+     98,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     156,
+     169,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     205,
+     218,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "In the third quarter of 2025, Natera recognized revenue on approximately 832,900 tests for which results were reported to customers in the period (tests reported), including approximately 819,900 tests reported from its laboratory, compared to approximately 750,100 tests reported, including approximately 735,900 tests reported from its laboratory, in the third quarter of 2024, an increase of 11.0% from the prior period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0741,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     174,
+     187,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     244,
+     257,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     292,
+     305,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Gross margin2 for the three months ended September 30, 2025 and 2024 was $384.4 million and $271.7 million, respectively, representing a gross margin percentage2 of 64.9% and 61.8%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Natera had higher gross margin2 in the third quarter of 2025 primarily as a result of higher revenues, continued progress in reducing cost of revenues associated with tests processed, as well as incremental cash receipts during the quarter in excess of initial revenue estimates for tests delivered in the prior period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.2,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Total operating expenses, representing research and development expenses and selling, general and administrative expenses, for the third quarter of 2025 were $482.0 million, compared to $311.1 million in the same period of the prior year, an increase of 54.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase was primarily driven by salary and related compensation expenditures, including stock-based compensation expense, to support new product offerings as well as increases in consulting and legal expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     199,
+     204,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Loss from operations for the third quarter of 2025 was $97.6 million compared to $39.3 million for the same period of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Natera reported a net loss for the third quarter of 2025 of $87.5 million, or ($ 0.64 ) per diluted share, compared to a net loss of $31.6 million, or ($ 0.26 ) per diluted share, for the same period in 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     125,
+     129,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Weighted average shares outstanding were approximately 137.2 million in the third quarter of 2025 compared to 123.8 million in the third quarter of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "At September 30, 2025, Natera held approximately $1,042.4 million in cash, cash equivalents, short-term investments and restricted cash, compared to $968.3 million as of December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     35,
+     48,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     120,
+     130,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "As of September 30, 2025, Natera had a total outstanding debt balance of $80.3 million including accrued interest under its line of credit with UBS at a variable interest rate of 30-day SOFR plus 50 bps.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": [
+    [
+     153,
+     161,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Financial Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Natera anticipates 2025 total revenue of $2.18 billion - $2.26 billion; 2025 gross margin2 to be approximately 62% to 64% of revenues; selling, general and administrative costs to be approximately $1.08 billion to $1.18 billion; research and development costs to be approximately $575 million to $625 million; and net cash inflow to be approximately $100 million3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1136,
+   "hits": [
+    [
+     7,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     97,
+     110,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     183,
+     196,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     266,
+     279,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     336,
+     349,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
