@@ -1,0 +1,670 @@
+{
+ "company": "Valero Energy Corporation",
+ "ticker": "VLO",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-23",
+ "source_url": "https://investorvalero.com/news/news-details/2025/Valero-Energy-Reports-Third-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "Reported net income attributable to Valero stockholders of $1.1 billion, or $3.53 per share\nReported adjusted net income attributable to Valero stockholders of $1.1 billion, or $3.66 per share\nReturned $1.3 billion to stockholders through dividends and stock buybacks\nThe St. Charles FCC Unit optimization project is expected to begin operations in the second half of 2026\nSAN ANTONIO--(BUSINESS WIRE)-- Valero Energy Corporation (NYSE: VLO, \u201cValero\u201d) today reported net income attributable to Valero stockholders of $1.1 billion, or $3.53 per share, for the third quarter of 2025, compared to net income of $364 million, or $1.14 per share, for the third quarter of 2024. Excluding the adjustments shown in the accompanying earnings release tables, adjusted net income attributable to Valero stockholders was $1.1 billion, or $3.66 per share, for the third quarter of 2025, compared to $371 million, or $1.16 per share, for the third quarter of 2024.\n\nRefining\n\nThe Refining segment reported operating income of $1.6 billion for the third quarter of 2025, compared to operating income of $565 million for the third quarter of 2024. Adjusted operating income was $1.7 billion for the third quarter of 2025, compared to $568 million for the third quarter of 2024. Refining throughput volumes averaged 3.1 million barrels per day in the third quarter of 2025.\n\n\u201cWe are pleased to report strong financial results for the third quarter, highlighting our long-standing track record of operational and commercial excellence,\u201d said Lane Riggs, Valero\u2019s Chairman, Chief Executive Officer and President. \u201cOur refinery throughput utilization was 97 percent, with the Gulf Coast and North Atlantic regions setting new all-time highs for throughput \u2013 following last quarter\u2019s record performance in the Gulf Coast.\u201d\n\nRenewable Diesel\n\nThe Renewable Diesel segment, which consists of the Diamond Green Diesel joint venture (DGD), reported an operating loss of $28 million for the third quarter of 2025, compared to operating income of $35 million for the third quarter of 2024. Segment sales volumes averaged 2.7 million gallons per day in the third quarter of 2025.\n\nEthanol\n\nThe Ethanol segment reported $183 million of operating income for the third quarter of 2025, compared to $153 million for the third quarter of 2024. Ethanol production volumes averaged 4.6 million gallons per day in the third quarter of 2025, achieving record production.\n\nCorporate and Other\n\nGeneral and administrative expenses were $246 million in the third quarter of 2025, compared to $234 million in the third quarter of 2024. The effective tax rate for the third quarter of 2025 was 27 percent.\n\nInvesting and Financing Activities\n\nNet cash provided by operating activities was $1.9 billion in the third quarter of 2025. Included in this amount was a $325 million favorable impact from working capital and $86 million of adjusted net cash used in operating activities associated with the other joint venture member\u2019s share of DGD. Excluding these items, adjusted net cash provided by operating activities was $1.6 billion in the third quarter of 2025.\n\nCapital investments totaled $409 million in the third quarter of 2025, of which $364 million was for sustaining the business, including costs for turnarounds, catalysts and regulatory compliance. Excluding capital investments attributable to the other joint venture member\u2019s share of DGD and other variable interest entities, capital investments attributable to Valero were $382 million in the third quarter of 2025.\n\nValero returned $1.3 billion to stockholders in the third quarter of 2025, of which $351 million was paid as dividends and $931 million was for the purchase of approximately 5.7 million shares of common stock, resulting in a payout ratio of 78 percent of adjusted net cash provided by operating activities. Valero has returned over $2.6 billion year-to-date through dividends and stock buybacks.\n\n\u201cOur strong financial results and record operating achievements this quarter are a testament to our commitment to commercial and operational excellence. This, coupled with the strength of our balance sheet, should continue to support strong shareholder returns,\u201d said Riggs.\n\nLiquidity and Financial Position\n\nValero ended the third quarter of 2025 with $8.4 billion of total debt, $2.2 billion of total finance lease obligations, and $4.8 billion of cash and cash equivalents. The debt to capitalization ratio, net of cash and cash equivalents, was 18 percent as of September 30, 2025.\n\nStrategic Update\n\nValero continues to make progress on the FCC Unit optimization project at the St. Charles Refinery that will enhance the refinery\u2019s ability to produce high-value products. The $230 million project is expected to begin operations in the second half of 2026.\n\nConference Call\n\nValero\u2019s senior management will hold a conference call at 10 a.m. ET today to discuss this earnings release and to provide an update on operations and strategy.\n\nAbout Valero\n\nValero Energy Corporation, through its subsidiaries (collectively, Valero), is a multinational manufacturer and marketer of petroleum-based and low-carbon liquid transportation fuels and petrochemical products, and sells its products primarily in the United States (U.S.), Canada, the United Kingdom (U.K.), Ireland and Latin America. Valero owns 15 petroleum refineries located in the U.S., Canada and the U.K. with a combined throughput capacity of approximately 3.2 million barrels per day. Valero is a joint venture member in Diamond Green Diesel Holdings LLC, which produces low-carbon fuels including renewable diesel and sustainable aviation fuel (SAF), with a production capacity of approximately 1.2 billion gallons per year in the U.S. Gulf Coast region. See the annual report on Form 10-K for more information on SAF. Valero also owns 12 ethanol plants located in the U.S. Mid-Continent region with a combined production capacity of approximately 1.7 billion gallons per year. Valero manages its operations through its Refining, Renewable Diesel, and Ethanol segments. Please visit investorvalero.com for more information.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 49,
+  "n_material_neg": 1,
+  "n_positive": 3,
+  "mean_pos_negative": 0.2857142857142857,
+  "mean_pos_positive": 0.40816326530612246,
+  "placement_asymmetry": -0.12244897959183676,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.2857142857142857,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.7222222222222222,
+  "overall_hedge": 0.005668934240362812,
+  "mean_tone": 0.09266045745637583
+ },
+ "lexicon": {
+  "words": 882,
+  "per_1000": {
+   "Negative": 1.1,
+   "Positive": 13.6,
+   "Uncertainty": 5.7,
+   "Litigious": 1.1,
+   "Strong modal": 2.3,
+   "Weak modal": 0.0,
+   "Constraining": 2.3
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 12,
+   "Uncertainty": 5,
+   "Litigious": 1,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Reported net income attributable to Valero stockholders of $1.1 billion, or $3.53 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Reported adjusted net income attributable to Valero stockholders of $1.1 billion, or $3.66 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Returned $1.3 billion to stockholders through dividends and stock buybacks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "The St.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Charles FCC Unit optimization project is expected to begin operations in the second half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "SAN ANTONIO--(BUSINESS WIRE)-- Valero Energy Corporation (NYSE: VLO, \u201cValero\u201d) today reported net income attributable to Valero stockholders of $1.1 billion, or $3.53 per share, for the third quarter of 2025, compared to net income of $364 million, or $1.14 per share, for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Excluding the adjustments shown in the accompanying earnings release tables, adjusted net income attributable to Valero stockholders was $1.1 billion, or $3.66 per share, for the third quarter of 2025, compared to $371 million, or $1.16 per share, for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Refining",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The Refining segment reported operating income of $1.6 billion for the third quarter of 2025, compared to operating income of $565 million for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Adjusted operating income was $1.7 billion for the third quarter of 2025, compared to $568 million for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Refining throughput volumes averaged 3.1 million barrels per day in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\u201cWe are pleased to report strong financial results for the third quarter, highlighting our long-standing track record of operational and commercial excellence,\u201d said Lane Riggs, Valero\u2019s Chairman, Chief Executive Officer and President. \u201cOur refinery throughput utilization was 97 percent, with the Gulf Coast and North Atlantic regions setting new all-time highs for throughput \u2013 following last quarter\u2019s record performance in the Gulf Coast.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.462,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     26,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     148,
+     158,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Renewable Diesel",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The Renewable Diesel segment, which consists of the Diamond Green Diesel joint venture (DGD), reported an operating loss of $28 million for the third quarter of 2025, compared to operating income of $35 million for the third quarter of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     120,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Segment sales volumes averaged 2.7 million gallons per day in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Ethanol",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The Ethanol segment reported $183 million of operating income for the third quarter of 2025, compared to $153 million for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Ethanol production volumes averaged 4.6 million gallons per day in the third quarter of 2025, achieving record production.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     103,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Corporate and Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "General and administrative expenses were $246 million in the third quarter of 2025, compared to $234 million in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The effective tax rate for the third quarter of 2025 was 27 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Investing and Financing Activities",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Net cash provided by operating activities was $1.9 billion in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Included in this amount was a $325 million favorable impact from working capital and $86 million of adjusted net cash used in operating activities associated with the other joint venture member\u2019s share of DGD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     52,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Excluding these items, adjusted net cash provided by operating activities was $1.6 billion in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Capital investments totaled $409 million in the third quarter of 2025, of which $364 million was for sustaining the business, including costs for turnarounds, catalysts and regulatory compliance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     173,
+     183,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Excluding capital investments attributable to the other joint venture member\u2019s share of DGD and other variable interest entities, capital investments attributable to Valero were $382 million in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     102,
+     110,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Valero returned $1.3 billion to stockholders in the third quarter of 2025, of which $351 million was paid as dividends and $931 million was for the purchase of approximately 5.7 million shares of common stock, resulting in a payout ratio of 78 percent of adjusted net cash provided by operating activities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0222,
+   "hits": [
+    [
+     160,
+     173,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Valero has returned over $2.6 billion year-to-date through dividends and stock buybacks.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "\u201cOur strong financial results and record operating achievements this quarter are a testament to our commitment to commercial and operational excellence.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     51,
+     63,
+     [
+      "positive"
+     ]
+    ],
+    [
+     100,
+     110,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     141,
+     151,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "This, coupled with the strength of our balance sheet, should continue to support strong shareholder returns,\u201d said Riggs.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Liquidity and Financial Position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Valero ended the third quarter of 2025 with $8.4 billion of total debt, $2.2 billion of total finance lease obligations, and $4.8 billion of cash and cash equivalents.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     108,
+     119,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "The debt to capitalization ratio, net of cash and cash equivalents, was 18 percent as of September 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Strategic Update",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Valero continues to make progress on the FCC Unit optimization project at the St.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Charles Refinery that will enhance the refinery\u2019s ability to produce high-value products.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     27,
+     34,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "The $230 million project is expected to begin operations in the second half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Conference Call",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Valero\u2019s senior management will hold a conference call at 10 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     31,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "ET today to discuss this earnings release and to provide an update on operations and strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "About Valero",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Valero Energy Corporation, through its subsidiaries (collectively, Valero), is a multinational manufacturer and marketer of petroleum-based and low-carbon liquid transportation fuels and petrochemical products, and sells its products primarily in the United States (U.S.), Canada, the United Kingdom (U.K.), Ireland and Latin America.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Valero owns 15 petroleum refineries located in the U.S., Canada and the U.K. with a combined throughput capacity of approximately 3.2 million barrels per day.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     116,
+     129,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "Valero is a joint venture member in Diamond Green Diesel Holdings LLC, which produces low-carbon fuels including renewable diesel and sustainable aviation fuel (SAF), with a production capacity of approximately 1.2 billion gallons per year in the U.S. Gulf Coast region.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0238,
+   "hits": [
+    [
+     197,
+     210,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "See the annual report on Form 10-K for more information on SAF.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Valero also owns 12 ethanol plants located in the U.S. Mid-Continent region with a combined production capacity of approximately 1.7 billion gallons per year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     115,
+     128,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "Valero manages its operations through its Refining, Renewable Diesel, and Ethanol segments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "Please visit investorvalero.com for more information.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
