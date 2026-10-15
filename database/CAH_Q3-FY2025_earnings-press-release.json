@@ -1,0 +1,255 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-05-01",
+ "source_url": "https://newsroom.cardinalhealth.com/2025-05-01-Cardinal-Health-Reports-Third-Quarter-Fiscal-Year-2025-Results-and-Raises-Fiscal-Year-2025-Outlook",
+ "demo": false,
+ "source_text": "Revenue was flat at $54.9 billion; revenue increased 19% excluding the impact of the previously communicated customer contract expiration\nGAAP1 operating earnings were $730 million; GAAP diluted EPS was $2.10\nNon-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments; non-GAAP diluted EPS increased 13% to $2.35\nFiscal year 2025 non-GAAP EPS guidance2 raised and narrowed to $8.05 to $8.15, from $7.85 to $8.00\nGI Alliance announces expansion into urology specialty therapeutic area\nDUBLIN, Ohio, May 1, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2025 revenues of $54.9 billion, flat to the third quarter of fiscal year 2024. Third quarter revenue increased 19% excluding the impact of the previously communicated customer contract expiration. Third quarter GAAP operating earnings increased to $730 million and GAAP diluted earnings per share (EPS) were $2.10. Third quarter non-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments. Non-GAAP diluted EPS increased 13% to $2.35, reflecting the increase in non-GAAP operating earnings and a lower share count, partially offset by an increase in interest and other expense primarily due to previously anticipated financing costs related to recent acquisitions and a higher non-GAAP effective tax rate.\n\n\"Our strong momentum continued into our third quarter as our team's ongoing focus on operational execution and value creation led to excellent financial results,\" said Jason Hollar, CEO of Cardinal Health. \"I am delighted to see the broad-based performance, with all five of our operating segments contributing to our strong growth. We are pleased to raise our fiscal 2025 guidance demonstrating the strength and resilience of Cardinal Health.\"\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 13,
+  "n_material_neg": 1,
+  "n_positive": 6,
+  "mean_pos_negative": 0.7692307692307693,
+  "mean_pos_positive": 0.5128205128205128,
+  "placement_asymmetry": 0.2564102564102565,
+  "distance_from_headline": -1,
+  "first_negative_pos": 0.7692307692307693,
+  "hedge_near_negative": 0.01,
+  "hedge_near_positive": 0.00196078431372549,
+  "hedging_asymmetry": 5.1000000000000005,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0037735849056603774,
+  "mean_tone": 0.27673401866950254
+ },
+ "lexicon": {
+  "words": 265,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 26.4,
+   "Uncertainty": 7.5,
+   "Litigious": 7.5,
+   "Strong modal": 0.0,
+   "Weak modal": 3.8,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 7,
+   "Uncertainty": 2,
+   "Litigious": 2,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue was flat at $54.9 billion; revenue increased 19% excluding the impact of the previously communicated customer contract expiration.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     126,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "GAAP1 operating earnings were $730 million; GAAP diluted EPS was $2.10.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Non-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments; non-GAAP diluted EPS increased 13% to $2.35.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Fiscal year 2025 non-GAAP EPS guidance2 raised and narrowed to $8.05 to $8.15, from $7.85 to $8.00.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "GI Alliance announces expansion into urology specialty therapeutic area.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "DUBLIN, Ohio, May 1, 2025 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported third quarter fiscal year 2025 revenues of $54.9 billion, flat to the third quarter of fiscal year 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     17,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Third quarter revenue increased 19% excluding the impact of the previously communicated customer contract expiration.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     105,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Third quarter GAAP operating earnings increased to $730 million and GAAP diluted earnings per share (EPS) were $2.10.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Third quarter non-GAAP operating earnings increased 21% to $807 million, driven by segment profit growth across all of the company's operating segments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Non-GAAP diluted EPS increased 13% to $2.35, reflecting the increase in non-GAAP operating earnings and a lower share count, partially offset by an increase in interest and other expense primarily due to previously anticipated financing costs related to recent acquisitions and a higher non-GAAP effective tax rate.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0208,
+   "hits": [
+    [
+     215,
+     226,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\"Our strong momentum continued into our third quarter as our team's ongoing focus on operational execution and value creation led to excellent financial results,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 0,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     142,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\"I am delighted to see the broad-based performance, with all five of our operating segments contributing to our strong growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     118,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We are pleased to raise our fiscal 2025 guidance demonstrating the strength and resilience of Cardinal Health.\"",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     67,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
