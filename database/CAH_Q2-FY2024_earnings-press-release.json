@@ -1,0 +1,270 @@
+{
+ "company": "Cardinal Health",
+ "ticker": "CAH",
+ "sector": "Health Care",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-02-01",
+ "source_url": "https://newsroom.cardinalhealth.com/2024-02-01-Cardinal-Health-Reports-Second-Quarter-Fiscal-2024-Results-and-Raises-Fiscal-2024-Outlook",
+ "demo": false,
+ "source_text": "Revenue increased 12% to $57.4 billion\nGAAP1 operating earnings were $482 million; GAAP diluted EPS was $1.43\nNon-GAAP operating earnings increased 20% to $562 million; non-GAAP diluted EPS increased 38% to $1.82\nFiscal 2024 non-GAAP EPS guidance raised to $7.20 to $7.35, from $6.75 to $7.002,3\nFiscal 2024 non-GAAP adjusted free cash flow guidance raised to ~$2.5 billion, from ~$2.0 billion\nCardinal Health to acquire Specialty Networks, a technology-enabled multi-specialty group purchasing and practice enhancement organization\nDUBLIN, Ohio, Feb. 1, 2024 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported second quarter fiscal 2024 revenue of $57.4 billion, an increase of 12% from the second quarter of last year. Second quarter GAAP operating earnings were $482 million and GAAP diluted earnings per share (EPS) were $1.43. Second quarter non-GAAP operating earnings increased 20% to $562 million, driven by strong growth in both Pharmaceutical segment profit and Medical segment profit. Non-GAAP diluted earnings per share (EPS) increased 38% to $1.82, driven by four factors: the increase in non-GAAP operating earnings, a lower share count following incremental share repurchase activity, lower interest and other expense and a lower non-GAAP effective tax rate.\n\n\"We delivered strong second quarter results across the enterprise, demonstrating continued momentum against our strategic priorities,\" said Jason Hollar, CEO of Cardinal Health. \"With strong growth in Pharmaceutical segment profit and continued progress against our Medical Improvement Plan, we are continuing to drive operational execution in our core business. Along with our recent announcements of a tech-enabled specialty acquisition and growth portfolio prioritization, we remain focused on best serving our customers and creating value for our shareholders.\"\n\n\"With our first half performance including positive operating leverage, incremental return of capital to shareholders beyond our baseline plans, and confidence in our efforts as we look ahead, we are pleased to again raise our FY24 non-GAAP EPS guidance, which reflects 26% growth at the mid-point compared to our FY23 results,\" said Aaron Alt, CFO of Cardinal Health.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.6160714285714286,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.2323153176455339
+ },
+ "lexicon": {
+  "words": 308,
+  "per_1000": {
+   "Negative": 6.5,
+   "Positive": 35.7,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 3.2,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 11,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 12% to $57.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "GAAP1 operating earnings were $482 million; GAAP diluted EPS was $1.43.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Non-GAAP operating earnings increased 20% to $562 million; non-GAAP diluted EPS increased 38% to $1.82.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Fiscal 2024 non-GAAP EPS guidance raised to $7.20 to $7.35, from $6.75 to $7.002,3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Fiscal 2024 non-GAAP adjusted free cash flow guidance raised to ~$2.5 billion, from ~$2.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Cardinal Health to acquire Specialty Networks, a technology-enabled multi-specialty group purchasing and practice enhancement organization.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     114,
+     125,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "DUBLIN, Ohio, Feb. 1, 2024 /PRNewswire/ -- Cardinal Health (NYSE: CAH) today reported second quarter fiscal 2024 revenue of $57.4 billion, an increase of 12% from the second quarter of last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Second quarter GAAP operating earnings were $482 million and GAAP diluted earnings per share (EPS) were $1.43.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Second quarter non-GAAP operating earnings increased 20% to $562 million, driven by strong growth in both Pharmaceutical segment profit and Medical segment profit.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     90,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Non-GAAP diluted earnings per share (EPS) increased 38% to $1.82, driven by four factors: the increase in non-GAAP operating earnings, a lower share count following incremental share repurchase activity, lower interest and other expense and a lower non-GAAP effective tax rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\"We delivered strong second quarter results across the enterprise, demonstrating continued momentum against our strategic priorities,\" said Jason Hollar, CEO of Cardinal Health.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     100,
+     107,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\"With strong growth in Pharmaceutical segment profit and continued progress against our Medical Improvement Plan, we are continuing to drive operational execution in our core business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     67,
+     75,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     83,
+     [
+      "negative"
+     ]
+    ],
+    [
+     96,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Along with our recent announcements of a tech-enabled specialty acquisition and growth portfolio prioritization, we remain focused on best serving our customers and creating value for our shareholders.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     53,
+     [
+      "positive"
+     ]
+    ],
+    [
+     134,
+     138,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "\"With our first half performance including positive operating leverage, incremental return of capital to shareholders beyond our baseline plans, and confidence in our efforts as we look ahead, we are pleased to again raise our FY24 non-GAAP EPS guidance, which reflects 26% growth at the mid-point compared to our FY23 results,\" said Aaron Alt, CFO of Cardinal Health.",
+   "d": 1,
+   "m": false,
+   "tone": 0.339,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     51,
+     [
+      "positive"
+     ]
+    ],
+    [
+     200,
+     207,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
