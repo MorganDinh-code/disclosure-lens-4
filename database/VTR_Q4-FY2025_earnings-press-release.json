@@ -1,0 +1,511 @@
+{
+ "company": "Ventas, Inc.",
+ "ticker": "VTR",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-05",
+ "source_url": "https://ir.ventasreit.com/news/news-details/2026/Ventas-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Provides-2026-Outlook-and-Increases-Dividend/default.aspx",
+ "demo": false,
+ "source_text": "CHICAGO--(BUSINESS WIRE)-- Ventas, Inc. (NYSE: VTR) (\u201cVentas\u201d or the \u201cCompany\u201d) today reported results for the full year and fourth quarter ended December 31, 2025.\n\nCEO Remarks\n\n\u201cVentas delivered strong performance and enterprise growth in the fourth quarter and full year 2025. We executed our strategy to drive organic and external growth in senior housing and increased our participation in this multiyear growth opportunity,\u201d said Debra A. Cafaro, Ventas Chairman and CEO.\n\n\u201cIn 2025, we grew Same-Store Cash Net Operating Income (\u201cNOI\u201d) by over 15% in our senior housing operating portfolio (\u201cSHOP\u201d). We capitalized on powerful secular demand trends and utilized our proprietary analytic and operational insights to deliver our fourth consecutive year of double-digit SHOP Same-Store Cash NOI growth. More seniors than ever are choosing to reside in senior housing for the safety, support and socialization benefits it provides.\n\n\u201cWe also built on our senior housing investment momentum and completed $2.5 billion of accretive investments.\n\n\u201cWe are increasing our quarterly dividend to common stockholders as a result of our strong results and positive outlook. In 2026 and beyond, the Ventas team remains focused on delivering exceptional performance at scale,\u201d Cafaro concluded.\n\nFourth Quarter 2025 Highlights\n\nAttributable Net Income per share of $0.15\nNormalized FFO* per share of $0.89, an increase of approximately 10% compared to the prior year\nTotal Company NOI* year-over-year growth of 15% and Total Company Same-Store Cash NOI* year-over-year growth of 8%\nOn a Same-Store Cash NOI* basis, SHOP had over 15% year-over-year growth, with year-over-year average occupancy growth of 300 basis points and strong RevPOR growth\nSHOP Same-Store Cash NOI* growth of over 15% year-over-year was led by 18% growth in the U.S. portfolio. U.S. average occupancy grew 370 basis points, including 490 basis points of growth at U.S. independent living communities\nVentas\u2019s Net Debt-to-Further Adjusted EBITDA* improved to 5.2x as of the end of the fourth quarter 2025, driven by SHOP segment growth and equity-funded senior housing investments\nAs of December 31, 2025, the Company had $5.3 billion in liquidity, supporting Ventas\u2019s growth and financial flexibility. Liquidity includes availability under the Company\u2019s unsecured revolving credit facility, cash and cash equivalents and unsettled equity forward sales agreements outstanding\nFull Year 2025 and Recent Highlights\n\nAttributable Net Income per share of $0.54\nNormalized FFO* per share of $3.48, an increase of approximately 9% compared to the prior year\nTotal Company NOI* year-over-year growth of 16% and Total Company Same-Store Cash NOI* year-over-year growth of 8%\nOn a Same-Store Cash NOI* basis, SHOP had over 15% year-over-year growth, led by the U.S. with growth of more than 18%\nThe Company closed $2.5 billion of senior housing investments in 2025 with attractive growth and financial return expectations\nDuring 2025, the Company raised $3.2 billion of equity and currently has $1.2 billion of unsettled equity forward sales agreements outstanding\nVentas Declares Quarterly Dividend of $0.52 Per Common Share, Representing 8% Increase\n\nThe Company\u2019s Board of Directors has declared a quarterly dividend of $0.52 per share, representing an 8% increase, on the strength of the Company\u2019s expected cash flow growth and its positive outlook. The dividend will be payable in cash on April 16, 2026 to stockholders of record on March 31, 2026.\n\nSenior Housing Investments Year to Date\n\nVentas has closed over $0.8 billion of senior housing investments year to date 2026. These investments follow the Company\u2019s Right Market, Right Asset, Right OperatorTM framework and are expected to enhance enterprise growth and generate attractive financial returns. The Company\u2019s senior housing investment momentum and pipeline remain strong. The year-to-date 2026 investments include relationship-driven transactions with existing and new SHOP operators.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 0,
+  "n_positive": 18,
+  "mean_pos_positive": 0.5200617283950617,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0045546855499090004,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.006734006734006734,
+  "mean_tone": 0.17746813371813372
+ },
+ "lexicon": {
+  "words": 594,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 21.9,
+   "Uncertainty": 6.7,
+   "Litigious": 0.0,
+   "Strong modal": 1.7,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 13,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CHICAGO--(BUSINESS WIRE)-- Ventas, Inc. (NYSE: VTR) (\u201cVentas\u201d or the \u201cCompany\u201d) today reported results for the full year and fourth quarter ended December 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "CEO Remarks",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "\u201cVentas delivered strong performance and enterprise growth in the fourth quarter and full year 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "We executed our strategy to drive organic and external growth in senior housing and increased our participation in this multiyear growth opportunity,\u201d said Debra A.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     148,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Cafaro, Ventas Chairman and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201cIn 2025, we grew Same-Store Cash Net Operating Income (\u201cNOI\u201d) by over 15% in our senior housing operating portfolio (\u201cSHOP\u201d).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "We capitalized on powerful secular demand trends and utilized our proprietary analytic and operational insights to deliver our fourth consecutive year of double-digit SHOP Same-Store Cash NOI growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "More seniors than ever are choosing to reside in senior housing for the safety, support and socialization benefits it provides.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\u201cWe also built on our senior housing investment momentum and completed $2.5 billion of accretive investments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\u201cWe are increasing our quarterly dividend to common stockholders as a result of our strong results and positive outlook.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     90,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "In 2026 and beyond, the Ventas team remains focused on delivering exceptional performance at scale,\u201d Cafaro concluded.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     77,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Fourth Quarter 2025 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Attributable Net Income per share of $0.15.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Normalized FFO* per share of $0.89, an increase of approximately 10% compared to the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     51,
+     64,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Total Company NOI* year-over-year growth of 15% and Total Company Same-Store Cash NOI* year-over-year growth of 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "On a Same-Store Cash NOI* basis, SHOP had over 15% year-over-year growth, with year-over-year average occupancy growth of 300 basis points and strong RevPOR growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     143,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "SHOP Same-Store Cash NOI* growth of over 15% year-over-year was led by 18% growth in the U.S. portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "U.S. average occupancy grew 370 basis points, including 490 basis points of growth at U.S. independent living communities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Ventas\u2019s Net Debt-to-Further Adjusted EBITDA* improved to 5.2x as of the end of the fourth quarter 2025, driven by SHOP segment growth and equity-funded senior housing investments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "As of December 31, 2025, the Company had $5.3 billion in liquidity, supporting Ventas\u2019s growth and financial flexibility.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Liquidity includes availability under the Company\u2019s unsecured revolving credit facility, cash and cash equivalents and unsettled equity forward sales agreements outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     119,
+     128,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Full Year 2025 and Recent Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Attributable Net Income per share of $0.54.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Normalized FFO* per share of $3.48, an increase of approximately 9% compared to the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     51,
+     64,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Total Company NOI* year-over-year growth of 16% and Total Company Same-Store Cash NOI* year-over-year growth of 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "On a Same-Store Cash NOI* basis, SHOP had over 15% year-over-year growth, led by the U.S. with growth of more than 18%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Company closed $2.5 billion of senior housing investments in 2025 with attractive growth and financial return expectations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "During 2025, the Company raised $3.2 billion of equity and currently has $1.2 billion of unsettled equity forward sales agreements outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     89,
+     98,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Ventas Declares Quarterly Dividend of $0.52 Per Common Share, Representing 8% Increase",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The Company\u2019s Board of Directors has declared a quarterly dividend of $0.52 per share, representing an 8% increase, on the strength of the Company\u2019s expected cash flow growth and its positive outlook.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     123,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     183,
+     191,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "The dividend will be payable in cash on April 16, 2026 to stockholders of record on March 31, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Senior Housing Investments Year to Date",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Ventas has closed over $0.8 billion of senior housing investments year to date 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "These investments follow the Company\u2019s Right Market, Right Asset, Right OperatorTM framework and are expected to enhance enterprise growth and generate attractive financial returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     120,
+     [
+      "positive"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "The Company\u2019s senior housing investment momentum and pipeline remain strong.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "The year-to-date 2026 investments include relationship-driven transactions with existing and new SHOP operators.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
