@@ -1,0 +1,350 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-11",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2024/Q3/BLK-3Q24-Earning-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Third Quarter 2024 Diluted EPS of $10.90, or $11.46 as adjusted\nNew York, October 11, 2024 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and nine months ended\nSeptember 30, 2024.\n$360 billion of year-to-date total net inflows reflect\ncontinued strength of broad-based platform, and surpass\nfull year net inflows of 2022 and 2023\nRecord $221 billion of quarterly total net inflows\nrepresent 8% annualized organic asset growth and were\npositive across client type, product type, active and index,\nand regions\n$11.5 trillion in AUM, up $2.4 trillion year-over-year, driven by $456\nbillion of net inflows and positive market movements\n15% increase in revenue year-over-year, driven by the positive\nimpact of markets on average AUM, organic base fee growth, and\nhigher performance fees\n23% increase in operating income year-over-year (26% as\nadjusted)\n2% increase in diluted EPS year-over-year (5% as\nadjusted) also reflects a higher effective tax rate in the\ncurrent quarter\n$375 million of share repurchases in the current quarter\nClosed acquisition of Global Infrastructure Partners\n(\"GIP\") on October 1st, adding $116 billion of client AUM\nand $70 billion of fee-paying AUM\n\nLaurence D. Fink, Chairman and CEO:\n\u201cOur strategy is ambitious, and our strategy is working. The assets we\nmanage on behalf of our clients reached a new high, ending the third\nquarter at $11.5 trillion, having grown $2.4 trillion over the last twelve\nmonths. In that time, clients have entrusted BlackRock with $456\nbillion of net inflows, including a record $221 billion in the third\nquarter. Third quarter organic base fee growth of 5% and technology\nservices ACV growth of 15% are each at multi-year highs.\n\n\u201cWe are effectively leveraging our technology, scale, and global\nfootprint to deliver profitable growth. Quarterly revenue and operating\nincome both set new records, up 15% and 26% year-over-year,\nrespectively. Our 45.8% operating margin is up 350 basis points.\n\u201cThrough coordinated investments and initiatives, we are evolving our\nprivate markets capabilities to best serve our clients. We\u2019re already\nseeing the power of BlackRock and GIP together as we drive access to\nthe enormous investment potential of infrastructure, especially to\nsupport AI innovation. We believe the model portfolio solution we are\nbuilding will democratize retail access to private markets. And our\nplanned acquisition of Preqin will enhance data and risk analytics\nneeded to support growing private markets allocations.\n\n\u201cOur relentless focus on clients, growth mindset and willingness to\nevolve has generated a compounded annual total return of over 20%\nfor our shareholders since our IPO 25 years ago, well in excess of\nbroader markets. The opportunities ahead of us have never been\ngreater, and we look forward to driving growth for our clients,\nshareholders and employees in the years to come.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 0,
+  "n_positive": 9,
+  "mean_pos_positive": 0.6455026455026455,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.001388888888888889,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004608294930875576,
+  "mean_tone": 0.18806020330491335
+ },
+ "lexicon": {
+  "words": 434,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 23.0,
+   "Uncertainty": 4.6,
+   "Litigious": 0.0,
+   "Strong modal": 9.2,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 10,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Third Quarter 2024 Diluted EPS of $10.90, or $11.46 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, October 11, 2024 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and nine months ended.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$360 billion of year-to-date total net inflows reflect continued strength of broad-based platform, and surpass full year net inflows of 2022 and 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Record $221 billion of quarterly total net inflows represent 8% annualized organic asset growth and were positive across client type, product type, active and index, and regions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "$11.5 trillion in AUM, up $2.4 trillion year-over-year, driven by $456 billion of net inflows and positive market movements 15% increase in revenue year-over-year, driven by the positive impact of markets on average AUM, organic base fee growth, and higher performance fees 23% increase in operating income year-over-year (26% as adjusted) 2% increase in diluted EPS year-over-year (5% as adjusted) also reflects a higher effective tax rate in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.282,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     106,
+     [
+      "positive"
+     ]
+    ],
+    [
+     178,
+     186,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "$375 million of share repurchases in the current quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Closed acquisition of Global Infrastructure Partners (\"GIP\") on October 1st, adding $116 billion of client AUM and $70 billion of fee-paying AUM",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fink, Chairman and CEO: \u201cOur strategy is ambitious, and our strategy is working.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The assets we manage on behalf of our clients reached a new high, ending the third quarter at $11.5 trillion, having grown $2.4 trillion over the last twelve months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "In that time, clients have entrusted BlackRock with $456 billion of net inflows, including a record $221 billion in the third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Third quarter organic base fee growth of 5% and technology services ACV growth of 15% are each at multi-year highs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\u201cWe are effectively leveraging our technology, scale, and global footprint to deliver profitable growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Quarterly revenue and operating income both set new records, up 15% and 26% year-over-year, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Our 45.8% operating margin is up 350 basis points. \u201cThrough coordinated investments and initiatives, we are evolving our private markets capabilities to best serve our clients.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     153,
+     157,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "We\u2019re already seeing the power of BlackRock and GIP together as we drive access to the enormous investment potential of infrastructure, especially to support AI innovation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     161,
+     171,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We believe the model portfolio solution we are building will democratize retail access to private markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     56,
+     60,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "And our planned acquisition of Preqin will enhance data and risk analytics needed to support growing private markets allocations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     38,
+     42,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     43,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     64,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "\u201cOur relentless focus on clients, growth mindset and willingness to evolve has generated a compounded annual total return of over 20% for our shareholders since our IPO 25 years ago, well in excess of broader markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The opportunities ahead of us have never been greater, and we look forward to driving growth for our clients, shareholders and employees in the years to come.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     35,
+     40,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
