@@ -1,0 +1,359 @@
+{
+ "company": "Apollo Global Management",
+ "ticker": "APO",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-06",
+ "source_url": "https://ir.apollo.com/_assets/_be2fe842f40c287b56cc0df2e7037b84/apollo/db/2247/22868/full_earnings_release/AGM+Earnings+Release+1Q%272026.pdf",
+ "demo": false,
+ "source_text": "Apollo Reports First Quarter 2026 Results\nNew York, May 6, 2026 \u2013 Apollo Global Management, Inc. (NYSE: APO) (together with its consolidated subsidiaries,\n\u201cApollo\u201d) today reported results for the first quarter ended March 31, 2026.\nDividend\nApollo Global Management, Inc. has declared a cash dividend of $0.5625 per share of its Common Stock for the first\nquarter ended March  31, 2026. This dividend will be paid on May  29, 2026 to holders of record at the close of\nbusiness on May 19, 2026.\nApollo Global Management, Inc. has also declared and set aside for payment a cash dividend of $0.8438 per share of\nits Mandatory Convertible Preferred Stock, which will be paid on July 31, 2026 to holders of record at the close of\nbusiness on July 15, 2026.\nThe declaration and payment of dividends on the Common Stock and the Mandatory Convertible Preferred Stock are\nat the sole discretion of Apollo Global Management, Inc.\u2019s board of directors. Apollo cannot assure its stockholders\nthat they will receive any dividends in the future.\nConference Call\nApollo will host a public audio webcast on Wednesday, May 6, 2026 at 8:30 a.m. Eastern Time. During the webcast,\nmembers of Apollo\u2019s senior management team will review Apollo\u2019s financial results for the first quarter ended\nMarch 31, 2026.\nThe webcast may be accessed at ir.apollo.com. For those unable to listen to the live broadcast, there will be a replay\nof the webcast available at the same link one hour after the event.\nApollo distributes its earnings releases via its website and email distribution lists. Those interested in receiving firm\nupdates by email can sign up for them at ir.apollo.com.\n\n\u201cOur first quarter results set a strong\ntone for the year, with record feerelated earnings and assets under\nmanagement surpassing $1 trillion \u2013 a\ntestament to the trust our clients place\nin us and a reminder of the value we\ncreate at scale. Whether we\u2019re\noriginating investment grade credit,\ndelivering retirement solutions, or\ndeveloping new products and\ncapabilities, innovation and discipline\ncontinue to drive us forward.\u201d\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 19,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.5087719298245614,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0030864197530864196,
+  "mean_tone": 0.06570457308583111
+ },
+ "lexicon": {
+  "words": 324,
+  "per_1000": {
+   "Negative": 3.1,
+   "Positive": 12.3,
+   "Uncertainty": 15.4,
+   "Litigious": 0.0,
+   "Strong modal": 18.5,
+   "Weak modal": 15.4,
+   "Constraining": 6.2
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 4,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 6,
+   "Weak modal": 5,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Apollo Reports First Quarter 2026 Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, May 6, 2026 \u2013 Apollo Global Management, Inc. (NYSE: APO) (together with its consolidated subsidiaries, \u201cApollo\u201d) today reported results for the first quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     13,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Dividend.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Apollo Global Management, Inc. has declared a cash dividend of $0.5625 per share of its Common Stock for the first quarter ended March  31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "This dividend will be paid on May  29, 2026 to holders of record at the close of business on May 19, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     18,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     30,
+     33,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     93,
+     96,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Apollo Global Management, Inc. has also declared and set aside for payment a cash dividend of $0.8438 per share of its Mandatory Convertible Preferred Stock, which will be paid on July 31, 2026 to holders of record at the close of business on July 15, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     119,
+     128,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     164,
+     168,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "The declaration and payment of dividends on the Common Stock and the Mandatory Convertible Preferred Stock are at the sole discretion of Apollo Global Management, Inc.\u2019s board of directors.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     78,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Apollo cannot assure its stockholders that they will receive any dividends in the future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     48,
+     52,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Conference Call.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Apollo will host a public audio webcast on Wednesday, May 6, 2026 at 8:30 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     54,
+     57,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Eastern Time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "During the webcast, members of Apollo\u2019s senior management team will review Apollo\u2019s financial results for the first quarter ended.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     67,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The webcast may be accessed at ir.apollo.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     12,
+     15,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "For those unable to listen to the live broadcast, there will be a replay of the webcast available at the same link one hour after the event.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "negative"
+     ]
+    ],
+    [
+     56,
+     60,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Apollo distributes its earnings releases via its website and email distribution lists.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Those interested in receiving firm updates by email can sign up for them at ir.apollo.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "\u201cOur first quarter results set a strong tone for the year, with record feerelated earnings and assets under management surpassing $1 trillion \u2013 a testament to the trust our clients place in us and a reminder of the value we create at scale.",
+   "d": 1,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     39,
+     [
+      "positive"
+     ]
+    ],
+    [
+     119,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Whether we\u2019re originating investment grade credit, delivering retirement solutions, or developing new products and capabilities, innovation and discipline continue to drive us forward.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     129,
+     139,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
