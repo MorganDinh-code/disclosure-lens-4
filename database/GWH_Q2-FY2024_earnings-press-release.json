@@ -1,0 +1,437 @@
+{
+ "company": "ESS Tech, Inc.",
+ "ticker": "GWH",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-08-14",
+ "source_url": "https://investors.essinc.com/news/news-details/2024/ESS-Tech-Inc.-Announces-Second-Quarter-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "Finalizing Funding Agreement for up to $50 Million with Export-Import Bank of the United States\n\nBegan Production of Second Energy Center for Portland General Electric\n\nEnergy Warehouse Becomes First Operational Long-Duration Energy Storage at an Airport\n\nExited Q2 with Cash and Short-Term Investments over $74 Million; Expected to Carry ESS Well Into 2025\n\nWILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its second quarter ended June 30, 2024.\n\n\u201cESS made significant headway in the business in the second quarter and we continue to be encouraged by the growing imperative for Long Duration Energy Storage to be coupled to renewables. Importantly, outside funding is expected to play an important role for not only our operational expansion, but also our partnership with Sacramento Municipal Utility District, or SMUD. First, we are close to finalizing an agreement for up to $50 million in funding from the Export-Import Bank of the United States to expand our manufacturing capacity and expect to add about $10 million to our balance sheet in the second half alone for previously installed capacity. Additionally, our long duration storage project with SMUD has been granted $10 million by the California Energy Commission to further our collaboration. Our progress with our projects across numerous customers in the second quarter also reflects the continued importance of our relationships. In Q2, our Energy Warehouses started charging ground power units at Schiphol airport in Amsterdam, were integrated into Burbank Water and Power\u2019s EcoCampus and connected to a 265 kW solar array, and was selected by Indian Energy, the California Energy Commission and the Department of Defense for testing to deliver energy security to remote communities like tribal nations and military bases,\u201d said Eric Dresselhuys, CEO of ESS. \u201cAlthough revenue in the second quarter was lower than expected due to the timing of EW shipments due to delays at a key partner, we expect this to resolve itself in the coming weeks, allowing us to ship our products and recover revenue in the third quarter.\u201d\n\n\u201cOn the Energy Center front, we remain on schedule with Portland General Electric and continue to expect to ramp EC shipments in the back half of the year. With the first EC currently cycling, we began production of our second unit in July and expect these to be connected to the grid by late 2024. In parallel, we have positioned our operations to begin building the first ECs for commercial deliveries to Tampa Electric and SMUD later this month. Our plan to transition to volume manufacturing and shipments remains solidly on track and we continue to expect to achieve our goal of growing our revenue by three to four times in 2024.\u201d\n\nRecent Business Highlights\n\nAn Energy Warehouse\u2122 (EW) system at Schiphol Airport in Amsterdam, the second largest airport in mainland Europe, became the first iron flow battery to be operational at an airport. This EW will be used to help advance Schiphol Airport\u2019s sustainability strategy and has now been tested on Schiphol\u2019s AB platform. The EW system has begun to be used to recharge Electric Ground Power Units (E-GPU), which are intended to replace the diesel ground power units currently used to supply electrical power to aircraft when parked at airport gates.\nThe California Energy Commission, or CEC, awarded a $10 million grant to a long-duration battery storage project in partnership with ESS and Sacramento Municipal Utility District, or SMUD. The CEC funding will be used to demonstrate a 3.6 MW, 8-hour iron flow battery project, with SMUD committing an additional $19.5 million to cover additional other costs for the LDES project.\n\nWe are finalizing the details to close agreement with the Export-Import Bank of the United States, or EXIM, for up to $50 million in funding provided by the Make More in America Initiative. This funding is long-term, low interest, and non-dilutive capital to finance expanding manufacturing capacity, enabling ESS to immediately add to our cash position, borrowing about $10 million on a lookback basis for previously installed capacity. Later this year, the funding is planned to be used for the addition of our second manufacturing line, which is expected to triple our production capacity.\n\nIndian Energy, a Native American-owned microgrid developer and integrator, the CEC, and the Department of Defense together selected ESS\u2019 iron flow batteries to demonstrate the diverse capabilities of LDES technologies for utility-scale, resilient microgrids and their ability to deliver energy security to remote communities like tribal nations and military bases. Over the coming months, our project partners are expecting to demonstrate optimal use cases in the California energy market, including solar peak shifting and grid ancillary services, after which we expect our EW to be placed into commercial operation.\nWe began building our second EC in July, which we plan to deploy beside the first EC, both for Portland General Electric. We expect to start building and shipping our first commercial ECs in the second half of 2024 for delivery to Tampa Electric and the Sacramento Municipal Utility District, or SMUD.\nWe filed our definitive proxy statement with the SEC on August 8, 2024 to execute a reverse split, following a listing notice from the NYSE received in March. We will hold our special shareholders meetings on August 23 rd and, once having effected the split in late August, we expect to be in compliance with the listing requirements and will continue our operations as a publicly-listed company.\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 1,
+  "n_positive": 1,
+  "mean_pos_negative": 0.36666666666666664,
+  "mean_pos_positive": 0.5,
+  "placement_asymmetry": -0.13333333333333336,
+  "distance_from_headline": 9,
+  "first_negative_pos": 0.36666666666666664,
+  "hedge_near_negative": 0.012345679012345678,
+  "hedge_near_positive": 0.01694915254237288,
+  "hedging_asymmetry": 0.7283950617283951,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.008714596949891068,
+  "mean_tone": 0.060345689766421476
+ },
+ "lexicon": {
+  "words": 918,
+  "per_1000": {
+   "Negative": 2.2,
+   "Positive": 7.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 4.4,
+   "Weak modal": 0.0,
+   "Constraining": 2.2
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 7,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Finalizing Funding Agreement for up to $50 Million with Export-Import Bank of the United States",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Began Production of Second Energy Center for Portland General Electric",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Energy Warehouse Becomes First Operational Long-Duration Energy Storage at an Airport",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Exited Q2 with Cash and Short-Term Investments over $74 Million; Expected to Carry ESS Well Into 2025",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "WILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its second quarter ended June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\u201cESS made significant headway in the business in the second quarter and we continue to be encouraged by the growing imperative for Long Duration Energy Storage to be coupled to renewables.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     90,
+     100,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     126,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Importantly, outside funding is expected to play an important role for not only our operational expansion, but also our partnership with Sacramento Municipal Utility District, or SMUD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "First, we are close to finalizing an agreement for up to $50 million in funding from the Export-Import Bank of the United States to expand our manufacturing capacity and expect to add about $10 million to our balance sheet in the second half alone for previously installed capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0213,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Additionally, our long duration storage project with SMUD has been granted $10 million by the California Energy Commission to further our collaboration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     138,
+     151,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our progress with our projects across numerous customers in the second quarter also reflects the continued importance of our relationships.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "In Q2, our Energy Warehouses started charging ground power units at Schiphol airport in Amsterdam, were integrated into Burbank Water and Power\u2019s EcoCampus and connected to a 265 kW solar array, and was selected by Indian Energy, the California Energy Commission and the Department of Defense for testing to deliver energy security to remote communities like tribal nations and military bases,\u201d said Eric Dresselhuys, CEO of ESS. \u201cAlthough revenue in the second quarter was lower than expected due to the timing of EW shipments due to delays at a key partner, we expect this to resolve itself in the coming weeks, allowing us to ship our products and recover revenue in the third quarter.\u201d",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0088,
+   "hits": [
+    [
+     535,
+     541,
+     [
+      "negative"
+     ]
+    ],
+    [
+     578,
+     585,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cOn the Energy Center front, we remain on schedule with Portland General Electric and continue to expect to ramp EC shipments in the back half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "With the first EC currently cycling, we began production of our second unit in July and expect these to be connected to the grid by late 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "In parallel, we have positioned our operations to begin building the first ECs for commercial deliveries to Tampa Electric and SMUD later this month.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Our plan to transition to volume manufacturing and shipments remains solidly on track and we continue to expect to achieve our goal of growing our revenue by three to four times in 2024.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     115,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Recent Business Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "An Energy Warehouse\u2122 (EW) system at Schiphol Airport in Amsterdam, the second largest airport in mainland Europe, became the first iron flow battery to be operational at an airport.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "This EW will be used to help advance Schiphol Airport\u2019s sustainability strategy and has now been tested on Schiphol\u2019s AB platform.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     12,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The EW system has begun to be used to recharge Electric Ground Power Units (E-GPU), which are intended to replace the diesel ground power units currently used to supply electrical power to aircraft when parked at airport gates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The California Energy Commission, or CEC, awarded a $10 million grant to a long-duration battery storage project in partnership with ESS and Sacramento Municipal Utility District, or SMUD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The CEC funding will be used to demonstrate a 3.6 MW, 8-hour iron flow battery project, with SMUD committing an additional $19.5 million to cover additional other costs for the LDES project.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     20,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     98,
+     108,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "We are finalizing the details to close agreement with the Export-Import Bank of the United States, or EXIM, for up to $50 million in funding provided by the Make More in America Initiative.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "This funding is long-term, low interest, and non-dilutive capital to finance expanding manufacturing capacity, enabling ESS to immediately add to our cash position, borrowing about $10 million on a lookback basis for previously installed capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     119,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Later this year, the funding is planned to be used for the addition of our second manufacturing line, which is expected to triple our production capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Indian Energy, a Native American-owned microgrid developer and integrator, the CEC, and the Department of Defense together selected ESS\u2019 iron flow batteries to demonstrate the diverse capabilities of LDES technologies for utility-scale, resilient microgrids and their ability to deliver energy security to remote communities like tribal nations and military bases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Over the coming months, our project partners are expecting to demonstrate optimal use cases in the California energy market, including solar peak shifting and grid ancillary services, after which we expect our EW to be placed into commercial operation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0256,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "We began building our second EC in July, which we plan to deploy beside the first EC, both for Portland General Electric.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "We expect to start building and shipping our first commercial ECs in the second half of 2024 for delivery to Tampa Electric and the Sacramento Municipal Utility District, or SMUD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "We filed our definitive proxy statement with the SEC on August 8, 2024 to execute a reverse split, following a listing notice from the NYSE received in March.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "We will hold our special shareholders meetings on August 23 rd and, once having effected the split in late August, we expect to be in compliance with the listing requirements and will continue our operations as a publicly-listed company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0256,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     162,
+     174,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     179,
+     183,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
