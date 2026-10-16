@@ -1,0 +1,366 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-08-04",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-second-quarter-2025-results-increases-full-year",
+ "demo": false,
+ "source_text": "\"We delivered another successful quarter, driven by the quality of our portfolio and disciplined execution,\" said David Simon, Chairman, Chief Executive Officer and President. \"Our strategic investments and A-rated balance sheet position us for sustained long-term cash flow growth.  Today, we are raising our dividend and increasing the mid-point of our full-year 2025 Real Estate FFO guidance.\"  \n\nResults for the Quarter\n\nNet income attributable to common stockholders was $556.1 million, or $1.70 per diluted share, as compared to $493.5 million, or $1.51 per diluted share in 2024.\nReal Estate Funds From Operations (\"FFO\") was $1.154 billion, or $3.05 per diluted share as compared to $1.100 billion, or $2.93 per diluted share in the prior year, an increase of 4.1%.\nFFO was $1.189 billion, or $3.15 per diluted share as compared to $1.088 billion, or $2.90 per diluted share in the prior year. \nDomestic property Net Operating Income (\"NOI\") increased 4.2% and portfolio NOI increased 4.7% compared to the prior year period. \nResults for the Six Months\n\nNet income attributable to common stockholders was $969.8 million, or $2.97 per diluted share, as compared to $1.225 billion, or $3.76 per diluted share in 2024.\nReal Estate FFO was $2.268 billion, or $6.01 per diluted share as compared to $2.191 billion, or $5.84 per diluted share in the prior year.\nFFO was $2.194 billion, or $5.82 per diluted share as compared to $2.421 billion, or $6.46 per diluted share in the prior year. \nDomestic property NOI increased 3.8% and portfolio NOI increased 4.2% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at June 30, 2025 was 96.0%, a 0.4% increase compared to 95.6% at June 30, 2024.\nBase minimum rent per square foot was $58.70 at June 30, 2025, compared to $57.94 at June 30, 2024, an increase of 1.3%. \nReported retailer sales per square foot was $736 for the trailing 12 months ended June 30, 2025.\nAcquisition Activity\nOn June 27, 2025, the Company acquired its partner's interest in the retail and parking facilities at Brickell City Centre, located in Miami, Florida.  Simon now wholly-owns and manages the asset. \n\nCapital Markets and Balance Sheet Liquidity\nDuring the first six months, the Company completed 21 secured loan transactions totaling approximately $3.8 billion (U.S. dollar equivalent).  The weighted average interest rate on these loans was 5.84%.    \n\nAs of June 30, 2025, Simon had approximately $9.2 billion of liquidity consisting of $1.8 billion of cash on hand, including its share of joint venture cash, and $7.4 billion of available capacity under its revolving credit facilities.\n\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.15 for the third quarter of 2025.  This is an increase of $0.10, or 4.9% year-over-year.  The dividend will be payable on September 30, 2025 to shareholders of record on September 9, 2025. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on September 30, 2025 to shareholders of record on September 16, 2025. \n\n2025 Guidance\nThe Company's estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2025 are included in the table below and are reconciled in the Company's supplemental information.  The Company is increasing its outlook for Real Estate FFO to $12.45 to $12.65 per diluted share.     ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.4322916666666667,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004016064257028112,
+  "mean_tone": 0.013020833333333334
+ },
+ "lexicon": {
+  "words": 498,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 2.0,
+   "Uncertainty": 4.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 1,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We delivered another successful quarter, driven by the quality of our portfolio and disciplined execution,\" said David Simon, Chairman, Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"Our strategic investments and A-rated balance sheet position us for sustained long-term cash flow growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Today, we are raising our dividend and increasing the mid-point of our full-year 2025 Real Estate FFO guidance.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Net income attributable to common stockholders was $556.1 million, or $1.70 per diluted share, as compared to $493.5 million, or $1.51 per diluted share in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Real Estate Funds From Operations (\"FFO\") was $1.154 billion, or $3.05 per diluted share as compared to $1.100 billion, or $2.93 per diluted share in the prior year, an increase of 4.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "FFO was $1.189 billion, or $3.15 per diluted share as compared to $1.088 billion, or $2.90 per diluted share in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 4.2% and portfolio NOI increased 4.7% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Results for the Six Months",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Net income attributable to common stockholders was $969.8 million, or $2.97 per diluted share, as compared to $1.225 billion, or $3.76 per diluted share in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Real Estate FFO was $2.268 billion, or $6.01 per diluted share as compared to $2.191 billion, or $5.84 per diluted share in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "FFO was $2.194 billion, or $5.82 per diluted share as compared to $2.421 billion, or $6.46 per diluted share in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Domestic property NOI increased 3.8% and portfolio NOI increased 4.2% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Occupancy at June 30, 2025 was 96.0%, a 0.4% increase compared to 95.6% at June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Base minimum rent per square foot was $58.70 at June 30, 2025, compared to $57.94 at June 30, 2024, an increase of 1.3%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Reported retailer sales per square foot was $736 for the trailing 12 months ended June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Acquisition Activity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "On June 27, 2025, the Company acquired its partner's interest in the retail and parking facilities at Brickell City Centre, located in Miami, Florida.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Simon now wholly-owns and manages the asset.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Capital Markets and Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "During the first six months, the Company completed 21 secured loan transactions totaling approximately $3.8 billion (U.S. dollar equivalent).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "The weighted average interest rate on these loans was 5.84%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "As of June 30, 2025, Simon had approximately $9.2 billion of liquidity consisting of $1.8 billion of cash on hand, including its share of joint venture cash, and $7.4 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.15 for the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "This is an increase of $0.10, or 4.9% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The dividend will be payable on September 30, 2025 to shareholders of record on September 9, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on September 30, 2025 to shareholders of record on September 16, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "2025 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The Company's estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2025 are included in the table below and are reconciled in the Company's supplemental information.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The Company is increasing its outlook for Real Estate FFO to $12.45 to $12.65 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
