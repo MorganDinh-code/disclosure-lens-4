@@ -1,0 +1,447 @@
+{
+ "company": "Capital One Financial Corp",
+ "ticker": "COF",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-22",
+ "source_url": "https://investor.capitalone.com/static-files/98c4c49e-bcb0-4c13-83cd-d82423d68bcf",
+ "demo": false,
+ "source_text": "Capital One Reports Second Quarter 2025 Net Loss of $4.3 billion,\nor $(8.58) per share Net of adjusting items, Second Quarter 2025 Net Income of $5.48 per share(1)\nMcLean, Va. (July 22, 2025) \u2013 Capital One Financial Corporation (NYSE: COF) today announced net loss for the second quarter of 2025 of $4.3 billion, or $(8.58) per diluted common share, compared with net income of $1.4 billion, or $3.45 per diluted common share in the first quarter of 2025, and with net income of $597 million, or $1.38 per diluted common share in the second quarter of 2024. Adjusted net income(1) for the second quarter of 2025 was $5.48 per diluted common share. \"We completed our acquisition of Discover on May 18th. We\u2019re fully mobilized and hard at work on integration which is going well,\" said Richard D. Fairbank, Founder, Chairman, and Chief Executive Officer. \"We\u2019re as excited as ever by the expanding set of opportunities to grow and create value as a combined company.\"\n\nAll comparisons below are for the second quarter of 2025 compared with the first quarter of 2025 unless otherwise noted.\nSecond Quarter 2025 Income Statement Summary:\n\u2022 Total net revenue increased 25 percent to $12.5 billion.\n\u2022 Total non-interest expense increased 18 percent to $7.0 billion:\n\u25e6 12 percent increase in marketing.\n\u25e6 20 percent increase in operating expenses.\n\u2022 Pre-provision earnings(2) increased 34 percent to $5.5 billion.\n\u2022 Provision for credit losses increased $9.1 billion to $11.4 billion:\n\u25e6 Net charge-offs of $3.1 billion.\n\u25e6 $7.9 billion loan reserve build.\n\u2022 Net interest margin of 7.62 percent, an increase of 69 basis points.\n\u25e6 Adjusted net interest margin(1) of 7.68 percent.\n\u2022 Efficiency ratio of 55.96 percent.\n\u25e6 Adjusted efficiency ratio(1) of 50.85 percent.\n\u2022 Operating efficiency ratio of 45.20 percent.\n\u25e6 Adjusted operating efficiency ratio(1) of 40.16 percent.\nSecond Quarter 2025 Balance Sheet Summary:\n\u2022 Common equity Tier 1 capital ratio(3) under Basel III Standardized Approach of 14.0 percent at June 30, 2025.\n\u2022 Period-end loans held for investment in the quarter increased $115.7 billion, or 36 percent, to $439.3 billion.\n\u25e6 Credit Card period-end loans increased $112.5 billion, or 72 percent, to $269.7 billion.\n\u2022 Domestic Card period-end loans increased $102.2 billion, or 68 percent, to $252.5 billion.\n\u25e6 Consumer Banking period-end loans increased $2.3 billion, or 3 percent, to $81.2 billion.\n\u2022 Auto period-end loans increased $2.4 billion, or 3 percent, to $80.0 billion.\n\u25e6 Commercial Banking period-end loans increased $842 million, or 1 percent, to $88.4 billion.\n\u2022 Average loans held for investment in the quarter increased $55.8 billion, or 17 percent, to $378.2 billion.\n\u25e6 Credit Card average loans increased $53.3 billion, or 34 percent, to $209.7 billion.\n\u2022 Domestic Card average loans increased $48.2 billion, or 32 percent, to $197.8 billion.\n\u25e6 Consumer Banking average loans increased $1.6 billion, or 2 percent, to $80.1 billion.\n\u2022 Auto average loans increased $1.6 billion, or 2 percent, to $78.9 billion.\n\u25e6 Commercial Banking average loans increased $871 million, or 1 percent, to $88.4 billion.\n\u2022 Period-end total deposits increased $100.6 billion, or 27 percent, to $468.1 billion, while average deposits increased\n$50.5 billion, or 14 percent, to $414.6 billion.\n\u2022 Interest-bearing deposits rate paid remained flat at 3.22 percent.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 4,
+  "n_positive": 16,
+  "mean_pos_negative": 0.17857142857142858,
+  "mean_pos_positive": 0.6875,
+  "placement_asymmetry": -0.5089285714285714,
+  "distance_from_headline": -7,
+  "first_negative_pos": 0.02857142857142857,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6551370063955877,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.1020836850846658
+ },
+ "lexicon": {
+  "words": 433,
+  "per_1000": {
+   "Negative": 6.9,
+   "Positive": 13.9,
+   "Uncertainty": 2.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 2.3,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 6,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Capital One Reports Second Quarter 2025 Net Loss of $4.3 billion, or $(8.58) per share Net of adjusting items, Second Quarter 2025 Net Income of $5.48 per share(1).",
+   "d": -1,
+   "m": true,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     48,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "McLean, Va. (July 22, 2025) \u2013 Capital One Financial Corporation (NYSE: COF) today announced net loss for the second quarter of 2025 of $4.3 billion, or $(8.58) per diluted common share, compared with net income of $1.4 billion, or $3.45 per diluted common share in the first quarter of 2025, and with net income of $597 million, or $1.38 per diluted common share in the second quarter of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.175,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     100,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Adjusted net income(1) for the second quarter of 2025 was $5.48 per diluted common share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\"We completed our acquisition of Discover on May 18th.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     48,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "We\u2019re fully mobilized and hard at work on integration which is going well,\" said Richard D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Fairbank, Founder, Chairman, and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "\"We\u2019re as excited as ever by the expanding set of opportunities to grow and create value as a combined company.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     50,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "All comparisons below are for the second quarter of 2025 compared with the first quarter of 2025 unless otherwise noted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Second Quarter 2025 Income Statement Summary: Total net revenue increased 25 percent to $12.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Total non-interest expense increased 18 percent to $7.0 billion: 12 percent increase in marketing. 20 percent increase in operating expenses.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Pre-provision earnings(2) increased 34 percent to $5.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Provision for credit losses increased $9.1 billion to $11.4 billion: Net charge-offs of $3.1 billion.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "$7.9 billion loan reserve build.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Net interest margin of 7.62 percent, an increase of 69 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Adjusted net interest margin(1) of 7.68 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Efficiency ratio of 55.96 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Adjusted efficiency ratio(1) of 50.85 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Operating efficiency ratio of 45.20 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Adjusted operating efficiency ratio(1) of 40.16 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Second Quarter 2025 Balance Sheet Summary: Common equity Tier 1 capital ratio(3) under Basel III Standardized Approach of 14.0 percent at June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Period-end loans held for investment in the quarter increased $115.7 billion, or 36 percent, to $439.3 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Credit Card period-end loans increased $112.5 billion, or 72 percent, to $269.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Domestic Card period-end loans increased $102.2 billion, or 68 percent, to $252.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Consumer Banking period-end loans increased $2.3 billion, or 3 percent, to $81.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Auto period-end loans increased $2.4 billion, or 3 percent, to $80.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Commercial Banking period-end loans increased $842 million, or 1 percent, to $88.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Average loans held for investment in the quarter increased $55.8 billion, or 17 percent, to $378.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Credit Card average loans increased $53.3 billion, or 34 percent, to $209.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Domestic Card average loans increased $48.2 billion, or 32 percent, to $197.8 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Consumer Banking average loans increased $1.6 billion, or 2 percent, to $80.1 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Auto average loans increased $1.6 billion, or 2 percent, to $78.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Commercial Banking average loans increased $871 million, or 1 percent, to $88.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Period-end total deposits increased $100.6 billion, or 27 percent, to $468.1 billion, while average deposits increased.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "$50.5 billion, or 14 percent, to $414.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Interest-bearing deposits rate paid remained flat at 3.22 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
