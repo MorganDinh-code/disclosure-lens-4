@@ -1,0 +1,374 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-07-19",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2024/q2/q2-2024-earnings-press-release.pdf",
+ "demo": false,
+ "source_text": "Stephen J. Squeri | Chairman and Chief Executive Officer\n\u201cWe delivered strong second-quarter results, with quarterly revenue reaching an all-time high of $16.3 billion,\nup 8 percent, or 9 percent on an FX-adjusted basis, and significant EPS growth,\u201d said Stephen J. Squeri,\nChairman and Chief Executive Officer. \u201cWe continued to drive momentum across the business, including\nstable growth in billings at 6 percent, strong new card acquisitions of 3.3 million, double-digit growth in card\nfee revenues for the 24th consecutive quarter, and excellent credit performance, which remained best in\nclass.\n\u201cBased on the strong performance of our core business, we believe we can increase our marketing\ninvestments by around 15 percent over last year without using any of the transaction gain, while still delivering\nexceptional earnings results this year. As a result, we have made the decision to drop the entire gain to the\nbottom line and are raising our full-year EPS guidance to $13.30 - $13.80 from $12.65 - $13.15 previously. We\ncontinue to expect revenue growth in line with the guidance range of 9 percent to 11 percent that we set at the\nbeginning of the year.\n\"Since the end of 2021, we have significantly grown the scale of our business, increasing revenues by nearly\n50 percent and Card Member spending by almost 40 percent, while adding around 23 million new cards and\nover 30 million merchant locations.\n4This increased scale, combined with our premium, high credit quality\ncustomers, our well-controlled expense base and our successful investments to continuously enhance our\nMembership Model, fuels the earnings power of the core business and reinforces our confidence in our ability\nto deliver strong bottom-line growth.\u201d\n\nAmerican Express Company (NYSE: AXP) today reported second-quarter net income of $3.0\nbillion, or $4.15 per share, compared with net income of $2.2 billion, or $2.89 per share, a year\nago. Second-quarter earnings per share included a $0.66 gain from the sale of Accertify, which\nclosed during the quarter. Excluding the transaction gain, adjusted EPS was $3.49, up 21 percent\nfrom the prior year.1\n\nSecond-quarter consolidated total revenues net of interest expense were $16.3 billion, up 8\npercent from $15.1 billion a year ago. The increase was primarily driven by higher net interest\nincome, increased Card Member spending, and continued strong card fee growth.\nConsolidated provisions for credit losses were $1.3 billion, compared with $1.2 billion a year ago.\nThe increase reflected higher net write-offs, partially offset by a lower reserve build year-overyear.\nConsolidated expenses were $11.3 billion, up 1 percent from $11.1 billion a year ago. The increase\nprimarily reflected higher variable customer engagement costs driven by higher Card Member\nspending and usage of travel-related benefits, and increased marketing investments, offset by\nlower operating expenses primarily due to the previously-mentioned gain from the sale of\nAccertify.\n\nThe consolidated effective tax rate was 20.4 percent, compared to 20.5 percent a year ago,\nreflecting discrete tax benefits in both periods. ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 3,
+  "n_positive": 9,
+  "mean_pos_negative": 0.7222222222222222,
+  "mean_pos_positive": 0.35802469135802467,
+  "placement_asymmetry": 0.36419753086419754,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.6111111111111112,
+  "hedge_near_negative": 0.004901960784313725,
+  "hedge_near_positive": 0.011249823652858839,
+  "hedging_asymmetry": 0.4357366777983248,
+  "framing_ratio": 0.25,
+  "mean_tone_gap_on_negatives": 0.8686679174484052,
+  "overall_hedge": 0.010845986984815618,
+  "mean_tone": 0.19454600982559575
+ },
+ "lexicon": {
+  "words": 461,
+  "per_1000": {
+   "Negative": 2.2,
+   "Positive": 34.7,
+   "Uncertainty": 8.7,
+   "Litigious": 0.0,
+   "Strong modal": 2.2,
+   "Weak modal": 4.3,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 16,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Squeri | Chairman and Chief Executive Officer. \u201cWe delivered strong second-quarter results, with quarterly revenue reaching an all-time high of $16.3 billion, up 8 percent, or 9 percent on an FX-adjusted basis, and significant EPS growth,\u201d said Stephen J.",
+   "d": 1,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Squeri, Chairman and Chief Executive Officer. \u201cWe continued to drive momentum across the business, including stable growth in billings at 6 percent, strong new card acquisitions of 3.3 million, double-digit growth in card fee revenues for the 24th consecutive quarter, and excellent credit performance, which remained best in class. \u201cBased on the strong performance of our core business, we believe we can increase our marketing investments by around 15 percent over last year without using any of the transaction gain, while still delivering exceptional earnings results this year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.814,
+   "h": 0.0116,
+   "hits": [
+    [
+     109,
+     115,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     155,
+     [
+      "positive"
+     ]
+    ],
+    [
+     273,
+     282,
+     [
+      "positive"
+     ]
+    ],
+    [
+     318,
+     322,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     347,
+     353,
+     [
+      "positive"
+     ]
+    ],
+    [
+     391,
+     398,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     514,
+     518,
+     [
+      "positive"
+     ]
+    ],
+    [
+     543,
+     554,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "As a result, we have made the decision to drop the entire gain to the bottom line and are raising our full-year EPS guidance to $13.30 - $13.80 from $12.65 - $13.15 previously.",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "We continue to expect revenue growth in line with the guidance range of 9 percent to 11 percent that we set at the beginning of the year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"Since the end of 2021, we have significantly grown the scale of our business, increasing revenues by nearly 50 percent and Card Member spending by almost 40 percent, while adding around 23 million new cards and over 30 million merchant locations. 4This increased scale, combined with our premium, high credit quality customers, our well-controlled expense base and our successful investments to continuously enhance our.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     102,
+     108,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     148,
+     154,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     370,
+     380,
+     [
+      "positive"
+     ]
+    ],
+    [
+     409,
+     416,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Membership Model, fuels the earnings power of the core business and reinforces our confidence in our ability to deliver strong bottom-line growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     120,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "American Express Company (NYSE: AXP) today reported second-quarter net income of $3.0 billion, or $4.15 per share, compared with net income of $2.2 billion, or $2.89 per share, a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Second-quarter earnings per share included a $0.66 gain from the sale of Accertify, which closed during the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Excluding the transaction gain, adjusted EPS was $3.49, up 21 percent from the prior year.1",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     30,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Second-quarter consolidated total revenues net of interest expense were $16.3 billion, up 8 percent from $15.1 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The increase was primarily driven by higher net interest income, increased Card Member spending, and continued strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Consolidated provisions for credit losses were $1.3 billion, compared with $1.2 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "The increase reflected higher net write-offs, partially offset by a lower reserve build year-overyear.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Consolidated expenses were $11.3 billion, up 1 percent from $11.1 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The increase primarily reflected higher variable customer engagement costs driven by higher Card Member spending and usage of travel-related benefits, and increased marketing investments, offset by lower operating expenses primarily due to the previously-mentioned gain from the sale of.",
+   "d": -1,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0244,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     265,
+     269,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Accertify.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The consolidated effective tax rate was 20.4 percent, compared to 20.5 percent a year ago, reflecting discrete tax benefits in both periods.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
