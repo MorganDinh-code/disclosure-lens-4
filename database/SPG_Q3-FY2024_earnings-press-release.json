@@ -1,0 +1,558 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-01",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-third-quarter-2024-results-affirms-full-year-2024",
+ "demo": false,
+ "source_text": "\"We are pleased with our quarterly results highlighted by strong financial and operational performance, the very successful openings of Tulsa Premium Outlets and the expansion of Busan Premium Outlets,\" said David Simon, Chairman, Chief Executive Officer and President.  \"Today we are pleased to raise our dividend for the fourth consecutive quarter, to $2.10 per share, a year-over-year increase of 10.5%.\"  \n\nResults for the Quarter\n\nNet income attributable to common stockholders was $475.2 million, or $1.46 per diluted share, as compared to $594.1 million, or $1.82 per diluted share in 2023.\nNet income for the third quarter of 2024 includes a non-cash net loss of $49.3 million, or $0.13 per diluted share, due to a mark-to-market in fair value adjustment of the Kl\u00e9pierre exchangeable bonds the Company issued in November 2023.\nNet income for the third quarter of 2023 included non-cash after-tax gains of $118.1 million, or $0.32 per diluted share primarily due to the partial sale of the Company's ownership interest in its SPARC Group joint venture (\"SPARC\"). \nReal Estate Funds From Operations (\"Real Estate FFO\") was $1.144 billion, or $3.05 per diluted share as compared to $1.091 billion, or $2.91 per diluted share in the prior year, an increase of 4.8% year-over-year.\nFunds From Operations (\"FFO\") was $1.067 billion, or $2.84 per diluted share as compared to $1.201 billion, or $3.20 per diluted share in the prior year, inclusive of the $0.13 per diluted share loss in the current period and the $0.32 per diluted share gains in the prior year period mentioned above. \nDomestic property Net Operating Income (\"NOI\") increased 5.4% and portfolio NOI increased 5.0% compared to the prior year period. \nResults for the Nine Months\n\nNet income attributable to common stockholders was $1.700 billion, or $5.22 per diluted share, as compared to $1.532 billion, or $4.68 per diluted share in 2023.\nNet income for the nine months of 2024 includes an after-tax gain of $311.1 million, or $0.83 per diluted share from the sale of the Company's remaining ownership interest in Authentic Brands Group in the first quarter and a non-cash net loss of $54.1 million, or $0.14 per diluted share due to a mark-to-market in fair value adjustments of the Kl\u00e9pierre exchangeable bonds. \nNet income for the nine months of 2023 included non-cash after-tax gains of $145.5 million or $0.39 per diluted share due to the gain in SPARC referenced above and a dilution of our ownership interest in Authentic Brands Group.\nReal Estate FFO was $3.335 billion, or $8.90 per diluted share as compared to $3.201 billion, or $8.55 per diluted share in the prior year, an increase of 4.1% year-over-year.\nFFO was $3.488 billion, or $9.30 per diluted share as compared to $3.304 billion, or $8.82 per diluted share in the prior year, inclusive of the items referenced above. \nDomestic property NOI increased 4.8% and portfolio NOI increased 4.6% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at September 30, 2024 was 96.2%, a 1.0% increase compared to 95.2% at September 30, 2023.\nBase minimum rent per square foot was $57.71 at September 30, 2024, compared to $56.41 at September 30, 2023, an increase of 2.3%. \nReported retailer sales per square foot was $737 for the trailing 12 months ended September 30, 2024.\nDevelopment Activity\nOn August 15th, Tulsa Premium Outlets (Jenks, Oklahoma) opened with 338,000 square feet featuring a dynamic mix of merchandise, amenities and experiences.  Simon owns 100% of this center.\n\nOn September 12th, the 184,000 square-foot, phase two expansion of Busan Premium Outlets (Busan, South Korea) opened featuring new fashion and sports brands, in vogue food and beverage brands and ample gathering and green spaces.  Simon owns 50% of this center.\n\nCapital Markets and Balance Sheet Liquidity\nDuring the quarter, the Company completed a senior notes offering totaling $1.0 billion  with a term of 10 years and 4.75% coupon.   \n\nThe Company also amended and extended its $3.5 billion unsecured multi-currency revolving credit facility.  The facility will initially mature on January 31, 2029 and at our sole option, can be extended for an additional year to January 31, 2030.  Based upon the Company's current credit ratings, the interest on the new revolver for U.S. Dollar borrowings is unchanged at SOFR plus 82.5 basis points (inclusive of a 10 basis point SOFR spread adjustment). \n\nDuring the first nine months, the Company completed 14 non-recourse mortgage loans totaling approximately $1.3 billion (U.S. dollar equivalent), of which Simon's share was $651 million.  The weighted average interest rate on these loans was 6.13%.\n\nAs of September 30, 2024, Simon had approximately $11.1 billion of liquidity consisting of $3.0 billion of cash on hand, including its share of joint venture cash, and $8.1 billion of available capacity under its revolving credit facilities.\n\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.10 for the fourth quarter of 2024.  This is an increase of $0.20, or 10.5% year-over-year.  The dividend will be payable on December 30, 2024 to shareholders of record on December 9, 2024. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on December 30, 2024 to shareholders of record on December 16, 2024. \n\n2024 Guidance\nThe Company currently estimates net income to be within a range of $7.18 to $7.28 per diluted share and FFO to be within a range of $12.80 to $12.90 per diluted share, excluding the $0.14 per diluted share of unrealized losses in fair value adjustments of the Kl\u00e9pierre exchangeable bonds and publicly traded equity instruments, net for the year ending December 31, 2024.    ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 40,
+  "n_material_neg": 4,
+  "n_positive": 5,
+  "mean_pos_negative": 0.4125,
+  "mean_pos_positive": 0.56,
+  "placement_asymmetry": -0.14750000000000008,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.125,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.25,
+  "mean_tone_gap_on_negatives": 1.025219298245614,
+  "overall_hedge": 0.0023446658851113715,
+  "mean_tone": 0.04037916505021768
+ },
+ "lexicon": {
+  "words": 853,
+  "per_1000": {
+   "Negative": 4.7,
+   "Positive": 10.6,
+   "Uncertainty": 2.3,
+   "Litigious": 2.3,
+   "Strong modal": 2.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 9,
+   "Uncertainty": 2,
+   "Litigious": 2,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We are pleased with our quarterly results highlighted by strong financial and operational performance, the very successful openings of Tulsa Premium Outlets and the expansion of Busan Premium Outlets,\" said David Simon, Chairman, Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.789,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     58,
+     64,
+     [
+      "positive"
+     ]
+    ],
+    [
+     113,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"Today we are pleased to raise our dividend for the fourth consecutive quarter, to $2.10 per share, a year-over-year increase of 10.5%.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Net income attributable to common stockholders was $475.2 million, or $1.46 per diluted share, as compared to $594.1 million, or $1.82 per diluted share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Net income for the third quarter of 2024 includes a non-cash net loss of $49.3 million, or $0.13 per diluted share, due to a mark-to-market in fair value adjustment of the Kl\u00e9pierre exchangeable bonds the Company issued in November 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     69,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Net income for the third quarter of 2023 included non-cash after-tax gains of $118.1 million, or $0.32 per diluted share primarily due to the partial sale of the Company's ownership interest in its SPARC Group joint venture (\"SPARC\").",
+   "d": 0,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Real Estate Funds From Operations (\"Real Estate FFO\") was $1.144 billion, or $3.05 per diluted share as compared to $1.091 billion, or $2.91 per diluted share in the prior year, an increase of 4.8% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Funds From Operations (\"FFO\") was $1.067 billion, or $2.84 per diluted share as compared to $1.201 billion, or $3.20 per diluted share in the prior year, inclusive of the $0.13 per diluted share loss in the current period and the $0.32 per diluted share gains in the prior year period mentioned above.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     195,
+     199,
+     [
+      "negative"
+     ]
+    ],
+    [
+     254,
+     259,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 5.4% and portfolio NOI increased 5.0% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Results for the Nine Months",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Net income attributable to common stockholders was $1.700 billion, or $5.22 per diluted share, as compared to $1.532 billion, or $4.68 per diluted share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Net income for the nine months of 2024 includes an after-tax gain of $311.1 million, or $0.83 per diluted share from the sale of the Company's remaining ownership interest in Authentic Brands Group in the first quarter and a non-cash net loss of $54.1 million, or $0.14 per diluted share due to a mark-to-market in fair value adjustments of the Kl\u00e9pierre exchangeable bonds.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     65,
+     [
+      "positive"
+     ]
+    ],
+    [
+     238,
+     242,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Net income for the nine months of 2023 included non-cash after-tax gains of $145.5 million or $0.39 per diluted share due to the gain in SPARC referenced above and a dilution of our ownership interest in Authentic Brands Group.",
+   "d": -1,
+   "m": true,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     129,
+     133,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Real Estate FFO was $3.335 billion, or $8.90 per diluted share as compared to $3.201 billion, or $8.55 per diluted share in the prior year, an increase of 4.1% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "FFO was $3.488 billion, or $9.30 per diluted share as compared to $3.304 billion, or $8.82 per diluted share in the prior year, inclusive of the items referenced above.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Domestic property NOI increased 4.8% and portfolio NOI increased 4.6% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Occupancy at September 30, 2024 was 96.2%, a 1.0% increase compared to 95.2% at September 30, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Base minimum rent per square foot was $57.71 at September 30, 2024, compared to $56.41 at September 30, 2023, an increase of 2.3%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Reported retailer sales per square foot was $737 for the trailing 12 months ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Development Activity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "On August 15th, Tulsa Premium Outlets (Jenks, Oklahoma) opened with 338,000 square feet featuring a dynamic mix of merchandise, amenities and experiences.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Simon owns 100% of this center.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "On September 12th, the 184,000 square-foot, phase two expansion of Busan Premium Outlets (Busan, South Korea) opened featuring new fashion and sports brands, in vogue food and beverage brands and ample gathering and green spaces.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Simon owns 50% of this center.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Capital Markets and Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "During the quarter, the Company completed a senior notes offering totaling $1.0 billion  with a term of 10 years and 4.75% coupon.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Company also amended and extended its $3.5 billion unsecured multi-currency revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "The facility will initially mature on January 31, 2029 and at our sole option, can be extended for an additional year to January 31, 2030.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Based upon the Company's current credit ratings, the interest on the new revolver for U.S. Dollar borrowings is unchanged at SOFR plus 82.5 basis points (inclusive of a 10 basis point SOFR spread adjustment).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "During the first nine months, the Company completed 14 non-recourse mortgage loans totaling approximately $1.3 billion (U.S. dollar equivalent), of which Simon's share was $651 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     59,
+     67,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     92,
+     105,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The weighted average interest rate on these loans was 6.13%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "As of September 30, 2024, Simon had approximately $11.1 billion of liquidity consisting of $3.0 billion of cash on hand, including its share of joint venture cash, and $8.1 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     36,
+     49,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.10 for the fourth quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "This is an increase of $0.20, or 10.5% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The dividend will be payable on December 30, 2024 to shareholders of record on December 9, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on December 30, 2024 to shareholders of record on December 16, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "2024 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "The Company currently estimates net income to be within a range of $7.18 to $7.28 per diluted share and FFO to be within a range of $12.80 to $12.90 per diluted share, excluding the $0.14 per diluted share of unrealized losses in fair value adjustments of the Kl\u00e9pierre exchangeable bonds and publicly traded equity instruments, net for the year ending December 31, 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.175,
+   "h": 0.0,
+   "hits": [
+    [
+     220,
+     226,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
