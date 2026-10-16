@@ -1,0 +1,159 @@
+{
+ "company": "Banco Bilbao Vizcaya Argentaria",
+ "ticker": "BBVA",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-05",
+ "source_url": "https://www.bbva.com/en/economy-and-finance/earnings-4q2025/",
+ "demo": false,
+ "source_text": "Earnings: BBVA Posts Record Profit of \u20ac10.5 Billion in 2025 and Will Distribute a Dividend of More Than \u20ac5.2 Billion\n\nBBVA reported a profit of \u20ac10.5 billion in 2025 (+4.5 percent yoy), the highest in its history, mostly driven by core revenues. The BBVA Group stood out for its unique combination of growth and profitability, leading in Europe: lending increased by 16.2 percent (in constant euros) while ROTE reached 19.3 percent. Furthermore, BBVA maintained a solid CET1 capital ratio of 12.7 percent and continued to drive value creation for shareholders, with a tangible book value per share plus dividends growing 15.2 percent\u00b9.\n\n In addition, the bank is set to distribute a dividend of \u20ac0.92 per share\u00b2 in cash, the highest ever. This amounts to a total of \u20ac5.25 billion\u00b3, representing a cash dividend 31 percent higher than that of 2024. Combined with the nearly \u20ac4 billion share buyback program announced in December, this represents more than \u20ac9.2 billion.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 7,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.007042253521126761,
+  "mean_tone": 0.2603731551099972
+ },
+ "lexicon": {
+  "words": 142,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 28.2,
+   "Uncertainty": 7.0,
+   "Litigious": 0.0,
+   "Strong modal": 21.1,
+   "Weak modal": 7.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 3,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Earnings: BBVA Posts Record Profit of \u20ac10.5 Billion in 2025 and Will Distribute a Dividend of More Than \u20ac5.2 Billion",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     68,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "BBVA reported a profit of \u20ac10.5 billion in 2025 (+4.5 percent yoy), the highest in its history, mostly driven by core revenues.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "The BBVA Group stood out for its unique combination of growth and profitability, leading in Europe: lending increased by 16.2 percent (in constant euros) while ROTE reached 19.3 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     79,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Furthermore, BBVA maintained a solid CET1 capital ratio of 12.7 percent and continued to drive value creation for shareholders, with a tangible book value per share plus dividends growing 15.2 percent\u00b9.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "In addition, the bank is set to distribute a dividend of \u20ac0.92 per share\u00b2 in cash, the highest ever.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     94,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "This amounts to a total of \u20ac5.25 billion\u00b3, representing a cash dividend 31 percent higher than that of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Combined with the nearly \u20ac4 billion share buyback program announced in December, this represents more than \u20ac9.2 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     18,
+     24,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
