@@ -1,0 +1,177 @@
+{
+ "company": "Banco Bilbao Vizcaya Argentaria",
+ "ticker": "BBVA",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-30",
+ "source_url": "https://www.bbva.com/en/economy-and-finance/earnings-3q2025/",
+ "demo": false,
+ "source_text": "Earnings: BBVA Posts Record Profit of Nearly \u20ac8 Billion through September, Driven by Solid Lending Growth and \n\nCore Revenues\nBBVA posted an excellent set of earnings in the first nine months of 2025, driven by  solid activity growth (+16 percent in constant euros) and momentum in core revenues (+13.5 percent in constant euros). Net attributable profit reached a record \u20ac7.98 billion through September, up 4.7 percent from a year earlier (+19.8 percent in constant euros). The Group continued to show outstanding profitability metrics, with ROTE at nearly 20 percent; while creating value for its shareholders, with an increase of the tangible book value per share plus dividends of 17 percent over the past 12 months. \n\nThe strength of the CET1 capital ratio, which stands at 13.42 percent, has prompted to accelerate the remuneration plans for BBVA shareholders: on Oct. 31, the bank will start executing the pending share buyback for \u20ac993 million; on Nov. 7, it will pay the highest interim dividend ever (\u20ac0.32 per share), for a total of \u20ac1.84 billion; and, as soon as it receives the authorization from the European Central Bank (ECB), it will launch a significant additional share buyback program\u00b9.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 6,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5416666666666666,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.02060860595343354,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.01675977653631285,
+  "mean_tone": 0.14385353095030515
+ },
+ "lexicon": {
+  "words": 179,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 22.3,
+   "Uncertainty": 16.8,
+   "Litigious": 0.0,
+   "Strong modal": 22.3,
+   "Weak modal": 11.2,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Earnings: BBVA Posts Record Profit of Nearly \u20ac8 Billion through September, Driven by Solid Lending Growth and",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     38,
+     44,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Core Revenues.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "BBVA posted an excellent set of earnings in the first nine months of 2025, driven by  solid activity growth (+16 percent in constant euros) and momentum in core revenues (+13.5 percent in constant euros).",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Net attributable profit reached a record \u20ac7.98 billion through September, up 4.7 percent from a year earlier (+19.8 percent in constant euros).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "The Group continued to show outstanding profitability metrics, with ROTE at nearly 20 percent; while creating value for its shareholders, with an increase of the tangible book value per share plus dividends of 17 percent over the past 12 months.",
+   "d": 1,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.027,
+   "hits": [
+    [
+     40,
+     53,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     82,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "The strength of the CET1 capital ratio, which stands at 13.42 percent, has prompted to accelerate the remuneration plans for BBVA shareholders: on Oct. 31, the bank will start executing the pending share buyback for \u20ac993 million; on Nov. 7, it will pay the highest interim dividend ever (\u20ac0.32 per share), for a total of \u20ac1.84 billion; and, as soon as it receives the authorization from the European Central Bank (ECB), it will launch a significant additional share buyback program\u00b9.",
+   "d": 0,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.0135,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     165,
+     169,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     190,
+     197,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     244,
+     248,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     257,
+     264,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     423,
+     427,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
