@@ -1,0 +1,389 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-01-15",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2024/Q4/BLK-4Q24-Earning-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Full Year 2024 Diluted EPS of $42.01, or $43.61 as adjusted\nFourth Quarter 2024 Diluted EPS of $10.63, or $11.93 as adjusted\nNew York, January 15, 2025 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months and year ended\nDecember 31, 2024.\n$11.6 trillion in AUM following a record $641 billion of full\nyear net inflows, including $281 billion in the fourth\nquarter\n14% increase in full year revenue driven by the positive impact of\nmarkets on average AUM, organic base fee growth, and fees on AUM\nacquired in the GIP Transaction, as well as higher performance fees\nand technology service revenue\n21% increase in full year operating income (23% as adjusted)\n15% increase in full year diluted EPS also reflects lower\nnonoperating income and a higher effective tax rate in the\ncurrent year\n$4.7 billion returned to shareholders in 2024, including $1.6\nbillion of share repurchases\nPreviously announced agreement to acquire HPS\nInvestment Partners to create an integrated private credit\nfranchise with approximately $220 billion in pro-forma\nclient assets\n\nLaurence D. Fink, Chairman and CEO:\n\u201cClients entrusted BlackRock with a record $641 billion of net inflows in\n2024, including $281 billion in the fourth quarter for two consecutive\nrecord flows quarters. 2024 was also a milestone year for strategic\nacquisitions grounded in client service, technology and scale. Our closing\nof GIP and planned acquisitions of HPS and Preqin are expected to\nsignificantly scale and enhance our private markets investment and data\ncapabilities.\n\n\u201cFor many companies, periods of M&A contribute to a pause in client\nengagement. At BlackRock, clients are instead embracing and rewarding\nour strategy. Client activity accelerated into the fourth quarter, resulting in\n7% organic base fee growth and 12% technology services ACV growth. Our\noperating model delivered exceptional performance in a year of meaningful\nchange. We crossed $20 billion of annual revenue, up 14% from 2023. As\nadjusted operating income grew by 23%, and our industry-leading margin\nof 44.5% was up 280 basis points.\n\n\u201cOur record organic growth and financial results do not yet reflect the full\nintegration or pending acquisitions of the high-growth businesses of GIP,\nHPS and Preqin. And we\u2019ve steadily made organic investments ahead of\nstructural trends that we expect to drive outsized growth in the years ahead.\n\u201cBlackRock\u2019s world-class talent is central to our significant growth and\nsustained performance. We have a longstanding, deliberate strategy of\nsystematically elevating our strongest leaders around the world. We\u2019re\nexcited to again have a number of them taking on expanded roles this year.\nBlackRock\u2019s leadership team alongside top talent from GIP, HPS and\nPreqin position us to serve our clients with excellence and seize the\nopportunities ahead of us.\n\n\u201cIn the 25 years since our IPO, BlackRock has delivered a 21%\ncompounded annual total return for our shareholders, compared to 8% in\nthe S&P 500. BlackRock enters 2025 with more growth and upside\npotential than ever. This is just the beginning.\u201d ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 26,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.5961538461538461,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.008820665559310385,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.006507592190889371,
+  "mean_tone": 0.19750274235568355
+ },
+ "lexicon": {
+  "words": 461,
+  "per_1000": {
+   "Negative": 4.3,
+   "Positive": 21.7,
+   "Uncertainty": 4.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 10,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Full Year 2024 Diluted EPS of $42.01, or $43.61 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth Quarter 2024 Diluted EPS of $10.63, or $11.93 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "New York, January 15, 2025 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months and year ended.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "$11.6 trillion in AUM following a record $641 billion of full year net inflows, including $281 billion in the fourth quarter 14% increase in full year revenue driven by the positive impact of markets on average AUM, organic base fee growth, and fees on AUM acquired in the GIP Transaction, as well as higher performance fees and technology service revenue 21% increase in full year operating income (23% as adjusted) 15% increase in full year diluted EPS also reflects lower nonoperating income and a higher effective tax rate in the current year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.118,
+   "h": 0.0,
+   "hits": [
+    [
+     173,
+     181,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "$4.7 billion returned to shareholders in 2024, including $1.6 billion of share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Previously announced agreement to acquire HPS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Investment Partners to create an integrated private credit franchise with approximately $220 billion in pro-forma client assets",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     74,
+     87,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fink, Chairman and CEO: \u201cClients entrusted BlackRock with a record $641 billion of net inflows in 2024, including $281 billion in the fourth quarter for two consecutive record flows quarters. 2024 was also a milestone year for strategic acquisitions grounded in client service, technology and scale.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Our closing of GIP and planned acquisitions of HPS and Preqin are expected to significantly scale and enhance our private markets investment and data capabilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cFor many companies, periods of M&A contribute to a pause in client engagement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "At BlackRock, clients are instead embracing and rewarding our strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Client activity accelerated into the fourth quarter, resulting in 7% organic base fee growth and 12% technology services ACV growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Our operating model delivered exceptional performance in a year of meaningful change.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We crossed $20 billion of annual revenue, up 14% from 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "As adjusted operating income grew by 23%, and our industry-leading margin of 44.5% was up 280 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "\u201cOur record organic growth and financial results do not yet reflect the full integration or pending acquisitions of the high-growth businesses of GIP, HPS and Preqin.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     92,
+     99,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "And we\u2019ve steadily made organic investments ahead of structural trends that we expect to drive outsized growth in the years ahead. \u201cBlackRock\u2019s world-class talent is central to our significant growth and sustained performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0278,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "We have a longstanding, deliberate strategy of systematically elevating our strongest leaders around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     34,
+     [
+      "negative"
+     ]
+    ],
+    [
+     76,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "We\u2019re excited to again have a number of them taking on expanded roles this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "BlackRock\u2019s leadership team alongside top talent from GIP, HPS and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Preqin position us to serve our clients with excellence and seize the opportunities ahead of us.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     55,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     65,
+     [
+      "negative"
+     ]
+    ],
+    [
+     70,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "\u201cIn the 25 years since our IPO, BlackRock has delivered a 21% compounded annual total return for our shareholders, compared to 8% in the S&P 500.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "BlackRock enters 2025 with more growth and upside potential than ever.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "This is just the beginning.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
