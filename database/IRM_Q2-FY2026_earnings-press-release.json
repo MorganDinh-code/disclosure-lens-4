@@ -1,0 +1,457 @@
+{
+ "company": "Iron Mountain",
+ "ticker": "IRM",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-05",
+ "source_url": "https://investors.ironmountain.com/news/news-details/2026/Iron-Mountain-Reports-Second-Quarter-2026-Results/default.aspx",
+ "demo": false,
+ "source_text": "Delivers record quarterly results across all key performance metrics\nAchieves quarterly revenue of $2.0 billion, an increase of 18.5% on a reported basis and an increase of 17.6% excluding the effects of foreign exchange\nOrganic revenue growth of 16.8% year over year in the second quarter\nGrowth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 50% year over year in the second quarter\nData center leasing of 110 megawatts year to date, including 13 megawatts in Q2 2026 and 75 megawatts in July\nQ2 2026 Net Income of $106 million, as compared to a Net Loss of $43 million in Q2 2025\nDelivers quarterly Adjusted EBITDA of $727 million, an increase of 15.7% compared to $628 million in Q2 2025\nGenerates quarterly AFFO of $433 million, or $1.44 per share, an increase of 17% compared to last year\nIncreases 2026 financial guidance driven by strong operational performance across the business\nPORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the second quarter of 2026.\n\n\u201cWe delivered another record-breaking quarter, with our second quarter results exceeding our expectations due to our team\u2019s strong execution of our growth plans and the continued trust of our clients. Our ongoing success continues to be driven by the collective strength in our physical records storage and growth businesses, together with the stewardship we provide to our more than 240,000 customers,\u201d stated William L. Meaney, President and CEO of Iron Mountain. \u201cLooking ahead, we are committed to capitalizing on the significant growth opportunities across our business. We are building momentum in our ALM and digital businesses through increased cross-selling and providing innovative solutions, and we are accelerating data center leasing, with 110 megawatts leased through July. Based on our strong Q2 outperformance and positive outlook, we are increasing our full year guidance.\u201d\n\nTotal reported revenues for the second quarter were $2.0 billion, compared with $1.7 billion in the second quarter of 2025, an increase of 18.5%. Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 17.6% compared to the prior year, driven by an 11.5% increase in storage rental revenue and a 26.3% increase in service revenue. Year to date, total reported revenues increased 20.0%, or 18.1% excluding the impact of Fx.\nNet Income for the second quarter was $106.1 million, compared with $(43.3) million loss in the second quarter of 2025, driven primarily by increased Operating Income. Year to date, Net Income was $255.1 million, compared with $(27.1) million loss in 2025.\nAdjusted EBITDA for the second quarter was $727.0 million, compared with $628.4 million in the second quarter of 2025, an increase of 15.7%. On a constant currency basis, Adjusted EBITDA increased by 14.9% in the second quarter, compared to the second quarter of 2025, driven by increased revenue and Adjusted EBITDA across each of our segments and improved operating leverage from our continued transformation activities. Year to date, Adjusted EBITDA increased 18.8%, or 17.1% excluding the impact of Fx.\nFFO (Normalized) per share was $1.01 for the second quarter, compared with $0.87 in the second quarter of 2025, an increase of 16.1%. Year to date, FFO (Normalized) per share was $1.99, compared with $1.64 in 2025, or an increase of 21.3%.\nAFFO was $432.7 million for the second quarter, compared with $369.7 million in the second quarter of 2025, an increase of 17.0% driven by improved Adjusted EBITDA. Year to date, AFFO was $858.8 million compared with $718.1 million, or an increase of 19.6%.\nAFFO per share was $1.44 for the second quarter, compared with $1.24 in the second quarter of 2025, an increase of 16.1%. Year to date, AFFO per share was $2.87, compared to $2.41 in 2025, or an increase of 19.1%.\nDividend\n\nOn August 5, 2026, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the third quarter. The third quarter 2026 dividend is payable on October 2, 2026, to shareholders of record at the close of business on September 15, 2026.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 2,
+  "n_positive": 15,
+  "mean_pos_negative": 0.40625,
+  "mean_pos_positive": 0.45208333333333334,
+  "placement_asymmetry": -0.04583333333333334,
+  "distance_from_headline": -5,
+  "first_negative_pos": 0.1875,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.25,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.08812736742424242
+ },
+ "lexicon": {
+  "words": 607,
+  "per_1000": {
+   "Negative": 4.9,
+   "Positive": 18.1,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.6
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 11,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Delivers record quarterly results across all key performance metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Achieves quarterly revenue of $2.0 billion, an increase of 18.5% on a reported basis and an increase of 17.6% excluding the effects of foreign exchange.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Organic revenue growth of 16.8% year over year in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Growth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 50% year over year in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Data center leasing of 110 megawatts year to date, including 13 megawatts in Q2 2026 and 75 megawatts in July.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Q2 2026 Net Income of $106 million, as compared to a Net Loss of $43 million in Q2 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     61,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Delivers quarterly Adjusted EBITDA of $727 million, an increase of 15.7% compared to $628 million in Q2 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Generates quarterly AFFO of $433 million, or $1.44 per share, an increase of 17% compared to last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Increases 2026 financial guidance driven by strong operational performance across the business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "PORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\u201cWe delivered another record-breaking quarter, with our second quarter results exceeding our expectations due to our team\u2019s strong execution of our growth plans and the continued trust of our clients.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     124,
+     130,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Our ongoing success continues to be driven by the collective strength in our physical records storage and growth businesses, together with the stewardship we provide to our more than 240,000 customers,\u201d stated William L.",
+   "d": 1,
+   "m": false,
+   "tone": 0.606,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Meaney, President and CEO of Iron Mountain. \u201cLooking ahead, we are committed to capitalizing on the significant growth opportunities across our business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     76,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     119,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "We are building momentum in our ALM and digital businesses through increased cross-selling and providing innovative solutions, and we are accelerating data center leasing, with 110 megawatts leased through July.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Based on our strong Q2 outperformance and positive outlook, we are increasing our full year guidance.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     42,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Total reported revenues for the second quarter were $2.0 billion, compared with $1.7 billion in the second quarter of 2025, an increase of 18.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 17.6% compared to the prior year, driven by an 11.5% increase in storage rental revenue and a 26.3% increase in service revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Year to date, total reported revenues increased 20.0%, or 18.1% excluding the impact of Fx.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Net Income for the second quarter was $106.1 million, compared with $(43.3) million loss in the second quarter of 2025, driven primarily by increased Operating Income.",
+   "d": 1,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     88,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Year to date, Net Income was $255.1 million, compared with $(27.1) million loss in 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     79,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Adjusted EBITDA for the second quarter was $727.0 million, compared with $628.4 million in the second quarter of 2025, an increase of 15.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "On a constant currency basis, Adjusted EBITDA increased by 14.9% in the second quarter, compared to the second quarter of 2025, driven by increased revenue and Adjusted EBITDA across each of our segments and improved operating leverage from our continued transformation activities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     208,
+     216,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Year to date, Adjusted EBITDA increased 18.8%, or 17.1% excluding the impact of Fx.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "FFO (Normalized) per share was $1.01 for the second quarter, compared with $0.87 in the second quarter of 2025, an increase of 16.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Year to date, FFO (Normalized) per share was $1.99, compared with $1.64 in 2025, or an increase of 21.3%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "AFFO was $432.7 million for the second quarter, compared with $369.7 million in the second quarter of 2025, an increase of 17.0% driven by improved Adjusted EBITDA.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     147,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Year to date, AFFO was $858.8 million compared with $718.1 million, or an increase of 19.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "AFFO per share was $1.44 for the second quarter, compared with $1.24 in the second quarter of 2025, an increase of 16.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Year to date, AFFO per share was $2.87, compared to $2.41 in 2025, or an increase of 19.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "On August 5, 2026, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The third quarter 2026 dividend is payable on October 2, 2026, to shareholders of record at the close of business on September 15, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
