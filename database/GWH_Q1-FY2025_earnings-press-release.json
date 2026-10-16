@@ -1,0 +1,299 @@
+{
+ "company": "ESS Tech, Inc.",
+ "ticker": "GWH",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-05-15",
+ "source_url": "https://investors.essinc.com/news/news-details/2025/ESS-Tech-Inc--Announces-First-Quarter-2025-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "In Contracting for 50 MWh Energy Base Award with Arizona based Utility\n\nProposal Activity up to ~1.2 GWh and Growing following Energy Base Product Launch\n\nEnergy Warehouse Startup Completed in the Second Quarter for California Irrigation District systems\n\nESS\u2019 Made in the USA batteries Well Positioned to Navigate Tariff Volatility\n\nESS Global Fleet Nearing 2.5 GWh of Transacted Energy\n\nWILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its first quarter ended March 31, 2025.\n\n\u201cWe continue to moderate activity in the first half of 2025 to manage liquidity in the near-term, support capital raising measures, and give us time to implement fully our turnaround and strategic pivot that was announced last quarter. We are excited about the significant commercial activity driven by our Energy Base launch after just a few short months. We have been awarded a 50 MWh project that is now in contracting and our extended duration product is supporting significant proposal engagement, with submissions representing approximately 1.2 GWh (or $400 million) over the last two quarters,\u201d said Kelly Goodman, interim CEO of ESS. \u201cOur two Portland General Electric systems are continuing grid operation and running daily cycling, having transacted another 158 MWh in energy, giving us significant hands-on learnings from the ability to operate systems at commercial scale on our own site. We will continue to aggressively pursue available options to extend our runway in a challenging capital markets environment.\u201d\n\nRecent Business Highlights\n\nAchieved revenue of $0.6M for 1stquarter 2025 tied to final Energy Center deliveries and project activity for a Florida utility.\nAwarded a 50 MWh Energy Base project with an Arizona utility with contracting anticipated to conclude by September, to be structured as a Power Purchase Agreement (\u201cPPA\u201d) with a confirmed offtaker. Selected from more than 10 competitors based on operating performance, cost, and technology risk with blue chip EPC and project partners. In active discussions with various large project financing and development partners for project level capital opportunities.\nExperienced significant ramp-up in commercial activity since launch of the Energy Base in the first quarter: responded to inquiries representing over 8 GWh across the US and Europe, received 30+ informal inquiries representing an additional 1.6 GWh, and submitted proposals totaling approximately 1.2 GWh ($400 million) over the last two quarters, with over 70% representing the Energy Base.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 0,
+  "n_positive": 0,
+  "hedge_near_negative": null,
+  "hedge_near_positive": null,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.012690355329949238,
+  "mean_tone": 0.03164558372557409
+ },
+ "lexicon": {
+  "words": 394,
+  "per_1000": {
+   "Negative": 5.1,
+   "Positive": 10.2,
+   "Uncertainty": 12.7,
+   "Litigious": 7.6,
+   "Strong modal": 2.5,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 4,
+   "Uncertainty": 5,
+   "Litigious": 3,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "In Contracting for 50 MWh Energy Base Award with Arizona based Utility",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     14,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Proposal Activity up to ~1.2 GWh and Growing following Energy Base Product Launch",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Energy Warehouse Startup Completed in the Second Quarter for California Irrigation District systems",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "ESS\u2019 Made in the USA batteries Well Positioned to Navigate Tariff Volatility",
+   "d": 0,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0833,
+   "hits": [
+    [
+     66,
+     76,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "ESS Global Fleet Nearing 2.5 GWh of Transacted Energy",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "WILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its first quarter ended March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cWe continue to moderate activity in the first half of 2025 to manage liquidity in the near-term, support capital raising measures, and give us time to implement fully our turnaround and strategic pivot that was announced last quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "We are excited about the significant commercial activity driven by our Energy Base launch after just a few short months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "We have been awarded a 50 MWh project that is now in contracting and our extended duration product is supporting significant proposal engagement, with submissions representing approximately 1.2 GWh (or $400 million) over the last two quarters,\u201d said Kelly Goodman, interim CEO of ESS. \u201cOur two Portland General Electric systems are continuing grid operation and running daily cycling, having transacted another 158 MWh in energy, giving us significant hands-on learnings from the ability to operate systems at commercial scale on our own site.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0125,
+   "hits": [
+    [
+     53,
+     64,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     176,
+     189,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "We will continue to aggressively pursue available options to extend our runway in a challenging capital markets environment.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     84,
+     95,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Recent Business Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Achieved revenue of $0.6M for 1stquarter 2025 tied to final Energy Center deliveries and project activity for a Florida utility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Awarded a 50 MWh Energy Base project with an Arizona utility with contracting anticipated to conclude by September, to be structured as a Power Purchase Agreement (\u201cPPA\u201d) with a confirmed offtaker.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     66,
+     77,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     78,
+     89,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Selected from more than 10 competitors based on operating performance, cost, and technology risk with blue chip EPC and project partners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     92,
+     96,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "In active discussions with various large project financing and development partners for project level capital opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     110,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Experienced significant ramp-up in commercial activity since launch of the Energy Base in the first quarter: responded to inquiries representing over 8 GWh across the US and Europe, received 30+ informal inquiries representing an additional 1.6 GWh, and submitted proposals totaling approximately 1.2 GWh ($400 million) over the last two quarters, with over 70% representing the Energy Base.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0189,
+   "hits": [
+    [
+     283,
+     296,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
