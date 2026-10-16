@@ -1,0 +1,289 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-19",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2024/q1/Q1-2024-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "Stephen J. Squeri | Chairman and Chief Executive Officer\nWe have started 2024 off strong, with our first-quarter results reflecting the positive trends we\nhave seen in our business the last several years. Revenue increased 11 percent from a year earlier\nto $15.8 billion and EPS increased 39 percent to $3.33.\nOur continued investments in our value propositions, marketing, brand and technology\ncapabilities have helped drive high levels of engagement with our premium customers. Overall\nCard Member spending grew 7 percent on an FX-adjusted basis, with spending by U.S. consumer\nCard Members up 8 percent from a year earlier and spending in our International Card Services\nsegment increasing 13 percent on an FX-adjusted basis.\nWe continue to attract high-spending, high credit-quality customers to the franchise, with new\ncard acquisitions accelerating sequentially to 3.4 million in the quarter. Our fee-based products\naccounted for around 70 percent of the new account acquisitions we saw in the quarter, and we\ncontinue to see strong demand from Millennial and Gen Z consumers, who accounted for over 60\npercent of new consumer account acquisitions globally. Our credit metrics remain best in class.\nBased on our results to date and the trends we are seeing in our business, we continue to expect\nfull-year 2024 revenue growth of 9 percent to 11 percent and EPS of $12.65 to $13.15.\n\nAmerican Express Company (NYSE: AXP) today reported first-quarter net income of $2.4\nbillion, or $3.33 per share, compared with net income of $1.8 billion, or $2.40 per share, a year\nago.\nFirst-quarter consolidated total revenues net of interest expense were $15.8 billion, up 11 percent\nfrom $14.3 billion a year ago. The increase was primarily driven by higher net interest income and\nincreased Card Member spending.\nConsolidated provisions for credit losses were $1.3 billion, compared with $1.1 billion a year ago.\nThe increase reflected higher net write-offs, partially offset by a lower net reserve build of $148\nmillion, compared with a net reserve build of $320 million a year ago.\nConsolidated expenses were $11.4 billion, up 3 percent from $11.1 billion a year ago. The increase\nprimarily reflected higher customer engagement costs, which were driven by higher Card Member\nspending, increased usage of travel-related benefits and higher marketing investments, partially\noffset by a $196 million benefit resulting from enhancements to the models for estimating future\nMembership Rewards redemptions.\nThe consolidated effective tax rate was 22.5 percent, up from 16.2 percent a year ago, primarily\nreflecting discrete tax benefits in the prior year.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 4,
+  "n_positive": 5,
+  "mean_pos_negative": 0.7976190476190476,
+  "mean_pos_positive": 0.4476190476190476,
+  "placement_asymmetry": 0.35,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.6666666666666666,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0030303030303030303,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0.25,
+  "mean_tone_gap_on_negatives": 0.8686679174484052,
+  "overall_hedge": 0.002551020408163265,
+  "mean_tone": 0.0736238210105806
+ },
+ "lexicon": {
+  "words": 392,
+  "per_1000": {
+   "Negative": 2.6,
+   "Positive": 12.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.6,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 5,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Squeri | Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "We have started 2024 off strong, with our first-quarter results reflecting the positive trends we have seen in our business the last several years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Revenue increased 11 percent from a year earlier to $15.8 billion and EPS increased 39 percent to $3.33.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Our continued investments in our value propositions, marketing, brand and technology capabilities have helped drive high levels of engagement with our premium customers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Overall.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Card Member spending grew 7 percent on an FX-adjusted basis, with spending by U.S. consumer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Card Members up 8 percent from a year earlier and spending in our International Card Services segment increasing 13 percent on an FX-adjusted basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "We continue to attract high-spending, high credit-quality customers to the franchise, with new card acquisitions accelerating sequentially to 3.4 million in the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Our fee-based products accounted for around 70 percent of the new account acquisitions we saw in the quarter, and we continue to see strong demand from Millennial and Gen Z consumers, who accounted for over 60 percent of new consumer account acquisitions globally.",
+   "d": 0,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     133,
+     139,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Our credit metrics remain best in class.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     30,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Based on our results to date and the trends we are seeing in our business, we continue to expect full-year 2024 revenue growth of 9 percent to 11 percent and EPS of $12.65 to $13.15.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "American Express Company (NYSE: AXP) today reported first-quarter net income of $2.4 billion, or $3.33 per share, compared with net income of $1.8 billion, or $2.40 per share, a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "First-quarter consolidated total revenues net of interest expense were $15.8 billion, up 11 percent from $14.3 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase was primarily driven by higher net interest income and increased Card Member spending.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Consolidated provisions for credit losses were $1.3 billion, compared with $1.1 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "The increase reflected higher net write-offs, partially offset by a lower net reserve build of $148 million, compared with a net reserve build of $320 million a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Consolidated expenses were $11.4 billion, up 3 percent from $11.1 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The increase primarily reflected higher customer engagement costs, which were driven by higher Card Member spending, increased usage of travel-related benefits and higher marketing investments, partially offset by a $196 million benefit resulting from enhancements to the models for estimating future.",
+   "d": -1,
+   "m": true,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     252,
+     264,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Membership Rewards redemptions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The consolidated effective tax rate was 22.5 percent, up from 16.2 percent a year ago, primarily reflecting discrete tax benefits in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
