@@ -1,0 +1,471 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-01-24",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2024/q4/Q4-2024-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "Stephen J. Squeri | Chairman and Chief Executive Officer\n2024 was another strong year for American Express. We delivered record revenues of $65.9 billion, up 10 percent\non an FX-adjusted basis, record net income of $10.1 billion, and earnings per share of $14.01, up 25 percent yearover-year.\n\nWe also saw record levels of annual Card Member spending, record net card fee revenues, and a record 13 million\nnew card acquisitions, and we continued to add millions of merchant locations to our network globally. We exited the year with increased momentum, with billings growth accelerating to 8 percent in the fourth quarter, driven by stronger spending from our consumer and commercial customers during the holiday season. We maintained our best-in-class credit performance and disciplined expense management throughout the year.\n\nAs we prepare to celebrate the 175th anniversary of American Express in March, we will continue to build on our\nhistory of growth and innovation by investing in our premium value propositions, coverage, marketing, technology, and talent. For the full year 2025, we expect revenue growth of between 8 to 10 percent and EPS in the range of $15.00 to $15.50, and we plan to increase our quarterly common stock dividend by 17 percent.\nI am confident that we can sustain our strong momentum over the long term, driven by the many attractive\nopportunities we see across our premium customer base, particularly with Millennial and Gen Z consumers and in key international markets, along with our operating expense leverage which enables us to continue investing at high levels to drive growth.\n\nAmerican Express Company (NYSE: AXP) today reported full year net income of $10.1 billion, or $14.01\nper share, compared with net income of $8.4 billion, or $11.21 per share, a year ago.\n\nFull Year 2024 Results\nConsolidated total revenues net of interest expense for the full year were $65.9 billion, up 9 percent yearover-year, or 10 percent on an FX-adjusted basis. The increase was primarily driven by higher net interest\nincome supported by growth in revolving loan balances, increased Card Member spending, and continued\nstrong card fee growth.\n\nConsolidated provisions for credit losses for the full year were $5.2 billion, compared with $4.9 billion a year\nago. The increase reflected higher net write-offs driven by growth in Total loans and Card Member\nreceivables, partially offset by a lower reserve build year-over-year. The full year net write-off rate was 2.0\npercent, compared to 1.8 percent a year ago.4\n\nConsolidated expenses for the full year were $47.9 billion, up 6 percent year-over-year. The increase\nprimarily reflected higher variable customer engagement costs driven by higher Card Member spending\nand usage of travel-related benefits, as well as increased marketing investments, partially offset by lower\noperating expenses due to the gain on sale of Accertify in the second quarter.\nThe consolidated effective tax rate for the full year was 21.5 percent, up from 20.3 percent a year ago,\nprimarily reflecting discrete tax benefits recognized in the prior year.\n\nFourth Quarter 2024 Results\nFor the fourth quarter of 2024, the company reported net income of $2.2 billion, or $3.04 per share,\ncompared with net income of $1.9 billion, or $2.62 per share, a year ago.\nFourth quarter consolidated total revenues net of interest expense were $17.2 billion, up 9 percent yearover-year, or 10 percent on an FX-adjusted basis. The increase was primarily driven by strong Card\nMember spending, higher net interest income supported by growth in revolving loan balances, and\naccelerated card fee growth.\n\nConsolidated provisions for credit losses were $1.3 billion, compared with $1.4 billion a year ago. The\ndecrease reflected a lower net reserve build year-over-year, partially offset by higher net write-offs. The\nfourth quarter net write-off rate was 1.9 percent, compared to 2.0 percent a year ago.4\nConsolidated expenses were $13.1 billion, up 11 percent year-over-year. The increase was driven by higher\nvariable customer engagement costs and marketing investments, partially offset by a decrease in\noperating expenses.\n\nThe consolidated effective tax rate was 21.3 percent, down from 23.0 percent a year ago, primarily\nreflecting discrete tax charges in the prior year.\n\nPlanned Dividend Increase\nThe company plans to increase the regular quarterly dividend on its common shares outstanding by 17\npercent, from $0.70 to $0.82 per share, beginning with the first quarter 2025 dividend declaration.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 6,
+  "n_positive": 11,
+  "mean_pos_negative": 0.6145833333333334,
+  "mean_pos_positive": 0.4289772727272727,
+  "placement_asymmetry": 0.18560606060606066,
+  "distance_from_headline": 8,
+  "first_negative_pos": 0.375,
+  "hedge_near_negative": 0.005986808726534754,
+  "hedge_near_positive": 0.0026062620387506136,
+  "hedging_asymmetry": 2.297086262824402,
+  "framing_ratio": 0.125,
+  "mean_tone_gap_on_negatives": 0.8580945198592258,
+  "overall_hedge": 0.004411764705882353,
+  "mean_tone": 0.09815837071966603
+ },
+ "lexicon": {
+  "words": 680,
+  "per_1000": {
+   "Negative": 2.9,
+   "Positive": 17.6,
+   "Uncertainty": 2.9,
+   "Litigious": 0.0,
+   "Strong modal": 2.9,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 12,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Squeri | Chairman and Chief Executive Officer 2024 was another strong year for American Express.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We delivered record revenues of $65.9 billion, up 10 percent on an FX-adjusted basis, record net income of $10.1 billion, and earnings per share of $14.01, up 25 percent yearover-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "We also saw record levels of annual Card Member spending, record net card fee revenues, and a record 13 million new card acquisitions, and we continued to add millions of merchant locations to our network globally.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "We exited the year with increased momentum, with billings growth accelerating to 8 percent in the fourth quarter, driven by stronger spending from our consumer and commercial customers during the holiday season.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     124,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We maintained our best-in-class credit performance and disciplined expense management throughout the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     22,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "As we prepare to celebrate the 175th anniversary of American Express in March, we will continue to build on our history of growth and innovation by investing in our premium value propositions, coverage, marketing, technology, and talent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     86,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     134,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "For the full year 2025, we expect revenue growth of between 8 to 10 percent and EPS in the range of $15.00 to $15.50, and we plan to increase our quarterly common stock dividend by 17 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "I am confident that we can sustain our strong momentum over the long term, driven by the many attractive opportunities we see across our premium customer base, particularly with Millennial and Gen Z consumers and in key international markets, along with our operating expense leverage which enables us to continue investing at high levels to drive growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.877,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     39,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     104,
+     [
+      "positive"
+     ]
+    ],
+    [
+     105,
+     118,
+     [
+      "positive"
+     ]
+    ],
+    [
+     291,
+     298,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "American Express Company (NYSE: AXP) today reported full year net income of $10.1 billion, or $14.01 per share, compared with net income of $8.4 billion, or $11.21 per share, a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Full Year 2024 Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Consolidated total revenues net of interest expense for the full year were $65.9 billion, up 9 percent yearover-year, or 10 percent on an FX-adjusted basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The increase was primarily driven by higher net interest income supported by growth in revolving loan balances, increased Card Member spending, and continued strong card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     158,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Consolidated provisions for credit losses for the full year were $5.2 billion, compared with $4.9 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The increase reflected higher net write-offs driven by growth in Total loans and Card Member receivables, partially offset by a lower reserve build year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The full year net write-off rate was 2.0 percent, compared to 1.8 percent a year ago.4",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Consolidated expenses for the full year were $47.9 billion, up 6 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The increase primarily reflected higher variable customer engagement costs driven by higher Card Member spending and usage of travel-related benefits, as well as increased marketing investments, partially offset by lower operating expenses due to the gain on sale of Accertify in the second quarter.",
+   "d": -1,
+   "m": false,
+   "tone": 0.222,
+   "h": 0.0222,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     251,
+     255,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The consolidated effective tax rate for the full year was 21.5 percent, up from 20.3 percent a year ago, primarily reflecting discrete tax benefits recognized in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Fourth Quarter 2024 Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "For the fourth quarter of 2024, the company reported net income of $2.2 billion, or $3.04 per share, compared with net income of $1.9 billion, or $2.62 per share, a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Fourth quarter consolidated total revenues net of interest expense were $17.2 billion, up 9 percent yearover-year, or 10 percent on an FX-adjusted basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The increase was primarily driven by strong Card.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Member spending, higher net interest income supported by growth in revolving loan balances, and accelerated card fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Consolidated provisions for credit losses were $1.3 billion, compared with $1.4 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The decrease reflected a lower net reserve build year-over-year, partially offset by higher net write-offs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The fourth quarter net write-off rate was 1.9 percent, compared to 2.0 percent a year ago.4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Consolidated expenses were $13.1 billion, up 11 percent year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The increase was driven by higher variable customer engagement costs and marketing investments, partially offset by a decrease in operating expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     34,
+     42,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "The consolidated effective tax rate was 21.3 percent, down from 23.0 percent a year ago, primarily reflecting discrete tax charges in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Planned Dividend Increase.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The company plans to increase the regular quarterly dividend on its common shares outstanding by 17 percent, from $0.70 to $0.82 per share, beginning with the first quarter 2025 dividend declaration.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
