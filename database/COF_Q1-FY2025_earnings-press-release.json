@@ -1,0 +1,446 @@
+{
+ "company": "Capital One Financial Corp",
+ "ticker": "COF",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-22",
+ "source_url": "https://investor.capitalone.com/static-files/042ad8af-81e6-4f89-842f-ae5eea637b14",
+ "demo": false,
+ "source_text": "Capital One Reports First Quarter 2025 Net Income of $1.4 billion,\nor $3.45 per share Net of adjusting items, First Quarter 2025 Net Income of $4.06 per share(1)\nMcLean, Va. (April 22, 2025) \u2013 Capital One Financial Corporation (NYSE: COF) today announced net income for the first quarter of 2025 of $1.4 billion, or $3.45 per diluted common share, compared with net income of $1.1 billion, or $2.67 per diluted common share in the fourth quarter of 2024, and with net income of $1.3 billion, or $3.13 per diluted common share in the first quarter of 2024. Adjusted net income(1) for the first quarter of 2025 was $4.06 per diluted common share. \"Last week, we received regulatory approval for our acquisition of Discover and we're fully mobilized to complete the transaction on May 18th,\" said Richard D. Fairbank, Founder, Chairman, and Chief Executive Officer. \"The combination of Capital One and Discover will create a leading consumer banking and payments platform with unique capabilities, modern technology, and powerful brands. It leverages Capital One\u2019s technology transformation and digital capabilities across a significantly larger customer franchise. And it offers the potential to enhance competition and create significant value for merchants and customers.\"\n\nAll comparisons below are for the first quarter of 2025 compared with the fourth quarter of 2024 unless otherwise noted.\nFirst Quarter 2025 Income Statement Summary:\n\u2022 Total net revenue decreased 2 percent to $10.0 billion.\n\u2022 Total non-interest expense decreased 3 percent to $5.9 billion:\n\u25e6 13 percent decrease in marketing.\n\u25e6 Less than 1 percent decrease in operating expenses.\n\u2022 Pre-provision earnings(2) remained substantially flat at $4.1 billion.\n\u2022 Provision for credit losses decreased $273 million to $2.4 billion:\n\u2022 Net charge-offs of $2.7 billion.\n\u2022 $368 million loan reserve release.\n\u2022 Net interest margin of 6.93 percent, a decrease of 10 basis points.\n\u2022 Efficiency ratio of 59.02 percent.\n\u25e6 Adjusted efficiency ratio(1) of 55.94 percent.\n\u2022 Operating efficiency ratio of 47.00 percent.\n\u25e6 Adjusted operating efficiency ratio(1) of 43.92 percent.\nFirst Quarter 2025 Balance Sheet Summary:\n\u2022 Common equity Tier 1 capital ratio(3) under Basel III Standardized Approach of 13.6 percent at March 31, 2025.\n\u2022 Period-end loans held for investment in the quarter decreased $4.2 billion, or 1 percent, to $323.6 billion.\n\u25e6 Credit Card period-end loans decreased $5.3 billion, or 3 percent, to $157.2 billion.\n\u2022 Domestic Card period-end loans decreased $5.3 billion, or 3 percent, to $150.3 billion.\n\u25e6 Consumer Banking period-end loans increased $804 million, or 1 percent, to $78.9 billion.\n\u2022 Auto period-end loans increased $827 million, or 1 percent, to $77.7 billion.\n\u25e6 Commercial Banking period-end loans increased $338 million, or less than 1 percent, to $87.5 billion.\n\u2022 Average loans held for investment in the quarter increased $514 million, or less than 1 percent, to $322.4 billion.\n\u25e6 Credit Card average loans decreased $919 million, or 1 percent, to $156.4 billion.\n\u2022 Domestic Card average loans decreased $651 million, or less than 1 percent, to $149.6 billion.\n\u25e6 Consumer Banking average loans increased $1.3 billion, or 2 percent, to $78.5 billion.\n\u2022 Auto average loans increased $1.3 billion, or 2 percent, to $77.2 billion.\n\u25e6 Commercial Banking average loans increased $174 million, or less than 1 percent, to $87.5 billion.\n\u2022 Period-end total deposits increased $4.8 billion, or 1 percent, to $367.5 billion, while average deposits increased $5.8\nbillion, or 2 percent, to $364.1 billion.\n\u2022 Interest-bearing deposits rate paid decreased 23 basis points to 3.22 percent.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 8,
+  "n_positive": 11,
+  "mean_pos_negative": 0.675,
+  "mean_pos_positive": 0.7090909090909091,
+  "placement_asymmetry": -0.03409090909090906,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.2857142857142857,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.12206959706959707
+ },
+ "lexicon": {
+  "words": 473,
+  "per_1000": {
+   "Negative": 2.1,
+   "Positive": 12.7,
+   "Uncertainty": 2.1,
+   "Litigious": 2.1,
+   "Strong modal": 2.1,
+   "Weak modal": 2.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 6,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Capital One Reports First Quarter 2025 Net Income of $1.4 billion, or $3.45 per share Net of adjusting items, First Quarter 2025 Net Income of $4.06 per share(1).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "McLean, Va. (April 22, 2025) \u2013 Capital One Financial Corporation (NYSE: COF) today announced net income for the first quarter of 2025 of $1.4 billion, or $3.45 per diluted common share, compared with net income of $1.1 billion, or $2.67 per diluted common share in the fourth quarter of 2024, and with net income of $1.3 billion, or $3.13 per diluted common share in the first quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Adjusted net income(1) for the first quarter of 2025 was $4.06 per diluted common share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\"Last week, we received regulatory approval for our acquisition of Discover and we're fully mobilized to complete the transaction on May 18th,\" said Richard D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     34,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     133,
+     136,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Fairbank, Founder, Chairman, and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"The combination of Capital One and Discover will create a leading consumer banking and payments platform with unique capabilities, modern technology, and powerful brands.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     49,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     59,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "It leverages Capital One\u2019s technology transformation and digital capabilities across a significantly larger customer franchise.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "And it offers the potential to enhance competition and create significant value for merchants and customers.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     38,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "All comparisons below are for the first quarter of 2025 compared with the fourth quarter of 2024 unless otherwise noted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "First Quarter 2025 Income Statement Summary: Total net revenue decreased 2 percent to $10.0 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Total non-interest expense decreased 3 percent to $5.9 billion: 13 percent decrease in marketing.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Less than 1 percent decrease in operating expenses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Pre-provision earnings(2) remained substantially flat at $4.1 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Provision for credit losses decreased $273 million to $2.4 billion: Net charge-offs of $2.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "$368 million loan reserve release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Net interest margin of 6.93 percent, a decrease of 10 basis points.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Efficiency ratio of 59.02 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Adjusted efficiency ratio(1) of 55.94 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Operating efficiency ratio of 47.00 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Adjusted operating efficiency ratio(1) of 43.92 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "First Quarter 2025 Balance Sheet Summary: Common equity Tier 1 capital ratio(3) under Basel III Standardized Approach of 13.6 percent at March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Period-end loans held for investment in the quarter decreased $4.2 billion, or 1 percent, to $323.6 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Credit Card period-end loans decreased $5.3 billion, or 3 percent, to $157.2 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Domestic Card period-end loans decreased $5.3 billion, or 3 percent, to $150.3 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Consumer Banking period-end loans increased $804 million, or 1 percent, to $78.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Auto period-end loans increased $827 million, or 1 percent, to $77.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Commercial Banking period-end loans increased $338 million, or less than 1 percent, to $87.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Average loans held for investment in the quarter increased $514 million, or less than 1 percent, to $322.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Credit Card average loans decreased $919 million, or 1 percent, to $156.4 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Domestic Card average loans decreased $651 million, or less than 1 percent, to $149.6 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Consumer Banking average loans increased $1.3 billion, or 2 percent, to $78.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Auto average loans increased $1.3 billion, or 2 percent, to $77.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Commercial Banking average loans increased $174 million, or less than 1 percent, to $87.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Period-end total deposits increased $4.8 billion, or 1 percent, to $367.5 billion, while average deposits increased $5.8 billion, or 2 percent, to $364.1 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Interest-bearing deposits rate paid decreased 23 basis points to 3.22 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
