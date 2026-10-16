@@ -1,0 +1,396 @@
+{
+ "company": "Capital One Financial Corp",
+ "ticker": "COF",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-21",
+ "source_url": "https://investor.capitalone.com/static-files/51eb07eb-0611-4e57-a90b-0cc228935e2c",
+ "demo": false,
+ "source_text": "Capital One Reports Second Quarter 2026 Net Income of $3.0 billion,\nor $4.73 per share Net of adjusting items, Second Quarter 2026 Net Income of $5.81 per share(1)\nMcLean, Va. (July 21, 2026) \u2013 Capital One Financial Corporation (NYSE: COF) today announced net income for the second quarter of 2026 of $3.0 billion, or $4.73 per diluted common share, compared with net income of $2.2 billion, or $3.34 per diluted common share in the first quarter of 2026, and with net loss of $4.3 billion, or $(8.58) per diluted common share in the second quarter of 2025. Adjusted net income(1) for the second quarter of 2026 was $5.81 per diluted common share. \"Our results in the second quarter continue to reflect solid top line growth and strong credit performance,\" said Richard D. Fairbank, Founder, Chairman, and Chief Executive Officer. \"We\u2019re now 14 months into our integration of Discover, and integration is going well.\"\n\nAll comparisons below are for the second quarter of 2026 compared with the first quarter of 2026 unless otherwise noted.\nSecond Quarter 2026 Income Statement Summary:\n\u2022 Total net revenue increased 4 percent to $15.9 billion.\n\u2022 Total non-interest expense increased 7 percent to $9.0 billion:\n\u25e6 11 percent increase in marketing.\n\u25e6 6 percent increase in operating expenses.\n\u2022 Pre-provision earnings(3) increased 1 percent to $6.8 billion.\n\u2022 Provision for credit losses decreased $1.1 billion to $3.0 billion:\n\u25e6 Net charge-offs of $3.6 billion.\n\u25e6 $662 million loan reserve release.\n\u2022 Net interest margin of 8.01 percent, an increase of 14 basis points.\n\u2022 Efficiency ratio of 57.05 percent.\n\u25e6 Adjusted efficiency ratio(4) of 51.38 percent.\n\u2022 Operating efficiency ratio of 46.57 percent.\n\u25e6 Adjusted operating efficiency ratio(4) of 40.88 percent.\nSecond Quarter 2026 Balance Sheet Summary:\n\u2022 Common equity Tier 1 capital ratio(5) under Basel III Standardized Approach of 13.7% percent at June 30, 2026.\n\u2022 Period-end loans held for investment in the quarter increased $9.4 billion, or 2 percent, to $457.2 billion.\n\u25e6 Credit Card period-end loans increased $4.9 billion, or 2 percent, to $275.4 billion.\n\u2022 Domestic Card period-end loans increased $5.0 billion, or 2 percent, to $259.0 billion.\n\u25e6 Consumer Banking period-end loans increased $3.6 billion, or 4 percent, to $90.5 billion.\n\u2022 Auto period-end loans increased $3.6 billion, or 4 percent, to $89.3 billion.\n\u25e6 Commercial Banking period-end loans increased $1.0 billion, or 1 percent, to $91.3 billion.\n\u2022 Average loans held for investment in the quarter increased $4.4 billion, or 1 percent, to $450.7 billion.\n\u25e6 Credit Card average loans increased $223 million, or less than 1 percent, to $271.2 billion.\n\u2022 Domestic Card average loans increased $589 million, or less than 1 percent, to $254.6 billion.\n\u25e6 Consumer Banking average loans increased $2.9 billion, or 3 percent, to $88.6 billion.\n\u2022 Auto average loans increased $2.9 billion, or 3 percent, to $87.4 billion.\n\u25e6 Commercial Banking average loans increased $1.3 billion, or 1 percent, to $90.9 billion.\n\u2022 Period-end total deposits decreased $4.8 billion, or 1 percent, to $484.3 billion, while average deposits increased $6.8\nbillion, or 1 percent, to $486.8 billion.\n\u2022 Interest-bearing deposits rate paid decreased 9 basis points to 2.91 percent.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 4,
+  "n_positive": 17,
+  "mean_pos_negative": 0.578125,
+  "mean_pos_positive": 0.625,
+  "placement_asymmetry": -0.046875,
+  "distance_from_headline": -5,
+  "first_negative_pos": 0.0625,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.956140350877193,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.11110408232118758
+ },
+ "lexicon": {
+  "words": 419,
+  "per_1000": {
+   "Negative": 4.8,
+   "Positive": 11.9,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 5,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Capital One Reports Second Quarter 2026 Net Income of $3.0 billion, or $4.73 per share Net of adjusting items, Second Quarter 2026 Net Income of $5.81 per share(1).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "McLean, Va. (July 21, 2026) \u2013 Capital One Financial Corporation (NYSE: COF) today announced net income for the second quarter of 2026 of $3.0 billion, or $4.73 per diluted common share, compared with net income of $2.2 billion, or $3.34 per diluted common share in the first quarter of 2026, and with net loss of $4.3 billion, or $(8.58) per diluted common share in the second quarter of 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -0.175,
+   "h": 0.0,
+   "hits": [
+    [
+     305,
+     309,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Adjusted net income(1) for the second quarter of 2026 was $5.81 per diluted common share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\"Our results in the second quarter continue to reflect solid top line growth and strong credit performance,\" said Richard D.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     81,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Fairbank, Founder, Chairman, and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"We\u2019re now 14 months into our integration of Discover, and integration is going well.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "All comparisons below are for the second quarter of 2026 compared with the first quarter of 2026 unless otherwise noted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Second Quarter 2026 Income Statement Summary: Total net revenue increased 4 percent to $15.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Total non-interest expense increased 7 percent to $9.0 billion: 11 percent increase in marketing. 6 percent increase in operating expenses.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Pre-provision earnings(3) increased 1 percent to $6.8 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Provision for credit losses decreased $1.1 billion to $3.0 billion: Net charge-offs of $3.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "$662 million loan reserve release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Net interest margin of 8.01 percent, an increase of 14 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Efficiency ratio of 57.05 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Adjusted efficiency ratio(4) of 51.38 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Operating efficiency ratio of 46.57 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Adjusted operating efficiency ratio(4) of 40.88 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Second Quarter 2026 Balance Sheet Summary: Common equity Tier 1 capital ratio(5) under Basel III Standardized Approach of 13.7% percent at June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Period-end loans held for investment in the quarter increased $9.4 billion, or 2 percent, to $457.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Credit Card period-end loans increased $4.9 billion, or 2 percent, to $275.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Domestic Card period-end loans increased $5.0 billion, or 2 percent, to $259.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Consumer Banking period-end loans increased $3.6 billion, or 4 percent, to $90.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Auto period-end loans increased $3.6 billion, or 4 percent, to $89.3 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Commercial Banking period-end loans increased $1.0 billion, or 1 percent, to $91.3 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Average loans held for investment in the quarter increased $4.4 billion, or 1 percent, to $450.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Credit Card average loans increased $223 million, or less than 1 percent, to $271.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Domestic Card average loans increased $589 million, or less than 1 percent, to $254.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Consumer Banking average loans increased $2.9 billion, or 3 percent, to $88.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Auto average loans increased $2.9 billion, or 3 percent, to $87.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Commercial Banking average loans increased $1.3 billion, or 1 percent, to $90.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Period-end total deposits decreased $4.8 billion, or 1 percent, to $484.3 billion, while average deposits increased $6.8 billion, or 1 percent, to $486.8 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Interest-bearing deposits rate paid decreased 9 basis points to 2.91 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
