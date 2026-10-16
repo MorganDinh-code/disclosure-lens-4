@@ -1,0 +1,320 @@
+{
+ "company": "American Express",
+ "ticker": "AXP",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-18",
+ "source_url": "https://s26.q4cdn.com/747928648/files/doc_financials/2024/q3/Q3-2024-Earnings-Press-Release.pdf",
+ "demo": false,
+ "source_text": "Stephen J. Squeri | Chairman and Chief Executive Officer\nWe had another strong quarter that reflects the earnings power of our business model and our continued\ninvestments for growth. Third-quarter revenue reached another record of $16.6 billion, up 8 percent, and\nearnings per share of $3.49 was up 6 percent, year-over-year.\n\nBased on our performance to date and the strong earnings our core business is generating, we are raising\nour full-year EPS guidance to $13.75 - $14.05, up from $13.30 - $13.80 previously. We continue to expect fullyear revenue growth that is within the annual guidance range we provided in the beginning of the year, at\naround 9 percent.\n\nIn the third quarter, total Card Member spending increased 6 percent, and card fee revenue growth\naccelerated to 18 percent. We continued to attract large numbers of new premium Card Members with 3.3\nmillion new card acquisitions, while maintaining our high retention rates, excellent credit performance, and\nexpense discipline.\n\nOur continued momentum demonstrates the sustainability of our product refresh strategy and the growth it\nis driving in our portfolio. We have already completed 40 product refreshes globally since the beginning of\nthe year, including the recent launch of our new U.S. Consumer Gold Card. The new benefits and capabilities\nwe have added in popular categories like dining are fueling our growth with Millennial and Gen-Z consumers,\nwho represent 80 percent of the new accounts acquired on the U.S. Consumer Gold Card, and remain our\nfastest growing consumer cohort overall in the U.S. The strong early results we\u2019re seeing from our product\nrefreshes reinforce my confidence that we\u2019re investing in the right areas to enhance our value propositions\nand meet the financial and lifestyle needs of our customers.\n\nAmerican Express Company (NYSE: AXP) today reported third-quarter net income of $2.51 billion, or\n$3.49 per share, compared with net income of $2.45 billion, or $3.30 per share, a year ago.\nThird-quarter consolidated total revenues net of interest expense were $16.6 billion, up 8 percent from\n$15.4 billion a year ago. The increase was primarily driven by higher net interest income supported by\ngrowth in loan volumes, stable growth in Card Member spending, and accelerated card fee revenue growth.\nConsolidated provisions for credit losses were $1.4 billion, compared with $1.2 billion a year ago. The\nincrease reflected higher net write-offs driven by growth in loan balances, partially offset by a lower net\nreserve build year-over-year. The third-quarter net write-off rate was 1.9 percent, compared to 1.8 percent\na year ago, and down from 2.1 percent in the prior quarter.4\n\nConsolidated expenses were $12.1 billion, up 9 percent from $11.0 billion a year ago. The increase primarily\nreflected higher variable customer engagement costs driven by higher Card Member spending and usage\nof travel-related benefits, as well as increased marketing investments and operating expenses.\nThe consolidated effective tax rate was 21.8 percent, up from 20.9 percent a year ago, primarily reflecting\ndiscrete tax benefits in the prior-year period. ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 3,
+  "n_positive": 9,
+  "mean_pos_negative": 0.7727272727272727,
+  "mean_pos_positive": 0.398989898989899,
+  "placement_asymmetry": 0.3737373737373737,
+  "distance_from_headline": 9,
+  "first_negative_pos": 0.6363636363636364,
+  "hedge_near_negative": 0.005208333333333333,
+  "hedge_near_positive": 0.004674316829439345,
+  "hedging_asymmetry": 1.1142448240843872,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8076923076923077,
+  "overall_hedge": 0.0041928721174004195,
+  "mean_tone": 0.052738768256009635
+ },
+ "lexicon": {
+  "words": 477,
+  "per_1000": {
+   "Negative": 2.1,
+   "Positive": 14.7,
+   "Uncertainty": 2.1,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 7,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Stephen J.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Squeri | Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "We had another strong quarter that reflects the earnings power of our business model and our continued investments for growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Third-quarter revenue reached another record of $16.6 billion, up 8 percent, and earnings per share of $3.49 was up 6 percent, year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Based on our performance to date and the strong earnings our core business is generating, we are raising our full-year EPS guidance to $13.75 - $14.05, up from $13.30 - $13.80 previously.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We continue to expect fullyear revenue growth that is within the annual guidance range we provided in the beginning of the year, at around 9 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "In the third quarter, total Card Member spending increased 6 percent, and card fee revenue growth accelerated to 18 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "We continued to attract large numbers of new premium Card Members with 3.3 million new card acquisitions, while maintaining our high retention rates, excellent credit performance, and expense discipline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     150,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Our continued momentum demonstrates the sustainability of our product refresh strategy and the growth it is driving in our portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "We have already completed 40 product refreshes globally since the beginning of the year, including the recent launch of our new U.S. Consumer Gold Card.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The new benefits and capabilities we have added in popular categories like dining are fueling our growth with Millennial and Gen-Z consumers, who represent 80 percent of the new accounts acquired on the U.S. Consumer Gold Card, and remain our fastest growing consumer cohort overall in the U.S. The strong early results we\u2019re seeing from our product refreshes reinforce my confidence that we\u2019re investing in the right areas to enhance our value propositions and meet the financial and lifestyle needs of our customers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     58,
+     [
+      "positive"
+     ]
+    ],
+    [
+     299,
+     305,
+     [
+      "positive"
+     ]
+    ],
+    [
+     427,
+     434,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "American Express Company (NYSE: AXP) today reported third-quarter net income of $2.51 billion, or.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "$3.49 per share, compared with net income of $2.45 billion, or $3.30 per share, a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Third-quarter consolidated total revenues net of interest expense were $16.6 billion, up 8 percent from.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "$15.4 billion a year ago.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The increase was primarily driven by higher net interest income supported by growth in loan volumes, stable growth in Card Member spending, and accelerated card fee revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     101,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Consolidated provisions for credit losses were $1.4 billion, compared with $1.2 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The increase reflected higher net write-offs driven by growth in loan balances, partially offset by a lower net reserve build year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The third-quarter net write-off rate was 1.9 percent, compared to 1.8 percent a year ago, and down from 2.1 percent in the prior quarter.4",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Consolidated expenses were $12.1 billion, up 9 percent from $11.0 billion a year ago.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase primarily reflected higher variable customer engagement costs driven by higher Card Member spending and usage of travel-related benefits, as well as increased marketing investments and operating expenses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "The consolidated effective tax rate was 21.8 percent, up from 20.9 percent a year ago, primarily reflecting discrete tax benefits in the prior-year period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
