@@ -1,0 +1,346 @@
+{
+ "company": "Apollo Global Management",
+ "ticker": "APO",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-04",
+ "source_url": "https://ir.apollo.com/_assets/_be2fe842f40c287b56cc0df2e7037b84/apollo/db/2247/22879/full_earnings_release/AGM+Earnings+Release+2Q%272026.pdf",
+ "demo": false,
+ "source_text": "Apollo Reports Second Quarter 2026 Results\nNew York, August 4, 2026 \u2013 Apollo Global Management, Inc. (NYSE: APO) (together with its consolidated\nsubsidiaries, \u201cApollo\u201d) today reported results for the second quarter ended June 30, 2026.\nDividend\nApollo Global Management, Inc. has declared a cash dividend of $0.5625 per share of its Common Stock for\nthe second quarter ended June 30, 2026. This dividend will be paid on August 31, 2026 to holders of record\nat the close of business on August 19, 2026.\nThe declaration and payment of dividends on the Common Stock are at the sole discretion of Apollo Global\nManagement, Inc.\u2019s board of directors. Apollo cannot assure its stockholders that they will receive any\ndividends in the future.\n\nConference Call\nApollo will host a public audio webcast on Tuesday, August 4, 2026 at 8:30 a.m. Eastern Time. During the\nwebcast, members of Apollo\u2019s senior management team will review Apollo\u2019s financial results for the second\nquarter ended June 30, 2026.\n\nThe webcast may be accessed at ir.apollo.com. For those unable to listen to the live broadcast, there will be\na replay of the webcast available at the same link one hour after the event.\nApollo distributes its earnings releases via its website and email distribution lists. Those interested in\nreceiving firm updates by email can sign up for them at ir.apollo.com.\n\nMarc Rowan\nChairman and Chief Executive Officer\nOur strong second quarter results\nreflect record earnings across\nAsset Management and Retirement\nServices, highlighting the quality\nand growing scale of our business.\nWe are at the forefront of\nmodernizing how private markets\noperate by enhancing\ntransparency, improving liquidity,\nand broadening access. In a\nmarket evolving quickly with\nincreasing demand for capital, the\nbreadth of our origination\ncapabilities combined with a\nprincipal mindset positions us to\nhelp shape what comes next",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 23,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.6811594202898551,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0034482758620689655,
+  "mean_tone": 0.101909362778928
+ },
+ "lexicon": {
+  "words": 290,
+  "per_1000": {
+   "Negative": 3.4,
+   "Positive": 17.2,
+   "Uncertainty": 3.4,
+   "Litigious": 0.0,
+   "Strong modal": 17.2,
+   "Weak modal": 3.4,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 5,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 5,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Apollo Reports Second Quarter 2026 Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, August 4, 2026 \u2013 Apollo Global Management, Inc. (NYSE: APO) (together with its consolidated subsidiaries, \u201cApollo\u201d) today reported results for the second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Dividend.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Apollo Global Management, Inc. has declared a cash dividend of $0.5625 per share of its Common Stock for the second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "This dividend will be paid on August 31, 2026 to holders of record at the close of business on August 19, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     18,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "The declaration and payment of dividends on the Common Stock are at the sole discretion of Apollo Global.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Management, Inc.\u2019s board of directors.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Apollo cannot assure its stockholders that they will receive any dividends in the future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     48,
+     52,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Conference Call.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Apollo will host a public audio webcast on Tuesday, August 4, 2026 at 8:30 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Eastern Time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "During the webcast, members of Apollo\u2019s senior management team will review Apollo\u2019s financial results for the second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     67,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The webcast may be accessed at ir.apollo.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     12,
+     15,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "For those unable to listen to the live broadcast, there will be a replay of the webcast available at the same link one hour after the event.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "negative"
+     ]
+    ],
+    [
+     56,
+     60,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Apollo distributes its earnings releases via its website and email distribution lists.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Those interested in receiving firm updates by email can sign up for them at ir.apollo.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Marc Rowan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Chairman and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Our strong second quarter results reflect record earnings across.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Asset Management and Retirement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Services, highlighting the quality and growing scale of our business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "We are at the forefront of modernizing how private markets operate by enhancing transparency, improving liquidity, and broadening access.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     79,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     92,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     103,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "In a market evolving quickly with increasing demand for capital, the breadth of our origination capabilities combined with a principal mindset positions us to help shape what comes next",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
