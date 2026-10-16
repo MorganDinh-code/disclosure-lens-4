@@ -1,0 +1,187 @@
+{
+ "company": "Banco Bilbao Vizcaya Argentaria",
+ "ticker": "BBVA",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-31",
+ "source_url": "https://www.bbva.com/en/economy-and-finance/earnings-2q25/",
+ "demo": false,
+ "source_text": "BBVA earns \u20ac5.45 billion through June, expects accumulated profit of \u20ac48 billion for 2025-2028, with an average ROTE of about 22 percent\n\n\nBBVA posted a record \u20ac5.45 billion profit, up 9 percent yoy (+31 percent in constant euros) in the first half of 2025, driven by greater activity in Spain and Mexico. The bank reported excellent metrics in profitability -with ROTE above 20 percent-, and value creation for shareholders, with growth of the tangible book value per share plus dividends of nearly 15 percent. BBVA also improved its profitability and efficiency prospects at Group level, as well as lending and net interest income for Spain, among others. \n\nThe bank also unveiled its financial goals for the 2025-2028 period. It expects to earn an accumulated net attributable profit of around \u20ac48 billion over four years, while having \u20ac36 billion of highest-quality capital available for distribution to shareholders through 2028\u00b9.  Furthermore, BBVA expects average ROTE to reach around 22 percent during this period, with the efficiency ratio improving to levels around 35 percent.  The bank also set a goal to increase the tangible book value per share plus dividends by around 15 percent (CAGR).",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 8,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.53125,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0199871286626458,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.022727272727272728,
+  "mean_tone": 0.37202380952380953
+ },
+ "lexicon": {
+  "words": 176,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 45.5,
+   "Uncertainty": 5.7,
+   "Litigious": 0.0,
+   "Strong modal": 5.7,
+   "Weak modal": 5.7,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 8,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BBVA earns \u20ac5.45 billion through June, expects accumulated profit of \u20ac48 billion for 2025-2028, with an average ROTE of about 22 percent",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "BBVA posted a record \u20ac5.45 billion profit, up 9 percent yoy (+31 percent in constant euros) in the first half of 2025, driven by greater activity in Spain and Mexico.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "The bank reported excellent metrics in profitability -with ROTE above 20 percent-, and value creation for shareholders, with growth of the tangible book value per share plus dividends of nearly 15 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0333,
+   "hits": [
+    [
+     18,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     39,
+     52,
+     [
+      "positive"
+     ]
+    ],
+    [
+     187,
+     193,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "BBVA also improved its profitability and efficiency prospects at Group level, as well as lending and net interest income for Spain, among others.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     23,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     41,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "The bank also unveiled its financial goals for the 2025-2028 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "It expects to earn an accumulated net attributable profit of around \u20ac48 billion over four years, while having \u20ac36 billion of highest-quality capital available for distribution to shareholders through 2028\u00b9.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0357,
+   "hits": [
+    [
+     125,
+     132,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Furthermore, BBVA expects average ROTE to reach around 22 percent during this period, with the efficiency ratio improving to levels around 35 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0476,
+   "hits": [
+    [
+     95,
+     105,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The bank also set a goal to increase the tangible book value per share plus dividends by around 15 percent (CAGR).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
