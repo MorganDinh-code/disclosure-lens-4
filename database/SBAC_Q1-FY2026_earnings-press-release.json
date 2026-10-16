@@ -1,0 +1,551 @@
+{
+ "company": "SBA Communications Corporation",
+ "ticker": "SBAC",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-29",
+ "source_url": "https://ir.sbasite.com/news-events/press-releases/news-details/2026/SBA-Communications-Corporation-Reports-First-Quarter-2026-Results-Updates-Full-Year-2026-Outlook-and-Declares-Quarterly-Cash-Dividend/default.aspx",
+ "demo": false,
+ "source_text": "BOCA RATON, Fla.--(BUSINESS WIRE)-- SBA Communications Corporation (Nasdaq: SBAC) (\"SBA\" or the \"Company\") today reported results for the quarter ended March 31, 2026.\n\nHighlights of the first quarter include:\n\nNet income attributable to SBA of $184.8 million or $1.74 per share\nIndustry-leading AFFO per share of $3.03\nIncreased full year 2026 outlook across all key metrics\nCompany-wide Tower Cash Flow margin of approximately 80%\nIn addition, the Company announced today that its Board of Directors has declared a quarterly cash dividend of $1.25 per share of the Company\u2019s Class A Common Stock. The distribution is payable June 17, 2026 to the shareholders of record at the close of business on May 22, 2026.\n\n\u201cWe had a solid start to 2026, with positive first quarter financial and operating results,\u201d commented Brendan Cavanagh, President and Chief Executive Officer. \u201cCarrier activity remained steady globally, as our customers continued to focus on expanding and densifying their networks, as well as upgrading sites with new spectrum bands and technologies. In addition, our domestic leasing backlogs increased during the quarter. These favorable results and positive movement in foreign exchange rates have allowed us to increase our full year outlook for each of our key financial metrics from the levels we provided in late February. During the quarter, we also continued to invest in expanding our portfolio through new tower builds across our markets, with increasing production particularly under our Central America build to suit agreement with Millicom International. We anticipate seeing this production grow steadily throughout 2026. Our balance sheet also remains strong as we ended the quarter with net debt to Adjusted EBITDA of 6.6x, in the middle of our target range of 6.0x to 7.0x, notwithstanding the full removal of all EchoStar revenue from our reported results as of the beginning of the year. Our solid operating results and strong balance sheet have allowed us to continue growing our dividend at the highest pace in the industry. Our declared second quarter dividend still only represents approximately 41% of AFFO in our 2026 outlook, leaving us with significant capital available for additional investment into the business. Our company continues to perform well, and we are excited about the rest of 2026.\u201d\n\nInvesting Activities\n\nDuring the first quarter of 2026, SBA acquired 10 communication sites, as well as the rights to land underneath approximately 3,900 communication sites in Guatemala, for total cash consideration of $133.0 million. SBA also built 80 towers during the first quarter of 2026. As of March 31, 2026, SBA owned or operated 46,358 communication sites, 17,378 of which are located in the United States and its territories and 28,980 of which are located internationally. In addition, the Company spent $10.4 million to purchase land and easements and to extend lease terms. Total cash capital expenditures for the first quarter of 2026 were $191.9 million, consisting of $12.7 million of non-discretionary cash capital expenditures (tower maintenance and general corporate) and $179.2 million of discretionary cash capital expenditures (new tower builds, tower augmentations, acquisitions, and purchasing land and easements).\n\nAs of the date of this press release, the Company, subsequent to quarter end, purchased or is under contract to purchase 56 communication sites for an aggregate consideration of $36.9 million in cash, which it expects to close by the end of the third quarter of 2026.\n\nFinancing Activities and Liquidity\n\nSBA ended the first quarter of 2026 with $13.0 billion of total debt, $10.0 billion of total secured debt, $0.4 billion of cash and cash equivalents, short-term restricted cash, and short-term investments, and $12.6 billion of Net Debt. SBA\u2019s Net Debt and Net Secured Debt to Annualized Adjusted EBITDA Leverage Ratios were 6.6x and 5.0x, respectively.\n\nOn January 9, 2026, the Company, using borrowings from the Revolving Credit Facility, repaid the aggregate principal amount of the 2020-1C Tower Securities ($750.0 million).\n\nAs of the date of this press release, the Company had $1.1 billion outstanding under its $2.0 billion Revolving Credit Facility.\n\nAs of the date of this press release, the Company had $1.1 billion of authorization remaining under its stock repurchase plan.\n\nIn the first quarter of 2026, the Company declared and paid a cash dividend of $135.2 million.\n\nOutlook\n\nThe Company is updating its full year 2026 Outlook for anticipated results. The 2026 Outlook provided is based on a number of assumptions that the Company believes are reasonable at the time of this press release. Information regarding potential risks that could cause the actual results to differ from these forward-looking statements is set forth below and in the Company\u2019s filings with the Securities and Exchange Commission.\n\nThe Company\u2019s full year 2026 Outlook assumes the acquisitions of only those communication sites under contract which are expected to close in 2026 at the time of this press release. The Company may spend additional capital in 2026 on acquiring revenue producing assets not yet identified or under contract, the impact of which is not reflected in the 2026 Outlook. The 2026 Outlook also does not contemplate any additional repurchases of the Company\u2019s stock or new debt financings during 2026 (other than the refinancing of the 2021-1C Tower Securities as discussed below), although the Company may ultimately spend capital to repurchase stock or issue new debt during the remainder of the year.\n\nThe Company\u2019s 2026 Outlook assumes an average foreign currency exchange rate of 5.05 Brazilian Reais to 1.0 U.S. Dollar, 2,560 Tanzanian Shillings to 1.0 U.S. Dollar, and 16.40 South African Rand to 1.0 U.S. Dollar throughout the last three quarters of 2026.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 1,
+  "n_positive": 5,
+  "mean_pos_negative": 0.9444444444444444,
+  "mean_pos_positive": 0.2611111111111111,
+  "placement_asymmetry": 0.6833333333333333,
+  "distance_from_headline": 32,
+  "first_negative_pos": 0.9444444444444444,
+  "hedge_near_negative": 0.027777777777777776,
+  "hedge_near_positive": 0.011131725417439703,
+  "hedging_asymmetry": 2.4953703703703702,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.011221945137157107,
+  "mean_tone": 0.09933799606799242
+ },
+ "lexicon": {
+  "words": 802,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 10.0,
+   "Uncertainty": 11.2,
+   "Litigious": 5.0,
+   "Strong modal": 1.2,
+   "Weak modal": 3.7,
+   "Constraining": 1.2
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 8,
+   "Uncertainty": 9,
+   "Litigious": 4,
+   "Strong modal": 1,
+   "Weak modal": 3,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BOCA RATON, Fla.--(BUSINESS WIRE)-- SBA Communications Corporation (Nasdaq: SBAC) (\"SBA\" or the \"Company\") today reported results for the quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Highlights of the first quarter include:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Net income attributable to SBA of $184.8 million or $1.74 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Industry-leading AFFO per share of $3.03.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Increased full year 2026 outlook across all key metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Company-wide Tower Cash Flow margin of approximately 80%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     39,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "In addition, the Company announced today that its Board of Directors has declared a quarterly cash dividend of $1.25 per share of the Company\u2019s Class A Common Stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The distribution is payable June 17, 2026 to the shareholders of record at the close of business on May 22, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     103,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\u201cWe had a solid start to 2026, with positive first quarter financial and operating results,\u201d commented Brendan Cavanagh, President and Chief Executive Officer. \u201cCarrier activity remained steady globally, as our customers continued to focus on expanding and densifying their networks, as well as upgrading sites with new spectrum bands and technologies.",
+   "d": 1,
+   "m": false,
+   "tone": 0.2,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     44,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "In addition, our domestic leasing backlogs increased during the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "These favorable results and positive movement in foreign exchange rates have allowed us to increase our full year outlook for each of our key financial metrics from the levels we provided in late February.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     28,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "During the quarter, we also continued to invest in expanding our portfolio through new tower builds across our markets, with increasing production particularly under our Central America build to suit agreement with Millicom International.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "We anticipate seeing this production grow steadily throughout 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Our balance sheet also remains strong as we ended the quarter with net debt to Adjusted EBITDA of 6.6x, in the middle of our target range of 6.0x to 7.0x, notwithstanding the full removal of all EchoStar revenue from our reported results as of the beginning of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.204,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     37,
+     [
+      "positive"
+     ]
+    ],
+    [
+     155,
+     170,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Our solid operating results and strong balance sheet have allowed us to continue growing our dividend at the highest pace in the industry.",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     38,
+     [
+      "positive"
+     ]
+    ],
+    [
+     109,
+     116,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Our declared second quarter dividend still only represents approximately 41% of AFFO in our 2026 outlook, leaving us with significant capital available for additional investment into the business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Our company continues to perform well, and we are excited about the rest of 2026.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Investing Activities",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "During the first quarter of 2026, SBA acquired 10 communication sites, as well as the rights to land underneath approximately 3,900 communication sites in Guatemala, for total cash consideration of $133.0 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     112,
+     125,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "SBA also built 80 towers during the first quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "As of March 31, 2026, SBA owned or operated 46,358 communication sites, 17,378 of which are located in the United States and its territories and 28,980 of which are located internationally.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "In addition, the Company spent $10.4 million to purchase land and easements and to extend lease terms.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Total cash capital expenditures for the first quarter of 2026 were $191.9 million, consisting of $12.7 million of non-discretionary cash capital expenditures (tower maintenance and general corporate) and $179.2 million of discretionary cash capital expenditures (new tower builds, tower augmentations, acquisitions, and purchasing land and easements).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "As of the date of this press release, the Company, subsequent to quarter end, purchased or is under contract to purchase 56 communication sites for an aggregate consideration of $36.9 million in cash, which it expects to close by the end of the third quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0227,
+   "hits": [
+    [
+     100,
+     108,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Financing Activities and Liquidity",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "SBA ended the first quarter of 2026 with $13.0 billion of total debt, $10.0 billion of total secured debt, $0.4 billion of cash and cash equivalents, short-term restricted cash, and short-term investments, and $12.6 billion of Net Debt.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     161,
+     171,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "SBA\u2019s Net Debt and Net Secured Debt to Annualized Adjusted EBITDA Leverage Ratios were 6.6x and 5.0x, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "On January 9, 2026, the Company, using borrowings from the Revolving Credit Facility, repaid the aggregate principal amount of the 2020-1C Tower Securities ($750.0 million).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "As of the date of this press release, the Company had $1.1 billion outstanding under its $2.0 billion Revolving Credit Facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As of the date of this press release, the Company had $1.1 billion of authorization remaining under its stock repurchase plan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "In the first quarter of 2026, the Company declared and paid a cash dividend of $135.2 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "The Company\u2019s full year 2026 Outlook assumes the acquisitions of only those communication sites under contract which are expected to close in 2026 at the time of this press release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     37,
+     44,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     102,
+     110,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "The Company may spend additional capital in 2026 on acquiring revenue producing assets not yet identified or under contract, the impact of which is not reflected in the 2026 Outlook.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     12,
+     15,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     115,
+     123,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "The 2026 Outlook also does not contemplate any additional repurchases of the Company\u2019s stock or new debt financings during 2026 (other than the refinancing of the 2021-1C Tower Securities as discussed below), although the Company may ultimately spend capital to repurchase stock or issue new debt during the remainder of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0196,
+   "hits": [
+    [
+     230,
+     233,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "The Company\u2019s 2026 Outlook assumes an average foreign currency exchange rate of 5.05 Brazilian Reais to 1.0 U.S. Dollar, 2,560 Tanzanian Shillings to 1.0 U.S. Dollar, and 16.40 South African Rand to 1.0 U.S. Dollar throughout the last three quarters of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0263,
+   "hits": [
+    [
+     27,
+     34,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
