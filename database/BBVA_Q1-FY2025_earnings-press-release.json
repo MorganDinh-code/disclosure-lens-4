@@ -1,0 +1,140 @@
+{
+ "company": "Banco Bilbao Vizcaya Argentaria",
+ "ticker": "BBVA",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-29",
+ "source_url": "https://www.bbva.com/en/economy-and-finance/earnings-1q25/",
+ "demo": false,
+ "source_text": "BBVA earns \u20ac2.7 billion in first quarter (+23 percent yoy)\n\nBBVA posted solid results in the first three months of the year. Yet another quarter, BBVA stood out for its distinctive profitability, with an ROTE over 20 percent, and its ability to create value for its shareholders, with a 14 percent yoy increase in the tangible book value per share plus dividends. The Group earned \u20ac2.7 billion, up 23 percent in current euros (+46 percent in constant euros), driven by greater activity. \n\nThe loan portfolio grew by 15 percent in constant euros, with a strong performance of Spain and Mexico. In these two countries, lending for companies and businesses increased by 8.5 and 25 percent, respectively. These earnings strengthened even further BBVA\u2019s capital position, with a CET1 ratio over 13 percent.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 7,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.6666666666666666,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.2544596786082854
+ },
+ "lexicon": {
+  "words": 121,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 33.1,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BBVA earns \u20ac2.7 billion in first quarter (+23 percent yoy)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "BBVA posted solid results in the first three months of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Yet another quarter, BBVA stood out for its distinctive profitability, with an ROTE over 20 percent, and its ability to create value for its shareholders, with a 14 percent yoy increase in the tangible book value per share plus dividends.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     55,
+     [
+      "positive"
+     ]
+    ],
+    [
+     56,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "The Group earned \u20ac2.7 billion, up 23 percent in current euros (+46 percent in constant euros), driven by greater activity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "The loan portfolio grew by 15 percent in constant euros, with a strong performance of Spain and Mexico.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "In these two countries, lending for companies and businesses increased by 8.5 and 25 percent, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "These earnings strengthened even further BBVA\u2019s capital position, with a CET1 ratio over 13 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
