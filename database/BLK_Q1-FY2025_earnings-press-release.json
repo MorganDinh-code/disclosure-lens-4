@@ -1,0 +1,353 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-14",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2026/Q1/BLK-1Q26-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports First Quarter 2026 Diluted EPS of $14.06, or $12.53 as adjusted\nNew York, April 14, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months ended March 31, 2026.\n$130 billion of quarterly total net inflows, led by a record first quarter for iShares\u00ae\nETFs alongside active and private markets net inflows\n$744 billion of net inflows and 10% organic base fee growth over the last\ntwelve months, broad-based across the platform and driven by private markets,\nETFs, and systematic active strategies\n27% increase in revenue year-over-year reflects the positive impact of markets,\norganic base fee growth, fees related to the HPS Transaction, and higher\ntechnology services and subscription revenue\n22% growth in technology services and subscription revenue year-over-year,\ndriven by continued momentum in Aladdin\u00ae and the impact of the Preqin\nTransaction\n66% increase in GAAP operating income and 46% increase in GAAP diluted\nEPS year-over-year impacted by noncash acquisition-related items, which have\nbeen excluded from as adjusted results\n31% increase in year-over-year operating income, as adjusted\n11% increase in year-over-year diluted EPS, as adjusted also reflects lower\nnonoperating income, a higher diluted share count, and a higher effective tax rate\nin the current quarter\n$450 million of share repurchases in the current quarter and 10% increase in\nquarterly cash dividend to $5.73 per share\n\nLaurence D. Fink, Chairman and CEO:\n\u201cBlackRock delivered one of the strongest starts to a year in our history.\nClients awarded us with $130 billion of net inflows in the first quarter,\ndriving 8% organic base fee growth \u2014 our highest first quarter in five\nyears. Technology services ACV grew 14%, and our adjusted margins\nexpanded by over 100 basis points. Our results tell more than one\nquarter\u2019s story. They reflect a business with accelerating momentum,\ndeep client engagement, and a platform built to compound across market\nenvironments. Over the last twelve months, clients entrusted BlackRock\nwith $744 billion of net new assets, powering 10% organic base fee\ngrowth.\n\n\u201cBlackRock is a scale operator across public markets, private markets, and\ntechnology. That combination is proving more valuable every day. Capital\nis in motion as market fundamentals and provider relationships are reevaluated, and BlackRock is the trusted destination.\n\n\"iShares posted record first quarter net inflows of $132 billion and\ndoubled net new base fees compared to a year ago, as clients rotated to\nour international and precision exposures. Active equity is a growth area\nat BlackRock, driving $3 billion of net inflows. Private markets net inflows\nof $9 billion were led by private credit and infrastructure, where we have\nstrong fundraising and deployment momentum.\n\n\u201cWe\u2019re engaged with clients across every channel, geography, and asset\nclass. Our results and growing pipeline of business show that when\nclients are making big decisions about their portfolios, they are choosing\nBlackRock. They\u2019re coming to BlackRock because we can meet them\nacross their whole portfolio. We do that by bringing together asset\nmanagement and technology across public and private markets\nseamlessly, on one integrated platform. Our model is working, and we\u2019re\nmore confident than ever in the opportunity we see ahead for our firm,\nclients, and shareholders.\u201d ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 0,
+  "n_positive": 10,
+  "mean_pos_positive": 0.3925925925925926,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.003253968253968254,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.001968503937007874,
+  "mean_tone": 0.1287280612728183
+ },
+ "lexicon": {
+  "words": 508,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 13.8,
+   "Uncertainty": 2.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 7,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports First Quarter 2026 Diluted EPS of $14.06, or $12.53 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, April 14, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "$130 billion of quarterly total net inflows, led by a record first quarter for iShares\u00ae.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "ETFs alongside active and private markets net inflows.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "$744 billion of net inflows and 10% organic base fee growth over the last twelve months, broad-based across the platform and driven by private markets, ETFs, and systematic active strategies 27% increase in revenue year-over-year reflects the positive impact of markets, organic base fee growth, fees related to the HPS Transaction, and higher technology services and subscription revenue 22% growth in technology services and subscription revenue year-over-year, driven by continued momentum in Aladdin\u00ae and the impact of the Preqin.",
+   "d": 1,
+   "m": false,
+   "tone": 0.125,
+   "h": 0.0,
+   "hits": [
+    [
+     243,
+     251,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Transaction 66% increase in GAAP operating income and 46% increase in GAAP diluted.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "EPS year-over-year impacted by noncash acquisition-related items, which have been excluded from as adjusted results 31% increase in year-over-year operating income, as adjusted 11% increase in year-over-year diluted EPS, as adjusted also reflects lower nonoperating income, a higher diluted share count, and a higher effective tax rate in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "$450 million of share repurchases in the current quarter and 10% increase in quarterly cash dividend to $5.73 per share",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fink, Chairman and CEO: \u201cBlackRock delivered one of the strongest starts to a year in our history.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     65,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Clients awarded us with $130 billion of net inflows in the first quarter, driving 8% organic base fee growth \u2014 our highest first quarter in five years.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     115,
+     122,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Technology services ACV grew 14%, and our adjusted margins expanded by over 100 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Our results tell more than one quarter\u2019s story.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "They reflect a business with accelerating momentum, deep client engagement, and a platform built to compound across market environments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Over the last twelve months, clients entrusted BlackRock with $744 billion of net new assets, powering 10% organic base fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "\u201cBlackRock is a scale operator across public markets, private markets, and technology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "That combination is proving more valuable every day.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Capital is in motion as market fundamentals and provider relationships are reevaluated, and BlackRock is the trusted destination.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "\"iShares posted record first quarter net inflows of $132 billion and doubled net new base fees compared to a year ago, as clients rotated to our international and precision exposures.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     173,
+     182,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Active equity is a growth area at BlackRock, driving $3 billion of net inflows.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Private markets net inflows of $9 billion were led by private credit and infrastructure, where we have strong fundraising and deployment momentum.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "\u201cWe\u2019re engaged with clients across every channel, geography, and asset class.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Our results and growing pipeline of business show that when clients are making big decisions about their portfolios, they are choosing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "BlackRock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "They\u2019re coming to BlackRock because we can meet them across their whole portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "We do that by bringing together asset management and technology across public and private markets seamlessly, on one integrated platform.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Our model is working, and we\u2019re more confident than ever in the opportunity we see ahead for our firm, clients, and shareholders.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     64,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
