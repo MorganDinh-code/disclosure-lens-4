@@ -1,0 +1,185 @@
+{
+ "company": "CME Group",
+ "ticker": "CME",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-22",
+ "source_url": "https://investor.cmegroup.com/static-files/77d5516d-77e2-4057-9474-70863c923d97",
+ "demo": false,
+ "source_text": "FOR IMMEDIATE RELEASE\nCME Group Inc. Announces Third-Quarter 2025 Financial Results\nCHICAGO, October 22, 2025 - CME Group Inc. (NASDAQ: CME) today reported\nfinancial results for the third quarter of 2025.\n\nThe company reported revenue of $1.5 billion and operating income of $973 million for\nthe third quarter of 2025. Net income was $908 million and diluted earnings per common share\nwere $2.49. On an adjusted basis, net income was $1.0 billion and diluted earnings per common\nshare were $2.68. Financial results presented on an adjusted basis for the third quarter of 2025\nand 2024 exclude certain items, which are detailed in the reconciliation of non-GAAP results.1\n\u201cGlobal clients continued relying on CME Group markets across all asset classes as they\nsought to navigate risk and pursue opportunities amid ongoing uncertainty in Q3,\u201d said Terry\nDuffy, Chairman and Chief Executive Officer, CME Group. \u201cAs a result, we achieved our secondhighest third-quarter ADV, as well as adjusted net income and adjusted earnings per share on\npar with last year\u2019s exceptionally strong Q3 performance. Looking ahead, we remain focused on\ndelivering efficiencies, new products and expanded access for market users, including through\nour new partnership with FanDuel and 24/7 trading in our cryptocurrency futures and options.\u201d\nClearing and transaction fees revenue for third-quarter 2025 totaled $1.2 billion. The\ntotal average rate per contract was $0.702. Market data revenue totaled a record $203 million\nfor third-quarter 2025.\n\nAs of September 30, 2025 the company had $2.6 billion in cash (including $200 million\ndeposited with Fixed Income Clearing Corporation, which is included in other current assets)\nand $3.4 billion of debt. The company paid dividends during the first nine months of the year of\napproximately $3.5 billion. The company has returned over $29.5 billion to shareholders in the\nform of dividends since the implementation of the variable dividend policy in early 2012.\n\nCME Group will hold a Q&A conference call to discuss third-quarter 2025 results\nat 8:30 a.m. Eastern Time today. A live audio webcast of the Q&A call will be available on\nthe Investor Relations section of CME Group's website at investor.cmegroup.com under\nEvents & Presentations. An archived recording will be available for up to two months\nafter the call.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 11,
+  "n_material_neg": 0,
+  "n_positive": 1,
+  "mean_pos_positive": 1.0,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.012903225806451613,
+  "mean_tone": 0.0
+ },
+ "lexicon": {
+  "words": 155,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 0.0,
+   "Uncertainty": 12.9,
+   "Litigious": 0.0,
+   "Strong modal": 19.4,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 0,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 3,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "FOR IMMEDIATE RELEASE.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "CME Group Inc. Announces Third-Quarter 2025 Financial Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "CHICAGO, October 22, 2025 - CME Group Inc. (NASDAQ: CME) today reported financial results for the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "As of September 30, 2025 the company had $2.6 billion in cash (including $200 million deposited with Fixed Income Clearing Corporation, which is included in other current assets) and $3.4 billion of debt.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "The company paid dividends during the first nine months of the year of approximately $3.5 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     71,
+     84,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "The company has returned over $29.5 billion to shareholders in the form of dividends since the implementation of the variable dividend policy in early 2012.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     117,
+     125,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "CME Group will hold a Q&A conference call to discuss third-quarter 2025 results at 8:30 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Eastern Time today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "A live audio webcast of the Q&A call will be available on the Investor Relations section of CME Group's website at investor.cmegroup.com under.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     41,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Events & Presentations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "An archived recording will be available for up to two months after the call.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
