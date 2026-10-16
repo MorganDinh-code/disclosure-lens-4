@@ -1,0 +1,316 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-15",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2025/Q1/BLK-1Q25-Earning-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Second Quarter 2025 Diluted EPS of $10.19, or $12.05 as adjusted\nNew York, July 15, 2025 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and six months ended June 30, 2025.\n$152 billion of year-to-date total net inflows led by a record first half for\niShares\u00ae ETFs, alongside private markets and cash net inflows\n$68 billion of quarterly total net inflows reflect impact of a single\ninstitutional client's $52 billion lower-fee index partial redemption\n13% increase in revenue year-over-year reflects positive impact of\nmarkets, organic base fee growth and fees related to the GIP Transaction,\nas well as higher technology services and subscription revenue, partially\noffset by lower performance fees\n4% decrease in year-over-year GAAP operating income primarily as a\nresult of noncash acquisition-related expenses, which have been excluded\nfrom as-adjusted results\n12% increase in year-over-year as adjusted operating income\n2% increase in diluted EPS year-over-year (16% as adjusted) also\nreflects higher nonoperating income, partially offset by a higher effective\ntax rate and a higher diluted share count in the current quarter\n$375 million of share repurchases in the current quarter\nClosed acquisition of HPS Investment Partners on July 1st, adding\n$165 billion of client AUM and $118 billion of fee-paying AUM\n\nLaurence D. Fink, Chairman and CEO:\n\u201cFor many years, BlackRock has worked to serve the ambitions of each and every\nclient around the world \u2013 from the largest asset owners to individuals just getting\ntheir start with investing. We design and deliver strategies and products that fit\ntheir unique long-term needs and aspirations. We deliver in the way that best serves\neach client, whether it\u2019s through whole portfolio solutions, opportunistic\ninvestments, or customized models and SMAs.\n\u201cOur expanding client relationships are resonating in higher, more diversified\norganic base fee growth. We generated 6% organic base fee growth for the second\nquarter and the first half of 2025, and 7% over the last twelve months.\n\n\u201cBlackRock\u2019s sustained growth has been powered by our whole portfolio approach,\nbeing the first firm to bring together active and index at scale. And now we\u2019re\nbuilding on our foundational platform to redefine the whole portfolio once again by\nintegrating public and private markets across asset management and technology.\n\u201ciShares ETFs had a record first half in flows, and technology ACV growth reached a\nfresh high of 16%. This core strength, alongside client demand for private markets,\ndigital assets, Aperio, and our tech and data-driven systematic strategies, propelled\nanother consecutive quarter of above-target organic base fee growth and record\nAUM of $12.5 trillion.\n\n\u201cWe surpassed the fundraising target for GIP\u2019s fifth flagship, raising $25.2 billion\nand delivering the largest-ever client capital raise in a private infrastructure fund.\nWe announced the development of a custom target date fund glidepath that\nstrategically allocates across public and private markets. And we\u2019re attracting a new\nand increasingly global generation of investors through things like our digital\nassets offerings and recently launched funds in India through our joint venture Jio\nBlackRock.\n\n\u201cOur comprehensive platform and the depth of our client relationships set us apart\nfrom traditional or private markets firms in the industry. Our recent closing of HPS\nwill help us build even more with clients as we head into our seasonally strongest\nsecond half of the year. These are just the early days in our next phase of even\nstronger growth.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 23,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.5163043478260869,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.08257753175785963
+ },
+ "lexicon": {
+  "words": 556,
+  "per_1000": {
+   "Negative": 1.8,
+   "Positive": 10.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 3.6,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 6,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Second Quarter 2025 Diluted EPS of $10.19, or $12.05 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, July 15, 2025 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and six months ended June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "$152 billion of year-to-date total net inflows led by a record first half for iShares\u00ae ETFs, alongside private markets and cash net inflows.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$68 billion of quarterly total net inflows reflect impact of a single institutional client's $52 billion lower-fee index partial redemption 13% increase in revenue year-over-year reflects positive impact of markets, organic base fee growth and fees related to the GIP Transaction, as well as higher technology services and subscription revenue, partially offset by lower performance fees 4% decrease in year-over-year GAAP operating income primarily as a result of noncash acquisition-related expenses, which have been excluded from as-adjusted results 12% increase in year-over-year as adjusted operating income 2% increase in diluted EPS year-over-year (16% as adjusted) also reflects higher nonoperating income, partially offset by a higher effective tax rate and a higher diluted share count in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.082,
+   "h": 0.0,
+   "hits": [
+    [
+     188,
+     196,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "$375 million of share repurchases in the current quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Closed acquisition of HPS Investment Partners on July 1st, adding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "$165 billion of client AUM and $118 billion of fee-paying AUM",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Fink, Chairman and CEO: \u201cFor many years, BlackRock has worked to serve the ambitions of each and every client around the world \u2013 from the largest asset owners to individuals just getting their start with investing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "We design and deliver strategies and products that fit their unique long-term needs and aspirations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "We deliver in the way that best serves each client, whether it\u2019s through whole portfolio solutions, opportunistic investments, or customized models and SMAs. \u201cOur expanding client relationships are resonating in higher, more diversified organic base fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     31,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     100,
+     113,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "We generated 6% organic base fee growth for the second quarter and the first half of 2025, and 7% over the last twelve months.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "\u201cBlackRock\u2019s sustained growth has been powered by our whole portfolio approach, being the first firm to bring together active and index at scale.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "And now we\u2019re building on our foundational platform to redefine the whole portfolio once again by integrating public and private markets across asset management and technology. \u201ciShares ETFs had a record first half in flows, and technology ACV growth reached a fresh high of 16%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "This core strength, alongside client demand for private markets, digital assets, Aperio, and our tech and data-driven systematic strategies, propelled another consecutive quarter of above-target organic base fee growth and record.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "AUM of $12.5 trillion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "\u201cWe surpassed the fundraising target for GIP\u2019s fifth flagship, raising $25.2 billion and delivering the largest-ever client capital raise in a private infrastructure fund.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We announced the development of a custom target date fund glidepath that strategically allocates across public and private markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "And we\u2019re attracting a new and increasingly global generation of investors through things like our digital assets offerings and recently launched funds in India through our joint venture Jio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "BlackRock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "\u201cOur comprehensive platform and the depth of our client relationships set us apart from traditional or private markets firms in the industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Our recent closing of HPS will help us build even more with clients as we head into our seasonally strongest second half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     30,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     99,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "These are just the early days in our next phase of even stronger growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     64,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
