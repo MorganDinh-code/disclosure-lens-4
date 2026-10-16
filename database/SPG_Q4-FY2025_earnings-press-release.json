@@ -1,0 +1,442 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-02",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-fourth-quarter-and-full-year-2025-results",
+ "demo": false,
+ "source_text": "\"I am very pleased with our fourth-quarter results, which caps another impressive year of performance for our Company,\" said David Simon, Chairman, Chief Executive Officer and President.  \"In 2025, we generated record Real Estate Funds From Operations of $4.8 billion and returned a remarkable $3.5 billion to our shareholders.  We executed over 17 million square feet of leases, opened a new Premium Outlet in Indonesia, completed 23 significant redevelopment projects, and acquired $2 billion of high-quality retail properties.  We remain focused on disciplined, value-creating investment activity and operational excellence that will drive sustainable growth in cash flow, FFO, and dividends per share.\"  \n\nResults for the Quarter\n\nNet income attributable to common stockholders was $3.048 billion, or $9.35 per diluted share, as compared to $667.2 million, or $2.04 per diluted share in 2024.\nNet income for the fourth quarter of 2025 includes a non-cash gain of $2.89 billion primarily related to our acquisition of the remaining interest in Taubman Realty Group, resulting from the remeasurement of our previously held equity interest to fair value.\nReal Estate Funds From Operations (\"Real Estate FFO\") was $1.328 billion, or $3.49 per diluted share as compared to $1.261 billion, or $3.35 per diluted share in the prior year, an increase of 4.2%.\nFunds From Operations (\"FFO\") was $1.242 billion, or $3.27 per diluted share as compared to $1.389 billion, or $3.68 per diluted share in the prior year.\nFFO in the fourth quarter of 2025 includes: contribution of $55.5 million, or $0.15 per diluted share from the Company's Other Platform Investments; a one-time after-tax loss of $120.7 million, or $0.31 per diluted share primarily related to Catalyst Brands restructuring costs and valuation adjustment for certain cost method investments; and a non-cash loss of $21.1 million, or $0.06 per diluted share due to an unrealized mark-to-market in fair value adjustment of the Kl\u00e9pierre exchangeable bonds the Company issued in November 2023. \nDomestic property Net Operating Income (\"NOI\") increased 4.8% and portfolio NOI increased 5.1% compared to the prior year period. \nResults for the Year\n\nNet income attributable to common stockholders was $4.624 billion, or $14.17 per diluted share, as compared to $2.368 billion, or $7.26 per diluted share in 2024.\nReal Estate FFO was $4.812 billion, or $12.73 per diluted share as compared to $4.597 billion, or $12.24 per diluted share in the prior year, an increase of 4.0%.\nFFO was $4.663 billion, or $12.34 per diluted share as compared to $4.877 billion, or $12.99 per diluted share in the prior year.\nDomestic property NOI increased 4.4% and portfolio NOI increased 4.7% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at December 31, 2025 was 96.4%, compared to 96.5% at December 31, 2024.\nBase minimum rent per square foot was $60.97 at December 31, 2025, compared to $58.26 at December 31, 2024, an increase of 4.7%. \nReported retailer sales per square foot was $799 for the trailing 12 months ended December 31, 2025, compared to $739 at December 31, 2024, an increase of 8.1%.\nCapital Markets and Balance Sheet Liquidity\nThe Company was active in both the secured and unsecured credit markets in 2025.\n\nThe Company completed a two tranche senior notes offering totaling $1.5 billion, with a weighted-average term of 7.8 years and a coupon rate of 4.775%. In addition, the Company completed 46 secured loan transactions totaling approximately $7.0 billion (U.S. dollar equivalent), with a weighted average interest rate of 5.43%. \n\nAs of December 31, 2025, Simon had approximately $9.1 billion of liquidity consisting of $1.4 billion of cash on hand, including its share of joint venture cash, and $7.7 billion of available capacity under its revolving credit facilities.\n\nSubsequent to year-end, the Company completed an $800 million offering of 5-year, 4.300% senior notes.  The proceeds were used to repay the $800 million outstanding principal amount of its 3.300% notes at maturity on January 15, 2026. \n\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.20 for the first quarter of 2026.  This is an increase of $0.10, or 4.8% year-over-year.  The dividend will be payable on March 31, 2026 to shareholders of record on March 10, 2026. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on March 31, 2026 to shareholders of record on March 17, 2026. \n\n2026 Guidance\nThe Company currently estimates net income to be within a range of $6.87 to $7.12 per diluted share and Real Estate FFO to be within a range of $13.00 to $13.25 per diluted share for the year ending December 31, 2026. ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 1,
+  "n_positive": 7,
+  "mean_pos_negative": 0.29411764705882354,
+  "mean_pos_positive": 0.4327731092436975,
+  "placement_asymmetry": -0.13865546218487396,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.29411764705882354,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.625,
+  "overall_hedge": 0.002936857562408223,
+  "mean_tone": 0.029096638655462186
+ },
+ "lexicon": {
+  "words": 681,
+  "per_1000": {
+   "Negative": 4.4,
+   "Positive": 5.9,
+   "Uncertainty": 2.9,
+   "Litigious": 0.0,
+   "Strong modal": 2.9,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 4,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"I am very pleased with our fourth-quarter results, which caps another impressive year of performance for our Company,\" said David Simon, Chairman, Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"In 2025, we generated record Real Estate Funds From Operations of $4.8 billion and returned a remarkable $3.5 billion to our shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "We executed over 17 million square feet of leases, opened a new Premium Outlet in Indonesia, completed 23 significant redevelopment projects, and acquired $2 billion of high-quality retail properties.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "We remain focused on disciplined, value-creating investment activity and operational excellence that will drive sustainable growth in cash flow, FFO, and dividends per share.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     95,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     105,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Net income attributable to common stockholders was $3.048 billion, or $9.35 per diluted share, as compared to $667.2 million, or $2.04 per diluted share in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Net income for the fourth quarter of 2025 includes a non-cash gain of $2.89 billion primarily related to our acquisition of the remaining interest in Taubman Realty Group, resulting from the remeasurement of our previously held equity interest to fair value.",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Real Estate Funds From Operations (\"Real Estate FFO\") was $1.328 billion, or $3.49 per diluted share as compared to $1.261 billion, or $3.35 per diluted share in the prior year, an increase of 4.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Funds From Operations (\"FFO\") was $1.242 billion, or $3.27 per diluted share as compared to $1.389 billion, or $3.68 per diluted share in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "FFO in the fourth quarter of 2025 includes: contribution of $55.5 million, or $0.15 per diluted share from the Company's Other Platform Investments; a one-time after-tax loss of $120.7 million, or $0.31 per diluted share primarily related to Catalyst Brands restructuring costs and valuation adjustment for certain cost method investments; and a non-cash loss of $21.1 million, or $0.06 per diluted share due to an unrealized mark-to-market in fair value adjustment of the Kl\u00e9pierre exchangeable bonds the Company issued in November 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.375,
+   "h": 0.0,
+   "hits": [
+    [
+     170,
+     174,
+     [
+      "negative"
+     ]
+    ],
+    [
+     258,
+     271,
+     [
+      "negative"
+     ]
+    ],
+    [
+     355,
+     359,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 4.8% and portfolio NOI increased 5.1% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Results for the Year",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Net income attributable to common stockholders was $4.624 billion, or $14.17 per diluted share, as compared to $2.368 billion, or $7.26 per diluted share in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Real Estate FFO was $4.812 billion, or $12.73 per diluted share as compared to $4.597 billion, or $12.24 per diluted share in the prior year, an increase of 4.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "FFO was $4.663 billion, or $12.34 per diluted share as compared to $4.877 billion, or $12.99 per diluted share in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Domestic property NOI increased 4.4% and portfolio NOI increased 4.7% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Occupancy at December 31, 2025 was 96.4%, compared to 96.5% at December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Base minimum rent per square foot was $60.97 at December 31, 2025, compared to $58.26 at December 31, 2024, an increase of 4.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Reported retailer sales per square foot was $799 for the trailing 12 months ended December 31, 2025, compared to $739 at December 31, 2024, an increase of 8.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Capital Markets and Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The Company was active in both the secured and unsecured credit markets in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Company completed a two tranche senior notes offering totaling $1.5 billion, with a weighted-average term of 7.8 years and a coupon rate of 4.775%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In addition, the Company completed 46 secured loan transactions totaling approximately $7.0 billion (U.S. dollar equivalent), with a weighted average interest rate of 5.43%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     73,
+     86,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "As of December 31, 2025, Simon had approximately $9.1 billion of liquidity consisting of $1.4 billion of cash on hand, including its share of joint venture cash, and $7.7 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     35,
+     48,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Subsequent to year-end, the Company completed an $800 million offering of 5-year, 4.300% senior notes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The proceeds were used to repay the $800 million outstanding principal amount of its 3.300% notes at maturity on January 15, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.20 for the first quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "This is an increase of $0.10, or 4.8% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The dividend will be payable on March 31, 2026 to shareholders of record on March 10, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on March 31, 2026 to shareholders of record on March 17, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "2026 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The Company currently estimates net income to be within a range of $6.87 to $7.12 per diluted share and Real Estate FFO to be within a range of $13.00 to $13.25 per diluted share for the year ending December 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
