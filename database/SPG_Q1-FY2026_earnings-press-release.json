@@ -1,0 +1,439 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-11",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-first-quarter-2026-results-increases-full-year",
+ "demo": false,
+ "source_text": "INDIANAPOLIS, May 11, 2026 /PRNewswire/ -- Simon\u00ae, a real estate investment trust engaged in the ownership of premier shopping, dining, entertainment and mixed-use destinations, today reported results for the quarter ended March 31, 2026.\n\n Simon (PRNewsfoto/Simon)  \n\n\"We are very pleased with our first-quarter results,\" said Eli Simon, Chief Executive Officer, President and Chief Operating Officer.  \"Our portfolio delivered strong operating performance, supported by continued leasing momentum, retailer sales and traffic increases, disciplined capital allocation, and growth in cash flow.  Today, we increased our full-year 2026 Real Estate FFO per share guidance and raised our quarterly dividend.\"  \n\nResults for the Quarter\n\nNet income attributable to common stockholders was $479.6 million, or $1.48 per diluted share, as compared to $413.7 million, or $1.27 per diluted share in 2025.\nReal Estate Funds From Operations (\"Real Estate FFO\") was $1.208 billion, or $3.17 per diluted share as compared to $1.113 billion, or $2.95 per diluted share in the prior year, an increase of 7.5%.\nFunds From Operations (\"FFO\") was $1.108 billion, or $2.91 per diluted share as compared to $1.005 billion, or $2.67 per diluted share in the prior year, an increase of 9.0%.\nDomestic property Net Operating Income (\"NOI\") increased 6.7% and portfolio NOI increased 6.7% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at March 31, 2026 was 96.0%, compared to 95.9% at March 31, 2025.\nBase minimum rent per square foot was $61.99 at March 31, 2026, compared to $58.92 at March 31, 2025, an increase of 5.2%. \nReported retailer sales per square foot was $819 for the trailing 12 months ended March 31, 2026, compared to $733 at March 31, 2025, an increase of 11.8%.\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.25 for the second quarter of 2026.  This is an increase of $0.15, or 7.1% year-over-year.  The dividend will be payable on June 30, 2026 to shareholders of record on June 9, 2026. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 30, 2026 to shareholders of record on June 16, 2026. \n\nCommon Stock Repurchase Program\nDuring the quarter ended March 31, 2026, the Company repurchased 965,296 shares of its common stock for approximately $175 million, or $181.59 per share.\n\nCapital Markets and Balance Sheet Liquidity\nDuring the quarter, the Company completed 10 secured loan transactions totaling approximately $2.3 billion (U.S. dollar equivalent).  The weighted average interest rate on these loans was 5.25%.\n\nThe Company also completed a senior notes offering totaling $800 million with a term of 5 years and 4.30% coupon.  The proceeds were used to repay the $800 million outstanding principal amount of its 3.30% notes at maturity on January 15, 2026.\n\nThe Company amended, restated and extended its $5.0 billion multi-currency unsecured revolving credit facility.  The facility will initially mature on June 30, 2030 and at our sole option, can be extended for an additional year to June 30, 2031.  Based upon the Company's current credit ratings, the interest rate on the new revolver for U.S. Dollar borrowings is 15.0 basis points lower than the prior facility's at SOFR plus 65.0 basis points. \n\nAs of March 31, 2026, Simon had approximately $8.7 billion of liquidity consisting of $1.2 billion of cash on hand, including its share of joint venture cash, and $7.5 billion of available capacity under its revolving credit facilities.\n\n2026 Guidance \nThe Company's estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2026 are included in the table below and are reconciled in the Company's supplemental information.  The Company is increasing its outlook for Real Estate FFO to $13.10 to $13.25 per diluted share.  The Real Estate FFO per diluted share range is an increase from the $13.00 to $13.25 per diluted share range provided on February 2, 2026, or an increase of $0.05 per diluted share at the mid-point.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.32941176470588235,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.00510204081632653,
+  "mean_tone": 0.015756302521008403
+ },
+ "lexicon": {
+  "words": 588,
+  "per_1000": {
+   "Negative": 1.7,
+   "Positive": 5.1,
+   "Uncertainty": 6.8,
+   "Litigious": 1.7,
+   "Strong modal": 3.4,
+   "Weak modal": 1.7,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 3,
+   "Uncertainty": 4,
+   "Litigious": 1,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "INDIANAPOLIS, May 11, 2026 /PRNewswire/ -- Simon\u00ae, a real estate investment trust engaged in the ownership of premier shopping, dining, entertainment and mixed-use destinations, today reported results for the quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     17,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     110,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Simon (PRNewsfoto/Simon)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "\"We are very pleased with our first-quarter results,\" said Eli Simon, Chief Executive Officer, President and Chief Operating Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "\"Our portfolio delivered strong operating performance, supported by continued leasing momentum, retailer sales and traffic increases, disciplined capital allocation, and growth in cash flow.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Today, we increased our full-year 2026 Real Estate FFO per share guidance and raised our quarterly dividend.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Net income attributable to common stockholders was $479.6 million, or $1.48 per diluted share, as compared to $413.7 million, or $1.27 per diluted share in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Real Estate Funds From Operations (\"Real Estate FFO\") was $1.208 billion, or $3.17 per diluted share as compared to $1.113 billion, or $2.95 per diluted share in the prior year, an increase of 7.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Funds From Operations (\"FFO\") was $1.108 billion, or $2.91 per diluted share as compared to $1.005 billion, or $2.67 per diluted share in the prior year, an increase of 9.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 6.7% and portfolio NOI increased 6.7% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Occupancy at March 31, 2026 was 96.0%, compared to 95.9% at March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Base minimum rent per square foot was $61.99 at March 31, 2026, compared to $58.92 at March 31, 2025, an increase of 5.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Reported retailer sales per square foot was $819 for the trailing 12 months ended March 31, 2026, compared to $733 at March 31, 2025, an increase of 11.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.25 for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "This is an increase of $0.15, or 7.1% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The dividend will be payable on June 30, 2026 to shareholders of record on June 9, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 30, 2026 to shareholders of record on June 16, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Common Stock Repurchase Program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "During the quarter ended March 31, 2026, the Company repurchased 965,296 shares of its common stock for approximately $175 million, or $181.59 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     104,
+     117,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Capital Markets and Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "During the quarter, the Company completed 10 secured loan transactions totaling approximately $2.3 billion (U.S. dollar equivalent).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The weighted average interest rate on these loans was 5.25%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The Company also completed a senior notes offering totaling $800 million with a term of 5 years and 4.30% coupon.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The proceeds were used to repay the $800 million outstanding principal amount of its 3.30% notes at maturity on January 15, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Company amended, restated and extended its $5.0 billion multi-currency unsecured revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     19,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     21,
+     29,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "The facility will initially mature on June 30, 2030 and at our sole option, can be extended for an additional year to June 30, 2031.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Based upon the Company's current credit ratings, the interest rate on the new revolver for U.S. Dollar borrowings is 15.0 basis points lower than the prior facility's at SOFR plus 65.0 basis points.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As of March 31, 2026, Simon had approximately $8.7 billion of liquidity consisting of $1.2 billion of cash on hand, including its share of joint venture cash, and $7.5 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "2026 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The Company's estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2026 are included in the table below and are reconciled in the Company's supplemental information.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "The Company is increasing its outlook for Real Estate FFO to $13.10 to $13.25 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The Real Estate FFO per diluted share range is an increase from the $13.00 to $13.25 per diluted share range provided on February 2, 2026, or an increase of $0.05 per diluted share at the mid-point.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
