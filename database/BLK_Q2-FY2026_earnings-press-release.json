@@ -1,0 +1,417 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-15",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2026/Q2/BLK-2Q26-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "New York, July 15, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and six months ended June 30, 2026.\n$15.3 trillion in AUM following $868 billion of net inflows over the last\ntwelve months, reflecting 10% organic base fee growth\nRecord first half net inflows of $321 billion including $192 billion in the\nsecond quarter, broad-based across the platform and driven by ETFs,\nprivate markets, active fixed income and systematic equity strategies\n31% increase in revenue year-over-year reflects the positive impact of\nmarkets, organic base fee growth, fees related to the HPS Transaction,\nhigher performance fees, and higher technology services and subscription\nrevenue\n13% growth in technology services and subscription revenue yearover-year, driven by continued momentum in Aladdin\u00ae and multi-product\nsolutions\n42% increase in operating income year-over-year (39% as adjusted)\n20% increase in diluted EPS year-over-year (15% as adjusted) also\nreflects a lower nonoperating income and higher diluted share count in the\ncurrent quarter\n$450 million of share repurchases in the current quarter\nIncreasing planned quarterly share repurchases to $550 million\n\nLaurence D. Fink, Chairman and CEO:\n\u201cMarket fundamentals are strong and well supported, with higher margins\nand earnings momentum catalyzed by new technology. The scale and depth\nof our client relationships globally have never been greater. Clients are\nturning to BlackRock for insights and opportunities. That\u2019s powering record\nfinancial performance, $868 billion of net inflows, and 10% organic base fee\ngrowth over the last year. Flows in the first six months of 2026 more than\ndoubled year-over-year, driving AUM to a record $15.3 trillion.\n\n\u201cBlackRock is simultaneously a leading public markets manager, a scaled\nprivate markets platform, and a global technology company. The quality and\nbreadth of our platform is differentiating us with clients more than ever\nbefore. It\u2019s enabling us to earn more of their portfolios, and power durable\nearnings for our shareholders.\n\n\u201cIn the second quarter clients entrusted us with $192 billion of net inflows,\ngenerating 8% organic base fee growth \u2013 well in excess of our target. iShares\ncrossed $6 trillion in AUM, roughly doubling in three years. Demand is\nbuilding across our active franchise with $53 billion of net inflows, where our\nsystematic strategies drove equity net inflows and a record $7 billion into\nliquid alternatives. Technology services and subscription ACV growth of 15%\nreflects continued adoption of Aladdin as transparency, data, and analytics\nbecome more and more critical to our clients and industry.\n\n\u201cWe\u2019re seeing this momentum in our financial results. Our second quarter\nadjusted operating margin was 45.9% \u2013 the highest in almost five years.\nQuarterly operating income grew approximately 40% year-over-year. And our\nconviction in the growth ahead for BlackRock led us to increase our planned\nlevel of 2026 share repurchases to $2 billion.\n\n\u201cHelping more people benefit from the long-term growth of the capital\nmarkets is the core of our strategy and our greatest source of opportunity. It's\nhow we deliver higher, more durable organic growth. We see it in our results\nthis quarter: 8% organic base fee growth, a nearly 46% adjusted operating\nmargin, double-digit EPS growth, and increasing capital return. The more\nclients we help participate in the markets, the more our own growth builds \u2013\nhigher organic growth, higher earnings growth, and more value for our\nshareholders. Our momentum is accelerating, and I've never been more\noptimistic about the growth ahead.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 26,
+  "n_material_neg": 0,
+  "n_positive": 16,
+  "mean_pos_positive": 0.59375,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.008694558894686325,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0074211502782931356,
+  "mean_tone": 0.13292549218183686
+ },
+ "lexicon": {
+  "words": 539,
+  "per_1000": {
+   "Negative": 1.9,
+   "Positive": 18.6,
+   "Uncertainty": 7.4,
+   "Litigious": 1.9,
+   "Strong modal": 5.6,
+   "Weak modal": 3.7,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 10,
+   "Uncertainty": 4,
+   "Litigious": 1,
+   "Strong modal": 3,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "New York, July 15, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and six months ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "$15.3 trillion in AUM following $868 billion of net inflows over the last twelve months, reflecting 10% organic base fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Record first half net inflows of $321 billion including $192 billion in the second quarter, broad-based across the platform and driven by ETFs, private markets, active fixed income and systematic equity strategies 31% increase in revenue year-over-year reflects the positive impact of markets, organic base fee growth, fees related to the HPS Transaction, higher performance fees, and higher technology services and subscription revenue 13% growth in technology services and subscription revenue yearover-year, driven by continued momentum in Aladdin\u00ae and multi-product solutions 42% increase in operating income year-over-year (39% as adjusted) 20% increase in diluted EPS year-over-year (15% as adjusted) also reflects a lower nonoperating income and higher diluted share count in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.087,
+   "h": 0.0,
+   "hits": [
+    [
+     266,
+     274,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "$450 million of share repurchases in the current quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Increasing planned quarterly share repurchases to $550 million",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Fink, Chairman and CEO: \u201cMarket fundamentals are strong and well supported, with higher margins and earnings momentum catalyzed by new technology.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The scale and depth of our client relationships globally have never been greater.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     67,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Clients are turning to BlackRock for insights and opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "That\u2019s powering record financial performance, $868 billion of net inflows, and 10% organic base fee growth over the last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Flows in the first six months of 2026 more than doubled year-over-year, driving AUM to a record $15.3 trillion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\u201cBlackRock is simultaneously a leading public markets manager, a scaled private markets platform, and a global technology company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     38,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The quality and breadth of our platform is differentiating us with clients more than ever before.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "It\u2019s enabling us to earn more of their portfolios, and power durable earnings for our shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cIn the second quarter clients entrusted us with $192 billion of net inflows, generating 8% organic base fee growth \u2013 well in excess of our target. iShares crossed $6 trillion in AUM, roughly doubling in three years.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     184,
+     191,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Demand is building across our active franchise with $53 billion of net inflows, where our systematic strategies drove equity net inflows and a record $7 billion into liquid alternatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Technology services and subscription ACV growth of 15% reflects continued adoption of Aladdin as transparency, data, and analytics become more and more critical to our clients and industry.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "\u201cWe\u2019re seeing this momentum in our financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Our second quarter adjusted operating margin was 45.9% \u2013 the highest in almost five years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0769,
+   "hits": [
+    [
+     61,
+     68,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     72,
+     78,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Quarterly operating income grew approximately 40% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "And our conviction in the growth ahead for BlackRock led us to increase our planned level of 2026 share repurchases to $2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     18,
+     [
+      "negative",
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "\u201cHelping more people benefit from the long-term growth of the capital markets is the core of our strategy and our greatest source of opportunity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     122,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "It's how we deliver higher, more durable organic growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "We see it in our results this quarter: 8% organic base fee growth, a nearly 46% adjusted operating margin, double-digit EPS growth, and increasing capital return.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     69,
+     75,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The more clients we help participate in the markets, the more our own growth builds \u2013 higher organic growth, higher earnings growth, and more value for our shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Our momentum is accelerating, and I've never been more optimistic about the growth ahead.\"",
+   "d": 1,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     44,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     55,
+     65,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
