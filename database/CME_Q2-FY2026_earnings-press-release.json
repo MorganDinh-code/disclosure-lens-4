@@ -1,0 +1,341 @@
+{
+ "company": "CME Group",
+ "ticker": "CME",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-22",
+ "source_url": "https://investor.cmegroup.com/static-files/88654e47-66b8-4a4a-8093-cc60ddeb103e",
+ "demo": false,
+ "source_text": "FOR IMMEDIATE RELEASE\nCME Group Inc. Reports Strong Financial Results for Q2 2026\nCHICAGO, July 22, 2026 - CME Group Inc. (NASDAQ: CME) today reported financial\nresults for the second quarter of 2026.\n\nThe company reported revenue of $1.7 billion and operating income of $1.1 billion for\nthe second quarter of 2026. Net income was $1.0 billion and diluted earnings per common\nshare were $2.88. On an adjusted basis, operating income was $1.2 billion, net income was\n$1.1 billion and diluted earnings per common share were $2.99. Financial results presented on\nan adjusted basis for the second quarter of 2026 and 2025 exclude certain items, which are\ndetailed in the reconciliation of non-GAAP results.1\n\n\"The first half of 2026 was the strongest in CME Group's history,\u201d said CME Group\nChairman and Chief Executive Officer Terry Duffy. \u201cWe delivered record H1 performance across\nrevenue, adjusted operating income, adjusted net income and adjusted earnings per share, all\nof which were powered by record trading in Q1 and our second-highest Q2 volumes ever.\nDuring Q2, market data revenue increased 20% to a record $238 million. Importantly, we\nprovided more than $95 billion in daily margin efficiencies during the quarter, a new high that\nrepresents unparalleled capital savings that our clients can redeploy in their businesses. We\nalso continue to innovate a number of new tools to help clients manage risk and pursue\nopportunities, including Single-Stock futures, 1-Ounce Gold contracts available 24/7, U.S.\nTreasury clearing and Compute futures.\"\n\nSecond-quarter 2026 average daily volume (ADV) was the third highest quarterly ADV\nreaching 29.8 million contracts, which included non-U.S. ADV of 9.1 million contracts.\nClearing and transaction fees revenue for second-quarter 2026 totaled $1.4 billion. The\ntotal average rate per contract was $0.678. Market data revenue totaled a record $238 million\nfor second-quarter 2026.\n\nAs of June 30, 2026, the company had $2.3 billion in cash (including $200 million\ndeposited with Fixed Income Clearing Corporation, which is included in other current assets)\nand $3.4 billion of debt. The company paid dividends during the second quarter of\napproximately $468 million and repurchased $695 million in CME Group common shares.\n\nCME Group will hold a Q&A conference call to discuss second-quarter 2026\nresults at 8:30 a.m. Eastern Time today. A live audio webcast of the Q&A call will be\navailable on the Investor Relations section of CME Group's website at\ninvestor.cmegroup.com under Events & Presentations. An archived recording will be\navailable for up to two months after the call.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5694444444444444,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.006329113924050633,
+  "mean_tone": 0.20359796652900103
+ },
+ "lexicon": {
+  "words": 316,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 25.3,
+   "Uncertainty": 6.3,
+   "Litigious": 12.7,
+   "Strong modal": 19.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 8,
+   "Uncertainty": 2,
+   "Litigious": 4,
+   "Strong modal": 6,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "FOR IMMEDIATE RELEASE.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "CME Group Inc. Reports Strong Financial Results for Q2 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "CHICAGO, July 22, 2026 - CME Group Inc. (NASDAQ: CME) today reported financial results for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\"The first half of 2026 was the strongest in CME Group's history,\u201d said CME Group.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Chairman and Chief Executive Officer Terry Duffy. \u201cWe delivered record H1 performance across revenue, adjusted operating income, adjusted net income and adjusted earnings per share, all of which were powered by record trading in Q1 and our second-highest Q2 volumes ever.",
+   "d": 1,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     247,
+     254,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "During Q2, market data revenue increased 20% to a record $238 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Importantly, we provided more than $95 billion in daily margin efficiencies during the quarter, a new high that represents unparalleled capital savings that our clients can redeploy in their businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     75,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     135,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We also continue to innovate a number of new tools to help clients manage risk and pursue opportunities, including Single-Stock futures, 1-Ounce Gold contracts available 24/7, U.S. Treasury clearing and Compute futures.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.606,
+   "h": 0.0303,
+   "hits": [
+    [
+     20,
+     28,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     78,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     90,
+     103,
+     [
+      "positive"
+     ]
+    ],
+    [
+     150,
+     159,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Second-quarter 2026 average daily volume (ADV) was the third highest quarterly ADV reaching 29.8 million contracts, which included non-U.S. ADV of 9.1 million contracts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     68,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     105,
+     114,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     159,
+     168,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Clearing and transaction fees revenue for second-quarter 2026 totaled $1.4 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The total average rate per contract was $0.678.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     35,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Market data revenue totaled a record $238 million for second-quarter 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "As of June 30, 2026, the company had $2.3 billion in cash (including $200 million deposited with Fixed Income Clearing Corporation, which is included in other current assets) and $3.4 billion of debt.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The company paid dividends during the second quarter of approximately $468 million and repurchased $695 million in CME Group common shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     56,
+     69,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "CME Group will hold a Q&A conference call to discuss second-quarter 2026 results at 8:30 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Eastern Time today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "A live audio webcast of the Q&A call will be available on the Investor Relations section of CME Group's website at investor.cmegroup.com under Events & Presentations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     41,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "An archived recording will be available for up to two months after the call.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
