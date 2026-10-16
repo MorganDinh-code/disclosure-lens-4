@@ -1,0 +1,124 @@
+{
+ "company": "Banco Bilbao Vizcaya Argentaria",
+ "ticker": "BBVA",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2024-07-30",
+ "source_url": "https://www.bbva.com/en/economy-and-finance/earnings-2q2026/",
+ "demo": false,
+ "source_text": "BBVA Posts Over \u20ac6 Billion in Profit for the First Half of 2026 (Up 11 Percent) and Announces a New \u20ac2 Billion Extraordinary Share Buyback Program\n\nBBVA recorded a net attributable profit of \u20ac6.05 billion in the first six months of 2026, which represents an 11.1 percent increase year-over-year (up 10.0 percent at constant exchange rates). These results reflect the strong performance of recurring revenue, supported by loan growth (up 17.7 percent at constant exchange rates)\u00b9. From January to June, the Group reached new heights in profitability and value creation for shareholders, with ROTE at 22.2 percent and tangible book value per share plus dividends increasing 21.8 percent year-over-year\u00b2.  Today, BBVA announced the launch of a new \u20ac2 billion extraordinary share buyback program. The first \u20ac1 billion tranche will begin on August 5.\u00b3",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 6,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.41666666666666663,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.13822434875066453
+ },
+ "lexicon": {
+  "words": 123,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 16.3,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 8.1,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 2,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BBVA Posts Over \u20ac6 Billion in Profit for the First Half of 2026 (Up 11 Percent) and Announces a New \u20ac2 Billion Extraordinary Share Buyback Program",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "BBVA recorded a net attributable profit of \u20ac6.05 billion in the first six months of 2026, which represents an 11.1 percent increase year-over-year (up 10.0 percent at constant exchange rates).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "These results reflect the strong performance of recurring revenue, supported by loan growth (up 17.7 percent at constant exchange rates)\u00b9.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "From January to June, the Group reached new heights in profitability and value creation for shareholders, with ROTE at 22.2 percent and tangible book value per share plus dividends increasing 21.8 percent year-over-year\u00b2.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Today, BBVA announced the launch of a new \u20ac2 billion extraordinary share buyback program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "The first \u20ac1 billion tranche will begin on August 5.\u00b3",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     33,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
