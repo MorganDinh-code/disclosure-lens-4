@@ -1,0 +1,466 @@
+{
+ "company": "Iron Mountain",
+ "ticker": "IRM",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-11-05",
+ "source_url": "https://investors.ironmountain.com/news/news-details/2025/Iron-Mountain-Reports-Third-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "Achieves record quarterly revenue of $1.8 billion, an increase of 12.6% on a reported basis and an increase of 11.8% excluding the effects of foreign exchange\nGrowth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 30% year over year\nNet Income of $86 million\nDelivers record quarterly Adjusted EBITDA of $660 million\nGenerates record quarterly AFFO of $393 million, or $1.32 per share\nReiterates full year 2025 financial guidance, with fourth quarter 2025 Revenue and Adjusted EBITDA each expected to increase approximately 14% on a reported basis and 12% excluding the effects of foreign exchange\nIncreases quarterly dividend per share by 10% based on continued strong growth in AFFO\nPORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the third quarter of 2025.\n\n\u201cWe are pleased to report another quarter of very strong performance in the third quarter, achieving all-time record Revenue, Adjusted EBITDA, and AFFO with strength across all of our key metrics. Our continued success is the result of our team\u2019s consistent execution of our growth strategy and unwavering focus on meeting our customers\u2019 needs with innovative solutions,\u201d said William L. Meaney, President and CEO of Iron Mountain. \u201cWe have clear business momentum and are committed to sustaining industry-leading revenue and earnings growth for the foreseeable future. Our foundation of established relationships and trust with over 240,000 customers, comprehensive solutions offering, reputation for security, and global footprint, along with the strength in our growth businesses and physical records storage business position us to deliver on this commitment. Based on our strong 2025 performance and continued growth outlook, we are pleased to increase the dividend by 10%.\u201d\n\nTotal reported revenues for the third quarter were $1.8 billion, compared with $1.6 billion in the third quarter of 2024, an increase of 12.6%. Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 11.8% compared to the prior year, driven by a 9.5% increase in storage rental revenue and a 15.3% increase in service revenue. Year to date, total reported revenues increased 10.7%, or 10.8% excluding the impact of Fx.\nNet Income (Loss) for the third quarter was $86.2 million, compared with $(33.7) million in the third quarter of 2024, driven by increased Operating Income and lower Other Expense (Income), Net resulting primarily from changes in exchange rates on our intercompany balances. Year to date, Net Income was $59.1 million, compared with $78.0 million in 2024.\nAdjusted EBITDA for the third quarter was $660.4 million, compared with $568.1 million in the third quarter of 2024, an increase of 16.2%. On a constant currency basis, Adjusted EBITDA increased by 15.6% in the third quarter, compared to the third quarter of 2024, driven by increased revenue and Adjusted EBITDA in our Global RIM, Data Center and ALM businesses and improved operating leverage coming from our continued improvement activities. Year to date, Adjusted EBITDA increased 14.5%, or 14.8% excluding the impact of Fx.\nFFO (Normalized) per share was $0.93 for the third quarter, compared with $0.79 in the third quarter of 2024, an increase of 17.7%. Year to date, FFO (Normalized) per share was $2.59, compared with $2.31 in 2024, or an increase of 12.1%.\nAFFO was $393.3 million for the third quarter, compared with $332.0 million in the third quarter of 2024, an increase of 18.5% driven by improved Adjusted EBITDA. Year to date, AFFO was $1,111.5 million compared with $976.6 million, or an increase of 13.8%.\nAFFO per share was $1.32 for the third quarter, compared with $1.13 in the third quarter of 2024, an increase of 16.8%. Year to date, AFFO per share was $3.73, compared to $3.30 in 2024, or an increase of 13.0%.\nDividend\n\nOn November 5, 2025, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the fourth quarter, representing an increase of 10%. The fourth quarter 2025 dividend is payable on January 6, 2026, to shareholders of record at the close of business on December 15, 2025.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 1,
+  "n_positive": 17,
+  "mean_pos_negative": 0.5666666666666667,
+  "mean_pos_positive": 0.403921568627451,
+  "placement_asymmetry": 0.16274509803921566,
+  "distance_from_headline": 8,
+  "first_negative_pos": 0.5666666666666667,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0034046345811051693,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.7435897435897436,
+  "overall_hedge": 0.001639344262295082,
+  "mean_tone": 0.17067591560345183
+ },
+ "lexicon": {
+  "words": 610,
+  "per_1000": {
+   "Negative": 1.6,
+   "Positive": 24.6,
+   "Uncertainty": 1.6,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 3.3
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 15,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Achieves record quarterly revenue of $1.8 billion, an increase of 12.6% on a reported basis and an increase of 11.8% excluding the effects of foreign exchange.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Growth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 30% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Net Income of $86 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Delivers record quarterly Adjusted EBITDA of $660 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Generates record quarterly AFFO of $393 million, or $1.32 per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Reiterates full year 2025 financial guidance, with fourth quarter 2025 Revenue and Adjusted EBITDA each expected to increase approximately 14% on a reported basis and 12% excluding the effects of foreign exchange.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     125,
+     138,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Increases quarterly dividend per share by 10% based on continued strong growth in AFFO.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     71,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "PORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\u201cWe are pleased to report another quarter of very strong performance in the third quarter, achieving all-time record Revenue, Adjusted EBITDA, and AFFO with strength across all of our key metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     50,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     91,
+     100,
+     [
+      "positive"
+     ]
+    ],
+    [
+     157,
+     165,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our continued success is the result of our team\u2019s consistent execution of our growth strategy and unwavering focus on meeting our customers\u2019 needs with innovative solutions,\u201d said William L.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Meaney, President and CEO of Iron Mountain. \u201cWe have clear business momentum and are committed to sustaining industry-leading revenue and earnings growth for the foreseeable future.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     94,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     118,
+     125,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Our foundation of established relationships and trust with over 240,000 customers, comprehensive solutions offering, reputation for security, and global footprint, along with the strength in our growth businesses and physical records storage business position us to deliver on this commitment.",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0,
+   "hits": [
+    [
+     179,
+     187,
+     [
+      "positive"
+     ]
+    ],
+    [
+     282,
+     292,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Based on our strong 2025 performance and continued growth outlook, we are pleased to increase the dividend by 10%.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Total reported revenues for the third quarter were $1.8 billion, compared with $1.6 billion in the third quarter of 2024, an increase of 12.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 11.8% compared to the prior year, driven by a 9.5% increase in storage rental revenue and a 15.3% increase in service revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Year to date, total reported revenues increased 10.7%, or 10.8% excluding the impact of Fx.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Net Income (Loss) for the third quarter was $86.2 million, compared with $(33.7) million in the third quarter of 2024, driven by increased Operating Income and lower Other Expense (Income), Net resulting primarily from changes in exchange rates on our intercompany balances.",
+   "d": -1,
+   "m": true,
+   "tone": -0.256,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     16,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Year to date, Net Income was $59.1 million, compared with $78.0 million in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Adjusted EBITDA for the third quarter was $660.4 million, compared with $568.1 million in the third quarter of 2024, an increase of 16.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "On a constant currency basis, Adjusted EBITDA increased by 15.6% in the third quarter, compared to the third quarter of 2024, driven by increased revenue and Adjusted EBITDA in our Global RIM, Data Center and ALM businesses and improved operating leverage coming from our continued improvement activities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.444,
+   "h": 0.0,
+   "hits": [
+    [
+     228,
+     236,
+     [
+      "positive"
+     ]
+    ],
+    [
+     282,
+     293,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Year to date, Adjusted EBITDA increased 14.5%, or 14.8% excluding the impact of Fx.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "FFO (Normalized) per share was $0.93 for the third quarter, compared with $0.79 in the third quarter of 2024, an increase of 17.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Year to date, FFO (Normalized) per share was $2.59, compared with $2.31 in 2024, or an increase of 12.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "AFFO was $393.3 million for the third quarter, compared with $332.0 million in the third quarter of 2024, an increase of 18.5% driven by improved Adjusted EBITDA.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     145,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Year to date, AFFO was $1,111.5 million compared with $976.6 million, or an increase of 13.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "AFFO per share was $1.32 for the third quarter, compared with $1.13 in the third quarter of 2024, an increase of 16.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Year to date, AFFO per share was $3.73, compared to $3.30 in 2024, or an increase of 13.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "On November 5, 2025, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the fourth quarter, representing an increase of 10%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The fourth quarter 2025 dividend is payable on January 6, 2026, to shareholders of record at the close of business on December 15, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
