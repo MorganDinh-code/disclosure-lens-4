@@ -1,0 +1,190 @@
+{
+ "company": "Intercontinental Exchange",
+ "ticker": "ICE",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-30",
+ "source_url": "https://s2.q4cdn.com/154085107/files/doc_financials/2026/q2/2Q26-Earnings-Press-Release_Final.pdf",
+ "demo": false,
+ "source_text": " 2Q26 net revenues of $2.7 billion, +5% y/y Jeff Sprecher,\nICE Chair & Chief Executive Officer, said,\n\"We are pleased to report our second quarter\nresults, which reflect continued revenue and\nearnings per share growth and record open\ninterest across our exchange complex. Against\na backdrop of rapid change in global markets,\nour customers continued to turn to ICE's\nregulated markets, trusted data and missioncritical technology to transfer risk. As markets\nbecome more global, digital and continuous, the\nopportunities for our all-weather model continue\nto expand. As we look to the second half of the\nyear and beyond, we remain focused on\ninnovation, durable growth and long-term value\ncreation for our stockholders.\"\n\u2022 2Q26 GAAP diluted earnings per share (EPS) of\n$1.69, +14% y/y\n\u2022 2Q26 adj. diluted EPS of $1.90, +5% y/y\n\u2022 2Q26 operating income of $1.4 billion, +7% y/y;\nadj. operating income of $1.6 billion, +4% y/y\n\u2022 2Q26 operating margin of 52%; adj. operating\nmargin of 61%\n\u2022 Through June 30, 2026, returned $1.8 billion to\nstockholders, including $1.2 billion in share\nrepurchases\n\u2022 Board approved increase in share repurchase\nauthorization up to $4.0 billion, effective July 1,\n2026\nATLANTA & NEW YORK, July 30, 2026 - Intercontinental Exchange (NYSE: ICE), a leading global provider of\ntechnology and data, today reported financial results for the second quarter of 2026. For the quarter ended June\n30, 2026, consolidated net income attributable to ICE was $958 million on $2.7 billion of consolidated revenues,\nless transaction-based expenses. Second quarter GAAP diluted EPS were $1.69. Adjusted net income\nattributable to ICE was $1.1 billion in the second quarter and adjusted diluted EPS were $1.90. Please refer to\nthe reconciliation of non-GAAP financial measures included in this press release for more information on our\nadjusted operating expenses, adjusted operating income, adjusted operating margin, adjusted net income,\nadjusted diluted EPS and adjusted free cash flow.\nWarren Gardiner, ICE Chief Financial Officer, added: \"Our second quarter results reflect the continued strength\nand consistency of our business model, with growth across all three of our operating segments and strong free\ncash flow generation. During the quarter we returned $945 million to stockholders, including $651 million of share\nrepurchases, while continuing to invest across the platform. Share repurchases remain a priority, and the\nstrength of our free cash flow lets us continue them alongside disciplined investment in strategically important\nopportunities. That balance reflects the capital discipline and financial rigor that have defined ICE's long track\nrecord of value creation for our stockholders.\"\n1\nSecond Quarter 2026 Business Highlights\nSecond quarter consolidated net revenues were $2.7 billion including exchange net revenues of $1.5 billion,\nfixed income and data services revenues of $645 million and mortgage technology revenues of $557 million.\nConsolidated operating expenses were $1.3 billion for the second quarter of 2026. On an adjusted basis,\nconsolidated operating expenses were $1.0 billion. Consolidated operating income for the second quarter was\n$1.4 billion, and the operating margin was 52%. On an adjusted basis, consolidated operating income for the\nsecond quarter was $1.6 billion, and the adjusted operating margin was 61%.\n\nFixed Income and Data Services Segment Results\nSecond quarter fixed income and data services revenues were $645 million. Fixed income and data services\noperating expenses were $377 million, and adjusted operating expenses were $350 million in the second\nquarter. Segment operating income for the second quarter was $268 million, and the operating margin was 42%.\nOn an adjusted basis, operating income was $295 million, and the adjusted operating margin was 46%.\n\nMortgage Technology Segment Results\nSecond quarter mortgage technology revenues were $557 million. Mortgage technology operating expenses\nwere $512 million, and adjusted operating expenses were $318 million in the second quarter. Segment operating\nincome for the second quarter was $45 million, and the operating margin was 8%. On an adjusted basis,\noperating income was $239 million, and the adjusted operating margin was 43%.\n\nOther Matters\n\u2022 Operating cash flow through the second quarter of 2026 was $3.3 billion and adjusted free cash flow was\n$2.6 billion.\n\u2022 Unrestricted cash was $1.1 billion and outstanding debt was $19.8 billion as of June 30, 2026.\n\u2022 Through the second quarter of 2026, ICE repurchased $1.2 billion of its common stock and paid $591\nmillion in dividends.\n\u2022 Board approved increase in share repurchase authorization up to $4.0 billion, effective July 1, 2026",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 0,
+  "n_positive": 1,
+  "mean_pos_positive": 1.0,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.0
+ },
+ "lexicon": {
+  "words": 179,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 0.0,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 0,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Fixed Income and Data Services Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Second quarter fixed income and data services revenues were $645 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Fixed income and data services operating expenses were $377 million, and adjusted operating expenses were $350 million in the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Segment operating income for the second quarter was $268 million, and the operating margin was 42%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "On an adjusted basis, operating income was $295 million, and the adjusted operating margin was 46%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Mortgage Technology Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Second quarter mortgage technology revenues were $557 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Mortgage technology operating expenses were $512 million, and adjusted operating expenses were $318 million in the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Segment operating income for the second quarter was $45 million, and the operating margin was 8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "On an adjusted basis, operating income was $239 million, and the adjusted operating margin was 43%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Other Matters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Operating cash flow through the second quarter of 2026 was $3.3 billion and adjusted free cash flow was.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "$2.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Unrestricted cash was $1.1 billion and outstanding debt was $19.8 billion as of June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Through the second quarter of 2026, ICE repurchased $1.2 billion of its common stock and paid $591 million in dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Board approved increase in share repurchase authorization up to $4.0 billion, effective July 1, 2026",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
