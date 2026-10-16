@@ -1,0 +1,369 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-07-15",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2024/Q2/BLK-2Q24-Earning-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Second Quarter 2024 Diluted EPS of $9.99, or $10.36 as adjusted\nNew York, July 15, 2024 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and six months ended June 30, 2024.\nPreviously announced agreement to acquire Preqin\nrepresents next step in the transformation of BlackRock\nprivate markets capabilities by delivering integrated\ninvestments, technology, and data for the whole portfolio\n$139 billion of first half total net inflows reflect continued\nstrength of broad-based platform, including record start to\nyear for BlackRock ETFs\n$82 billion of quarterly total net inflows positive across\nproduct types\n$10.6 trillion in AUM, up $1.2 trillion year-over-year, driven by\nconsistent organic growth and positive market movements\n8% increase in revenue year-over-year, primarily driven by the\npositive impact of markets on average AUM, organic base fee\ngrowth, and higher performance fees and technology services\nrevenue\n11% increase in operating income year-over-year (12% as\nadjusted)\n10% increase in diluted EPS year-over-year (12% as\nadjusted)\n$500 million of share repurchases in the current quarter\n\nLaurence D. Fink, Chairman and CEO:\n\u201cBlackRock is executing on the broadest opportunity set we\u2019ve seen in years,\nincluding in private markets, Aladdin, and whole portfolio solutions across\nboth ETFs and active. At the same time, we are opening up meaningful new\ngrowth markets for our clients and shareholders with our planned\nacquisitions of Global Infrastructure Partners and Preqin.\n\u201cBlackRock generated nearly $140 billion of total net inflows in the first half\nof 2024, including $82 billion in the second quarter resulting in 3% organic\nbase fee growth. Organic growth was driven by private markets, retail active\nfixed income, and surging flows into our ETFs, which had their best start to a\nyear on record. We are delivering growth with scale, reflected in a 12%\nincrease to operating income and 160 basis points of margin expansion.\n\u201cBlackRock has longstanding relationships with corporates and\ngovernments around the world as a long-term investor in public equity and\ndebt. These relationships differentiate BlackRock as a capital partner in\nprivate markets, driving unique deal flow for clients. We have strong\nsourcing capabilities, and we are transforming our private markets platform\nto bring even more benefits of scale and technology to our clients. We are on\npace to close our planned acquisition of Global Infrastructure Partners in\nthe third quarter of 2024, which is expected to double private markets base\nfees and add approximately $100 billion of infrastructure AUM. And just a\nfew weeks ago, we announced our agreement to acquire Preqin, a leading\nprivate markets data provider.\n\n\u201cBlackRock is defining a unique, integrated approach to private markets -\nspanning investment, technology workflows and data. We believe this will\ndeepen our relationships with clients, and deliver value for our shareholders\nthrough premium, diversified organic revenue growth.\n\n\u201cClients have always been at the center of our strategy. We will continue to\ninnovate and evolve to deliver the outcomes and performance they need. We\nbelieve our momentum with clients will only accelerate from here, driving\ndifferentiated growth for our shareholders.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.5578231292517006,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.010002980882875394,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.008213552361396304,
+  "mean_tone": 0.192998996486546
+ },
+ "lexicon": {
+  "words": 487,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 18.5,
+   "Uncertainty": 8.2,
+   "Litigious": 0.0,
+   "Strong modal": 10.3,
+   "Weak modal": 2.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 5,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Second Quarter 2024 Diluted EPS of $9.99, or $10.36 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, July 15, 2024 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and six months ended June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Previously announced agreement to acquire Preqin represents next step in the transformation of BlackRock private markets capabilities by delivering integrated investments, technology, and data for the whole portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$139 billion of first half total net inflows reflect continued strength of broad-based platform, including record start to year for BlackRock ETFs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     71,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "$82 billion of quarterly total net inflows positive across product types.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "$10.6 trillion in AUM, up $1.2 trillion year-over-year, driven by consistent organic growth and positive market movements 8% increase in revenue year-over-year, primarily driven by the positive impact of markets on average AUM, organic base fee growth, and higher performance fees and technology services revenue 11% increase in operating income year-over-year (12% as adjusted) 10% increase in diluted EPS year-over-year (12% as adjusted).",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     104,
+     [
+      "positive"
+     ]
+    ],
+    [
+     185,
+     193,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "$500 million of share repurchases in the current quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Fink, Chairman and CEO: \u201cBlackRock is executing on the broadest opportunity set we\u2019ve seen in years, including in private markets, Aladdin, and whole portfolio solutions across both ETFs and active.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "At the same time, we are opening up meaningful new growth markets for our clients and shareholders with our planned acquisitions of Global Infrastructure Partners and Preqin. \u201cBlackRock generated nearly $140 billion of total net inflows in the first half of 2024, including $82 billion in the second quarter resulting in 3% organic base fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0192,
+   "hits": [
+    [
+     196,
+     202,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Organic growth was driven by private markets, retail active fixed income, and surging flows into our ETFs, which had their best start to a year on record.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     123,
+     127,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "We are delivering growth with scale, reflected in a 12% increase to operating income and 160 basis points of margin expansion. \u201cBlackRock has longstanding relationships with corporates and governments around the world as a long-term investor in public equity and debt.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "These relationships differentiate BlackRock as a capital partner in private markets, driving unique deal flow for clients.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "We have strong sourcing capabilities, and we are transforming our private markets platform to bring even more benefits of scale and technology to our clients.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "We are on pace to close our planned acquisition of Global Infrastructure Partners in the third quarter of 2024, which is expected to double private markets base fees and add approximately $100 billion of infrastructure AUM.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0294,
+   "hits": [
+    [
+     174,
+     187,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "And just a few weeks ago, we announced our agreement to acquire Preqin, a leading private markets data provider.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\u201cBlackRock is defining a unique, integrated approach to private markets - spanning investment, technology workflows and data.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "We believe this will deepen our relationships with clients, and deliver value for our shareholders through premium, diversified organic revenue growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     16,
+     20,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "\u201cClients have always been at the center of our strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "We will continue to innovate and evolve to deliver the outcomes and performance they need.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     20,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "We believe our momentum with clients will only accelerate from here, driving differentiated growth for our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     37,
+     41,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
