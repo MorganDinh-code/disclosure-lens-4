@@ -1,0 +1,241 @@
+{
+ "company": "CME Group",
+ "ticker": "CME",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-23",
+ "source_url": "https://investor.cmegroup.com/static-files/55773c71-22be-4792-9b4e-2e16f49867e1",
+ "demo": false,
+ "source_text": "FOR IMMEDIATE RELEASE\nCME Group Inc. Reports All-Time Record Revenue, Adjusted Operating Income,\nAdjusted Net Income and Adjusted Earnings Per Share for Q2 2025\n\u2022 Record revenue of $1.7 billion, up 10% from Q2 2024\n\u2022 Record average daily volume (ADV) of 30.2 million contracts, up 16% from\nQ2 2024\nCHICAGO, July 23, 2025 - CME Group Inc. (NASDAQ: CME) today reported financial\nresults for the second quarter of 2025.\nThe company reported revenue of $1.7 billion and operating income of $1.1 billion for\nthe second quarter of 2025. Net income was $1.0 billion and diluted earnings per common\nshare were $2.81. On an adjusted basis, net income was $1.1 billion and diluted earnings per\ncommon share were $2.96. Financial results presented on an adjusted basis for the second\nquarter of 2025 and 2024 exclude certain items, which are detailed in the reconciliation of nonGAAP results.1\n\n\"Demand for CME Group benchmark futures and options reached an all-time high in Q2\nas clients around the globe turned to our markets to manage their business risks across asset\nclasses,\u201d said Terry Duffy, CME Group Chairman and Chief Executive Officer. \u201cDuring the\nquarter, our average daily volume rose 16% to a record 30.2 million contracts, driving doubledigit growth and setting new records for revenue, adjusted operating income, adjusted net\nincome and adjusted earnings per share. Notably, the number of new retail traders at CME\nGroup increased 57% year over year, contributing to record Micros ADV of 4.1 million contracts\nin Q2 and demonstrating the appeal of our products to a broader base of users.\"\n\nClearing and transaction fees revenue for second-quarter 2025 totaled $1.4 billion. The\ntotal average rate per contract was $0.690. Market data revenue totaled $198 million for\nsecond-quarter 2025.\n\nAs of June 30, 2025 the company had $2.2 billion in cash (including $200 million\ndeposited with Fixed Income Clearing Corporation, which is included in other current assets)\nand $3.4 billion of debt. The company paid dividends during the first six months of the year of\napproximately $3.0 billion. The company has returned $29.1 billion to shareholders in the form\nof dividends since the implementation of the variable dividend policy in early 2012.\nCME Group will hold a Q&A conference call to discuss second-quarter 2025\nresults at 8:30 a.m. Eastern Time today. A live audio webcast of the Q&A call will be\navailable on the Investor Relations section of CME Group's website at\ninvestor.cmegroup.com under Events & Presentations. An archived recording will be\navailable for up to two months after the call.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 13,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.4358974358974359,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.003968253968253968,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.011363636363636364,
+  "mean_tone": 0.0
+ },
+ "lexicon": {
+  "words": 264,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 0.0,
+   "Uncertainty": 11.4,
+   "Litigious": 15.2,
+   "Strong modal": 11.4,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 0,
+   "Uncertainty": 3,
+   "Litigious": 4,
+   "Strong modal": 3,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"Demand for CME Group benchmark futures and options reached an all-time high in Q2 as clients around the globe turned to our markets to manage their business risks across asset classes,\u201d said Terry Duffy, CME Group Chairman and Chief Executive Officer. \u201cDuring the quarter, our average daily volume rose 16% to a record 30.2 million contracts, driving doubledigit growth and setting new records for revenue, adjusted operating income, adjusted net income and adjusted earnings per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0133,
+   "hits": [
+    [
+     158,
+     163,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     333,
+     342,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Notably, the number of new retail traders at CME.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Group increased 57% year over year, contributing to record Micros ADV of 4.1 million contracts in Q2 and demonstrating the appeal of our products to a broader base of users.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     94,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     123,
+     129,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Clearing and transaction fees revenue for second-quarter 2025 totaled $1.4 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "The total average rate per contract was $0.690.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     35,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Market data revenue totaled $198 million for second-quarter 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "As of June 30, 2025 the company had $2.2 billion in cash (including $200 million deposited with Fixed Income Clearing Corporation, which is included in other current assets) and $3.4 billion of debt.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The company paid dividends during the first six months of the year of approximately $3.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     70,
+     83,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "The company has returned $29.1 billion to shareholders in the form of dividends since the implementation of the variable dividend policy in early 2012.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     112,
+     120,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "CME Group will hold a Q&A conference call to discuss second-quarter 2025 results at 8:30 a.m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Eastern Time today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "A live audio webcast of the Q&A call will be available on the Investor Relations section of CME Group's website at investor.cmegroup.com under Events & Presentations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     41,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "An archived recording will be available for up to two months after the call.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     26,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
