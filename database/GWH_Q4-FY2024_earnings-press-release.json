@@ -1,0 +1,505 @@
+{
+ "company": "ESS Tech, Inc.",
+ "ticker": "GWH",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-03-31",
+ "source_url": "https://investors.essinc.com/news/news-details/2025/ESS-Tech-Inc--Announces-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "Completed Commissioning and Grid Interconnection of First Two Energy Centers\n\nDelivered Eight Energy Center Systems to Florida Utility\n\nAchieved Breakeven Profitability on Energy Center Design at the end of Q4, Almost a Year Ahead of Schedule\n\nAnnounced Energy Base, a New Modular, Non-Containerized Gigawatt-Hour scale LDES Solution\n\nESS Global Fleet Surpasses 2 GWh of Transacted Energy\n\nWILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE:GWH), a leading manufacturer of iron flow long-duration energy storage (LDES) systems for commercial and utility-scale applications, today announced financial results for its fourth quarter and full year ended December 31, 2024.\n\n\u201cIn 2024, ESS completed key metrics to advance our core technology and begin to execute on our previously announced strategic pivot. The first two Energy Centers that we manufactured in 2024 passed site commissioning in Q4 and final commissioning as part of full grid interconnection in Q1 for the first demonstration of the Energy Center form factor in Wilsonville with our local utility customer. We successfully carried out the first commercial deliveries of an additional eight EC systems during Q4 and Q1 to a major Florida utility that are scheduled for commissioning later this year. Our reported revenue for the year of $6.3 million was below the low end of our guidance range due to ongoing partner funding delays, but the Energy Center deliveries represented an important revenue contributor, underscoring our progress with the first Energy Center deployments in Q4. In addition, we aggressively executed our cost-down program to achieve breakeven profitability on our latest EC design, hitting our target almost a year earlier than previously expected. This result was enabled by the innovative efforts of our team to reduce battery pack, balance of system and direct labor costs and helped establish the foundation needed to develop and productize a transformational new product, the Energy Base,\u201d said Kelly Goodman, interim CEO of ESS. \u201cFurther cementing our differentiation in the energy storage space, the Energy Base is a non-containerized version of our product designed to deliver the gigawatt-hour scale long-duration storage that the energy transition demands. The Energy Base features a modular architecture that enables it to extend energy storage duration with lower cost and improved operational flexibility while customizing capacity and power to customer needs. The Energy Base represents the natural, long-term configuration of the core ESS technology, developed to meet the accelerating market demand for sustainable, safe, long-duration energy storage. I\u2019m pleased with the rapid progress we\u2019ve made in positioning ESS to capitalize on the energy transition while driving towards profitability. Backed by a suite of American-made products, industry safety certifications and partnerships with SB Energy and Honeywell, our global fleet has already surpassed 2 gigawatt hours of transacted energy worldwide and I\u2019m excited about the transformational opportunity ahead of us as we capitalize on this growing market opportunity.\u201d\n\nRecent Business Highlights\n\nAchieved revenue of $6.3M for FY 2024.\nAnnounced the Energy Base, ESS\u2019 new gigawatt-hour-scale, long-duration energy storage solution. The Energy Base leverages ESS\u2019 proven core technologies and features modular architecture designed to deliver a scalable solution for grid-scale applications using a layout that seamlessly integrates with any landscape.\n\nIn January, completed commercial delivery of the first eight Energy Centers\u2122 to a major Florida utility. In addition, ESS successfully completed construction and initial testing of the previously announced demonstration units for a major West Coast utility in December. The EC is a utility-scale, front-of-the-meter long-duration energy storage product which provides up to eight hours of energy storage with a flexible, scalable platform to meet the LDES needs of utilities worldwide.\n\nIn January, became the first energy storage provider to demonstrate MESA compliance and SunSpec Alliance Modbus Certification with the Energy Center\u2122 (EC), ensuring compatibility with the latest integration and communication standards. In addition, the EC received certification to the UL 9540 standard by ETL, a comprehensive safety standard for grid-connected energy storage systems which affirms the safety of the battery system and its environmental performance.\n\nIn February, Kelly Goodman was appointed interim CEO of ESS with the intent to take ESS in a new strategic direction. Ms. Goodman is supported by an Office of the Interim CEO, created to lead this effort. The Office of the Interim CEO will include Ms. Goodman, Tony Rabb, current CFO, and Ben Heng, current EVP of Engineering. In addition, the Board has engaged advisors to evaluate potential commercial or financial transactions.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 29,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.43103448275862066,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.003432548079183712,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.002680965147453083,
+  "mean_tone": 0.26694923086819305
+ },
+ "lexicon": {
+  "words": 746,
+  "per_1000": {
+   "Negative": 1.3,
+   "Positive": 29.5,
+   "Uncertainty": 2.7,
+   "Litigious": 0.0,
+   "Strong modal": 1.3,
+   "Weak modal": 2.7,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 22,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Completed Commissioning and Grid Interconnection of First Two Energy Centers",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Delivered Eight Energy Center Systems to Florida Utility",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Achieved Breakeven Profitability on Energy Center Design at the end of Q4, Almost a Year Ahead of Schedule",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     19,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     75,
+     81,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Announced Energy Base, a New Modular, Non-Containerized Gigawatt-Hour scale LDES Solution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "ESS Global Fleet Surpasses 2 GWh of Transacted Energy",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "WILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE:GWH), a leading manufacturer of iron flow long-duration energy storage (LDES) systems for commercial and utility-scale applications, today announced financial results for its fourth quarter and full year ended December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.217,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cIn 2024, ESS completed key metrics to advance our core technology and begin to execute on our previously announced strategic pivot.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The first two Energy Centers that we manufactured in 2024 passed site commissioning in Q4 and final commissioning as part of full grid interconnection in Q1 for the first demonstration of the Energy Center form factor in Wilsonville with our local utility customer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "We successfully carried out the first commercial deliveries of an additional eight EC systems during Q4 and Q1 to a major Florida utility that are scheduled for commissioning later this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our reported revenue for the year of $6.3 million was below the low end of our guidance range due to ongoing partner funding delays, but the Energy Center deliveries represented an important revenue contributor, underscoring our progress with the first Energy Center deployments in Q4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     125,
+     131,
+     [
+      "negative"
+     ]
+    ],
+    [
+     229,
+     237,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "In addition, we aggressively executed our cost-down program to achieve breakeven profitability on our latest EC design, hitting our target almost a year earlier than previously expected.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0357,
+   "hits": [
+    [
+     63,
+     70,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     94,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     145,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "This result was enabled by the innovative efforts of our team to reduce battery pack, balance of system and direct labor costs and helped establish the foundation needed to develop and productize a transformational new product, the Energy Base,\u201d said Kelly Goodman, interim CEO of ESS. \u201cFurther cementing our differentiation in the energy storage space, the Energy Base is a non-containerized version of our product designed to deliver the gigawatt-hour scale long-duration storage that the energy transition demands.",
+   "d": 1,
+   "m": false,
+   "tone": 0.247,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The Energy Base features a modular architecture that enables it to extend energy storage duration with lower cost and improved operational flexibility while customizing capacity and power to customer needs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     118,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "The Energy Base represents the natural, long-term configuration of the core ESS technology, developed to meet the accelerating market demand for sustainable, safe, long-duration energy storage.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "I\u2019m pleased with the rapid progress we\u2019ve made in positioning ESS to capitalize on the energy transition while driving towards profitability.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     27,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     127,
+     140,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Backed by a suite of American-made products, industry safety certifications and partnerships with SB Energy and Honeywell, our global fleet has already surpassed 2 gigawatt hours of transacted energy worldwide and I\u2019m excited about the transformational opportunity ahead of us as we capitalize on this growing market opportunity.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.816,
+   "h": 0.0,
+   "hits": [
+    [
+     152,
+     161,
+     [
+      "positive"
+     ]
+    ],
+    [
+     218,
+     225,
+     [
+      "positive"
+     ]
+    ],
+    [
+     253,
+     264,
+     [
+      "positive"
+     ]
+    ],
+    [
+     317,
+     328,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Recent Business Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Achieved revenue of $6.3M for FY 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Announced the Energy Base, ESS\u2019 new gigawatt-hour-scale, long-duration energy storage solution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The Energy Base leverages ESS\u2019 proven core technologies and features modular architecture designed to deliver a scalable solution for grid-scale applications using a layout that seamlessly integrates with any landscape.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "In January, completed commercial delivery of the first eight Energy Centers\u2122 to a major Florida utility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "In addition, ESS successfully completed construction and initial testing of the previously announced demonstration units for a major West Coast utility in December.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "The EC is a utility-scale, front-of-the-meter long-duration energy storage product which provides up to eight hours of energy storage with a flexible, scalable platform to meet the LDES needs of utilities worldwide.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "In January, became the first energy storage provider to demonstrate MESA compliance and SunSpec Alliance Modbus Certification with the Energy Center\u2122 (EC), ensuring compatibility with the latest integration and communication standards.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     104,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "In addition, the EC received certification to the UL 9540 standard by ETL, a comprehensive safety standard for grid-connected energy storage systems which affirms the safety of the battery system and its environmental performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "In February, Kelly Goodman was appointed interim CEO of ESS with the intent to take ESS in a new strategic direction.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Ms. Goodman is supported by an Office of the Interim CEO, created to lead this effort.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Office of the Interim CEO will include Ms. Goodman, Tony Rabb, current CFO, and Ben Heng, current EVP of Engineering.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     34,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "In addition, the Board has engaged advisors to evaluate potential commercial or financial transactions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
