@@ -1,0 +1,422 @@
+{
+ "company": "Ventas, Inc.",
+ "ticker": "VTR",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-27",
+ "source_url": "https://ir.ventasreit.com/news/news-details/2026/Ventas-Reports-2026-First-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "CEO Remarks\n\n\u201cVentas delivered excellent first quarter results, powered by our senior housing operating portfolio (\u201cSHOP\u201d). We generated outsized organic growth in SHOP and drove significant occupancy gains, utilizing our differentiated platform, proprietary data and analytics capabilities, operating expertise and industry relationships. As the nearly 70 million Baby Boomers begin turning 80 in 2026, we expect durable demand for our attractive senior housing communities located in favorable markets to increase and provide a sustainable growth and value creation opportunity for Ventas,\u201d said Debra A. Cafaro, Ventas Chairman and CEO.\n\n\u201cWe continue to make additional investments focused on senior housing that should further increase our enterprise growth rate. We have increased our 2026 investment volume expectations to $3 billion reflecting our strong market momentum, clear competitive advantages and large, active pipeline of senior housing investment opportunities.\n\n\u201cFueled by our strong start to the year in SHOP and investments, we are increasing our full year guidance. The Ventas team is focused on delivering value and outperformance for our stakeholders as we enable exceptional environments that benefit a large, growing aging population,\u201d Cafaro concluded.\n\nFirst Quarter and Other 2026 Highlights\n\nNet Income Attributable to Common Stockholders (\u201cAttributable Net Income\u201d) per share of $0.11\nNormalized Funds From Operations* (\u201cNormalized FFO\u201d) per share of $0.94, an increase of 9% compared to the prior year\nTotal Company Net Operating Income* (\u201cNOI\u201d) year-over-year growth of 14% and Total Company Same-Store Cash NOI* year-over-year growth of 9%\nOn a Same-Store Cash NOI* basis, the senior housing operating portfolio (\u201cSHOP\u201d) grew more than 15% year-over-year, with Same-Store Cash Operating Revenue* growth of nearly 9% including 310 basis points of average occupancy growth and Revenue Per Occupied Room (\u201cRevPOR\u201d) growth of 5%\nYear to date, the Company closed $1.7 billion of senior housing investments with attractive financial return expectations, consistent with its Right Market, Right Asset, Right Operator TM strategy\nTo fund expected 2026 investment activity, the Company currently has $1.6 billion of unsettled equity forward sales agreements outstanding and during the first quarter settled 10.6 million shares of common stock under equity forward sales agreements for net proceeds of $0.8 billion, totaling $2.4 billion in equity capital\n*Some of the financial measures throughout this press release are non-GAAP measures. Refer to the Non-GAAP Financial Measures Reconciliation tables at the end of this press release for additional information and a reconciliation to the most directly comparable GAAP measure.\n\nSHOP Growth\n\nIn the first quarter, SHOP Same-Store Cash NOI increased more than 15% year-over-year, led by Same-Store Cash Operating Revenue growth of nearly 9% combined with favorable operating leverage and 170 basis points of NOI margin expansion.\n\nTotal SHOP Same-Store average occupancy grew 310 basis points year-over-year due to broad-based demand strength and successful Ventas OITM platform initiatives to drive outperformance. U.S. SHOP Same-Store average occupancy grew 370 basis points year-over-year.\n\nSenior Housing Investment Activity\n\nVentas closed senior housing investments of $1.0 billion in the first quarter and $1.7 billion year to date through April 2026. The Company expects these investments to increase its growth rate on a multiyear basis and generate attractive financial returns.\n\nThe Company is increasing its investment volume expectations for 2026 to $3 billion of investments focused on senior housing, up from the prior guidance of $2.5 billion.\n\nFinancial Strength and Flexibility\n\nThe Company\u2019s Net Debt-to-Further Adjusted EBITDA* strengthened to 5.0x as of the end of the first quarter, representing the tenth consecutive quarter of sequential improvement. The improvement was driven by SHOP NOI growth and equity-funded senior housing investments.\n\nAs of March 31, 2026, the Company had $5.5 billion in liquidity, supporting Ventas\u2019s growth and financial flexibility. Liquidity includes availability under its unsecured credit facilities, cash and cash equivalents and unsettled equity forward sales agreements outstanding.\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 23,
+  "n_material_neg": 0,
+  "n_positive": 11,
+  "mean_pos_positive": 0.5138339920948617,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.012868662820153537,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.012315270935960592,
+  "mean_tone": 0.35222115771314855
+ },
+ "lexicon": {
+  "words": 406,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 46.8,
+   "Uncertainty": 7.4,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 4.9,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 19,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CEO Remarks",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\u201cVentas delivered excellent first quarter results, powered by our senior housing operating portfolio (\u201cSHOP\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We generated outsized organic growth in SHOP and drove significant occupancy gains, utilizing our differentiated platform, proprietary data and analytics capabilities, operating expertise and industry relationships.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "As the nearly 70 million Baby Boomers begin turning 80 in 2026, we expect durable demand for our attractive senior housing communities located in favorable markets to increase and provide a sustainable growth and value creation opportunity for Ventas,\u201d said Debra A.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0513,
+   "hits": [
+    [
+     7,
+     13,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     97,
+     107,
+     [
+      "positive"
+     ]
+    ],
+    [
+     146,
+     155,
+     [
+      "positive"
+     ]
+    ],
+    [
+     228,
+     239,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Cafaro, Ventas Chairman and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201cWe continue to make additional investments focused on senior housing that should further increase our enterprise growth rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "We have increased our 2026 investment volume expectations to $3 billion reflecting our strong market momentum, clear competitive advantages and large, active pipeline of senior housing investment opportunities.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     93,
+     [
+      "positive"
+     ]
+    ],
+    [
+     129,
+     139,
+     [
+      "positive"
+     ]
+    ],
+    [
+     196,
+     209,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "\u201cFueled by our strong start to the year in SHOP and investments, we are increasing our full year guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "The Ventas team is focused on delivering value and outperformance for our stakeholders as we enable exceptional environments that benefit a large, growing aging population,\u201d Cafaro concluded.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     99,
+     [
+      "positive"
+     ]
+    ],
+    [
+     100,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "First Quarter and Other 2026 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "SHOP Growth",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "In the first quarter, SHOP Same-Store Cash NOI increased more than 15% year-over-year, led by Same-Store Cash Operating Revenue growth of nearly 9% combined with favorable operating leverage and 170 basis points of NOI margin expansion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.027,
+   "hits": [
+    [
+     138,
+     144,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     162,
+     171,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Total SHOP Same-Store average occupancy grew 310 basis points year-over-year due to broad-based demand strength and successful Ventas OITM platform initiatives to drive outperformance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     111,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "U.S. SHOP Same-Store average occupancy grew 370 basis points year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Senior Housing Investment Activity",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Ventas closed senior housing investments of $1.0 billion in the first quarter and $1.7 billion year to date through April 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The Company expects these investments to increase its growth rate on a multiyear basis and generate attractive financial returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     100,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The Company is increasing its investment volume expectations for 2026 to $3 billion of investments focused on senior housing, up from the prior guidance of $2.5 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Financial Strength and Flexibility",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "The Company\u2019s Net Debt-to-Further Adjusted EBITDA* strengthened to 5.0x as of the end of the first quarter, representing the tenth consecutive quarter of sequential improvement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     63,
+     [
+      "positive"
+     ]
+    ],
+    [
+     165,
+     176,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The improvement was driven by SHOP NOI growth and equity-funded senior housing investments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "As of March 31, 2026, the Company had $5.5 billion in liquidity, supporting Ventas\u2019s growth and financial flexibility.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Liquidity includes availability under its unsecured credit facilities, cash and cash equivalents and unsettled equity forward sales agreements outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     101,
+     110,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
