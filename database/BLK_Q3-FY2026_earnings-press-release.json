@@ -1,0 +1,360 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2026",
+ "date": "2026-09-30",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2026/Q3/BLK-3Q26-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Third Quarter 2026 Diluted EPS of $10.57, or $15.93 as adjusted\nNew York, October 14, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and nine months ended\nSeptember 30, 2026.\n$15.5 trillion in AUM following $869 billion of net inflows over the last\ntwelve months, representing 10% organic base fee growth\n$205 billion of net inflows and 11% annualized organic base fee growth\nin the quarter reflect broad-based strength across iShares\u00ae ETFs,\nsystematic active equities, private markets, and cash\n19% increase in revenue year-over-year reflects the positive impact of\nmarkets, organic base fee growth, higher performance fees, and higher\ntechnology services and subscription revenue\n14% growth in technology services and subscription revenue yearover-year, driven by continued momentum in Aladdin\u00ae and multi-product\nsolutions\n19% increase in year-over-year GAAP operating income and 25%\nincrease in GAAP diluted EPS impacted by a noncash change in fair value\nof contingent consideration associated with prior acquisitions, which has\nbeen excluded from as adjusted results\n27% increase in year-over-year as adjusted operating income\n38% increase in year-over-year as adjusted diluted EPS also reflects\nhigher nonoperating income in the current quarter\n$550 million of share repurchases in the current quarter\n\nLaurence D. Fink, Chairman and CEO:\n\u201cBlackRock's results demonstrate the value of our integrated platform, as\nclients increasingly choose us as a partner across investing, financing, and\ntechnology. That client trust is translating into higher earnings power, with\nshareholders benefiting from a more than 35% increase in adjusted earnings\nper share year-over-year, a 47.8% adjusted operating margin, and 11%\nannualized organic base fee growth in the third quarter.\n\n\u201cBlackRock brings together issuer relationships built over decades, financing\nexpertise, investment performance, and the technology and data that\nconnect it all. That combination is differentiating us in every region in which\nwe operate. It\u2019s why BlackRock is winning mandates at the cutting edge of\ncapital markets, from hyperscaler financings to pension outsourcings to\nAladdin and Preqin partnerships.\n\n\u201cClients entrusted us with $205 billion of net inflows this quarter, and $869\nbillion over the last year. Our results reflect the scale of BlackRock, with 12%\ntechnology ACV growth and net inflows across every asset class, client type,\nregion, and across active and index. Our track record of strong investment\nperformance drove $66 billion of active net inflows, led by our fixed income\nand systematic franchises. iShares generated $135 billion of net inflows,\ndiversified across categories and global product lines.\n\n\u201cBlackRock\u2019s ability to originate and structure at scale is leading to premier\nfinancing relationships and sourcing opportunities for our clients. We\u2019ve\nraised $68 billion in private markets over the last twelve months, and our AI\nInfrastructure Partnership made its first deployment this quarter.\n\n\u201cBlackRock is in a differentiated position as both a trusted advisor and\ndestination for global client capital. That position is powering organic growth\nand value for our shareholders. We\u2019re entering our seasonally strongest\nfourth quarter with accelerating momentum, and a broad pipeline spanning\nwhole portfolio, private markets, retirement, and our international platforms.\nDemand for capital is growing across the global economy, and BlackRock is\nincreasingly at the center of how that capital is deployed and managed. I\u2019m\nconfident in the opportunities that creates for our clients and in the longterm value we can generate for our shareholders.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 24,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.5535714285714286,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0018034932013426637,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.001869158878504673,
+  "mean_tone": 0.1451195046783282
+ },
+ "lexicon": {
+  "words": 535,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 20.6,
+   "Uncertainty": 1.9,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 11,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Third Quarter 2026 Diluted EPS of $10.57, or $15.93 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, October 14, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and nine months ended.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "September 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$15.5 trillion in AUM following $869 billion of net inflows over the last twelve months, representing 10% organic base fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "$205 billion of net inflows and 11% annualized organic base fee growth in the quarter reflect broad-based strength across iShares\u00ae ETFs, systematic active equities, private markets, and cash 19% increase in revenue year-over-year reflects the positive impact of markets, organic base fee growth, higher performance fees, and higher technology services and subscription revenue 14% growth in technology services and subscription revenue yearover-year, driven by continued momentum in Aladdin\u00ae and multi-product solutions 19% increase in year-over-year GAAP operating income and 25% increase in GAAP diluted EPS impacted by a noncash change in fair value of contingent consideration associated with prior acquisitions, which has been excluded from as adjusted results 27% increase in year-over-year as adjusted operating income 38% increase in year-over-year as adjusted diluted EPS also reflects higher nonoperating income in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.147,
+   "h": 0.0074,
+   "hits": [
+    [
+     106,
+     114,
+     [
+      "positive"
+     ]
+    ],
+    [
+     243,
+     251,
+     [
+      "positive"
+     ]
+    ],
+    [
+     656,
+     666,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "$550 million of share repurchases in the current quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Fink, Chairman and CEO: \u201cBlackRock's results demonstrate the value of our integrated platform, as clients increasingly choose us as a partner across investing, financing, and technology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "That client trust is translating into higher earnings power, with shareholders benefiting from a more than 35% increase in adjusted earnings per share year-over-year, a 47.8% adjusted operating margin, and 11% annualized organic base fee growth in the third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "\u201cBlackRock brings together issuer relationships built over decades, financing expertise, investment performance, and the technology and data that connect it all.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "That combination is differentiating us in every region in which we operate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "It\u2019s why BlackRock is winning mandates at the cutting edge of capital markets, from hyperscaler financings to pension outsourcings to.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     30,
+     38,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Aladdin and Preqin partnerships.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\u201cClients entrusted us with $205 billion of net inflows this quarter, and $869 billion over the last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Our results reflect the scale of BlackRock, with 12% technology ACV growth and net inflows across every asset class, client type, region, and across active and index.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Our track record of strong investment performance drove $66 billion of active net inflows, led by our fixed income and systematic franchises. iShares generated $135 billion of net inflows, diversified across categories and global product lines.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\u201cBlackRock\u2019s ability to originate and structure at scale is leading to premier financing relationships and sourcing opportunities for our clients.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     78,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We\u2019ve raised $68 billion in private markets over the last twelve months, and our AI.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Infrastructure Partnership made its first deployment this quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "\u201cBlackRock is in a differentiated position as both a trusted advisor and destination for global client capital.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "That position is powering organic growth and value for our shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "We\u2019re entering our seasonally strongest fourth quarter with accelerating momentum, and a broad pipeline spanning whole portfolio, private markets, retirement, and our international platforms.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Demand for capital is growing across the global economy, and BlackRock is increasingly at the center of how that capital is deployed and managed.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "I\u2019m confident in the opportunities that creates for our clients and in the longterm value we can generate for our shareholders.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     13,
+     [
+      "positive"
+     ]
+    ],
+    [
+     21,
+     34,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
