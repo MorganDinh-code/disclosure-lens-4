@@ -1,0 +1,407 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-05-12",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-first-quarter-2025-results-and-reaffirms-full",
+ "demo": false,
+ "source_text": "\"Our first quarter results underscore the strength of our business,\" said David Simon, Chairman, Chief Executive Officer and President. \"We delivered strong financial and operational performance and enhanced our portfolio with the acquisition of The Mall Luxury Outlets in Italy and the successful opening of Jakarta Premium Outlets in Indonesia.  As macroeconomic conditions continue to shift, we are well-positioned with a fortress balance sheet and a proven track record of navigating successfully through a wide range of economic cycles.\"  \n\nResults for the Quarter\n\nNet income attributable to common stockholders was $413.7 million, or $1.27 per diluted share, as compared to $731.7 million, or $2.25 per diluted share in 2024.\nNet income for the first quarter of 2025 includes losses of $54.8 million, or $0.15 per diluted share, primarily due to an unrealized mark-to-market loss in fair value adjustment of the Kl\u00e9pierre exchangeable bonds the Company issued in November 2023.\nNet income for the first quarter of 2024 included after-tax net gains of $303.9 million, or $0.81 per diluted share, primarily resulting from the sale of the Company's remaining ownership interest in Authentic Brands Group.    \nReal Estate Funds From Operations (\"FFO\") was $1.113 billion, or $2.95 per diluted share as compared to $1.090 billion, or $2.91 per diluted share in the prior year.\nFFO was $1.005 billion, or $2.67 per diluted share as compared to $1.334 billion, or $3.56 per diluted share in the prior year, inclusive of the current year and prior year period items mentioned above. \nDomestic property Net Operating Income (\"NOI\") increased 3.4% and portfolio NOI increased 3.6% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at March 31, 2025 was 95.9%, a 0.4% increase compared to 95.5% at March 31, 2024.\nBase minimum rent per square foot was $58.92 at March 31, 2025, compared to $57.53 at March 31, 2024, an increase of 2.4%. \nReported retailer sales per square foot was $733 for the trailing 12 months ended March 31, 2025.\nAcquisition Activity and Development Activity\nOn January 30, 2025, the Company completed the acquisition of two luxury outlets in Italy: The Mall Firenze in Leccio, near Florence and The Mall Sanremo, on the Italian Riviera. \n\nOn March 6, 2025, Jakarta Premium Outlets (Tangerang, Indonesia) opened with 302,000 square feet featuring global and local brands and international dining options.  Simon owns 50% of this center. \n\nCapital Markets and Balance Sheet Liquidity\nDuring the quarter, the Company completed 12 secured loan transactions totaling approximately $2.6 billion (U.S. dollar equivalent).  The weighted average interest rate on these loans was 5.73%.    \n\nAs of March 31, 2025, Simon had approximately $10.1 billion of liquidity consisting of $1.9 billion of cash on hand, including its share of joint venture cash, and $8.2 billion of available capacity under its revolving credit facilities.\n\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.10 for the second quarter of 2025.  This is an increase of $0.10, or 5.0% year-over-year.  The dividend will be payable on June 30, 2025 to shareholders of record on June 9, 2025. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 30, 2025 to shareholders of record on June 16, 2025. \n\n2025 Guidance\nThe Company's estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2025 are included in the table below and are reconciled in the Company's supplemental information.  The Company is reaffirming its outlook for Real Estate FFO of $12.40 to $12.65 per diluted share. ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 1,
+  "n_positive": 5,
+  "mean_pos_negative": 0.2,
+  "mean_pos_positive": 0.4866666666666667,
+  "placement_asymmetry": -0.2866666666666667,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.2,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4871794871794872,
+  "overall_hedge": 0.003683241252302026,
+  "mean_tone": 0.05392002828335596
+ },
+ "lexicon": {
+  "words": 543,
+  "per_1000": {
+   "Negative": 3.7,
+   "Positive": 11.0,
+   "Uncertainty": 3.7,
+   "Litigious": 0.0,
+   "Strong modal": 1.8,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 6,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"Our first quarter results underscore the strength of our business,\" said David Simon, Chairman, Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"We delivered strong financial and operational performance and enhanced our portfolio with the acquisition of The Mall Luxury Outlets in Italy and the successful opening of Jakarta Premium Outlets in Indonesia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.968,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     63,
+     71,
+     [
+      "positive"
+     ]
+    ],
+    [
+     151,
+     161,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "As macroeconomic conditions continue to shift, we are well-positioned with a fortress balance sheet and a proven track record of navigating successfully through a wide range of economic cycles.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     140,
+     152,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Net income attributable to common stockholders was $413.7 million, or $1.27 per diluted share, as compared to $731.7 million, or $2.25 per diluted share in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Net income for the first quarter of 2025 includes losses of $54.8 million, or $0.15 per diluted share, primarily due to an unrealized mark-to-market loss in fair value adjustment of the Kl\u00e9pierre exchangeable bonds the Company issued in November 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.513,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "negative"
+     ]
+    ],
+    [
+     149,
+     153,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Net income for the first quarter of 2024 included after-tax net gains of $303.9 million, or $0.81 per diluted share, primarily resulting from the sale of the Company's remaining ownership interest in Authentic Brands Group.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Real Estate Funds From Operations (\"FFO\") was $1.113 billion, or $2.95 per diluted share as compared to $1.090 billion, or $2.91 per diluted share in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "FFO was $1.005 billion, or $2.67 per diluted share as compared to $1.334 billion, or $3.56 per diluted share in the prior year, inclusive of the current year and prior year period items mentioned above.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 3.4% and portfolio NOI increased 3.6% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Occupancy at March 31, 2025 was 95.9%, a 0.4% increase compared to 95.5% at March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Base minimum rent per square foot was $58.92 at March 31, 2025, compared to $57.53 at March 31, 2024, an increase of 2.4%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Reported retailer sales per square foot was $733 for the trailing 12 months ended March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Acquisition Activity and Development Activity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "On January 30, 2025, the Company completed the acquisition of two luxury outlets in Italy: The Mall Firenze in Leccio, near Florence and The Mall Sanremo, on the Italian Riviera.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "On March 6, 2025, Jakarta Premium Outlets (Tangerang, Indonesia) opened with 302,000 square feet featuring global and local brands and international dining options.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Simon owns 50% of this center.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Capital Markets and Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "During the quarter, the Company completed 12 secured loan transactions totaling approximately $2.6 billion (U.S. dollar equivalent).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The weighted average interest rate on these loans was 5.73%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "As of March 31, 2025, Simon had approximately $10.1 billion of liquidity consisting of $1.9 billion of cash on hand, including its share of joint venture cash, and $8.2 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.10 for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "This is an increase of $0.10, or 5.0% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The dividend will be payable on June 30, 2025 to shareholders of record on June 9, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 30, 2025 to shareholders of record on June 16, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "2025 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The Company's estimates for net income attributable to common stockholders per diluted share and Real Estate FFO per diluted share for the year ending December 31, 2025 are included in the table below and are reconciled in the Company's supplemental information.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The Company is reaffirming its outlook for Real Estate FFO of $12.40 to $12.65 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
