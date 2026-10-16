@@ -1,0 +1,360 @@
+{
+ "company": "ESS Tech, Inc.",
+ "ticker": "GWH",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-08-14",
+ "source_url": "https://investors.essinc.com/news/news-details/2025/ESS-Tech-Inc--Announces-Second-Quarter-2025-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "Secured up to $31 million in new capital, strengthening balance sheet and extending operational runway\n\nProposal activity exceeding 1.1 GWh following Energy Base launch\n\nStrengthened our leadership team to advance the company vision with the appointment of Jigish Trivedi as COO\n\nOperating cash burn reduced by ~80% in June compared to Q1 average.\n\nWILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its second quarter ended June 30, 2025.\n\nThe second quarter marked a pivotal period in ESS\u2019s strategic reset, with significant progress on both commercial execution and capital discipline. During July, the Company secured up to $31 million in new capital through a combination of immediate cash inflows and a $25 million Standby Equity Purchase Agreement, providing flexibility to scale deployments. Further, commercial momentum accelerated following launch of the Energy Base, ESS\u2019s proprietary long-duration, non-flammable iron flow battery platform. The Company closed its first Energy Base sale, has entered into contracting for additional Energy Base projects and submitted proposals totaling over 1.1 GWh during the quarter. ESS\u2019s Made in the USA manufacturing model\u2014with over 98% domestically sourced components\u2014continues to provide a competitive edge in navigating evolving trade policy and tariff environments. Recent federal legislation, including the One Big Beautiful Bill Act, maintains key Section 45X Production Tax Credits while expanding incentives for domestically manufactured energy storage, positioning ESS products as even more attractive to customers seeking long-duration solutions with minimal supply chain risk.\n\nOperationally, ESS continued to enhance efficiency and reduce costs while maintaining delivery readiness. \u201cQ2 reflects the early results of the operational reset we began earlier this year,\u201d said Kelly Goodman, Interim CEO of ESS. \u201cWe are building a business with sharper focus, disciplined execution, and a stronger financial foundation. We are excited to welcome Jigish Trivedi as our new Chief Operating Officer and Kate Suhadolnik as interim Chief Financial Officer \u2013 two proven leaders who will help drive the next phase of our growth. We continue to see growing demand from Tier 1 customers and with a robust pipeline, ESS is well-positioned to deliver safe, sustainable, long-duration storage solutions at scale while creating long-term value for our customers and shareholders.\u201d\n\nFinancial Highlights for Q2 2025\n\nGAAP revenue of $2.4 million, up 294% from Q1 2025\nGAAP cost of revenues of $7.5 million, down 15% from Q1 2025\nGAAP operating expenses of $6.5 million, down 35% quarter-over-quarter\nGAAP net loss and adjusted EBITDA improved 50% year-over year\nIn addition, the Company ended July with $7.2 million in cash and cash equivalents, up from $0.8 million at the end of Q2.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 20,
+  "n_material_neg": 2,
+  "n_positive": 5,
+  "mean_pos_negative": 0.8999999999999999,
+  "mean_pos_positive": 0.73,
+  "placement_asymmetry": 0.16999999999999993,
+  "distance_from_headline": 15,
+  "first_negative_pos": 0.85,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0015873015873015873,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0022675736961451248,
+  "mean_tone": 0.18921062159716667
+ },
+ "lexicon": {
+  "words": 441,
+  "per_1000": {
+   "Negative": 2.3,
+   "Positive": 27.2,
+   "Uncertainty": 2.3,
+   "Litigious": 4.5,
+   "Strong modal": 2.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 12,
+   "Uncertainty": 1,
+   "Litigious": 2,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Secured up to $31 million in new capital, strengthening balance sheet and extending operational runway",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Proposal activity exceeding 1.1 GWh following Energy Base launch",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Strengthened our leadership team to advance the company vision with the appointment of Jigish Trivedi as COO",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     17,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Operating cash burn reduced by ~80% in June compared to Q1 average.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "WILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its second quarter ended June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "The second quarter marked a pivotal period in ESS\u2019s strategic reset, with significant progress on both commercial execution and capital discipline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "During July, the Company secured up to $31 million in new capital through a combination of immediate cash inflows and a $25 million Standby Equity Purchase Agreement, providing flexibility to scale deployments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Further, commercial momentum accelerated following launch of the Energy Base, ESS\u2019s proprietary long-duration, non-flammable iron flow battery platform.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The Company closed its first Energy Base sale, has entered into contracting for additional Energy Base projects and submitted proposals totaling over 1.1 GWh during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     75,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "ESS\u2019s Made in the USA manufacturing model\u2014with over 98% domestically sourced components\u2014continues to provide a competitive edge in navigating evolving trade policy and tariff environments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Recent federal legislation, including the One Big Beautiful Bill Act, maintains key Section 45X Production Tax Credits while expanding incentives for domestically manufactured energy storage, positioning ESS products as even more attractive to customers seeking long-duration solutions with minimal supply chain risk.",
+   "d": 0,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0233,
+   "hits": [
+    [
+     15,
+     26,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     50,
+     59,
+     [
+      "positive"
+     ]
+    ],
+    [
+     230,
+     240,
+     [
+      "positive"
+     ]
+    ],
+    [
+     312,
+     316,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Operationally, ESS continued to enhance efficiency and reduce costs while maintaining delivery readiness. \u201cQ2 reflects the early results of the operational reset we began earlier this year,\u201d said Kelly Goodman, Interim CEO of ESS. \u201cWe are building a business with sharper focus, disciplined execution, and a stronger financial foundation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.612,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     39,
+     [
+      "positive"
+     ]
+    ],
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     308,
+     316,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We are excited to welcome Jigish Trivedi as our new Chief Operating Officer and Kate Suhadolnik as interim Chief Financial Officer \u2013 two proven leaders who will help drive the next phase of our growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     156,
+     160,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "We continue to see growing demand from Tier 1 customers and with a robust pipeline, ESS is well-positioned to deliver safe, sustainable, long-duration storage solutions at scale while creating long-term value for our customers and shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Financial Highlights for Q2 2025",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "GAAP revenue of $2.4 million, up 294% from Q1 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "GAAP cost of revenues of $7.5 million, down 15% from Q1 2025.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "GAAP operating expenses of $6.5 million, down 35% quarter-over-quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "GAAP net loss and adjusted EBITDA improved 50% year-over year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "negative"
+     ]
+    ],
+    [
+     34,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "In addition, the Company ended July with $7.2 million in cash and cash equivalents, up from $0.8 million at the end of Q2.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
