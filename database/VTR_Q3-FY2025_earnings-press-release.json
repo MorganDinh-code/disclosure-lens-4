@@ -1,0 +1,405 @@
+{
+ "company": "Ventas, Inc.",
+ "ticker": "VTR",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-29",
+ "source_url": "https://ir.ventasreit.com/news/news-details/2025/Ventas-Reports-2025-Third-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "CEO Remarks\n\n\u201cVentas delivered strong financial performance and growth in the third quarter as we continued to execute on our 1-2-3 strategy. Results in the quarter were powered by our senior housing operating portfolio (SHOP), which experienced broad-based demand and grew organically year-over-year by double digits,\u201d said Debra A. Cafaro, Ventas Chairman and CEO.\n\n\u201cWe have also completed $2.2 billion in senior housing acquisitions in attractive markets year to date. These investments are expected to enhance our earnings and future growth rate. As we grow, our financial profile continues to strengthen.\n\n\u201cWe are increasing our full year guidance on the strength of our SHOP performance and closed senior housing investments. Because of the combination of organic and external growth in SHOP, our SHOP portfolio now represents about half of our business.\n\n\u201cThe Company intends to continue to capitalize on the multiyear growth opportunity in senior housing that is fueled by the secular megatrend of a large and growing aging population. We are excited about the opportunities ahead to create value for our stakeholders from increasing senior housing demand, record lows in supply, a high-quality senior housing portfolio with significant occupancy upside and the Company\u2019s competitive advantages,\u201d Cafaro concluded.\n\nThird Quarter and Other 2025 Highlights\n\nNet Income Attributable to Common Stockholders (\u201cAttributable Net Income\u201d) per share of $0.14\nNormalized Funds From Operations* (\u201cNormalized FFO\u201d) per share of $0.88, an increase of 10% compared to the prior year\nTotal Company Net Operating Income* (\u201cNOI\u201d) year-over-year growth of 20% and Total Company Same-Store Cash NOI* year-over-year growth of 8%\nOn a Same-Store Cash NOI* basis, the senior housing operating portfolio (\u201cSHOP\u201d) grew 16% year-over-year, with Same-Store Cash Operating Revenue* growth of 8% and Same-Store Cash NOI Margin* expansion of 200 basis points\nYear to date October 2025, the Company closed $2.2 billion of senior housing investments with attractive financial return expectations, consistent with its Right Market, Right Asset, Right Operator TM strategy\nYear to date October 2025, the Company has settled 31.3 million shares of common stock under outstanding forward sales agreements for gross proceeds of $2.1 billion and currently has $0.5 billion of unsettled equity forward sales agreements outstanding\n*Some of the financial measures throughout this press release are non-GAAP measures. Refer to the Non-GAAP Financial Measures Reconciliation tables at the end of this press release for additional information and a reconciliation to the most directly comparable GAAP measure.\n\nSHOP Growth\n\nIn the third quarter, SHOP Same-Store Cash NOI increased 16% year-over-year, led by U.S. growth of 19%. SHOP Same-Store Cash NOI Margin expanded 200 basis points year-over-year, driven by the successful deployment of the Ventas OITM platform.\n\nThird quarter resident demand remained strong and broad-based to complete the key selling season. Same-Store average occupancy grew 160 basis points sequentially compared to the second quarter 2025 and grew 270 basis points year-over-year. U.S. Same-Store average occupancy grew 200 basis points sequentially and 340 basis points year-over-year.\n\nSenior Housing Investment Activity\n\nVentas closed senior housing investments of $1.1 billion in the third quarter and $2.2 billion year to date October 2025. The Company expects these investments to increase its growth rate on a multiyear basis and generate attractive financial returns.\n\nThe Company is increasing its senior housing investment volume expectations for 2025 to $2.5 billion, up from the prior guidance of $2.0 billion.\n\nFinancial Strength and Flexibility\n\nThe Company\u2019s Net Debt-to-Further Adjusted EBITDA* strengthened to 5.3x as of the end of the third quarter driven by SHOP NOI growth and equity-funded senior housing investments, representing an improvement of 1.0x compared to the third quarter of 2024.\n\nAs of September 30, 2025, the Company had $4.1 billion in liquidity, supporting Ventas\u2019s growth and financial flexibility. Liquidity includes availability under its unsecured revolving credit facility, cash and cash equivalents and unsettled equity forward sales agreements outstanding.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 26,
+  "n_material_neg": 0,
+  "n_positive": 14,
+  "mean_pos_positive": 0.5164835164835165,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0021912611198325483,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004524886877828055,
+  "mean_tone": 0.29889144430886716
+ },
+ "lexicon": {
+  "words": 442,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 33.9,
+   "Uncertainty": 2.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 15,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CEO Remarks",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\u201cVentas delivered strong financial performance and growth in the third quarter as we continued to execute on our 1-2-3 strategy.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Results in the quarter were powered by our senior housing operating portfolio (SHOP), which experienced broad-based demand and grew organically year-over-year by double digits,\u201d said Debra A.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Cafaro, Ventas Chairman and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\u201cWe have also completed $2.2 billion in senior housing acquisitions in attractive markets year to date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "These investments are expected to enhance our earnings and future growth rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "As we grow, our financial profile continues to strengthen.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "\u201cWe are increasing our full year guidance on the strength of our SHOP performance and closed senior housing investments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Because of the combination of organic and external growth in SHOP, our SHOP portfolio now represents about half of our business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\u201cThe Company intends to continue to capitalize on the multiyear growth opportunity in senior housing that is fueled by the secular megatrend of a large and growing aging population.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "We are excited about the opportunities ahead to create value for our stakeholders from increasing senior housing demand, record lows in supply, a high-quality senior housing portfolio with significant occupancy upside and the Company\u2019s competitive advantages,\u201d Cafaro concluded.",
+   "d": 1,
+   "m": false,
+   "tone": 0.75,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     25,
+     38,
+     [
+      "positive"
+     ]
+    ],
+    [
+     248,
+     258,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Third Quarter and Other 2025 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "SHOP Growth",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "In the third quarter, SHOP Same-Store Cash NOI increased 16% year-over-year, led by U.S. growth of 19%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "SHOP Same-Store Cash NOI Margin expanded 200 basis points year-over-year, driven by the successful deployment of the Ventas OITM platform.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     98,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Third quarter resident demand remained strong and broad-based to complete the key selling season.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     45,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Same-Store average occupancy grew 160 basis points sequentially compared to the second quarter 2025 and grew 270 basis points year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "U.S. Same-Store average occupancy grew 200 basis points sequentially and 340 basis points year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Senior Housing Investment Activity",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Ventas closed senior housing investments of $1.1 billion in the third quarter and $2.2 billion year to date October 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The Company expects these investments to increase its growth rate on a multiyear basis and generate attractive financial returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     100,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "The Company is increasing its senior housing investment volume expectations for 2025 to $2.5 billion, up from the prior guidance of $2.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Financial Strength and Flexibility",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The Company\u2019s Net Debt-to-Further Adjusted EBITDA* strengthened to 5.3x as of the end of the third quarter driven by SHOP NOI growth and equity-funded senior housing investments, representing an improvement of 1.0x compared to the third quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     63,
+     [
+      "positive"
+     ]
+    ],
+    [
+     195,
+     206,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "As of September 30, 2025, the Company had $4.1 billion in liquidity, supporting Ventas\u2019s growth and financial flexibility.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Liquidity includes availability under its unsecured revolving credit facility, cash and cash equivalents and unsettled equity forward sales agreements outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     109,
+     118,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
