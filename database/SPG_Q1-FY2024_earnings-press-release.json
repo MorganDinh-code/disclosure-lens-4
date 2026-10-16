@@ -1,0 +1,292 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-06",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-first-quarter-2024-results-increases-full-year",
+ "demo": false,
+ "source_text": "\"We delivered strong results to start the year,\" said David Simon, Chairman, Chief Executive Officer and President. \"Leasing momentum and cash flow growth continued. We successfully sold our remaining investment in Authentic Brands Group, generating total gross proceeds of $1.45 billion, including the sale of a portion of our interest in the fourth quarter of 2023.  Today, we raised our quarterly dividend and are increasing the mid-point of our full-year 2024 guidance.\"  \n\nResults for the Quarter\n\nNet income attributable to common stockholders was $731.7 million, or $2.25 per diluted share, as compared to $451.8 million, or $1.38 per diluted share in 2023.\nNet income for the first quarter of 2024 includes after-tax net gains of $303.9 million, or $0.81 per diluted share, primarily resulting from the sale of the Company's remaining ownership interest in Authentic Brands Group.\nFunds From Operations (\"FFO\") was $1.334 billion, or $3.56 per diluted share as compared to $1.026 billion, or $2.74 per diluted share in the prior year, including the gains referenced above. \nDomestic property Net Operating Income (\"NOI\") increased 3.7% and portfolio NOI increased 3.9% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at March 31, 2024 was 95.5%, a 1.1% increase compared to 94.4% at March 31, 2023.\nBase minimum rent per square foot was $57.53 at March 31, 2024, compared to $55.84 at March 31, 2023, an increase of 3.0%. \nReported retailer sales per square foot was $745 for the trailing 12 months ended March 31, 2024.\nBalance Sheet Liquidity\nAs of March 31, 2024, Simon had approximately $11.2 billion of liquidity consisting of $3.1 billion of cash on hand, including its share of joint venture cash, and $8.1 billion of available capacity under its revolving credit facilities.\n\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.00 for the second quarter of 2024.  This is an increase of $0.15, or 8.1% year-over-year.  The dividend will be payable on June 28, 2024 to shareholders of record on June 7, 2024. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 28, 2024 to shareholders of record on June 14, 2024. \n\n2024 Guidance\nThe Company currently estimates net income to be within a range of $7.38 to $7.53 per diluted share and FFO to be within a range of $12.75 to $12.90 per diluted share for the year ending December 31, 2024.    \n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.4621212121212121,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.002777777777777778,
+  "mean_tone": 0.07249860458416608
+ },
+ "lexicon": {
+  "words": 360,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 11.1,
+   "Uncertainty": 2.8,
+   "Litigious": 0.0,
+   "Strong modal": 2.8,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We delivered strong results to start the year,\" said David Simon, Chairman, Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"Leasing momentum and cash flow growth continued.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "We successfully sold our remaining investment in Authentic Brands Group, generating total gross proceeds of $1.45 billion, including the sale of a portion of our interest in the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Today, we raised our quarterly dividend and are increasing the mid-point of our full-year 2024 guidance.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Net income attributable to common stockholders was $731.7 million, or $2.25 per diluted share, as compared to $451.8 million, or $1.38 per diluted share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Net income for the first quarter of 2024 includes after-tax net gains of $303.9 million, or $0.81 per diluted share, primarily resulting from the sale of the Company's remaining ownership interest in Authentic Brands Group.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Funds From Operations (\"FFO\") was $1.334 billion, or $3.56 per diluted share as compared to $1.026 billion, or $2.74 per diluted share in the prior year, including the gains referenced above.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     168,
+     173,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 3.7% and portfolio NOI increased 3.9% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Occupancy at March 31, 2024 was 95.5%, a 1.1% increase compared to 94.4% at March 31, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Base minimum rent per square foot was $57.53 at March 31, 2024, compared to $55.84 at March 31, 2023, an increase of 3.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Reported retailer sales per square foot was $745 for the trailing 12 months ended March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "As of March 31, 2024, Simon had approximately $11.2 billion of liquidity consisting of $3.1 billion of cash on hand, including its share of joint venture cash, and $8.1 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.00 for the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "This is an increase of $0.15, or 8.1% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The dividend will be payable on June 28, 2024 to shareholders of record on June 7, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on June 28, 2024 to shareholders of record on June 14, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "2024 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The Company currently estimates net income to be within a range of $7.38 to $7.53 per diluted share and FFO to be within a range of $12.75 to $12.90 per diluted share for the year ending December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
