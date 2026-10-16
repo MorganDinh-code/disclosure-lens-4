@@ -1,0 +1,477 @@
+{
+ "company": "Simon Property Group",
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2024-02-04",
+ "source_url": "https://investors.simon.com/news-releases/news-release-details/simonr-reports-fourth-quarter-and-full-year-2024-results",
+ "demo": false,
+ "source_text": "\"I am extremely pleased with our fourth quarter results, concluding another successful and productive year for our Company,\" said David Simon, Chairman, Chief Executive Officer and President. \"In 2024, we generated record Funds From Operations of nearly $4.9 billion and returned more than $3 billion to shareholders.  We executed over 21 million square feet of leases, opened a fully-leased, new Premium Outlet in the U.S., delivered 16 significant redevelopment projects, including an expansion of a leading Premium Outlet in South Korea, and strengthened our industry-leading balance sheet.\"  \n\nResults for the Year\n\nNet income attributable to common stockholders was $2.368 billion, or $7.26 per diluted share, as compared to $2.280 billion, or $6.98 per diluted share in 2023.\nNet income for 2024 includes after-tax gains of $386.4 million, or $1.03 per diluted share, combined, from the sale of the Company's remaining ownership interest in Authentic Brands Group (\"ABG\") and the recent combination of JCPenney and SPARC Group, renamed Catalyst Brands. \nNet income for 2023 included non-cash after-tax gains of $282.9 million or $0.75 per diluted share from investment activity. \nFunds From Operations (\"FFO\") was $4.877 billion, or $12.99 per diluted share as compared to $4.686 billion, or $12.51 per diluted share in the prior year, inclusive of the items referenced immediately above. \nReal Estate Funds From Operations (\"Real Estate FFO\") was $4.597 billion, or $12.24 per diluted share as compared to $4.409 billion, or $11.78 per diluted share in the prior year, an increase of 3.9% year-over-year.\nDomestic property Net Operating Income (\"NOI\") increased 4.7% and portfolio NOI increased 4.6% compared to the prior year period.\nResults for the Quarter\n\nNet income attributable to common stockholders was $667.2 million, or $2.04 per diluted share, as compared to $747.5 million, or $2.29 per diluted share in 2023.\nNet income for the fourth quarter of 2024 includes a non-cash, after-tax gain of $75.3 million, or $0.20 per diluted share from the combination of JCPenney and SPARC Group.\nNet income for the fourth quarter of 2023 included after-tax net gains of $117.4 million, or $0.31 per diluted share, primarily due to the sale of part of the Company's interest in ABG.    \nFFO was $1.389 billion, or $3.68 per diluted share as compared to $1.382 billion, or $3.69 per diluted share in the prior year, inclusive of the $0.20 per diluted share gain in the current period and the $0.31 per diluted share net gains in the prior year period mentioned above. \nReal Estate FFO was $1.261 billion, or $3.35 per diluted share as compared to $1.208 billion, or $3.23 per diluted share in the prior year, an increase of 3.7% year-over-year.\nDomestic property NOI increased 4.4% and portfolio NOI increased 4.5% compared to the prior year period. \nU.S. Malls and Premium Outlets Operating Statistics\n\nOccupancy at December 31, 2024 was 96.5%, a 0.7% increase compared to 95.8% at December 31, 2023.\nBase minimum rent per square foot was $58.26 at December 31, 2024, compared to $56.82 at December 31, 2023, an increase of 2.5%. \nReported retailer sales per square foot was $739 for the trailing 12 months ended December 31, 2024.\nCapital Markets and Balance Sheet Liquidity\nThe Company was active in both the secured and unsecured credit markets in 2024.\n\nDuring the year, the Company completed a senior notes offering totaling $1.0 billion with a term of 10 years and 4.75% coupon as well as amended and extended its $3.5 billion unsecured multi-currency revolving credit facility.  The Company completed 33 secured loan transactions totaling approximately $6.8 billion (U.S. dollar equivalent).  The weighted average interest rate on these loans was 6.11%.\n\nAs of December 31, 2024, Simon had approximately $10.1 billion of liquidity consisting of $2.0 billion of cash on hand, including its share of joint venture cash, and $8.1 billion of available capacity under its revolving credit facilities.\n\nDividends\nToday, Simon's Board of Directors declared a quarterly common stock dividend of $2.10 for the first quarter of 2025.  This is an increase of $0.15, or 7.7% year-over-year.  The dividend will be payable on March 31, 2025 to shareholders of record on March 10, 2025. \n\nSimon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on March 31, 2025 to shareholders of record on March 17, 2025. \n\n2025 Guidance\nThe Company currently estimates net income to be within a range of $6.95 to $7.20 per diluted share and Real Estate FFO and FFO to be within a range of $12.40 to $12.65 per diluted share for the year ending December 31, 2025.    ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.4411764705882353,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.001680672268907563,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004431314623338257,
+  "mean_tone": 0.10036095794761968
+ },
+ "lexicon": {
+  "words": 677,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 16.2,
+   "Uncertainty": 4.4,
+   "Litigious": 1.5,
+   "Strong modal": 1.5,
+   "Weak modal": 1.5,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 11,
+   "Uncertainty": 3,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"I am extremely pleased with our fourth quarter results, concluding another successful and productive year for our Company,\" said David Simon, Chairman, Chief Executive Officer and President.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"In 2024, we generated record Funds From Operations of nearly $4.9 billion and returned more than $3 billion to shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     55,
+     61,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We executed over 21 million square feet of leases, opened a fully-leased, new Premium Outlet in the U.S., delivered 16 significant redevelopment projects, including an expansion of a leading Premium Outlet in South Korea, and strengthened our industry-leading balance sheet.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.732,
+   "h": 0.0,
+   "hits": [
+    [
+     183,
+     190,
+     [
+      "positive"
+     ]
+    ],
+    [
+     226,
+     238,
+     [
+      "positive"
+     ]
+    ],
+    [
+     252,
+     259,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Results for the Year",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Net income attributable to common stockholders was $2.368 billion, or $7.26 per diluted share, as compared to $2.280 billion, or $6.98 per diluted share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Net income for 2024 includes after-tax gains of $386.4 million, or $1.03 per diluted share, combined, from the sale of the Company's remaining ownership interest in Authentic Brands Group (\"ABG\") and the recent combination of JCPenney and SPARC Group, renamed Catalyst Brands.",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     44,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Net income for 2023 included non-cash after-tax gains of $282.9 million or $0.75 per diluted share from investment activity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     53,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Funds From Operations (\"FFO\") was $4.877 billion, or $12.99 per diluted share as compared to $4.686 billion, or $12.51 per diluted share in the prior year, inclusive of the items referenced immediately above.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Real Estate Funds From Operations (\"Real Estate FFO\") was $4.597 billion, or $12.24 per diluted share as compared to $4.409 billion, or $11.78 per diluted share in the prior year, an increase of 3.9% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Domestic property Net Operating Income (\"NOI\") increased 4.7% and portfolio NOI increased 4.6% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Results for the Quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Net income attributable to common stockholders was $667.2 million, or $2.04 per diluted share, as compared to $747.5 million, or $2.29 per diluted share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Net income for the fourth quarter of 2024 includes a non-cash, after-tax gain of $75.3 million, or $0.20 per diluted share from the combination of JCPenney and SPARC Group.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     73,
+     77,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Net income for the fourth quarter of 2023 included after-tax net gains of $117.4 million, or $0.31 per diluted share, primarily due to the sale of part of the Company's interest in ABG.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "FFO was $1.389 billion, or $3.68 per diluted share as compared to $1.382 billion, or $3.69 per diluted share in the prior year, inclusive of the $0.20 per diluted share gain in the current period and the $0.31 per diluted share net gains in the prior year period mentioned above.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     169,
+     173,
+     [
+      "positive"
+     ]
+    ],
+    [
+     232,
+     237,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Real Estate FFO was $1.261 billion, or $3.35 per diluted share as compared to $1.208 billion, or $3.23 per diluted share in the prior year, an increase of 3.7% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Domestic property NOI increased 4.4% and portfolio NOI increased 4.5% compared to the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "U.S. Malls and Premium Outlets Operating Statistics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Occupancy at December 31, 2024 was 96.5%, a 0.7% increase compared to 95.8% at December 31, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Base minimum rent per square foot was $58.26 at December 31, 2024, compared to $56.82 at December 31, 2023, an increase of 2.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Reported retailer sales per square foot was $739 for the trailing 12 months ended December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Capital Markets and Balance Sheet Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Company was active in both the secured and unsecured credit markets in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "During the year, the Company completed a senior notes offering totaling $1.0 billion with a term of 10 years and 4.75% coupon as well as amended and extended its $3.5 billion unsecured multi-currency revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     144,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The Company completed 33 secured loan transactions totaling approximately $6.8 billion (U.S. dollar equivalent).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": [
+    [
+     60,
+     73,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The weighted average interest rate on these loans was 6.11%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "As of December 31, 2024, Simon had approximately $10.1 billion of liquidity consisting of $2.0 billion of cash on hand, including its share of joint venture cash, and $8.1 billion of available capacity under its revolving credit facilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     35,
+     48,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Today, Simon's Board of Directors declared a quarterly common stock dividend of $2.10 for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "This is an increase of $0.15, or 7.7% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The dividend will be payable on March 31, 2025 to shareholders of record on March 10, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Simon's Board of Directors declared the quarterly dividend on its 8 3/8% Series J Cumulative Redeemable Preferred Stock (NYSE: SPGPrJ) of $1.046875 per share, payable on March 31, 2025 to shareholders of record on March 17, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "2025 Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The Company currently estimates net income to be within a range of $6.95 to $7.20 per diluted share and Real Estate FFO and FFO to be within a range of $12.40 to $12.65 per diluted share for the year ending December 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
