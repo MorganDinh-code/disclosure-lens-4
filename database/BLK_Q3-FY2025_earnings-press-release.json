@@ -1,0 +1,337 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-09-30",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2025/Q3/BLK-3Q25-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Third Quarter 2025 Diluted EPS of $8.43, or $11.55 as adjusted\nNew York, October 14, 2025 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and nine months ended\nSeptember 30, 2025.\n$205 billion of quarterly total net inflows led by a record quarter for\niShares\u00ae ETFs, alongside private markets and cash net inflows\n10% annualized organic base fee growth in the quarter reflects broadbased strength across iShares ETFs, systematic active equities, private\nmarkets, outsourcing and cash\n25% increase in revenue year-over-year reflects the positive impact of\nmarkets, 8% organic base fee growth over the last twelve months, fees\nrelated to the GIP and HPS Transactions, and higher technology services\nand subscription revenue\n3% decrease in year-over-year GAAP operating income and 23%\ndecrease in GAAP diluted EPS impacted by noncash acquisition-related\nexpenses, which have been excluded from as-adjusted results\n23% increase in year-over-year as adjusted operating income\n1% increase in year-over-year as adjusted diluted EPS also reflects\nlower nonoperating income and a higher diluted share count, partially\noffset by a lower effective tax rate in the current quarter\n$375 million worth of share repurchases in the current quarter\nClosed acquisition of HPS Investment Partners (\"HPS\") on July 1st,\nadding $165 billion of client AUM and $118 billion of fee-paying AUM\n\nLaurence D. Fink, Chairman and CEO:\n\u201cBlackRock delivered one of our strongest quarterly flows results, with net inflows of\n$205 billion, powering 10% organic base fee growth in the third quarter and 8%\nover the last twelve months. That growth is even more notable in its diversification.\nTop organic base fee growth contributors included our systematic franchise, private\nmarkets, digital assets, outsourcing, cash and iShares ETFs, which saw record\ndemand. BlackRock\u2019s multiple sources of growth differentiate us and are resonating\nthrough accelerating client activity across our platform. We believe our results are a\npowerful validation of our hyper-local client engagement model and forwardlooking investments.\n\u201cBlackRock is always preparing for the future, investing ahead of client needs and in\nsupport of deepening capital markets. Technology and data analytics, ETFs, private\nmarkets, and digital assets are just a few examples where we invested and built\nleading positions. We\u2019ve brought together the strengths of GIP, HPS, and Preqin,\nand together we\u2019re already driving landmark fundraising and deal flow, accelerating\nclient engagement, and double-digit organic revenue growth over the last year.\n\u201cClients around the world are coming to BlackRock for deeper, more dynamic\npartnerships across public and private asset classes. AUM reached a new high of\n$13.5 trillion, and our iShares and cash franchises surpassed new AUM milestones\nof $5 trillion and $1 trillion, respectively.\n\n\u201cWe\u2019re executing on some of the largest and most multifaceted mandates in our\nhistory, as clients choose BlackRock for portfolio management and technology\nacross the full range of capital markets.\n\n\u201cWe\u2019re entering our seasonally strongest fourth quarter with building momentum\nand a fully unified platform. One that\u2019s anchored by a public-private investment\nmodel, backed by Aladdin technology, and united by a shared culture of\nperformance and client service. I believe the scale of the opportunity ahead for\nBlackRock, our clients and shareholders far exceeds what we\u2019ve ever seen before.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.4621212121212121,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0021367521367521365,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.003838771593090211,
+  "mean_tone": 0.1642318667719737
+ },
+ "lexicon": {
+  "words": 521,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 15.4,
+   "Uncertainty": 3.8,
+   "Litigious": 0.0,
+   "Strong modal": 1.9,
+   "Weak modal": 0.0,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 8,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Third Quarter 2025 Diluted EPS of $8.43, or $11.55 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, October 14, 2025 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three and nine months ended.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "September 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$205 billion of quarterly total net inflows led by a record quarter for iShares\u00ae ETFs, alongside private markets and cash net inflows 10% annualized organic base fee growth in the quarter reflects broadbased strength across iShares ETFs, systematic active equities, private markets, outsourcing and cash 25% increase in revenue year-over-year reflects the positive impact of markets, 8% organic base fee growth over the last twelve months, fees related to the GIP and HPS Transactions, and higher technology services and subscription revenue 3% decrease in year-over-year GAAP operating income and 23% decrease in GAAP diluted EPS impacted by noncash acquisition-related expenses, which have been excluded from as-adjusted results 23% increase in year-over-year as adjusted operating income 1% increase in year-over-year as adjusted diluted EPS also reflects lower nonoperating income and a higher diluted share count, partially offset by a lower effective tax rate in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.135,
+   "h": 0.0,
+   "hits": [
+    [
+     208,
+     216,
+     [
+      "positive"
+     ]
+    ],
+    [
+     356,
+     364,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "$375 million worth of share repurchases in the current quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Closed acquisition of HPS Investment Partners (\"HPS\") on July 1st, adding $165 billion of client AUM and $118 billion of fee-paying AUM",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Fink, Chairman and CEO: \u201cBlackRock delivered one of our strongest quarterly flows results, with net inflows of.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     65,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "$205 billion, powering 10% organic base fee growth in the third quarter and 8% over the last twelve months.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "That growth is even more notable in its diversification.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Top organic base fee growth contributors included our systematic franchise, private markets, digital assets, outsourcing, cash and iShares ETFs, which saw record demand.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "BlackRock\u2019s multiple sources of growth differentiate us and are resonating through accelerating client activity across our platform.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "We believe our results are a powerful validation of our hyper-local client engagement model and forwardlooking investments. \u201cBlackRock is always preparing for the future, investing ahead of client needs and in support of deepening capital markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.027,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     138,
+     144,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Technology and data analytics, ETFs, private markets, and digital assets are just a few examples where we invested and built leading positions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     125,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "We\u2019ve brought together the strengths of GIP, HPS, and Preqin, and together we\u2019re already driving landmark fundraising and deal flow, accelerating client engagement, and double-digit organic revenue growth over the last year. \u201cClients around the world are coming to BlackRock for deeper, more dynamic partnerships across public and private asset classes.",
+   "d": 1,
+   "m": false,
+   "tone": 0.185,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "AUM reached a new high of.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "$13.5 trillion, and our iShares and cash franchises surpassed new AUM milestones of $5 trillion and $1 trillion, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "\u201cWe\u2019re executing on some of the largest and most multifaceted mandates in our history, as clients choose BlackRock for portfolio management and technology across the full range of capital markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     70,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "\u201cWe\u2019re entering our seasonally strongest fourth quarter with building momentum and a fully unified platform.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "One that\u2019s anchored by a public-private investment model, backed by Aladdin technology, and united by a shared culture of performance and client service.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "I believe the scale of the opportunity ahead for.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     2,
+     9,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     38,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "BlackRock, our clients and shareholders far exceeds what we\u2019ve ever seen before.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
