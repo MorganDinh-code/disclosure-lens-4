@@ -1,0 +1,424 @@
+{
+ "company": "Iron Mountain",
+ "ticker": "IRM",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-12",
+ "source_url": "https://investors.ironmountain.com/news/news-details/2026/Iron-Mountain-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "Delivers record quarterly and full year results across all key performance metrics\nAchieves quarterly and full year revenue of $1.8 billion and $6.9 billion, reflecting year over year growth of 16.6% and 12.2%, respectively\nOrganic revenue growth of 14% year over year in the fourth quarter and 10% for the full year\nGrowth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 40% year over year in the fourth quarter and more than 30% for the full year\nQ4 2025 and Full Year 2025 Net Income of $93 million and $152 million, respectively\nDelivers quarterly and full year Adjusted EBITDA of $705 million and $2.6 billion, respectively\nGenerates quarterly and full year AFFO of $430 million, or $1.44 per share and $1.5 billion, or $5.17 per share, respectively\nIssues strong 2026 guidance with Revenue growth of 10% to 13% and Adjusted EBITDA growth of 12% to 14%, respectively\nPORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the fourth quarter and full year 2025.\n\n\u201cWe are pleased to report another record performance in the fourth quarter above our expectations, concluding our fifth consecutive year of all-time highs for Revenue, Adjusted EBITDA, and AFFO. Our team\u2019s steadfast commitment to delivering innovative solutions for our customers as part of our growth strategy continues to drive exceptional performance across each of our business segments,\u201d said William L. Meaney, President and CEO of Iron Mountain. \u201cOur outlook for continued double digit revenue and profit growth in 2026 remains equally promising, as our growth businesses represent an increasingly larger portion of our revenue and our highly recurring physical records storage business sustains its solid growth trajectory. With strong data center leasing in the fourth quarter, we enter 2026 with momentum underwritten by the 400 megawatts of capacity being energized over the next 24 months. Across all our business areas we are off to a strong start to the year and expect to deliver another year of record performance.\u201d\n\n\nTotal reported revenues for the fourth quarter were $1.8 billion, compared with $1.6 billion in the fourth quarter of 2024, an increase of 16.6%. Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 14.9% compared to the prior year, driven by an 11.1% increase in storage rental revenue and a 20.7% increase in service revenue. For the full year, total reported revenues increased 12.2%, or 11.9% excluding the impact of Fx.\nNet Income (Loss) for the fourth quarter was $93.1 million, compared with $105.7 million in the fourth quarter of 2024. For the full year, Net Income was $152.3 million, compared with $183.7 million in 2024.\nAdjusted EBITDA for the fourth quarter was $705.3 million, compared with $605.1 million in the fourth quarter of 2024, an increase of 16.6%. On a constant currency basis, Adjusted EBITDA increased by 15.1% in the fourth quarter, compared to the fourth quarter of 2024, driven by increased revenue and Adjusted EBITDA in our Global RIM, Data Center and ALM businesses and improved operating leverage coming from our continued improvement activities. For the full year, Adjusted EBITDA increased 15.1%, or 14.8% excluding the impact of Fx.\nFFO (Normalized) per share was $1.01 for the fourth quarter, compared with $0.85 in the fourth quarter of 2024, an increase of 18.8%. For the full year, FFO (Normalized) per share was $3.63, compared with $3.15 in 2024, or an increase of 15.2%.\nAFFO was $429.7 million for the fourth quarter, compared with $368.0 million in the fourth quarter of 2024, an increase of 16.8% driven by improved Adjusted EBITDA. For the full year, AFFO was $1.54 billion compared with $1.34 billion, or an increase of 14.6%.\nAFFO per share was $1.44 for the fourth quarter, compared with $1.24 in the fourth quarter of 2024, an increase of 16.1%. For the full year, AFFO per share was $5.17, compared to $4.54 in 2024, or an increase of 13.9%.\nDividend\n\nOn February 12, 2026, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the first quarter. The first quarter 2026 dividend is payable on April 3, 2026, to shareholders of record at the close of business on March 16, 2026.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 31,
+  "n_material_neg": 1,
+  "n_positive": 15,
+  "mean_pos_negative": 0.5806451612903226,
+  "mean_pos_positive": 0.4236559139784946,
+  "placement_asymmetry": 0.156989247311828,
+  "distance_from_headline": 8,
+  "first_negative_pos": 0.5806451612903226,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.000966183574879227,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4117647058823529,
+  "overall_hedge": 0.0015822784810126582,
+  "mean_tone": 0.10607141874982812
+ },
+ "lexicon": {
+  "words": 632,
+  "per_1000": {
+   "Negative": 1.6,
+   "Positive": 15.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.6
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 10,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Delivers record quarterly and full year results across all key performance metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Achieves quarterly and full year revenue of $1.8 billion and $6.9 billion, reflecting year over year growth of 16.6% and 12.2%, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Organic revenue growth of 14% year over year in the fourth quarter and 10% for the full year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Growth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 40% year over year in the fourth quarter and more than 30% for the full year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Q4 2025 and Full Year 2025 Net Income of $93 million and $152 million, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Delivers quarterly and full year Adjusted EBITDA of $705 million and $2.6 billion, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Generates quarterly and full year AFFO of $430 million, or $1.44 per share and $1.5 billion, or $5.17 per share, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Issues strong 2026 guidance with Revenue growth of 10% to 13% and Adjusted EBITDA growth of 12% to 14%, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "PORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the fourth quarter and full year 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\u201cWe are pleased to report another record performance in the fourth quarter above our expectations, concluding our fifth consecutive year of all-time highs for Revenue, Adjusted EBITDA, and AFFO.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Our team\u2019s steadfast commitment to delivering innovative solutions for our customers as part of our growth strategy continues to drive exceptional performance across each of our business segments,\u201d said William L.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     31,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     46,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     135,
+     146,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Meaney, President and CEO of Iron Mountain. \u201cOur outlook for continued double digit revenue and profit growth in 2026 remains equally promising, as our growth businesses represent an increasingly larger portion of our revenue and our highly recurring physical records storage business sustains its solid growth trajectory.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "With strong data center leasing in the fourth quarter, we enter 2026 with momentum underwritten by the 400 megawatts of capacity being energized over the next 24 months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Across all our business areas we are off to a strong start to the year and expect to deliver another year of record performance.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0417,
+   "hits": [
+    [
+     46,
+     52,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Total reported revenues for the fourth quarter were $1.8 billion, compared with $1.6 billion in the fourth quarter of 2024, an increase of 16.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 14.9% compared to the prior year, driven by an 11.1% increase in storage rental revenue and a 20.7% increase in service revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "For the full year, total reported revenues increased 12.2%, or 11.9% excluding the impact of Fx.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Net Income (Loss) for the fourth quarter was $93.1 million, compared with $105.7 million in the fourth quarter of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     16,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "For the full year, Net Income was $152.3 million, compared with $183.7 million in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Adjusted EBITDA for the fourth quarter was $705.3 million, compared with $605.1 million in the fourth quarter of 2024, an increase of 16.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "On a constant currency basis, Adjusted EBITDA increased by 15.1% in the fourth quarter, compared to the fourth quarter of 2024, driven by increased revenue and Adjusted EBITDA in our Global RIM, Data Center and ALM businesses and improved operating leverage coming from our continued improvement activities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.444,
+   "h": 0.0,
+   "hits": [
+    [
+     230,
+     238,
+     [
+      "positive"
+     ]
+    ],
+    [
+     284,
+     295,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "For the full year, Adjusted EBITDA increased 15.1%, or 14.8% excluding the impact of Fx.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "FFO (Normalized) per share was $1.01 for the fourth quarter, compared with $0.85 in the fourth quarter of 2024, an increase of 18.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "For the full year, FFO (Normalized) per share was $3.63, compared with $3.15 in 2024, or an increase of 15.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "AFFO was $429.7 million for the fourth quarter, compared with $368.0 million in the fourth quarter of 2024, an increase of 16.8% driven by improved Adjusted EBITDA.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     147,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "For the full year, AFFO was $1.54 billion compared with $1.34 billion, or an increase of 14.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "AFFO per share was $1.44 for the fourth quarter, compared with $1.24 in the fourth quarter of 2024, an increase of 16.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "For the full year, AFFO per share was $5.17, compared to $4.54 in 2024, or an increase of 13.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "On February 12, 2026, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The first quarter 2026 dividend is payable on April 3, 2026, to shareholders of record at the close of business on March 16, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
