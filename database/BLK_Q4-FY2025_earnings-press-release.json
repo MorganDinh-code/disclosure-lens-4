@@ -1,0 +1,329 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-01-15",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2025/Q4/BLK-4Q25-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports Full Year 2025 Diluted EPS of $35.31, or $48.09 as adjusted\nFourth Quarter 2025 Diluted EPS of $7.16, or $13.16 as adjusted\nNew York, January 15, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months and year ended\nDecember 31, 2025.\n$14 trillion in AUM following record $698 billion of full year net inflows,\nincluding $342 billion in the fourth quarter\n12% annualized organic base fee growth in the fourth quarter reflects broadbased strength across iShares\u00ae ETFs, systematic active equities, private markets,\noutsourcing and cash\n19% increase in full year revenue reflects the positive impact of markets, 9%\norganic base fee growth over the last twelve months, fees related to the GIP and\nHPS Transactions, and higher technology services and subscription revenue\n7% decrease in full year GAAP operating income and 16% decrease in GAAP\ndiluted EPS related to noncash acquisition-related expenses and a noncash\ncharitable contribution, which have been excluded from as adjusted results\n18% increase in full year as adjusted operating income driven by higher revenue\n10% increase in full year as adjusted diluted EPS also reflects lower\nnonoperating income and a higher diluted share count\n$5 billion returned to shareholders in 2025, including $1.6 billion worth of share\nrepurchases\n10% increase in quarterly cash dividend to $5.73 per share approved by Board\nof Directors, payable March 24, 2026 to shareholders of record at the close of\nbusiness on March 6, 2026\n7 million additional shares authorized for repurchase under existing repurchase\nprogram by Board of Directors\n\nLaurence D. Fink, Chairman and CEO:\n\u201cBlackRock enters 2026 with accelerating momentum across our entire\nplatform, coming off the strongest year and quarter of net inflows in our\nhistory. Clients entrusted us with $698 billion of new assets in 2025,\npowering 9% organic base fee growth. And we ended the year with backto-back quarters of double-digit organic base fee growth, including 12%\nin the fourth quarter.\n\n\u201c2026 will be our first full year as a unified platform with GIP, HPS and\nPreqin. Around the world, clients are looking to do more across BlackRock.\nOur pipeline of business has broadened across products and regions,\nspanning public and private markets mandates, technology and data, and\nclient channels. We\u2019re seeing excellent fundraising activity as we work\ntoward our goal of $400 billion in private markets fundraising by 2030.\n\u201cBlackRock is at the forefront of some of the largest new growth channels\nacross the industry \u2013 from private markets to wealth and 401(k), to active\nETFs, to private markets data, to digital assets and tokenization. Our\nbelief in our increasing growth and margin trajectory led us to raise our\ndividend per share by 10% and our level of planned share repurchases.\n\u201cBlackRock is differentiated as a scale operator in public and private\nmarkets investing and technology, which is enhancing our positioning\nwith clients worldwide. We\u2019re a leader in public and private markets, and\nin technology and data. We\u2019re a foundational player in both traditional\nand decentralized financial markets. Importantly, we bring it all together\nto deliver BlackRock to our clients in a consistent, unified way. We\u2019ve\nalready begun 2026 with strong momentum, and we\u2019re positioned ahead\nof big future opportunities to deliver better outcomes for clients and\ngrowth for our shareholders.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.5397727272727273,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.10282457441548351
+ },
+ "lexicon": {
+  "words": 509,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 17.7,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports Full Year 2025 Diluted EPS of $35.31, or $48.09 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth Quarter 2025 Diluted EPS of $7.16, or $13.16 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "New York, January 15, 2026 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months and year ended.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "December 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "$14 trillion in AUM following record $698 billion of full year net inflows, including $342 billion in the fourth quarter 12% annualized organic base fee growth in the fourth quarter reflects broadbased strength across iShares\u00ae ETFs, systematic active equities, private markets, outsourcing and cash 19% increase in full year revenue reflects the positive impact of markets, 9% organic base fee growth over the last twelve months, fees related to the GIP and.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     202,
+     210,
+     [
+      "positive"
+     ]
+    ],
+    [
+     346,
+     354,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "HPS Transactions, and higher technology services and subscription revenue 7% decrease in full year GAAP operating income and 16% decrease in GAAP diluted EPS related to noncash acquisition-related expenses and a noncash charitable contribution, which have been excluded from as adjusted results 18% increase in full year as adjusted operating income driven by higher revenue 10% increase in full year as adjusted diluted EPS also reflects lower nonoperating income and a higher diluted share count.",
+   "d": 1,
+   "m": false,
+   "tone": 0.139,
+   "h": 0.0,
+   "hits": [
+    [
+     220,
+     230,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "$5 billion returned to shareholders in 2025, including $1.6 billion worth of share repurchases 10% increase in quarterly cash dividend to $5.73 per share approved by Board of Directors, payable March 24, 2026 to shareholders of record at the close of business on March 6, 2026 7 million additional shares authorized for repurchase under existing repurchase program by Board of Directors",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Fink, Chairman and CEO: \u201cBlackRock enters 2026 with accelerating momentum across our entire platform, coming off the strongest year and quarter of net inflows in our history.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     117,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Clients entrusted us with $698 billion of new assets in 2025, powering 9% organic base fee growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "And we ended the year with backto-back quarters of double-digit organic base fee growth, including 12% in the fourth quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\u201c2026 will be our first full year as a unified platform with GIP, HPS and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     10,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Preqin.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Around the world, clients are looking to do more across BlackRock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Our pipeline of business has broadened across products and regions, spanning public and private markets mandates, technology and data, and client channels.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     112,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We\u2019re seeing excellent fundraising activity as we work toward our goal of $400 billion in private markets fundraising by 2030. \u201cBlackRock is at the forefront of some of the largest new growth channels across the industry \u2013 from private markets to wealth and 401(k), to active.",
+   "d": 1,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     22,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "ETFs, to private markets data, to digital assets and tokenization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Our belief in our increasing growth and margin trajectory led us to raise our dividend per share by 10% and our level of planned share repurchases. \u201cBlackRock is differentiated as a scale operator in public and private markets investing and technology, which is enhancing our positioning with clients worldwide.",
+   "d": 1,
+   "m": false,
+   "tone": 0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     262,
+     271,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We\u2019re a leader in public and private markets, and in technology and data.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "We\u2019re a foundational player in both traditional and decentralized financial markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Importantly, we bring it all together to deliver BlackRock to our clients in a consistent, unified way.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "We\u2019ve already begun 2026 with strong momentum, and we\u2019re positioned ahead of big future opportunities to deliver better outcomes for clients and growth for our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     88,
+     101,
+     [
+      "positive"
+     ]
+    ],
+    [
+     113,
+     119,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
