@@ -1,0 +1,327 @@
+{
+ "company": "BlackRock, Inc.",
+ "ticker": "BLK",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-12",
+ "source_url": "https://s24.q4cdn.com/856567660/files/doc_financials/2024/Q1/BLK-1Q24-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "BlackRock Reports First Quarter 2024 Diluted EPS of $10.48, or $9.81 as adjusted\nNew York, April 12, 2024 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months ended March 31, 2024.\n$76 billion of quarterly long-term net inflows reflect\ncontinued strength of broad-based platform with positive\nflows across asset classes and client types\n$57 billion of quarterly total net inflows also reflect\nseasonal outflows from cash management\nRecord $10.5 trillion in AUM, up $1.4 trillion year-over-year,\ndriven by consistent organic growth and positive market movements\n11% increase in revenue year-over-year, primarily driven by the\npositive impact of markets on average AUM, organic base fee\ngrowth, and higher performance fees and technology services\nrevenue\n18% increase in operating income year-over-year (17% as\nadjusted)\n37% increase in diluted EPS year-over-year (24% as\nadjusted) also reflects higher nonoperating income and a\nlower effective tax rate in the current quarter\nIssued $3 billion of debt to fund a portion of the cash\nconsideration for the planned acquisition of Global\nInfrastructure Partners\n$375 million of share repurchases in the current quarter and 2%\nincrease in quarterly cash dividend to $5.10 per share\n\nLaurence D. Fink, Chairman and CEO:\n\u201cBlackRock\u2019s momentum continues to build, with accelerating client\nactivity and line of sight into the funding of significant wealth,\ninstitutional, and Aladdin mandates. Organic asset and base fee growth\naccelerated into the end of the quarter, and first quarter long-term net\ninflows of $76 billion already represent nearly 40% of full year 2023\nlevels.\n\n\u201cClients are turning to BlackRock to unlock the full potential of their\nportfolios, reflected in industry-leading total net inflows of $236 billion\nover the last twelve months. We continue to deliver sustained asset and\ntechnology services growth at scale, with a double-digit increase in\ntechnology services revenue, 180 basis points of margin expansion and\n24% growth in EPS year-over-year, as adjusted.\n\n\u201cBeing a growth company requires our continual innovation,\ninvestment, and client focus. BlackRock has stayed connected with our\nclients and invested in our platform over years, in anticipation of clients'\nevolving needs. Through this connectivity, we are having richer\nconversations with clients than ever before about their whole portfolio\nand in many cases deepening our relationships with them.\n\n\u201cWith markets full of complexity and opportunity, clients are\nincreasingly coming to BlackRock for insights and advice. We see\nsignificant growth potential in infrastructure, technology, retirement\nand whole portfolio solutions, with a strong pipeline that has some of\nthe best breadth that we\u2019ve ever seen. We will continue to stay in front\nof client needs to deliver long-term growth for our clients, shareholders\nand employees.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 19,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.6616541353383458,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0038328764341557515,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004694835680751174,
+  "mean_tone": 0.18953470461191832
+ },
+ "lexicon": {
+  "words": 426,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 21.1,
+   "Uncertainty": 4.7,
+   "Litigious": 0.0,
+   "Strong modal": 4.7,
+   "Weak modal": 2.3,
+   "Constraining": 4.7
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BlackRock Reports First Quarter 2024 Diluted EPS of $10.48, or $9.81 as adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "New York, April 12, 2024 \u2013 BlackRock, Inc. (NYSE: BLK) today reported financial results for the three months ended March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "$76 billion of quarterly long-term net inflows reflect continued strength of broad-based platform with positive flows across asset classes and client types.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "$57 billion of quarterly total net inflows also reflect seasonal outflows from cash management.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Record $10.5 trillion in AUM, up $1.4 trillion year-over-year, driven by consistent organic growth and positive market movements 11% increase in revenue year-over-year, primarily driven by the positive impact of markets on average AUM, organic base fee growth, and higher performance fees and technology services revenue 18% increase in operating income year-over-year (17% as adjusted) 37% increase in diluted EPS year-over-year (24% as adjusted) also reflects higher nonoperating income and a lower effective tax rate in the current quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     111,
+     [
+      "positive"
+     ]
+    ],
+    [
+     193,
+     201,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Issued $3 billion of debt to fund a portion of the cash consideration for the planned acquisition of Global.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Infrastructure Partners.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "$375 million of share repurchases in the current quarter and 2% increase in quarterly cash dividend to $5.10 per share",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Laurence D.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fink, Chairman and CEO: \u201cBlackRock\u2019s momentum continues to build, with accelerating client activity and line of sight into the funding of significant wealth, institutional, and Aladdin mandates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     185,
+     193,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Organic asset and base fee growth accelerated into the end of the quarter, and first quarter long-term net inflows of $76 billion already represent nearly 40% of full year 2023 levels.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     148,
+     154,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cClients are turning to BlackRock to unlock the full potential of their portfolios, reflected in industry-leading total net inflows of $236 billion over the last twelve months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We continue to deliver sustained asset and technology services growth at scale, with a double-digit increase in technology services revenue, 180 basis points of margin expansion and 24% growth in EPS year-over-year, as adjusted.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\u201cBeing a growth company requires our continual innovation, investment, and client focus.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     32,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     47,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "BlackRock has stayed connected with our clients and invested in our platform over years, in anticipation of clients' evolving needs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     92,
+     104,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Through this connectivity, we are having richer conversations with clients than ever before about their whole portfolio and in many cases deepening our relationships with them.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "\u201cWith markets full of complexity and opportunity, clients are increasingly coming to BlackRock for insights and advice.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We see significant growth potential in infrastructure, technology, retirement and whole portfolio solutions, with a strong pipeline that has some of the best breadth that we\u2019ve ever seen.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     122,
+     [
+      "positive"
+     ]
+    ],
+    [
+     153,
+     157,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We will continue to stay in front of client needs to deliver long-term growth for our clients, shareholders and employees.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
