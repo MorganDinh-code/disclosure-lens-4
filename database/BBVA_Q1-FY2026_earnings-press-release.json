@@ -1,0 +1,124 @@
+{
+ "company": "Banco Bilbao Vizcaya Argentaria",
+ "ticker": "BBVA",
+ "sector": "Financials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2024-04-30",
+ "source_url": "https://www.bbva.com/en/economy-and-finance/earnings-1q2026/",
+ "demo": false,
+ "source_text": "Earnings: BBVA Posts Nearly \u20ac3 Billion Profit in the First Quarter (up 11%) and Announces a New Tranche of Share Buybacks\n\nBBVA reported a profit of \u20ac2.99 billion in the first quarter of 2026, a 10.8% increase yoy (up 14.1% at constant exchange rates), supported by momentum in the banking business: customer loans grew 17% (at constant exchange rates), boosting net interest income by more than 20% yoy. This growth was accompanied by high levels of profitability and value creation for shareholders: ROTE stood at 21.7% and tangible book value per share plus dividends rose 18.1% yoy\u00b9. \n\nAll this with a solid capital position, with the CET1 ratio reaching 12.83% at the end of March. On May 6, BBVA will begin the final tranche of the extraordinary share buyback program, with a maximum amount of \u20ac1.46 billion.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 5,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.4,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.009386973180076629,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.008064516129032258,
+  "mean_tone": 0.07407407407407407
+ },
+ "lexicon": {
+  "words": 124,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 8.1,
+   "Uncertainty": 16.1,
+   "Litigious": 0.0,
+   "Strong modal": 8.1,
+   "Weak modal": 16.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 1,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Earnings: BBVA Posts Nearly \u20ac3 Billion Profit in the First Quarter (up 11%) and Announces a New Tranche of Share Buybacks",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "BBVA reported a profit of \u20ac2.99 billion in the first quarter of 2026, a 10.8% increase yoy (up 14.1% at constant exchange rates), supported by momentum in the banking business: customer loans grew 17% (at constant exchange rates), boosting net interest income by more than 20% yoy.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "This growth was accompanied by high levels of profitability and value creation for shareholders: ROTE stood at 21.7% and tangible book value per share plus dividends rose 18.1% yoy\u00b9.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "All this with a solid capital position, with the CET1 ratio reaching 12.83% at the end of March.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "On May 6, BBVA will begin the final tranche of the extraordinary share buyback program, with a maximum amount of \u20ac1.46 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     6,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     15,
+     19,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
