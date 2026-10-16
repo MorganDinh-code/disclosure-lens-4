@@ -1,0 +1,357 @@
+{
+ "company": "ESS Tech, Inc.",
+ "ticker": "GWH",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-13",
+ "source_url": "https://investors.essinc.com/news/news-details/2024/ESS-Tech-Inc.-Announces-Third-Quarter-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "Installed and Commissioned Second Energy Center\n\nWILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its third quarter ended September 30, 2024.\n\n\u201cThe core investment thesis for ESS remains as strong as ever \u2013 we have a massive and important emerging market opportunity in front of us, a top tier, forward-thinking customer base, and a differentiated, IP-protected, scalable technology tailor made to serve them. We continue to make strong progress on our key operational initiatives, but have faced challenges that have delayed our revenue ramp. Our Australian partner has had great success signing contracts with major utilities and securing funding to build a factory to help meet the high demand for long-duration energy storage in Queensland. However, delays in completion of this funding affected our ability to ship and recognize revenue in Q3 for units that were already built. We are receiving payments and are shipping units now so we are optimistic we will get this over the finish line in the fourth quarter and that, coupled with EC product shipments, should lead to $9 to $11 million in revenue for the year, leading to meaningful year-on-year growth,\u201d said Eric Dresselhuys, CEO of ESS. \u201cOn the operational side, our first Energy Center for Portland General Electric has been operating with high reliability and availability and we successfully built and are testing our second EC product on the same site. We\u2019ve been gleaning valuable insights from these units \u2013 from build to test to operation \u2013 to further improve our processes and design as we prepare for the ramp of our EC products. Optimized for larger scale deployments to meet the needs of the broader utility industry, our EC products can provide double the capacity of our Energy Warehouses with the same footprint. We continue to aggressively execute on our cost reduction activities as we scale our operations, efficiently manage our resources and drive to profitability.\u201d\n\nRecent Business Highlights\n\nOn November 1, ESS executed the credit agreement with the Export-Import Bank of the United States, or EXIM, for the first $20 million tranche of the $50 million funding package previously announced, becoming the first energy storage manufacturer to be supported by the Make More in America Initiative of EXIM. This funding is long-term, low interest, and non-dilutive capital to finance expanding manufacturing capacity. For further details, see the Company\u2019s Current Report on Form 8-K filed with the Securities and Exchange Commission (\u201cSEC\u201d) on November 5, 2024.\nWe have built and installed the second Energy Center for Portland General Electric and are now in testing. Final hand-off to PGE is expected in Q4. We've started building and expect to start shipping our first commercial EC products in the fourth quarter of 2024.\nOn August 23, 2024, ESS executed a 1-for-15 reverse split, following a listing notice from the NYSE received in March, bringing the Company back into compliance with the listing requirements and enabling continued operations as a publicly-listed company.\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 0,
+  "n_positive": 2,
+  "mean_pos_positive": 0.4722222222222222,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.001953125,
+  "mean_tone": 0.1491613850218563
+ },
+ "lexicon": {
+  "words": 512,
+  "per_1000": {
+   "Negative": 5.9,
+   "Positive": 27.3,
+   "Uncertainty": 0.0,
+   "Litigious": 2.0,
+   "Strong modal": 2.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 14,
+   "Uncertainty": 0,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Installed and Commissioned Second Energy Center",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "WILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems (LDES) for commercial and utility-scale applications, today announced financial results for its third quarter ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\u201cThe core investment thesis for ESS remains as strong as ever \u2013 we have a massive and important emerging market opportunity in front of us, a top tier, forward-thinking customer base, and a differentiated, IP-protected, scalable technology tailor made to serve them.",
+   "d": 0,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     53,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "We continue to make strong progress on our key operational initiatives, but have faced challenges that have delayed our revenue ramp.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     27,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     87,
+     97,
+     [
+      "negative"
+     ]
+    ],
+    [
+     108,
+     115,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Our Australian partner has had great success signing contracts with major utilities and securing funding to build a factory to help meet the high demand for long-duration energy storage in Queensland.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     44,
+     [
+      "positive"
+     ]
+    ],
+    [
+     53,
+     62,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "However, delays in completion of this funding affected our ability to ship and recognize revenue in Q3 for units that were already built.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     15,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "We are receiving payments and are shipping units now so we are optimistic we will get this over the finish line in the fourth quarter and that, coupled with EC product shipments, should lead to $9 to $11 million in revenue for the year, leading to meaningful year-on-year growth,\u201d said Eric Dresselhuys, CEO of ESS. \u201cOn the operational side, our first Energy Center for Portland General Electric has been operating with high reliability and availability and we successfully built and are testing our second EC product on the same site.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     81,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     237,
+     244,
+     [
+      "positive"
+     ]
+    ],
+    [
+     461,
+     473,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We\u2019ve been gleaning valuable insights from these units \u2013 from build to test to operation \u2013 to further improve our processes and design as we prepare for the ramp of our EC products.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     28,
+     [
+      "positive"
+     ]
+    ],
+    [
+     102,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Optimized for larger scale deployments to meet the needs of the broader utility industry, our EC products can provide double the capacity of our Energy Warehouses with the same footprint.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "We continue to aggressively execute on our cost reduction activities as we scale our operations, efficiently manage our resources and drive to profitability.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     108,
+     [
+      "positive"
+     ]
+    ],
+    [
+     143,
+     156,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Recent Business Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "On November 1, ESS executed the credit agreement with the Export-Import Bank of the United States, or EXIM, for the first $20 million tranche of the $50 million funding package previously announced, becoming the first energy storage manufacturer to be supported by the Make More in America Initiative of EXIM.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "This funding is long-term, low interest, and non-dilutive capital to finance expanding manufacturing capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "For further details, see the Company\u2019s Current Report on Form 8-K filed with the Securities and Exchange Commission (\u201cSEC\u201d) on November 5, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "We have built and installed the second Energy Center for Portland General Electric and are now in testing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Final hand-off to PGE is expected in Q4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "We've started building and expect to start shipping our first commercial EC products in the fourth quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "On August 23, 2024, ESS executed a 1-for-15 reverse split, following a listing notice from the NYSE received in March, bringing the Company back into compliance with the listing requirements and enabling continued operations as a publicly-listed company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     178,
+     190,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     195,
+     203,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
