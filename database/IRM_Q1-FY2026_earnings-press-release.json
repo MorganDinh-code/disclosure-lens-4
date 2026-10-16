@@ -1,0 +1,410 @@
+{
+ "company": "Iron Mountain",
+ "ticker": "IRM",
+ "sector": "Real Estate",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-30",
+ "source_url": "https://investors.ironmountain.com/news/news-details/2026/Iron-Mountain-Reports-Second-Quarter-2026-Results/default.aspx",
+ "demo": false,
+ "source_text": "Delivers record quarterly results across all key performance metrics\nAchieves quarterly revenue of $1.9 billion, an increase of 21.6% on a reported basis and an increase of 18.6% excluding the effects of foreign exchange\nOrganic revenue growth of 17.2% year over year in the first quarter\nGrowth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 50% year over year in the first quarter\nQ1 2026 Net Income of $149 million, as compared to $16 million in Q1 2025\nDelivers quarterly Adjusted EBITDA of $708 million, an increase of 22.1% compared to $580 million in Q1 2025\nGenerates quarterly AFFO of $426 million, or $1.43 per share, an increase of 22% compared to last year\nIncreases 2026 financial guidance driven by strong operational performance across the business\nPORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the first quarter of 2026.\n\n\"We are pleased to report another quarter of exceptional results, with record performance that exceeded our expectations and showed strength across all key metrics. Our business is experiencing significant momentum, driven by outstanding performance in our growth businesses of data center, ALM, and digital and continued solid growth in our highly recurring physical records storage business. Our team's strong execution of our growth plans and commitment to delivering value to our customers through innovative solutions remain the foundation of our ongoing success,\" stated William L. Meaney, President and CEO of Iron Mountain. \"Looking ahead, we are accelerating our cross-selling efforts in ALM and Digital and we are off to a strong start to the year in data center leasing, where we have already leased 32 megawatts through April. Additionally, our pipeline momentum continues to build against the 400 megawatts of data center capacity energizing and available over the next 24 months, supporting our outlook for continued strong growth. With the trajectory we are on, together with our first quarter outperformance, we are pleased to raise our full-year financial guidance.\u201d\n\nTotal reported revenues for the first quarter were $1.9 billion, compared with $1.6 billion in the first quarter of 2025, an increase of 21.6%. Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 18.6% compared to the prior year, driven by an 12.6% increase in storage rental revenue and a 27.6% increase in service revenue.\nNet Income for the first quarter was $149.0 million, compared with $16.2 million in the first quarter of 2025, primarily driven by increased Operating Income.\nAdjusted EBITDA for the first quarter was $707.9 million, compared with $579.9 million in the first quarter of 2025, an increase of 22.1%. On a constant currency basis, Adjusted EBITDA increased by 19.5% in the first quarter, compared to the first quarter of 2025, driven by increased revenue and Adjusted EBITDA across each of our segments and improved operating leverage coming from our continued improvement activities.\nFFO (Normalized) per share was $0.99 for the first quarter, compared with $0.77 in the first quarter of 2025.\nAFFO was $426.1 million for the first quarter, compared with $348.4 million in the first quarter of 2025, an increase of 22.3% driven by improved Adjusted EBITDA.\nAFFO per share was $1.43 for the first quarter, compared with $1.17 in the first quarter of 2025.\nDividend\n\nOn April 30, 2026, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the second quarter. The second quarter 2026 dividend is payable on July 3, 2026 to shareholders of record at the close of business on June 15, 2026.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 0,
+  "n_positive": 13,
+  "mean_pos_positive": 0.47293447293447294,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.18587211417422328
+ },
+ "lexicon": {
+  "words": 547,
+  "per_1000": {
+   "Negative": 1.8,
+   "Positive": 25.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.8
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 14,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Delivers record quarterly results across all key performance metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Achieves quarterly revenue of $1.9 billion, an increase of 21.6% on a reported basis and an increase of 18.6% excluding the effects of foreign exchange.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Organic revenue growth of 17.2% year over year in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Growth businesses of data center, digital, and asset lifecycle management (ALM) collectively grew more than 50% year over year in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Q1 2026 Net Income of $149 million, as compared to $16 million in Q1 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Delivers quarterly Adjusted EBITDA of $708 million, an increase of 22.1% compared to $580 million in Q1 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Generates quarterly AFFO of $426 million, or $1.43 per share, an increase of 22% compared to last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Increases 2026 financial guidance driven by strong operational performance across the business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "PORTSMOUTH, N.H.--(BUSINESS WIRE)-- Iron Mountain Incorporated (NYSE: IRM), a global leader in information management services, announces financial results for the first quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\"We are pleased to report another quarter of exceptional results, with record performance that exceeded our expectations and showed strength across all key metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     45,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     132,
+     140,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Our business is experiencing significant momentum, driven by outstanding performance in our growth businesses of data center, ALM, and digital and continued solid growth in our highly recurring physical records storage business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Our team's strong execution of our growth plans and commitment to delivering value to our customers through innovative solutions remain the foundation of our ongoing success,\" stated William L.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     62,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     108,
+     118,
+     [
+      "positive"
+     ]
+    ],
+    [
+     166,
+     173,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Meaney, President and CEO of Iron Mountain.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "\"Looking ahead, we are accelerating our cross-selling efforts in ALM and Digital and we are off to a strong start to the year in data center leasing, where we have already leased 32 megawatts through April.",
+   "d": 0,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     101,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Additionally, our pipeline momentum continues to build against the 400 megawatts of data center capacity energizing and available over the next 24 months, supporting our outlook for continued strong growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "negative"
+     ]
+    ],
+    [
+     192,
+     198,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "With the trajectory we are on, together with our first quarter outperformance, we are pleased to raise our full-year financial guidance.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     93,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Total reported revenues for the first quarter were $1.9 billion, compared with $1.6 billion in the first quarter of 2025, an increase of 21.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Excluding the impact of foreign currency exchange (\"Fx\"), total reported revenues increased 18.6% compared to the prior year, driven by an 12.6% increase in storage rental revenue and a 27.6% increase in service revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Net Income for the first quarter was $149.0 million, compared with $16.2 million in the first quarter of 2025, primarily driven by increased Operating Income.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Adjusted EBITDA for the first quarter was $707.9 million, compared with $579.9 million in the first quarter of 2025, an increase of 22.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "On a constant currency basis, Adjusted EBITDA increased by 19.5% in the first quarter, compared to the first quarter of 2025, driven by increased revenue and Adjusted EBITDA across each of our segments and improved operating leverage coming from our continued improvement activities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     206,
+     214,
+     [
+      "positive"
+     ]
+    ],
+    [
+     260,
+     271,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "FFO (Normalized) per share was $0.99 for the first quarter, compared with $0.77 in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "AFFO was $426.1 million for the first quarter, compared with $348.4 million in the first quarter of 2025, an increase of 22.3% driven by improved Adjusted EBITDA.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     145,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "AFFO per share was $1.43 for the first quarter, compared with $1.17 in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "On April 30, 2026, Iron Mountain's Board of Directors declared a quarterly cash dividend of $0.864 per share of common stock for the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The second quarter 2026 dividend is payable on July 3, 2026 to shareholders of record at the close of business on June 15, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
