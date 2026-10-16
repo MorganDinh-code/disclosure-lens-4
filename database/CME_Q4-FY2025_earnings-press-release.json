@@ -7,42 +7,316 @@
  "date": "2026-02-04",
  "source_url": "https://investor.cmegroup.com/static-files/ac5c7e05-582e-4e53-be77-6b173a1bf745",
  "demo": false,
- "source_text": "CHICAGO, February 4, 2026 - CME Group Inc. (NASDAQ: CME) today reported\nfinancial results for the fourth quarter and full year of 2025.\nThe company reported revenue of $1.6 billion and operating income of $1.0 billion for\nthe fourth quarter of 2025. Net income was $1.2 billion and diluted earnings per common share\nwere $3.24. On an adjusted basis, net income was $1.0 billion and diluted earnings per\ncommon share were $2.77. Financial results presented on an adjusted basis for the fourth\nquarter of 2025 and 2024 exclude certain items, which are detailed in the reconciliation of nonGAAP results.1\nTotal revenue for full-year 2025 was $6.5 billion and operating income was $4.2 billion.\nNet income was $4.1 billion and diluted earnings per common share were $11.16. On an\nadjusted basis, net income was $4.1 billion, and diluted earnings per common share were\n$11.20.\n\"Last year, CME Group delivered the best year in our history and our fourth consecutive\nyear of record revenue, adjusted operating income, adjusted net income and adjusted earnings\nper share,\" said Terry Duffy, CME Group Chairman and Chief Executive Officer. \"In a riskalways-on environment, client demand for our products and services generated record average\ndaily volume of 28.1 million contracts, including 12% growth in commodities trading and a 5% increase in financials. In Q4, we achieved the second-highest quarterly revenue in our history as\nwell as the highest Q4 volume on record. Looking ahead, we're focused on further increasing\nthe $80 billion in average daily margin efficiencies we provided our market users in Q4, as well\nas expanding access through initiatives such as U.S. Treasury clearing, 24/7 cryptocurrency\ntrading and prediction markets.\"\nFourth-quarter 2025 average daily volume (ADV) was the all-time highest fourth quarter\nwith 27.4 million contracts, up 7% from fourth-quarter 2024. Non-U.S. ADV reached 8.3 million\ncontracts, up 9% compared with the same period in 2024, including Asia up 18% and EMEA up\n6%.\nClearing and transaction fees revenue for fourth-quarter 2025 totaled $1.3 billion. The\ntotal average rate per contract was $0.707. Market data revenue totaled $208 million for fourthquarter 2025.\nAs of December 31, 2025, the company had approximately $4.6 billion in cash (including\n$200 million deposited with Fixed Income Clearing Corporation (FICC) and included in other\ncurrent assets) and $3.4 billion of debt. The company paid dividends of approximately $3.9\nbillion in 2025. The company has returned nearly $30 billion to shareholders in the form of\ndividends since the implementation of the variable dividend policy in early 2012.\n\nCME Group will hold a Q&A conference call to discuss fourth-quarter 2025 results\nat 8:30 a.m. Eastern Time today. A live audio webcast of the Q&A call will be available on\nthe Investor Relations section of CME Group\u2019s website at investor.cmegrou",
+ "source_text": "CHICAGO, February 4, 2026 - CME Group Inc. (NASDAQ: CME) today reported\nfinancial results for the fourth quarter and full year of 2025.\n\nThe company reported revenue of $1.6 billion and operating income of $1.0 billion for\nthe fourth quarter of 2025. Net income was $1.2 billion and diluted earnings per common share\nwere $3.24. On an adjusted basis, net income was $1.0 billion and diluted earnings per\ncommon share were $2.77. Financial results presented on an adjusted basis for the fourth\nquarter of 2025 and 2024 exclude certain items, which are detailed in the reconciliation of nonGAAP results.1\nTotal revenue for full-year 2025 was $6.5 billion and operating income was $4.2 billion.\n\nNet income was $4.1 billion and diluted earnings per common share were $11.16. On an\nadjusted basis, net income was $4.1 billion, and diluted earnings per common share were\n$11.20.\n\"Last year, CME Group delivered the best year in our history and our fourth consecutive\nyear of record revenue, adjusted operating income, adjusted net income and adjusted earnings\nper share,\" said Terry Duffy, CME Group Chairman and Chief Executive Officer. \"In a riskalways-on environment, client demand for our products and services generated record average\ndaily volume of 28.1 million contracts, including 12% growth in commodities trading and a 5% increase in financials. In Q4, we achieved the second-highest quarterly revenue in our history as\nwell as the highest Q4 volume on record. Looking ahead, we're focused on further increasing\nthe $80 billion in average daily margin efficiencies we provided our market users in Q4, as well\nas expanding access through initiatives such as U.S. Treasury clearing, 24/7 cryptocurrency\ntrading and prediction markets.\"\nFourth-quarter 2025 average daily volume (ADV) was the all-time highest fourth quarter\nwith 27.4 million contracts, up 7% from fourth-quarter 2024. Non-U.S. ADV reached 8.3 million\ncontracts, up 9% compared with the same period in 2024, including Asia up 18% and EMEA up\n6%.\nClearing and transaction fees revenue for fourth-quarter 2025 totaled $1.3 billion. The\ntotal average rate per contract was $0.707. Market data revenue totaled $208 million for fourthquarter 2025.\nAs of December 31, 2025, the company had approximately $4.6 billion in cash (including\n$200 million deposited with Fixed Income Clearing Corporation (FICC) and included in other\ncurrent assets) and $3.4 billion of debt. The company paid dividends of approximately $3.9\nbillion in 2025. The company has returned nearly $30 billion to shareholders in the form of\ndividends since the implementation of the variable dividend policy in early 2012.\n\nCME Group will hold a Q&A conference call to discuss fourth-quarter 2025 results\nat 8:30 a.m. Eastern Time today. A live audio webcast of the Q&A call will be available on\nthe Investor Relations section of CME Group\u2019s website at investor.cmegrou",
  "boilerplate_paragraphs_removed": 1,
  "summary": {
-  "n_sentences": 3,
+  "n_sentences": 20,
   "n_material_neg": 0,
-  "n_positive": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.325,
   "hedge_near_negative": null,
-  "hedge_near_positive": null,
+  "hedge_near_positive": 0.005902777777777778,
   "hedging_asymmetry": null,
-  "overall_hedge": 0.0,
-  "mean_tone": 0.0
+  "overall_hedge": 0.014534883720930232,
+  "mean_tone": 0.10032051282051282
  },
  "lexicon": {
-  "words": 45,
+  "words": 344,
   "per_1000": {
    "Negative": 0.0,
-   "Positive": 0.0,
-   "Uncertainty": 0.0,
-   "Litigious": 0.0,
-   "Strong modal": 44.4,
-   "Weak modal": 0.0,
+   "Positive": 17.4,
+   "Uncertainty": 14.5,
+   "Litigious": 11.6,
+   "Strong modal": 17.4,
+   "Weak modal": 2.9,
    "Constraining": 0.0
   },
   "counts": {
    "Negative": 0,
-   "Positive": 0,
-   "Uncertainty": 0,
-   "Litigious": 0,
-   "Strong modal": 2,
-   "Weak modal": 0,
+   "Positive": 6,
+   "Uncertainty": 5,
+   "Litigious": 4,
+   "Strong modal": 6,
+   "Weak modal": 1,
    "Constraining": 0
   }
  },
  "sentences": [
   {
    "i": 1,
+   "t": "CHICAGO, February 4, 2026 - CME Group Inc. (NASDAQ: CME) today reported financial results for the fourth quarter and full year of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net income was $4.1 billion and diluted earnings per common share were $11.16.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "On an adjusted basis, net income was $4.1 billion, and diluted earnings per common share were.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$11.20.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Last year, CME Group delivered the best year in our history and our fourth consecutive year of record revenue, adjusted operating income, adjusted net income and adjusted earnings per share,\" said Terry Duffy, CME Group Chairman and Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     40,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\"In a riskalways-on environment, client demand for our products and services generated record average daily volume of 28.1 million contracts, including 12% growth in commodities trading and a 5% increase in financials.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     131,
+     140,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "In Q4, we achieved the second-highest quarterly revenue in our history as well as the highest Q4 volume on record.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     30,
+     37,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     86,
+     93,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Looking ahead, we're focused on further increasing the $80 billion in average daily margin efficiencies we provided our market users in Q4, as well as expanding access through initiatives such as U.S. Treasury clearing, 24/7 cryptocurrency trading and prediction markets.\".",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0256,
+   "hits": [
+    [
+     91,
+     103,
+     [
+      "positive"
+     ]
+    ],
+    [
+     252,
+     262,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Fourth-quarter 2025 average daily volume (ADV) was the all-time highest fourth quarter with 27.4 million contracts, up 7% from fourth-quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     71,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     105,
+     114,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Non-U.S. ADV reached 8.3 million contracts, up 9% compared with the same period in 2024, including Asia up 18% and EMEA up 6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     42,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Clearing and transaction fees revenue for fourth-quarter 2025 totaled $1.3 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The total average rate per contract was $0.707.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     35,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Market data revenue totaled $208 million for fourthquarter 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "As of December 31, 2025, the company had approximately $4.6 billion in cash (including.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "$200 million deposited with Fixed Income Clearing Corporation (FICC) and included in other current assets) and $3.4 billion of debt.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The company paid dividends of approximately $3.9 billion in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     30,
+     43,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "The company has returned nearly $30 billion to shareholders in the form of dividends since the implementation of the variable dividend policy in early 2012.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.087,
+   "hits": [
+    [
+     25,
+     31,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     117,
+     125,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
    "t": "CME Group will hold a Q&A conference call to discuss fourth-quarter 2025 results at 8:30 a.m.",
    "d": 0,
    "m": false,
@@ -59,7 +333,7 @@
    ]
   },
   {
-   "i": 2,
+   "i": 19,
    "t": "Eastern Time today.",
    "d": 0,
    "m": false,
@@ -68,7 +342,7 @@
    "hits": []
   },
   {
-   "i": 3,
+   "i": 20,
    "t": "A live audio webcast of the Q&A call will be available on the Investor Relations section of CME Group\u2019s website at investor.cmegrou",
    "d": 0,
    "m": false,
