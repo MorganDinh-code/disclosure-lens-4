@@ -1,0 +1,496 @@
+{
+ "company": "ESS Tech, Inc.",
+ "ticker": "GWH",
+ "sector": "Energy",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-07",
+ "source_url": "https://investors.essinc.com/news/news-details/2024/ESS-Tech-Inc.-Announces-First-Quarter-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "Q1 Revenue of $2.7 Million\n\nPartnered with Sapele Power to Supply LDES in Africa\n\nCompleted Testing of First Energy Center for Portland General Electric\n\nOrdered Second Power Module Automation Line with 40% Greater Production Capacity\n\nExited Q1 with Cash and Short-Term Investments over $89 million; Expected to Carry ESS Well Into H1\u201925\n\nWILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems for commercial and utility-scale applications, today announced financial results for its first quarter ended March 31, 2024.\n\n\u201cI\u2019m pleased with the team\u2019s execution in the first quarter, where we again made tremendous progress across a broad number of fronts and achieved $2.7 million in revenue, a seven-fold increase over last year. Not only has our customer-facing team demonstrated marked success in commissioning products across a number of varied operating environments, but our sales team continues to win new deals and expand our footprint into new geographic markets with customers like Sapele Power, a leading African energy generation company. Momentum is growing behind our Energy Center\u2122 (EC) product. We have completed all of our performance, safety and regulatory tests for our first EC and are operating the unit right now. We expect to start building and shipping our second unit early in Q3 and, given the significant energy density and cost per KWh advantages over our Energy Warehouse, we remain confident that our EC will be a key driver of long-term profitable expansion,\u201d said Eric Dresselhuys, CEO of ESS. \u201cGiven the success of our first power module automation line, which has enabled us to increase capacity and consistency with dramatically lowered input costs, we\u2019ve ordered our second power module automation line so that it becomes operational as we begin to ramp up shipments. With 40% more production capacity at half of the installed cost on a per MWh basis, our second line will greatly add to our momentum in lowering our production cost while enabling scale. With prudent cash management and efficient capacity expansion, our team continues to position the company for sustained growth and profitability as we scale the business and ramp up shipments later this year.\"\n\nRecent Business Highlights\n\nEC products received the highest level of IEEE 693 rating, a widely-accepted seismic rating for energy infrastructure, making ESS the first non-lithium, grid-scale LDES provider to receive such a rating.\nNamed as one of Fast Company\u2019s 2024 Most Innovative Companies in the energy category.\nNamed as a finalist for the Reuters 2024 Global Energy Transition Awards in \u201cThe Technologies of Change - Accelerating Decarbonization\u201d category, which recognizes revolutionary technology in the energy sector.\nIn addition to IEEE seismic certification, completed of all of the more than 90 tests to validate operations, safety and performance of our first Energy Center\u2122. ESS will start building our second EC in the beginning of Q3, which will be deployed next to the first EC, both for Portland General Electric. We expect to start building and shipping our first commercial ECs in the second half of 2024 for delivery to Tampa Electric and the Sacramento Municipal Utility District, or SMUD.\nOrdered a second power module automation line, with the capability of producing more than 600 MWh per year, 40% more than the first automation line, which translates into substantially lower capex dollars per MWh of production capacity investment. This second line is expected to be operational in the 1H of 2025.\n\nInstalled an Energy Warehouse\u2122 system at Burbank Water and Power, their first utility-scale battery storage project. This EW is paired with an on-site solar array where ESS technology will demonstrate the critical role of LDES in a fully renewable grid.\n\nCompleted commissioning of an Energy Warehouse\u2122 (EW) system at Schiphol Airport in Amsterdam, the second largest airport in mainland Europe, which will be used to help advance Schiphol Airport\u2019s sustainability strategy. The EW system will be used to recharge Electric Ground Power Units (E-GPU), which are intended to replace the diesel ground power units currently used to supply electrical power to aircraft when parked at the airport.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 26,
+  "n_material_neg": 1,
+  "n_positive": 3,
+  "mean_pos_negative": 0.4230769230769231,
+  "mean_pos_positive": 0.358974358974359,
+  "placement_asymmetry": 0.0641025641025641,
+  "distance_from_headline": 9,
+  "first_negative_pos": 0.4230769230769231,
+  "hedge_near_negative": 0.006711409395973154,
+  "hedge_near_positive": 0.0062724014336917565,
+  "hedging_asymmetry": 1.0699904122722914,
+  "framing_ratio": 1,
+  "mean_tone_gap_on_negatives": 1.526315789473684,
+  "overall_hedge": 0.004418262150220913,
+  "mean_tone": 0.17992698091382303
+ },
+ "lexicon": {
+  "words": 679,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 28.0,
+   "Uncertainty": 1.5,
+   "Litigious": 1.5,
+   "Strong modal": 11.8,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 19,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 8,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Q1 Revenue of $2.7 Million",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Partnered with Sapele Power to Supply LDES in Africa",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Completed Testing of First Energy Center for Portland General Electric",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Ordered Second Power Module Automation Line with 40% Greater Production Capacity",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Exited Q1 with Cash and Short-Term Investments over $89 million; Expected to Carry ESS Well Into H1\u201925",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "WILSONVILLE, Ore.--(BUSINESS WIRE)-- ESS Tech, Inc. (\u201cESS,\u201d \u201cESS, Inc.\u201d or the \u201cCompany\u201d) (NYSE: GWH), a leading manufacturer of long-duration energy storage systems for commercial and utility-scale applications, today announced financial results for its first quarter ended March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cI\u2019m pleased with the team\u2019s execution in the first quarter, where we again made tremendous progress across a broad number of fronts and achieved $2.7 million in revenue, a seven-fold increase over last year.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     100,
+     [
+      "positive"
+     ]
+    ],
+    [
+     137,
+     145,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Not only has our customer-facing team demonstrated marked success in commissioning products across a number of varied operating environments, but our sales team continues to win new deals and expand our footprint into new geographic markets with customers like Sapele Power, a leading African energy generation company.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0208,
+   "hits": [
+    [
+     58,
+     65,
+     [
+      "positive"
+     ]
+    ],
+    [
+     111,
+     117,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     174,
+     177,
+     [
+      "positive"
+     ]
+    ],
+    [
+     277,
+     284,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Momentum is growing behind our Energy Center\u2122 (EC) product.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "We have completed all of our performance, safety and regulatory tests for our first EC and are operating the unit right now.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     63,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "We expect to start building and shipping our second unit early in Q3 and, given the significant energy density and cost per KWh advantages over our Energy Warehouse, we remain confident that our EC will be a key driver of long-term profitable expansion,\u201d said Eric Dresselhuys, CEO of ESS. \u201cGiven the success of our first power module automation line, which has enabled us to increase capacity and consistency with dramatically lowered input costs, we\u2019ve ordered our second power module automation line so that it becomes operational as we begin to ramp up shipments.",
+   "d": -1,
+   "m": true,
+   "tone": 0.526,
+   "h": 0.0105,
+   "hits": [
+    [
+     128,
+     138,
+     [
+      "positive"
+     ]
+    ],
+    [
+     176,
+     185,
+     [
+      "positive"
+     ]
+    ],
+    [
+     198,
+     202,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     232,
+     242,
+     [
+      "positive"
+     ]
+    ],
+    [
+     301,
+     308,
+     [
+      "positive"
+     ]
+    ],
+    [
+     362,
+     369,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "With 40% more production capacity at half of the installed cost on a per MWh basis, our second line will greatly add to our momentum in lowering our production cost while enabling scale.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     104,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ],
+    [
+     171,
+     179,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "With prudent cash management and efficient capacity expansion, our team continues to position the company for sustained growth and profitability as we scale the business and ramp up shipments later this year.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     42,
+     [
+      "positive"
+     ]
+    ],
+    [
+     131,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Recent Business Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "EC products received the highest level of IEEE 693 rating, a widely-accepted seismic rating for energy infrastructure, making ESS the first non-lithium, grid-scale LDES provider to receive such a rating.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     32,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Named as one of Fast Company\u2019s 2024 Most Innovative Companies in the energy category.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Named as a finalist for the Reuters 2024 Global Energy Transition Awards in \u201cThe Technologies of Change - Accelerating Decarbonization\u201d category, which recognizes revolutionary technology in the energy sector.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "In addition to IEEE seismic certification, completed of all of the more than 90 tests to validate operations, safety and performance of our first Energy Center\u2122.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "ESS will start building our second EC in the beginning of Q3, which will be deployed next to the first EC, both for Portland General Electric.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     8,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     68,
+     72,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "We expect to start building and shipping our first commercial ECs in the second half of 2024 for delivery to Tampa Electric and the Sacramento Municipal Utility District, or SMUD.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Ordered a second power module automation line, with the capability of producing more than 600 MWh per year, 40% more than the first automation line, which translates into substantially lower capex dollars per MWh of production capacity investment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "This second line is expected to be operational in the 1H of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Installed an Energy Warehouse\u2122 system at Burbank Water and Power, their first utility-scale battery storage project.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "This EW is paired with an on-site solar array where ESS technology will demonstrate the critical role of LDES in a fully renewable grid.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     71,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Completed commissioning of an Energy Warehouse\u2122 (EW) system at Schiphol Airport in Amsterdam, the second largest airport in mainland Europe, which will be used to help advance Schiphol Airport\u2019s sustainability strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     147,
+     151,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The EW system will be used to recharge Electric Ground Power Units (E-GPU), which are intended to replace the diesel ground power units currently used to supply electrical power to aircraft when parked at the airport.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     18,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
