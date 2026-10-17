@@ -1,0 +1,411 @@
+{
+ "company": "Republic Services",
+ "ticker": "RSG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-29",
+ "source_url": "https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-second-quarter-2025-results",
+ "demo": false,
+ "source_text": "Reported Earnings Per Share of $1.75 and Adjusted Earnings Per Share of $1.77\nExpanded Net Income Margin 40 Basis Points and Adjusted EBITDA Margin 100 Basis Points\nGenerated Year-to-Date Cash Flow from Operations of $2.13 Billion and Adjusted Free Cash Flow of $1.42 Billion\nInvested Nearly $900 Million in Value-Creating Acquisitions During the First-Half of the Year\nUpdated Full-Year Financial Guidance\nIncreased Quarterly Dividend by Approximately 8 Percent\nPHOENIX, July 29, 2025 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $550 million, or $1.75 per diluted share, for the three months ended June 30, 2025, versus $512 million, or $1.62 per diluted share, for the comparable 2024 period. Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended June 30, 2025, was $556 million, or $1.77 per diluted share, versus $509 million, or $1.61 per diluted share, for the comparable 2024 period.\n\n\"We are pleased with our second quarter results which demonstrate the resilience of our business model and the benefit of the investments in our differentiated capabilities,\" said Jon Vander Ark, president and chief executive officer. \"We produced double-digit growth in EBITDA and 100 basis points of adjusted EBITDA margin expansion by continuing to price ahead of cost inflation and consistently executing our operational plan.\"\n\nSecond-Quarter and Year-to-Date 2025 Highlights:\n\nTotal revenue growth of 4.6 percent includes 3.1 percent organic growth and 1.5 percent growth from acquisitions.\nCore price on total revenue increased revenue by 5.7 percent. Core price on related business revenue increased revenue by 7.0 percent, which consisted of 8.6 percent in the open market and 4.6 percent in the restricted portion of the business.\nRevenue growth from average yield on total revenue was 4.1 percent, and volume increased revenue by 0.2 percent. Revenue growth from average yield on related business revenue was 5.0 percent, and volume increased related business revenue by 0.2 percent.\nNet income was $550 million, or a margin of 13.0 percent.\nEPS was $1.75 per share, an increase of 8.0 percent over the prior year.\nAdjusted EPS, a non-GAAP measure, was $1.77 per share, an increase of 9.9 percent over the prior year.\nAdjusted EBITDA, a non-GAAP measure, was $1.36 billion, and adjusted EBITDA margin, a non-GAAP measure, was 32.1 percent of revenue, an increase of 100 basis points over the prior year.\nYear-to-date cash flow from operations was $2.13 billion.\nYear-to-date adjusted free cash flow, a non-GAAP measure, was $1.42 billion.\nYear-to-date cash invested in acquisitions was $888 million.\nYear-to-date cash returned to shareholders was $407 million, which included $45 million of share repurchases and $362 million of dividends paid.\nThe Company's average recycled commodity price per ton sold at its recycling centers during the second quarter was $149. This represents a decrease of $24 per ton over the prior year.\nThe Company completed and commenced operations on four renewable natural gas projects during the quarter.\nUpdated Full-Year 2025 Financial Guidance\n\nRepublic's financial guidance is based on current economic conditions and does not assume any significant changes in the overall economy for the remainder of 2025. Please refer to the Reconciliation of Full-Year 2025 Financial Guidance section of this document for detail relating to the computation of non-GAAP measures as well as the Information Regarding Forward-Looking Statements section of this document.\n\nThe Company provided additional details as follows:\n\nRevenue: Now expected in the range of $16.675 billion to $16.750 billion\nAdjusted EBITDA: Reiterated original guidance in the range of $5.275 billion to $5.325 billion\nAdjusted Diluted Earnings per Share: Reiterated original guidance in the range of $6.82 to $6.90\nAdjusted Free Cash Flow: Increased original guidance to a range of $2.375 billion to $2.415 billion\nCompany Increases Quarterly Dividend\n\nRepublic continues to increase cash returns to shareholders, and previously announced that its Board of Directors approved a 4.5-cent increase in the quarterly dividend. The quarterly dividend of $0.625 per share for shareholders of record on October 2, 2025, will be paid on October 15, 2025.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 0,
+  "n_positive": 15,
+  "mean_pos_positive": 0.524074074074074,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0014814814814814816,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.003590664272890485,
+  "mean_tone": 0.007936507936507936
+ },
+ "lexicon": {
+  "words": 557,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 1.8,
+   "Uncertainty": 3.6,
+   "Litigious": 0.0,
+   "Strong modal": 1.8,
+   "Weak modal": 1.8,
+   "Constraining": 1.8
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 1,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Reported Earnings Per Share of $1.75 and Adjusted Earnings Per Share of $1.77.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Expanded Net Income Margin 40 Basis Points and Adjusted EBITDA Margin 100 Basis Points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated Year-to-Date Cash Flow from Operations of $2.13 Billion and Adjusted Free Cash Flow of $1.42 Billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Invested Nearly $900 Million in Value-Creating Acquisitions During the First-Half of the Year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     9,
+     15,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Updated Full-Year Financial Guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Increased Quarterly Dividend by Approximately 8 Percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "PHOENIX, July 29, 2025 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $550 million, or $1.75 per diluted share, for the three months ended June 30, 2025, versus $512 million, or $1.62 per diluted share, for the comparable 2024 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended June 30, 2025, was $556 million, or $1.77 per diluted share, versus $509 million, or $1.61 per diluted share, for the comparable 2024 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"We are pleased with our second quarter results which demonstrate the resilience of our business model and the benefit of the investments in our differentiated capabilities,\" said Jon Vander Ark, president and chief executive officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "\"We produced double-digit growth in EBITDA and 100 basis points of adjusted EBITDA margin expansion by continuing to price ahead of cost inflation and consistently executing our operational plan.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Second-Quarter and Year-to-Date 2025 Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Total revenue growth of 4.6 percent includes 3.1 percent organic growth and 1.5 percent growth from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Core price on total revenue increased revenue by 5.7 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Core price on related business revenue increased revenue by 7.0 percent, which consisted of 8.6 percent in the open market and 4.6 percent in the restricted portion of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     146,
+     156,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Revenue growth from average yield on total revenue was 4.1 percent, and volume increased revenue by 0.2 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Revenue growth from average yield on related business revenue was 5.0 percent, and volume increased related business revenue by 0.2 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Net income was $550 million, or a margin of 13.0 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "EPS was $1.75 per share, an increase of 8.0 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Adjusted EPS, a non-GAAP measure, was $1.77 per share, an increase of 9.9 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Adjusted EBITDA, a non-GAAP measure, was $1.36 billion, and adjusted EBITDA margin, a non-GAAP measure, was 32.1 percent of revenue, an increase of 100 basis points over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Year-to-date cash flow from operations was $2.13 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Year-to-date adjusted free cash flow, a non-GAAP measure, was $1.42 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Year-to-date cash invested in acquisitions was $888 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Year-to-date cash returned to shareholders was $407 million, which included $45 million of share repurchases and $362 million of dividends paid.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The Company's average recycled commodity price per ton sold at its recycling centers during the second quarter was $149.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "This represents a decrease of $24 per ton over the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Company completed and commenced operations on four renewable natural gas projects during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Updated Full-Year 2025 Financial Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The Company provided additional details as follows:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Revenue: Now expected in the range of $16.675 billion to $16.750 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Adjusted EBITDA: Reiterated original guidance in the range of $5.275 billion to $5.325 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Adjusted Diluted Earnings per Share: Reiterated original guidance in the range of $6.82 to $6.90.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Adjusted Free Cash Flow: Increased original guidance to a range of $2.375 billion to $2.415 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Company Increases Quarterly Dividend",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Republic continues to increase cash returns to shareholders, and previously announced that its Board of Directors approved a 4.5-cent increase in the quarterly dividend.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "The quarterly dividend of $0.625 per share for shareholders of record on October 2, 2025, will be paid on October 15, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     90,
+     94,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
