@@ -1,0 +1,756 @@
+{
+ "company": "Ferguson Enterprises, Inc.",
+ "ticker": "FERG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-06-03",
+ "source_url": "https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2025/Ferguson-Reports-Third-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "arket Outperformance, Moderating Deflation and Targeted Actions Drove Strong Results\n\nThird quarter highlights\n\nSales of $7.6 billion, increased 4.3% despite one fewer sales day and foreign exchange (1.7% impact).\nGross margin of 31.0%, up 50 bps from prior year.\nOperating margin of 8.0% (9.4% on an adjusted basis).\nDiluted earnings per share of $2.07 ($2.50 on an adjusted basis).\nDeclared quarterly dividend of $0.83, reflecting a 5% increase over the prior year.\nCompleted three acquisitions during the quarter.\nShare repurchases of $251 million during the quarter.\nBalance sheet remains strong with net debt to adjusted EBITDA of 1.2x.\nActions taken to streamline and reduce complexity within the business, resulted in non-recurring charges of $68 million with expected annualized savings of approximately $100 million.\nNEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG; LSE: FERG). Kevin Murphy, Ferguson CEO, commented, \u201cOur associates continued to take care of our customers, outperform the market and drive solid growth in the third quarter. The combination of strong volume growth, gross margin actions, moderating deflation and the early benefits of streamlining our business drove adjusted operating profit growth and adjusted operating margin expansion.\n\n\u201cWhile we are in a dynamic and uncertain environment, given the strong performance in the quarter we are updating our full year guidance to low to mid-single digit revenue growth with an adjusted operating margin range of 8.5% to 9.0%. We remain confident in our markets over the medium term and continue to balance investment in key strategic opportunities, leveraging multiyear tailwinds in both residential and non-residential markets as we support the complex project needs of our specialized professional customers.\u201d\n\nSummary of financial results\n\nThird quarter\n\nNet sales of $7.6 billion were 4.3% ahead of last year driven by organic revenue growth of 5.0% and acquisition growth of 1.0%, partially offset by 1.7% from the adverse impact of one fewer sales day and foreign exchange rates. Improvement in finished goods pricing was offset by continued weakness in certain commodity related categories, resulting in overall pricing being broadly flat in the quarter.\n\nGross margin of 31.0% was 50 basis points above last year driven by specific actions taken to better capture the value we deliver to customers while also maintaining market share gains, as well as moderating deflation. We continued to tightly manage the cost base with expense growth driven by higher volumes, cost inflation and continued selective investment in core capabilities for future growth.\n\nReported operating profit was $606 million (8.0% operating margin), 3.0% below last year due to the non-recurring business restructuring charges. Adjusted operating profit of $715 million (9.4% adjusted operating margin) was 6.1% above last year.\n\nReported diluted earnings per share was $2.07 (Q3 2024: $2.18), a decrease of 5.0% compared to last year, while adjusted diluted earnings per share of $2.50 increased 7.8% due to the higher adjusted operating profit and the impact of share repurchases.\n\nUS - third quarter\n\nNet sales in the US business increased by 4.5%, with organic revenue growth of 5.0% and a further 1.0% contribution from acquisitions, partially offset by a 1.5% adverse impact from one fewer sales day.\n\nResidential end markets, which comprise just over half of US revenue, remained subdued across both new construction and repair, maintenance and improvement. Overall, our residential revenue grew approximately 2% in the third quarter.\n\nNon-residential end markets, representing just under half of US revenue, were stronger than residential end markets with increased activity on large capital projects. We continued to grow share with non-residential revenue growth of approximately 7% in the third quarter. We delivered mid to high-single digit growth across commercial and industrial end markets, with low double digit growth in our civil/infrastructure end markets.\n\nAdjusted operating profit of $726 million was 6.0% or $41 million above last year.\n\nWe completed two US acquisitions during the quarter, Independent Pipe & Supply Corp., a leading commercial/mechanical distributor in the Northeast and Light Innovations Inc., a residential building and remodel showroom located in Little Rock, Arkansas that will further support the Ferguson Home strategy.\n\nCanada - third quarter\n\nNet sales decreased by 0.3%, with organic revenue growth of 3.0% and a 2.8% contribution from acquisitions, partially offset by a 4.4% adverse impact from foreign exchange rates and a 1.7% adverse impact of one fewer sales day. Residential activity has continued to be soft with non-residential activity remaining more resilient. Adjusted operating profit of $8 million was $2 million above last year.\n\nDuring the quarter we completed the acquisition of National Fire (collectively, National Fire Equipment Ltd. and National Fire Fabrication Ltd.), a market leader of fire and fabrication products and services operating from seven locations across eastern and western Canada.\n\nBusiness Restructuring\n\nWe have implemented targeted actions to streamline operations, enhancing speed and efficiency to better serve customers and drive further profitable growth. As a result of these actions, non-recurring charges of $68 million were incurred in the quarter with these measures expected to generate annualized savings of approximately $100 million.\n\nFinancial position\n\nNet debt to adjusted EBITDA at April 30, 2025 was 1.2x. During the quarter we completed share repurchases of $251 million, bringing year to date repurchases to $759 million. We have a remaining outstanding balance of approximately $1.1 billion under the current share repurchase program.\n\nWe declared a quarterly dividend of $0.83 representing a 5% growth over prior year. The dividend will be paid on August 6, 2025 to stockholders of record as of June 20, 2025.\n\nThere have been no other significant changes to the financial position of the Company.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 49,
+  "n_material_neg": 3,
+  "n_positive": 18,
+  "mean_pos_negative": 0.6734693877551021,
+  "mean_pos_positive": 0.4852607709750567,
+  "placement_asymmetry": 0.1882086167800454,
+  "distance_from_headline": 21,
+  "first_negative_pos": 0.46938775510204084,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.008710542859645279,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.45959595959595956,
+  "overall_hedge": 0.006952491309385863,
+  "mean_tone": 0.08643891299930186
+ },
+ "lexicon": {
+  "words": 863,
+  "per_1000": {
+   "Negative": 8.1,
+   "Positive": 22.0,
+   "Uncertainty": 7.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.3,
+   "Weak modal": 1.2,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 7,
+   "Positive": 19,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "arket Outperformance, Moderating Deflation and Targeted Actions Drove Strong Results",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Third quarter highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales of $7.6 billion, increased 4.3% despite one fewer sales day and foreign exchange (1.7% impact).",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     45,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Gross margin of 31.0%, up 50 bps from prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Operating margin of 8.0% (9.4% on an adjusted basis).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share of $2.07 ($2.50 on an adjusted basis).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Declared quarterly dividend of $0.83, reflecting a 5% increase over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Completed three acquisitions during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Share repurchases of $251 million during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Balance sheet remains strong with net debt to adjusted EBITDA of 1.2x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Actions taken to streamline and reduce complexity within the business, resulted in non-recurring charges of $68 million with expected annualized savings of approximately $100 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     156,
+     169,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "NEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG; LSE: FERG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Kevin Murphy, Ferguson CEO, commented, \u201cOur associates continued to take care of our customers, outperform the market and drive solid growth in the third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "The combination of strong volume growth, gross margin actions, moderating deflation and the early benefits of streamlining our business drove adjusted operating profit growth and adjusted operating margin expansion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cWhile we are in a dynamic and uncertain environment, given the strong performance in the quarter we are updating our full year guidance to low to mid-single digit revenue growth with an adjusted operating margin range of 8.5% to 9.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0256,
+   "hits": [
+    [
+     31,
+     40,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We remain confident in our markets over the medium term and continue to balance investment in key strategic opportunities, leveraging multiyear tailwinds in both residential and non-residential markets as we support the complex project needs of our specialized professional customers.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     108,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Summary of financial results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Third quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Net sales of $7.6 billion were 4.3% ahead of last year driven by organic revenue growth of 5.0% and acquisition growth of 1.0%, partially offset by 1.7% from the adverse impact of one fewer sales day and foreign exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": -0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     162,
+     169,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Improvement in finished goods pricing was offset by continued weakness in certain commodity related categories, resulting in overall pricing being broadly flat in the quarter.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     62,
+     70,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Gross margin of 31.0% was 50 basis points above last year driven by specific actions taken to better capture the value we deliver to customers while also maintaining market share gains, as well as moderating deflation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     100,
+     [
+      "positive"
+     ]
+    ],
+    [
+     179,
+     184,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "We continued to tightly manage the cost base with expense growth driven by higher volumes, cost inflation and continued selective investment in core capabilities for future growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Reported operating profit was $606 million (8.0% operating margin), 3.0% below last year due to the non-recurring business restructuring charges.",
+   "d": -1,
+   "m": true,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     123,
+     136,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Adjusted operating profit of $715 million (9.4% adjusted operating margin) was 6.1% above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Reported diluted earnings per share was $2.07 (Q3 2024: $2.18), a decrease of 5.0% compared to last year, while adjusted diluted earnings per share of $2.50 increased 7.8% due to the higher adjusted operating profit and the impact of share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "US - third quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Net sales in the US business increased by 4.5%, with organic revenue growth of 5.0% and a further 1.0% contribution from acquisitions, partially offset by a 1.5% adverse impact from one fewer sales day.",
+   "d": 1,
+   "m": false,
+   "tone": -0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     162,
+     169,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Residential end markets, which comprise just over half of US revenue, remained subdued across both new construction and repair, maintenance and improvement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     144,
+     155,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Overall, our residential revenue grew approximately 2% in the third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Non-residential end markets, representing just under half of US revenue, were stronger than residential end markets with increased activity on large capital projects.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "We continued to grow share with non-residential revenue growth of approximately 7% in the third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     66,
+     79,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "We delivered mid to high-single digit growth across commercial and industrial end markets, with low double digit growth in our civil/infrastructure end markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Adjusted operating profit of $726 million was 6.0% or $41 million above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "We completed two US acquisitions during the quarter, Independent Pipe & Supply Corp., a leading commercial/mechanical distributor in the Northeast and Light Innovations Inc., a residential building and remodel showroom located in Little Rock, Arkansas that will further support the Ferguson Home strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     95,
+     [
+      "positive"
+     ]
+    ],
+    [
+     157,
+     168,
+     [
+      "positive"
+     ]
+    ],
+    [
+     257,
+     261,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Canada - third quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Net sales decreased by 0.3%, with organic revenue growth of 3.0% and a 2.8% contribution from acquisitions, partially offset by a 4.4% adverse impact from foreign exchange rates and a 1.7% adverse impact of one fewer sales day.",
+   "d": -1,
+   "m": true,
+   "tone": -0.606,
+   "h": 0.0,
+   "hits": [
+    [
+     135,
+     142,
+     [
+      "negative"
+     ]
+    ],
+    [
+     189,
+     196,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Residential activity has continued to be soft with non-residential activity remaining more resilient.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Adjusted operating profit of $8 million was $2 million above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "During the quarter we completed the acquisition of National Fire (collectively, National Fire Equipment Ltd. and National Fire Fabrication Ltd.), a market leader of fire and fabrication products and services operating from seven locations across eastern and western Canada.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Business Restructuring",
+   "d": -1,
+   "m": true,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     22,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "We have implemented targeted actions to streamline operations, enhancing speed and efficiency to better serve customers and drive further profitable growth.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     83,
+     93,
+     [
+      "positive"
+     ]
+    ],
+    [
+     97,
+     103,
+     [
+      "positive"
+     ]
+    ],
+    [
+     138,
+     148,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "As a result of these actions, non-recurring charges of $68 million were incurred in the quarter with these measures expected to generate annualized savings of approximately $100 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     159,
+     172,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Financial position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Net debt to adjusted EBITDA at April 30, 2025 was 1.2x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "During the quarter we completed share repurchases of $251 million, bringing year to date repurchases to $759 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "We have a remaining outstanding balance of approximately $1.1 billion under the current share repurchase program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     43,
+     56,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "We declared a quarterly dividend of $0.83 representing a 5% growth over prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "The dividend will be paid on August 6, 2025 to stockholders of record as of June 20, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 49,
+   "t": "There have been no other significant changes to the financial position of the Company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
