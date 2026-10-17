@@ -1,0 +1,499 @@
+{
+ "company": "Quanta Services",
+ "ticker": "PWR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-02",
+ "source_url": "https://investors.quantaservices.com/news-events/press-releases/detail/355/quanta-services-reports-first-quarter-2024-results",
+ "demo": false,
+ "source_text": "First Quarter Consolidated Revenues of $5.03 Billion*\n\nFirst Quarter GAAP Diluted EPS of $0.79 and Adjusted Diluted EPS of $1.41*\n\nNet Income Attributable to Common Stock of $118.4 Million and Adjusted EBITDA of $387.3 Million*\n\nCash Flow From Operations of $238.0 Million* and Free Cash Flow of $181.2 Million*\n\nRemaining Performance Obligations of $14.9 Billion* and Total Backlog of $29.9 Billion*\n\nRaising Full-Year 2024 Revenue and Earnings Per Share Expectations\n\n* = Record quarterly or record first quarter result\n\nHOUSTON, May 2, 2024 /PRNewswire/ -- Quanta Services, Inc. (NYSE: PWR) today announced results for the three months ended March 31, 2024. Revenues in the first quarter of 2024 were $5.03 billion compared to revenues of $4.43 billion in the first quarter of 2023, and net income attributable to common stock was $118.4 million, or $0.79 per diluted share, in the first quarter of 2024 compared to net income attributable to common stock of $95.0 million, or $0.64 per diluted share, in the first quarter of 2023. Adjusted diluted earnings per share attributable to common stock (a non-GAAP financial measure) was $1.41 for the first quarter of 2024 compared to $1.24 for the first quarter of 2023.\n\nQuanta Services Logo. (PRNewsFoto/Quanta Services, Inc.)\n\n\"Quanta's first quarter results, which include double-digit growth in revenue, adjusted EBITDA and adjusted earnings per share and record cash flow, demonstrate an overall good start to the year. In particular, our Electric Power Infrastructure Solutions segment performed well with better-than-expected profitability, reflecting continued solid performance and safe execution. Total backlog at the end of the first quarter was $29.9 billion, which we believe reflects strong demand for our solutions that support our customers' energy-transition initiatives and that increase reliability, safety, security, efficiency and connectivity of infrastructure assets through modernization,\" said Duke Austin, President and Chief Executive Officer of Quanta Services.\n\n\"Utilities across the United States are experiencing and forecasting meaningful increases in power demand for the first time in many years, driven by the adoption of new technologies and related infrastructure, including artificial intelligence and data centers, as well as federal and state policies designed to accelerate the energy transition and strategically reinforce domestic manufacturing and supply chain resources. With the complexities of the power grid and the significant upgrades and enhancements required to facilitate load growth, our collaborative, solutions-based approach is valued by our clients more than ever. There is momentum building across our portfolio of solutions, and we remain confident in our full-year 2024 expectations, which reflect the opportunity for continued growth in revenues and double-digit growth in adjusted EBITDA, adjusted earnings per share and free cash flow,\"\n\nCertain items that impacted Quanta's results for the three months ended March 31, 2024 and 2023 are reflected as adjustments in the calculation of Quanta's adjusted net income attributable to common stock, adjusted diluted earnings per share attributable to common stock and adjusted EBITDA (non-GAAP financial measures). These items are described in the accompanying tables reconciling adjusted net income attributable to common stock to net income attributable to common stock and adjusted diluted earnings per share attributable to common stock to GAAP diluted earnings per share attributable to common stock. Quanta completed three acquisitions during the first three months of 2024 and five acquisitions during the full year 2023, and the results of the acquired businesses are included in Quanta's consolidated results from the respective acquisition dates. For further information on the items that impacted comparability of 2024 and 2023, see the footnotes in the accompanying tables presenting Supplemental Segment Data and reconciliations of EBITDA, adjusted EBITDA, adjusted net income attributable to common stock and adjusted diluted earnings per share attributable to common stock (non-GAAP financial measures) to their comparable GAAP financial measures.\n\nRECENT HIGHLIGHT\n\nAcquired a Leading Transmission and Distribution Equipment Manufacturing Company - In April 2024, Quanta acquired a leading engineering and manufacturing company specializing in line stringing equipment for the electric transmission and distribution industry. Quanta believes this acquisition will enhance the company's ability to access critical equipment to support its transmission and distribution services and reduce operational costs.\nFULL-YEAR 2024 OUTLOOK\nThe long-term outlook for Quanta's business is positive. However, weather, regulatory, permitting, supply chain challenges and other factors affecting project timing and execution have impacted, and may impact in the future, Quanta's financial results. Additionally, we continue to consider future uncertainty associated with overall challenges to the domestic and global economy, including inflation, increased interest rates and potential recessionary economic conditions. Quanta's financial outlook for revenues, margins and earnings reflects management's effort to align these uncertainties with the backlog the Company is executing on and the opportunities expected to materialize during the remainder of 2024.\n\nPrior to the Company's conference call, management will post a summary of Quanta's updated 2024 guidance expectations with additional commentary in the \"News and Events\" and \"Financial Info\" areas of the Investor Relations section of Quanta's website at http://investors.quantaservices.com.\n\nThe following forward-looking statements are based on current expectations, and actual results may differ materially, as described below in Cautionary Statement About Forward-Looking Statements and Information. For the full year ending December 31, 2024, Quanta now expects revenues to range between $22.5 billion and $23.0 billion and net income attributable to common stock to range between $867 million and $943 million. Quanta also now expects diluted earnings per share attributable to common stock to range between $5.79 and $6.30 and adjusted diluted earnings per share attributable to common stock to range between $8.15 and $8.65. Quanta now expects EBITDA to range between $1.97 billion and $2.08 billion and adjusted EBITDA to range between $2.13 billion and $2.25 billion. Additionally, for the full year ending December 31, 2024, Quanta continues to expect net cash attributable to operating activities to range between $1.75 billion and $2.15 billion and free cash flow (a non-GAAP financial measure) to range between $1.30 billion and $1.70 billion",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 26,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.6009615384615384,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.008335768844273169,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.00825082508250825,
+  "mean_tone": 0.1533805203160042
+ },
+ "lexicon": {
+  "words": 606,
+  "per_1000": {
+   "Negative": 5.0,
+   "Positive": 23.1,
+   "Uncertainty": 9.9,
+   "Litigious": 1.7,
+   "Strong modal": 3.3,
+   "Weak modal": 3.3,
+   "Constraining": 5.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 14,
+   "Uncertainty": 6,
+   "Litigious": 1,
+   "Strong modal": 2,
+   "Weak modal": 2,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First Quarter Consolidated Revenues of $5.03 Billion*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "First Quarter GAAP Diluted EPS of $0.79 and Adjusted Diluted EPS of $1.41*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Net Income Attributable to Common Stock of $118.4 Million and Adjusted EBITDA of $387.3 Million*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Cash Flow From Operations of $238.0 Million* and Free Cash Flow of $181.2 Million*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Remaining Performance Obligations of $14.9 Billion* and Total Backlog of $29.9 Billion*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     33,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Raising Full-Year 2024 Revenue and Earnings Per Share Expectations",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "* = Record quarterly or record first quarter result",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "HOUSTON, May 2, 2024 /PRNewswire/ -- Quanta Services, Inc. (NYSE: PWR) today announced results for the three months ended March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     12,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Revenues in the first quarter of 2024 were $5.03 billion compared to revenues of $4.43 billion in the first quarter of 2023, and net income attributable to common stock was $118.4 million, or $0.79 per diluted share, in the first quarter of 2024 compared to net income attributable to common stock of $95.0 million, or $0.64 per diluted share, in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Adjusted diluted earnings per share attributable to common stock (a non-GAAP financial measure) was $1.41 for the first quarter of 2024 compared to $1.24 for the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Quanta Services Logo. (PRNewsFoto/Quanta Services, Inc.)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\"Quanta's first quarter results, which include double-digit growth in revenue, adjusted EBITDA and adjusted earnings per share and record cash flow, demonstrate an overall good start to the year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     172,
+     176,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "In particular, our Electric Power Infrastructure Solutions segment performed well with better-than-expected profitability, reflecting continued solid performance and safe execution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     93,
+     [
+      "positive"
+     ]
+    ],
+    [
+     108,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Total backlog at the end of the first quarter was $29.9 billion, which we believe reflects strong demand for our solutions that support our customers' energy-transition initiatives and that increase reliability, safety, security, efficiency and connectivity of infrastructure assets through modernization,\" said Duke Austin, President and Chief Executive Officer of Quanta Services.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0192,
+   "hits": [
+    [
+     74,
+     81,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     91,
+     97,
+     [
+      "positive"
+     ]
+    ],
+    [
+     230,
+     240,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\"Utilities across the United States are experiencing and forecasting meaningful increases in power demand for the first time in many years, driven by the adoption of new technologies and related infrastructure, including artificial intelligence and data centers, as well as federal and state policies designed to accelerate the energy transition and strategically reinforce domestic manufacturing and supply chain resources.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "With the complexities of the power grid and the significant upgrades and enhancements required to facilitate load growth, our collaborative, solutions-based approach is valued by our clients more than ever.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     73,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     86,
+     94,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     126,
+     139,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "There is momentum building across our portfolio of solutions, and we remain confident in our full-year 2024 expectations, which reflect the opportunity for continued growth in revenues and double-digit growth in adjusted EBITDA, adjusted earnings per share and free cash flow,\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     140,
+     151,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "RECENT HIGHLIGHT",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Acquired a Leading Transmission and Distribution Equipment Manufacturing Company - In April 2024, Quanta acquired a leading engineering and manufacturing company specializing in line stringing equipment for the electric transmission and distribution industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Quanta believes this acquisition will enhance the company's ability to access critical equipment to support its transmission and distribution services and reduce operational costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0417,
+   "hits": [
+    [
+     7,
+     15,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     33,
+     37,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     38,
+     45,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "FULL-YEAR 2024 OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The long-term outlook for Quanta's business is positive.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "However, weather, regulatory, permitting, supply chain challenges and other factors affecting project timing and execution have impacted, and may impact in the future, Quanta's financial results.",
+   "d": 0,
+   "m": false,
+   "tone": -0.385,
+   "h": 0.0385,
+   "hits": [
+    [
+     18,
+     28,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     30,
+     40,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     55,
+     65,
+     [
+      "negative"
+     ]
+    ],
+    [
+     142,
+     145,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Additionally, we continue to consider future uncertainty associated with overall challenges to the domestic and global economy, including inflation, increased interest rates and potential recessionary economic conditions.",
+   "d": 1,
+   "m": false,
+   "tone": -0.741,
+   "h": 0.037,
+   "hits": [
+    [
+     45,
+     56,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     81,
+     91,
+     [
+      "negative"
+     ]
+    ],
+    [
+     188,
+     200,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Quanta's financial outlook for revenues, margins and earnings reflects management's effort to align these uncertainties with the backlog the Company is executing on and the opportunities expected to materialize during the remainder of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     106,
+     119,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     173,
+     186,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Prior to the Company's conference call, management will post a summary of Quanta's updated 2024 guidance expectations with additional commentary in the \"News and Events\" and \"Financial Info\" areas of the Investor Relations section of Quanta's website at http://investors.quantaservices.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     55,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
