@@ -1,0 +1,295 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-01-30",
+ "source_url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/4q24-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports Fourth-Quarter and Full-Year 2024 Results\n\nFourth-quarter 2024 sales and revenues were $16.2 billion; full-year sales and revenues were $64.8 billion\nFourth-quarter 2024 profit per share of $5.78; adjusted profit per share of $5.14\nFull-year profit per share of $22.05; adjusted profit per share of $21.90\nStrong enterprise operating cash flow of $12.0 billion; ended the year with $6.9 billion of enterprise cash\nDeployed $10.3 billion of cash for share repurchases and dividends in 2024\n\nIRVING, Texas, Jan. 30, 2025 \u2013 Caterpillar Inc. (NYSE: CAT) announced fourth-quarter and full-year results for 2024.\n\nSales and revenues for the fourth quarter of 2024 were $16.2 billion, a 5% decrease compared with $17.1 billion in the fourth quarter of 2023. Operating profit margin was 18.0% for the fourth quarter of 2024, compared with 18.4% for the fourth quarter of 2023. Adjusted operating profit margin was 18.3% for the fourth quarter of 2024, compared with 18.9% for the fourth quarter of 2023. Fourth-quarter 2024 profit per share was $5.78, compared with $5.28 profit per share in the fourth quarter of 2023. Adjusted profit per share in the fourth quarter of 2024 was $5.14, compared with fourth-quarter 2023 adjusted profit per share of $5.23.\n\nFull-year sales and revenues in 2024 were $64.8 billion, down 3% compared with $67.1 billion in 2023. The decrease reflected lower sales volume of $3.5 billion, partially offset by favorable price realization of $1.2 billion. Lower sales volume was primarily driven by lower sales of equipment to end users. Operating profit margin was 20.2% in 2024, compared with 19.3% in 2023. Adjusted operating profit margin was 20.7% in 2024, compared with 20.5% in 2023. Full-year profit was $22.05 per share in 2024, compared with profit of $20.12 per share in 2023. Adjusted profit per share in 2024 was $21.90, compared with adjusted profit per share of $21.21 in 2023.\n\n\u201cI\u2019m proud of our global team\u2019s strong performance in 2024 as they delivered record adjusted profit per share and strong ME&T free cash flow,\u201d said Caterpillar Chairman and CEO Jim Umpleby. \u201cAs we kick off our centennial year, we remain committed to serving our customers, executing our strategy and continuing to invest for long-term profitable growth.\u201d\n\nIn 2024, adjusted operating profit margin and adjusted profit per share excluded restructuring costs. 2024 adjusted profit per share also excluded a discrete tax benefit for a tax law change related to currency translation and excluded mark-to-market gains for remeasurement of pension and other postemployment benefit (OPEB) plans. In 2023, adjusted operating profit margin and adjusted profit per share excluded restructuring costs, which included the impact of the divestiture of the company's Longwall business and other restructuring costs. 2023 adjusted profit per share also excluded a benefit for certain deferred tax valuation allowance adjustments and mark-to-market gains for remeasurement of pension and OPEB plans. Please see a reconciliation of GAAP to non-GAAP financial measures in the appendix on pages 14 to 16.\n\nFor the full year 2024, enterprise operating cash flow was $12.0 billion, and the company ended the fourth quarter with $6.9 billion of enterprise cash. During the year, the company deployed $7.7 billion of cash for repurchases of Caterpillar common stock and $2.6 billion of cash for dividends.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 2,
+  "n_positive": 1,
+  "mean_pos_negative": 0.6136363636363636,
+  "mean_pos_positive": 0.9090909090909091,
+  "placement_asymmetry": -0.2954545454545454,
+  "distance_from_headline": 11,
+  "first_negative_pos": 0.5909090909090909,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.3333333333333333,
+  "mean_tone_gap_on_negatives": 1.2083333333333333,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.08182460195172059
+ },
+ "lexicon": {
+  "words": 362,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 13.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.8
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 5,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports Fourth-Quarter and Full-Year 2024 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth-quarter 2024 sales and revenues were $16.2 billion; full-year sales and revenues were $64.8 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Fourth-quarter 2024 profit per share of $5.78; adjusted profit per share of $5.14.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Full-year profit per share of $22.05; adjusted profit per share of $21.90.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Strong enterprise operating cash flow of $12.0 billion; ended the year with $6.9 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Deployed $10.3 billion of cash for share repurchases and dividends in 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "IRVING, Texas, Jan. 30, 2025 \u2013 Caterpillar Inc. (NYSE: CAT) announced fourth-quarter and full-year results for 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Sales and revenues for the fourth quarter of 2024 were $16.2 billion, a 5% decrease compared with $17.1 billion in the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Operating profit margin was 18.0% for the fourth quarter of 2024, compared with 18.4% for the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Adjusted operating profit margin was 18.3% for the fourth quarter of 2024, compared with 18.9% for the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Fourth-quarter 2024 profit per share was $5.78, compared with $5.28 profit per share in the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted profit per share in the fourth quarter of 2024 was $5.14, compared with fourth-quarter 2023 adjusted profit per share of $5.23.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Full-year sales and revenues in 2024 were $64.8 billion, down 3% compared with $67.1 billion in 2023.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The decrease reflected lower sales volume of $3.5 billion, partially offset by favorable price realization of $1.2 billion.",
+   "d": -1,
+   "m": true,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Lower sales volume was primarily driven by lower sales of equipment to end users.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Operating profit margin was 20.2% in 2024, compared with 19.3% in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Adjusted operating profit margin was 20.7% in 2024, compared with 20.5% in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Full-year profit was $22.05 per share in 2024, compared with profit of $20.12 per share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Adjusted profit per share in 2024 was $21.90, compared with adjusted profit per share of $21.21 in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "\u201cI\u2019m proud of our global team\u2019s strong performance in 2024 as they delivered record adjusted profit per share and strong ME&T free cash flow,\u201d said Caterpillar Chairman and CEO Jim Umpleby. \u201cAs we kick off our centennial year, we remain committed to serving our customers, executing our strategy and continuing to invest for long-term profitable growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.508,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     38,
+     [
+      "positive"
+     ]
+    ],
+    [
+     114,
+     120,
+     [
+      "positive"
+     ]
+    ],
+    [
+     237,
+     246,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     335,
+     345,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "For the full year 2024, enterprise operating cash flow was $12.0 billion, and the company ended the fourth quarter with $6.9 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "During the year, the company deployed $7.7 billion of cash for repurchases of Caterpillar common stock and $2.6 billion of cash for dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
