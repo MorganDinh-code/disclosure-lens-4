@@ -1,0 +1,227 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-08-06",
+ "source_url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/2q24-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports Second-Quarter 2024 Results\n\nSecond-quarter 2024 profit per share of $5.48; adjusted profit per share of $5.99\nEnterprise operating cash flow was $3.0 billion in the second quarter of 2024\nDeployed $2.5 billion of cash for share repurchases and dividends in the second quarter\n\nIRVING, Texas, August 6, 2024 \u2013 Caterpillar Inc. (NYSE: CAT) announced second-quarter 2024 results. Sales and revenues for the second quarter of 2024 were $16.7 billion, a 4% decrease compared with $17.3 billion in the second quarter of 2023. The decrease was primarily due to lower sales volume, partially offset by favorable price realization.\n\nOperating profit margin was 20.9% for the second quarter of 2024, compared with 21.1% for the second quarter of 2023. Adjusted operating profit margin was 22.4% for the second quarter of 2024, compared with 21.3% for the second quarter of 2023. Second-quarter 2024 profit per share was $5.48, compared with second-quarter 2023 profit per share of $5.67. Adjusted profit per share in the second quarter of 2024 was $5.99, compared with second-quarter 2023 adjusted profit per share of $5.55. For the second quarter of 2024 and 2023, adjusted operating profit margin and adjusted profit per share excluded restructuring costs. Second-quarter 2023 adjusted profit per share also excluded a discrete tax benefit to adjust deferred tax balances.\n\nFor the second quarter of 2024, enterprise operating cash flow was $3.0 billion, and the company ended the second quarter with $4.3 billion of enterprise cash. In the quarter, the company deployed $1.8 billion of cash for repurchases of Caterpillar common stock and $0.6 billion of cash for dividends.\n\n\u201cI\u2019d like to thank our team for delivering another strong quarter, including higher adjusted operating profit margin, record adjusted profit per share and robust ME&T free cash flow,\u201d said Chairman and CEO Jim Umpleby. \u201cOur results continue to reflect the benefit of the diversity of our end markets as well as the disciplined execution of our strategy for long-term profitable growth.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 1,
+  "n_positive": 1,
+  "mean_pos_negative": 0.75,
+  "mean_pos_positive": 1.0,
+  "placement_asymmetry": -0.25,
+  "distance_from_headline": 10,
+  "first_negative_pos": 0.75,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 1.0555555555555554,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.02647569444444444
+ },
+ "lexicon": {
+  "words": 295,
+  "per_1000": {
+   "Negative": 3.4,
+   "Positive": 10.2,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 3,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports Second-Quarter 2024 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Second-quarter 2024 profit per share of $5.48; adjusted profit per share of $5.99.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Enterprise operating cash flow was $3.0 billion in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Deployed $2.5 billion of cash for share repurchases and dividends in the second quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "IRVING, Texas, August 6, 2024 \u2013 Caterpillar Inc. (NYSE: CAT) announced second-quarter 2024 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Sales and revenues for the second quarter of 2024 were $16.7 billion, a 4% decrease compared with $17.3 billion in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "The decrease was primarily due to lower sales volume, partially offset by favorable price realization.",
+   "d": -1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Operating profit margin was 20.9% for the second quarter of 2024, compared with 21.1% for the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Adjusted operating profit margin was 22.4% for the second quarter of 2024, compared with 21.3% for the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Second-quarter 2024 profit per share was $5.48, compared with second-quarter 2023 profit per share of $5.67.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted profit per share in the second quarter of 2024 was $5.99, compared with second-quarter 2023 adjusted profit per share of $5.55.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "For the second quarter of 2024 and 2023, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.",
+   "d": -1,
+   "m": true,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     126,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Second-quarter 2023 adjusted profit per share also excluded a discrete tax benefit to adjust deferred tax balances.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "For the second quarter of 2024, enterprise operating cash flow was $3.0 billion, and the company ended the second quarter with $4.3 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "In the quarter, the company deployed $1.8 billion of cash for repurchases of Caterpillar common stock and $0.6 billion of cash for dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "\u201cI\u2019d like to thank our team for delivering another strong quarter, including higher adjusted operating profit margin, record adjusted profit per share and robust ME&T free cash flow,\u201d said Chairman and CEO Jim Umpleby. \u201cOur results continue to reflect the benefit of the diversity of our end markets as well as the disciplined execution of our strategy for long-term profitable growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     57,
+     [
+      "positive"
+     ]
+    ],
+    [
+     367,
+     377,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
