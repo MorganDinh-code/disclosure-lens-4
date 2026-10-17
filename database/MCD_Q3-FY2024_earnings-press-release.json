@@ -1,0 +1,267 @@
+{
+ "company": "McDonald's",
+ "ticker": "MCD",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-29",
+ "source_url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q3-2024-results.html",
+ "demo": false,
+ "source_text": "Consolidated revenues for the quarter were nearly $6.9 billion, an increase over prior year of 3% (2% in constant currencies)\nSystemwide sales* to loyalty members across approximately 50 loyalty markets were over $28 billion for the trailing twelve-month period and nearly $8 billion for the quarter\n\nCHICAGO, IL - McDonald's Corporation today announced results for the third quarter ended September 30, 2024.\n\n\u201cWe will stay laser-focused on providing an unparalleled experience with simple, everyday value and affordability that our consumers can count on as they continue to be mindful about their spending,\u201d said Chairman and CEO Chris Kempczinski. \u201cMcDonald\u2019s will continue to follow our Accelerating the Arches playbook to drive long-term growth globally and win in this environment.\u201d\n\nThird quarter financial performance:\n\nGlobal comparable sales decreased 1.5%:\nU.S. increased 0.3%\nInternational Operated Markets segment decreased 2.1%\nInternational Developmental Licensed Markets segment decreased 3.5%\nConsolidated revenues increased 3% (2% in constant currencies).\nSystemwide sales were flat (flat in constant currencies).\nConsolidated operating income decreased 1% (1% in constant currencies). Results included $52 million of pre-tax transaction costs and non-cash impairment charges and $46 million of pre-tax restructuring charges associated with Accelerating the Organization. Excluding these current year charges, as well as prior year pre-tax charges of $26 million, consolidated operating income increased 2% (1% in constant currencies).**\nDiluted earnings per share was $3.13, a decrease of 1% (1% in constant currencies). Excluding the current year charges described above of $0.10 per share, diluted earnings per share was $3.23, an increase of 1% (1% in constant currencies) when also excluding prior year charges.**\nThe Company declared a 6% increase in its quarterly cash dividend to $1.77 per share.\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 6,
+  "n_positive": 6,
+  "mean_pos_negative": 0.6041666666666666,
+  "mean_pos_positive": 0.6041666666666666,
+  "placement_asymmetry": 0.0,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.375,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.012195121951219511,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8666666666666667,
+  "overall_hedge": 0.011811023622047244,
+  "mean_tone": -0.028813559322033902
+ },
+ "lexicon": {
+  "words": 254,
+  "per_1000": {
+   "Negative": 7.9,
+   "Positive": 7.9,
+   "Uncertainty": 11.8,
+   "Litigious": 0.0,
+   "Strong modal": 11.8,
+   "Weak modal": 7.9,
+   "Constraining": 3.9
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 2,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 3,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Consolidated revenues for the quarter were nearly $6.9 billion, an increase over prior year of 3% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     43,
+     49,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Systemwide sales* to loyalty members across approximately 50 loyalty markets were over $28 billion for the trailing twelve-month period and nearly $8 billion for the quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     44,
+     57,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     140,
+     146,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "CHICAGO, IL - McDonald's Corporation today announced results for the third quarter ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\u201cWe will stay laser-focused on providing an unparalleled experience with simple, everyday value and affordability that our consumers can count on as they continue to be mindful about their spending,\u201d said Chairman and CEO Chris Kempczinski. \u201cMcDonald\u2019s will continue to follow our Accelerating the Arches playbook to drive long-term growth globally and win in this environment.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.339,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     8,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     44,
+     56,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     253,
+     257,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     353,
+     356,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Third quarter financial performance:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Global comparable sales decreased 1.5%: U.S. increased 0.3%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "International Operated Markets segment decreased 2.1%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "International Developmental Licensed Markets segment decreased 3.5%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Consolidated revenues increased 3% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Systemwide sales were flat (flat in constant currencies).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Consolidated operating income decreased 1% (1% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Results included $52 million of pre-tax transaction costs and non-cash impairment charges and $46 million of pre-tax restructuring charges associated with Accelerating the Organization.",
+   "d": -1,
+   "m": true,
+   "tone": -0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     81,
+     [
+      "negative",
+      "constraining"
+     ]
+    ],
+    [
+     117,
+     130,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Excluding these current year charges, as well as prior year pre-tax charges of $26 million, consolidated operating income increased 2% (1% in constant currencies).**.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Diluted earnings per share was $3.13, a decrease of 1% (1% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Excluding the current year charges described above of $0.10 per share, diluted earnings per share was $3.23, an increase of 1% (1% in constant currencies) when also excluding prior year charges.**.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The Company declared a 6% increase in its quarterly cash dividend to $1.77 per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
