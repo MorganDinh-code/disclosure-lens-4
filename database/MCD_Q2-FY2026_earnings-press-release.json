@@ -1,0 +1,259 @@
+{
+ "company": "McDonald's",
+ "ticker": "MCD",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-04",
+ "source_url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q2-2026-results.html",
+ "demo": false,
+ "source_text": "Global Systemwide sales* increased 5% (4% in constant currencies) to $37 billion for the quarter\nAcross 70 loyalty markets, Systemwide sales to loyalty members for the trailing twelve months increased over 20% to $40 billion, with 90-day active loyalty users up 13% to nearly 220 million as of quarter-end\nSkye Anderson, proven McDonald\u2019s executive, appointed as President of McDonald\u2019s USA to lead the Company's largest market\n \n\nCHICAGO, IL - McDonald's Corporation today announced results for the second quarter ended June 30, 2026.\n\n\u201cThis quarter McDonald\u2019s delivered positive comparable sales growth across every segment and acted decisively to strengthen execution as we prime McDonald\u2019s for the next era of long-term growth,\u201d said Chris Kempczinski, Chairman and CEO. \u201cWhile our playbook is working around the world, we see an opportunity to raise the bar in the U.S. and accelerate performance in our largest market. Skye Anderson\u2019s appointment today as President of McDonald\u2019s USA will bring focus and urgency to these efforts given her deep system knowledge, operational discipline, and proven ability to drive change and deliver results for everyone in our System.\u201d\n \n\nSecond quarter financial performance:\n\nGlobal comparable sales increased 1.3%:\nU.S. increased 0.8%\nInternational Operated Markets increased 1.5%\nInternational Developmental Licensed Markets increased 1.9%\nConsolidated revenues increased 4% (2% in constant currencies).\nSystemwide sales increased 5% (4% in constant currencies).\nConsolidated operating income increased 3% (2% in constant currencies). Results reflected pre-tax charges of $52 million and $43 million for the current year and prior year, respectively, primarily related to restructuring charges associated with Accelerating the Organization. Excluding these current and prior year charges, consolidated operating income increased 4% (2% in constant currencies).**\nDiluted earnings per share was $3.32, an increase of 6% (5% in constant currencies). Excluding the current year charges described above of $0.06 per share, diluted earnings per share was $3.38, an increase of 6% (5% in constant currencies) when also excluding prior year charges.**\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 17,
+  "n_material_neg": 1,
+  "n_positive": 12,
+  "mean_pos_negative": 0.8235294117647058,
+  "mean_pos_positive": 0.5833333333333334,
+  "placement_asymmetry": 0.24019607843137247,
+  "distance_from_headline": 10,
+  "first_negative_pos": 0.8235294117647058,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.003350247202706219,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6296296296296297,
+  "overall_hedge": 0.0033783783783783786,
+  "mean_tone": -0.008918845315904138
+ },
+ "lexicon": {
+  "words": 296,
+  "per_1000": {
+   "Negative": 6.8,
+   "Positive": 10.1,
+   "Uncertainty": 3.4,
+   "Litigious": 0.0,
+   "Strong modal": 3.4,
+   "Weak modal": 3.4,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 3,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Global Systemwide sales* increased 5% (4% in constant currencies) to $37 billion for the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Across 70 loyalty markets, Systemwide sales to loyalty members for the trailing twelve months increased over 20% to $40 billion, with 90-day active loyalty users up 13% to nearly 220 million as of quarter-end.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     172,
+     178,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Skye Anderson, proven McDonald\u2019s executive, appointed as President of McDonald\u2019s USA to lead the Company's largest market",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "CHICAGO, IL - McDonald's Corporation today announced results for the second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\u201cThis quarter McDonald\u2019s delivered positive comparable sales growth across every segment and acted decisively to strengthen execution as we prime McDonald\u2019s for the next era of long-term growth,\u201d said Chris Kempczinski, Chairman and CEO. \u201cWhile our playbook is working around the world, we see an opportunity to raise the bar in the U.S. and accelerate performance in our largest market.",
+   "d": 1,
+   "m": false,
+   "tone": 0.469,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     113,
+     123,
+     [
+      "positive"
+     ]
+    ],
+    [
+     297,
+     308,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Skye Anderson\u2019s appointment today as President of McDonald\u2019s USA will bring focus and urgency to these efforts given her deep system knowledge, operational discipline, and proven ability to drive change and deliver results for everyone in our System.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": -0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     69,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     86,
+     93,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Second quarter financial performance:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Global comparable sales increased 1.3%: U.S. increased 0.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "International Operated Markets increased 1.5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "International Developmental Licensed Markets increased 1.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Consolidated revenues increased 4% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Systemwide sales increased 5% (4% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Consolidated operating income increased 3% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Results reflected pre-tax charges of $52 million and $43 million for the current year and prior year, respectively, primarily related to restructuring charges associated with Accelerating the Organization.",
+   "d": -1,
+   "m": true,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     150,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Excluding these current and prior year charges, consolidated operating income increased 4% (2% in constant currencies).**.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Diluted earnings per share was $3.32, an increase of 6% (5% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Excluding the current year charges described above of $0.06 per share, diluted earnings per share was $3.38, an increase of 6% (5% in constant currencies) when also excluding prior year charges.**",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
