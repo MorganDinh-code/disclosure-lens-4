@@ -1,0 +1,396 @@
+{
+ "company": "Republic Services",
+ "ticker": "RSG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-24",
+ "source_url": "https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-first-quarter-2025-results",
+ "demo": false,
+ "source_text": "First Quarter Earnings Per Share of $1.58\nExpanded First Quarter Net Income Margin 50 Basis Points and Adjusted EBITDA Margin 140 Basis Points\nGenerated Cash Flow from Operations of $1,025 Million and Adjusted Free Cash Flow of $727 Million\nInvested More Than $800 Million in Value-Creating Acquisitions\nNamed to Barron's 2025 100 Most Sustainable Companies List\nPHOENIX, April 24, 2025 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $495 million, or $1.58 per diluted share, for the three months ended March 31, 2025, versus $454 million, or $1.44 per diluted share, for the comparable 2024 period. Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended March 31, 2025, was $496 million, or $1.58 per diluted share, versus $458 million, or $1.45 per diluted share, for the comparable 2024 period.\n\n\"We are off to a solid start to the year, and our business continues to perform well even with increased volatility in the broader economy,\" said Jon Vander Ark, president and chief executive officer. \"While topline results were impacted by sluggish cyclical volumes and challenging winter weather, we generated high single-digit growth in EBITDA and 140 basis points of adjusted EBITDA margin expansion by pricing ahead of cost inflation and effective cost management. Our ability to produce these results reflects the resiliency of our business model, and the financial benefits we are delivering by investing in our differentiating capabilities.\"\n\nFirst Quarter 2025 Highlights:\n\nTotal revenue growth of 3.8 percent includes 2.9 percent organic growth and 0.9 percent growth from acquisitions. The impact of one less work day decreased revenue by 50 basis points compared to the same period in 2024.\nCore price on total revenue increased revenue by 6.1 percent. Core price on related business revenue increased revenue by 7.3 percent, which consisted of 9.0 percent in the open market and 4.6 percent in the restricted portion of the business.\nRevenue growth from average yield on total revenue was 4.5 percent, and volume decreased revenue by 1.2 percent. Revenue growth from average yield on related business revenue was 5.4 percent, and volume decreased related business revenue by 1.5 percent.\nNet income was $495 million, or a margin of 12.3 percent.\nEPS was $1.58 per share, an increase of 9.7 percent over the prior year.\nAdjusted EPS, a non-GAAP measure, was $1.58 per share, an increase of 9.0 percent over the prior year.\nAdjusted EBITDA, a non-GAAP measure, was $1.27 billion, and adjusted EBITDA margin, a non-GAAP measure, was 31.6 percent of revenue, an increase of 140 basis points over the prior year.\nCash invested in acquisitions was $826 million.\nCash returned to shareholders was $226 million, which included $45 million of share repurchases and $181 million of dividends paid.\nThe Company's average recycled commodity price per ton sold at its recycling centers during the first quarter was $155. This represents an increase of $2 per ton over the prior year.\nThe Company completed and commenced operations on one renewable natural gas project during the quarter.\nRepublic was recognized by several leading organizations during the quarter, including:\nBarron's 2025 100 Most Sustainable Companies List\nEthisphere's 2025 World's Most Ethical Companies\u00ae List\nFortune's 2025 Most Innovative Companies List\nCompany Declared Quarterly Dividend\n\nRepublic announced that its Board of Directors declared a regular quarterly dividend of $0.58 per share for shareholders of record on July 2, 2025. The dividend will be paid on July 15, 2025.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 3,
+  "n_positive": 10,
+  "mean_pos_negative": 0.4791666666666667,
+  "mean_pos_positive": 0.471875,
+  "placement_asymmetry": 0.007291666666666696,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.40625,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0019446804493533465,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.001941747572815534,
+  "mean_tone": 0.02556443250377074
+ },
+ "lexicon": {
+  "words": 515,
+  "per_1000": {
+   "Negative": 5.8,
+   "Positive": 3.9,
+   "Uncertainty": 1.9,
+   "Litigious": 0.0,
+   "Strong modal": 1.9,
+   "Weak modal": 0.0,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 2,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First Quarter Earnings Per Share of $1.58.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Expanded First Quarter Net Income Margin 50 Basis Points and Adjusted EBITDA Margin 140 Basis Points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated Cash Flow from Operations of $1,025 Million and Adjusted Free Cash Flow of $727 Million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Invested More Than $800 Million in Value-Creating Acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Named to Barron's 2025 100 Most Sustainable Companies List.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "PHOENIX, April 24, 2025 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $495 million, or $1.58 per diluted share, for the three months ended March 31, 2025, versus $454 million, or $1.44 per diluted share, for the comparable 2024 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended March 31, 2025, was $496 million, or $1.58 per diluted share, versus $458 million, or $1.45 per diluted share, for the comparable 2024 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "\"We are off to a solid start to the year, and our business continues to perform well even with increased volatility in the broader economy,\" said Jon Vander Ark, president and chief executive officer.",
+   "d": 1,
+   "m": false,
+   "tone": -0.294,
+   "h": 0.0294,
+   "hits": [
+    [
+     105,
+     115,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\"While topline results were impacted by sluggish cyclical volumes and challenging winter weather, we generated high single-digit growth in EBITDA and 140 basis points of adjusted EBITDA margin expansion by pricing ahead of cost inflation and effective cost management.",
+   "d": 1,
+   "m": false,
+   "tone": -0.513,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "negative"
+     ]
+    ],
+    [
+     70,
+     81,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our ability to produce these results reflects the resiliency of our business model, and the financial benefits we are delivering by investing in our differentiating capabilities.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "First Quarter 2025 Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Total revenue growth of 3.8 percent includes 2.9 percent organic growth and 0.9 percent growth from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The impact of one less work day decreased revenue by 50 basis points compared to the same period in 2024.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Core price on total revenue increased revenue by 6.1 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Core price on related business revenue increased revenue by 7.3 percent, which consisted of 9.0 percent in the open market and 4.6 percent in the restricted portion of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     146,
+     156,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Revenue growth from average yield on total revenue was 4.5 percent, and volume decreased revenue by 1.2 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Revenue growth from average yield on related business revenue was 5.4 percent, and volume decreased related business revenue by 1.5 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Net income was $495 million, or a margin of 12.3 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "EPS was $1.58 per share, an increase of 9.7 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Adjusted EPS, a non-GAAP measure, was $1.58 per share, an increase of 9.0 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Adjusted EBITDA, a non-GAAP measure, was $1.27 billion, and adjusted EBITDA margin, a non-GAAP measure, was 31.6 percent of revenue, an increase of 140 basis points over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Cash invested in acquisitions was $826 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Cash returned to shareholders was $226 million, which included $45 million of share repurchases and $181 million of dividends paid.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "The Company's average recycled commodity price per ton sold at its recycling centers during the first quarter was $155.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "This represents an increase of $2 per ton over the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company completed and commenced operations on one renewable natural gas project during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Republic was recognized by several leading organizations during the quarter, including: Barron's 2025 100 Most Sustainable Companies List.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Ethisphere's 2025 World's Most Ethical Companies\u00ae List.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Fortune's 2025 Most Innovative Companies List.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     30,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Company Declared Quarterly Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Republic announced that its Board of Directors declared a regular quarterly dividend of $0.58 per share for shareholders of record on July 2, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The dividend will be paid on July 15, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
