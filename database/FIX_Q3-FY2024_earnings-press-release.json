@@ -1,0 +1,257 @@
+{
+ "company": "Comfort Systems USA",
+ "ticker": "FIX",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-24",
+ "source_url": "https://investors.comfortsystemsusa.com/news-releases/news-release-details/comfort-systems-usa-reports-third-quarter-2024-results",
+ "demo": false,
+ "source_text": "HOUSTON--(BUSINESS WIRE)--Oct. 24, 2024-- Comfort Systems USA, Inc. (NYSE: FIX) (the \u201cCompany\u201d) today reported results for the quarter ended September 30, 2024.\n\nFor the quarter ended September 30, 2024, net income was $146.2 million, or $4.09 per diluted share, as compared to $105.1 million, or $2.93 per diluted share, for the quarter ended September 30, 2023. Revenue for the third quarter of 2024 was $1.81 billion compared to $1.38 billion in 2023. The Company reported operating cash flow of $302.2 million in the current quarter compared to $214.2 million in 2023.\n\nBrian Lane, Comfort Systems USA\u2019s President and Chief Executive Officer, said, \u201cWe are happy to report record earnings and cash flow this quarter, as our employees continue to achieve unmatched execution for our customers. Recently acquired companies exceeded our high expectations, and each of our operating segments excelled in every respect. Quarterly per share earnings were 40% ahead of the same quarter last year, and through nine months our per share earnings were 60% higher than in the same period last year. Cash flow surpassed any previous quarter, and that extraordinary cash flow is both a great base for continued investment and a definite signal of strong underlying trends in our execution, customer relationships, and prospects.\u201d\n\nBacklog as of September 30, 2024 was $5.68 billion as compared to $5.77 billion as of June 30, 2024 and $4.29 billion as of September 30, 2023. On a same-store basis, backlog increased from $4.29 billion as of September 30, 2023 to $5.17 billion as of September 30, 2024.\n\nMr. Lane continued, \u201cBacklog continues far above the levels of the prior year and bookings were remarkable even as we are burning through work at a record pace, with same-store revenue higher by 18% on a quarterly basis, and by 23% year-to-date, compared to the prior year. Entering the fourth quarter, same-store backlog is 21% higher than it was at this time last year, and we are experiencing unprecedented strength in our pipelines. Considering these advantages and given the confidence we have in our unmatched workforce, we expect continued strong results in the fourth quarter and in 2025.\u201d\n\nThe Company reported net income of $376.6 million, or $10.52 per diluted share, for the nine months ended September 30, 2024, as compared to $231.8 million, or $6.46 per diluted share in 2023. The Company also reported revenue of $5.16 billion for the nine months ended September 30, 2024, as compared to $3.85 billion in 2023. Operating cash flow for the nine months ended September 30, 2024 was $638.6 million, as compared to $466.6 million in 2023.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.53125,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0017006802721088435,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.002617801047120419,
+  "mean_tone": 0.17687459599224306
+ },
+ "lexicon": {
+  "words": 382,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 23.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HOUSTON--(BUSINESS WIRE)--Oct. 24, 2024-- Comfort Systems USA, Inc. (NYSE: FIX) (the \u201cCompany\u201d) today reported results for the quarter ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "For the quarter ended September 30, 2024, net income was $146.2 million, or $4.09 per diluted share, as compared to $105.1 million, or $2.93 per diluted share, for the quarter ended September 30, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Revenue for the third quarter of 2024 was $1.81 billion compared to $1.38 billion in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "The Company reported operating cash flow of $302.2 million in the current quarter compared to $214.2 million in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Brian Lane, Comfort Systems USA\u2019s President and Chief Executive Officer, said, \u201cWe are happy to report record earnings and cash flow this quarter, as our employees continue to achieve unmatched execution for our customers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.857,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     92,
+     [
+      "positive"
+     ]
+    ],
+    [
+     176,
+     183,
+     [
+      "positive"
+     ]
+    ],
+    [
+     184,
+     193,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Recently acquired companies exceeded our high expectations, and each of our operating segments excelled in every respect.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Quarterly per share earnings were 40% ahead of the same quarter last year, and through nine months our per share earnings were 60% higher than in the same period last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Cash flow surpassed any previous quarter, and that extraordinary cash flow is both a great base for continued investment and a definite signal of strong underlying trends in our execution, customer relationships, and prospects.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     146,
+     152,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Backlog as of September 30, 2024 was $5.68 billion as compared to $5.77 billion as of June 30, 2024 and $4.29 billion as of September 30, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "On a same-store basis, backlog increased from $4.29 billion as of September 30, 2023 to $5.17 billion as of September 30, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Mr. Lane continued, \u201cBacklog continues far above the levels of the prior year and bookings were remarkable even as we are burning through work at a record pace, with same-store revenue higher by 18% on a quarterly basis, and by 23% year-to-date, compared to the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Entering the fourth quarter, same-store backlog is 21% higher than it was at this time last year, and we are experiencing unprecedented strength in our pipelines.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     136,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Considering these advantages and given the confidence we have in our unmatched workforce, we expect continued strong results in the fourth quarter and in 2025.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     18,
+     28,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     78,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "The Company reported net income of $376.6 million, or $10.52 per diluted share, for the nine months ended September 30, 2024, as compared to $231.8 million, or $6.46 per diluted share in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The Company also reported revenue of $5.16 billion for the nine months ended September 30, 2024, as compared to $3.85 billion in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Operating cash flow for the nine months ended September 30, 2024 was $638.6 million, as compared to $466.6 million in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
