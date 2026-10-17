@@ -1,0 +1,227 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-08-05",
+ "source_url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/2q25-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports Second-Quarter 2025 Results\n\nSecond-quarter 2025 profit per share of $4.62; adjusted profit per share of $4.72\nEnterprise operating cash flow was $3.1 billion in the second quarter of 2025\nDeployed $1.5 billion of cash for share repurchases and dividends in the second quarter\n\n\nIRVING, Texas, Aug. 5, 2025 \u2013 Caterpillar Inc. (NYSE: CAT) announced second-quarter 2025 results.\n\n\u201cThe Caterpillar team remained focused on customer success and demonstrated solid operational performance this quarter,\u201d said CEO Joe Creed. \u201cWe continued to see strong orders across our segments as demand remains resilient supported by infrastructure spending and growing energy needs.\u201d\n\nSales and revenues for the second quarter of 2025 were $16.6 billion, a 1% decrease compared with $16.7 billion in the second quarter of 2024. The decrease was primarily due to unfavorable price realization of $414 million, partially offset by higher sales volume of $237 million. Higher sales volume was mainly driven by higher sales of equipment to end users.\n\nOperating profit margin was 17.3% for the second quarter of 2025, compared with 20.9% for the second quarter of 2024. Adjusted operating profit margin was 17.6% for the second quarter of 2025, compared with 22.4% for the second quarter of 2024. Second-quarter 2025 profit per share was $4.62, compared with second-quarter 2024 profit per share of $5.48. Adjusted profit per share in the second quarter of 2025 was $4.72, compared with second-quarter 2024 adjusted profit per share of $5.99. For the second quarter of 2025 and 2024, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.\n\nFor the second quarter of 2025, enterprise operating cash flow was $3.1 billion, and the company ended the second quarter with $5.4 billion of enterprise cash. In the quarter, the company deployed $0.8 billion of cash for repurchases of Caterpillar common stock and $0.7 billion of cash for dividends.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 1,
+  "n_positive": 2,
+  "mean_pos_negative": 0.875,
+  "mean_pos_positive": 0.53125,
+  "placement_asymmetry": 0.34375,
+  "distance_from_headline": 12,
+  "first_negative_pos": 0.875,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4444444444444444,
+  "overall_hedge": 0.0,
+  "mean_tone": -0.036366959064327485
+ },
+ "lexicon": {
+  "words": 272,
+  "per_1000": {
+   "Negative": 7.4,
+   "Positive": 7.4,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 2,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports Second-Quarter 2025 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Second-quarter 2025 profit per share of $4.62; adjusted profit per share of $4.72.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Enterprise operating cash flow was $3.1 billion in the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Deployed $1.5 billion of cash for share repurchases and dividends in the second quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "IRVING, Texas, Aug. 5, 2025 \u2013 Caterpillar Inc. (NYSE: CAT) announced second-quarter 2025 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201cThe Caterpillar team remained focused on customer success and demonstrated solid operational performance this quarter,\u201d said CEO Joe Creed. \u201cWe continued to see strong orders across our segments as demand remains resilient supported by infrastructure spending and growing energy needs.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     58,
+     [
+      "positive"
+     ]
+    ],
+    [
+     162,
+     168,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Sales and revenues for the second quarter of 2025 were $16.6 billion, a 1% decrease compared with $16.7 billion in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The decrease was primarily due to unfavorable price realization of $414 million, partially offset by higher sales volume of $237 million.",
+   "d": 1,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     45,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Higher sales volume was mainly driven by higher sales of equipment to end users.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Operating profit margin was 17.3% for the second quarter of 2025, compared with 20.9% for the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted operating profit margin was 17.6% for the second quarter of 2025, compared with 22.4% for the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Second-quarter 2025 profit per share was $4.62, compared with second-quarter 2024 profit per share of $5.48.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Adjusted profit per share in the second quarter of 2025 was $4.72, compared with second-quarter 2024 adjusted profit per share of $5.99.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "For the second quarter of 2025 and 2024, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.",
+   "d": -1,
+   "m": true,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     126,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "For the second quarter of 2025, enterprise operating cash flow was $3.1 billion, and the company ended the second quarter with $5.4 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "In the quarter, the company deployed $0.8 billion of cash for repurchases of Caterpillar common stock and $0.7 billion of cash for dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
