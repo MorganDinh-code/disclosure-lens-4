@@ -1,0 +1,344 @@
+{
+ "company": "McDonald's",
+ "ticker": "MCD",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-02-10",
+ "source_url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q4-full-year-2024-results.html",
+ "demo": false,
+ "source_text": "Global Systemwide sales* were over $130 billion for the full year, with full year growth of more than $1 billion (more than $2 billion in constant currencies)\nSystemwide sales to loyalty members were approximately $30 billion for the full year and approximately $8 billion for the quarter across 60 loyalty markets, with full year growth of 30% over prior year\n90-day active loyalty users were over 175 million across 60 loyalty markets as of year-end, with growth of approximately 15% over prior year\n \n\nCHICAGO, IL - McDonald's Corporation today announced results for the fourth quarter and year ended December 31, 2024.\n\n\u201cAccelerating the Arches continues to be the right strategy as we focus on growing market share,\u201d said Chairman and CEO Chris Kempczinski. \u201cWe\u2019re playing to win, focusing on our customers with outstanding value, exciting menu innovation and culturally relevant marketing.\u201d \n\nFourth quarter financial performance:\n\nGlobal comparable sales increased 0.4%:\nU.S. decreased 1.4%\nInternational Operated Markets segment increased 0.1%\nInternational Developmental Licensed Markets segment increased 4.1%\nConsolidated revenues were flat (flat in constant currencies).\nSystemwide sales increased 2% (2% in constant currencies).\nConsolidated operating income increased 2% (3% in constant currencies). Excluding $3 million of current year net charges, as well as prior year pre-tax charges of $138 million, consolidated operating income decreased 2% (2% in constant currencies).**\nDiluted earnings per share was flat at $2.80 (increased 1% in constant currencies). Excluding the current year net charges described above of $0.03 per share, diluted earnings per share was $2.83, a decrease of 4% (4% in constant currencies) when also excluding prior year charges.**\nFull year financial performance:\n\nGlobal comparable sales decreased 0.1%:\nU.S. increased 0.2%\nInternational Operated Markets segment decreased 0.2%\nInternational Developmental Licensed Markets segment decreased 0.3%\nConsolidated revenues increased 2% (2% in constant currencies).\nSystemwide sales increased 1% (2% in constant currencies).\nConsolidated operating income increased 1% (1% in constant currencies). Results included $221 million of pre-tax restructuring charges associated with Accelerating the Organization and $70 million of pre-tax transaction costs and non-cash impairment charges, net of gains on associated property sales. Excluding these current year net charges, as well as prior year pre-tax charges of $362 million, consolidated operating income was flat (flat in constant currencies).**\nDiluted earnings per share was $11.39, a decrease of 1% (1% in constant currencies). Excluding the current year net charges described above of $0.33 per share, diluted earnings per share was $11.72, a decrease of 2% (1% in constant currencies) when also excluding prior year charges.**\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 25,
+  "n_material_neg": 9,
+  "n_positive": 10,
+  "mean_pos_negative": 0.6844444444444444,
+  "mean_pos_positive": 0.448,
+  "placement_asymmetry": 0.2364444444444444,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.24,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.007424840570907987,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9652777777777778,
+  "overall_hedge": 0.00804289544235925,
+  "mean_tone": 0.01676829268292683
+ },
+ "lexicon": {
+  "words": 373,
+  "per_1000": {
+   "Negative": 5.4,
+   "Positive": 10.7,
+   "Uncertainty": 8.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.7
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 4,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Global Systemwide sales* were over $130 billion for the full year, with full year growth of more than $1 billion (more than $2 billion in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Systemwide sales to loyalty members were approximately $30 billion for the full year and approximately $8 billion for the quarter across 60 loyalty markets, with full year growth of 30% over prior year 90-day active loyalty users were over 175 million across 60 loyalty markets as of year-end, with growth of approximately 15% over prior year",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.06,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     309,
+     322,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "CHICAGO, IL - McDonald's Corporation today announced results for the fourth quarter and year ended December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\u201cAccelerating the Arches continues to be the right strategy as we focus on growing market share,\u201d said Chairman and CEO Chris Kempczinski. \u201cWe\u2019re playing to win, focusing on our customers with outstanding value, exciting menu innovation and culturally relevant marketing.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.732,
+   "h": 0.0,
+   "hits": [
+    [
+     157,
+     160,
+     [
+      "positive"
+     ]
+    ],
+    [
+     212,
+     220,
+     [
+      "positive"
+     ]
+    ],
+    [
+     226,
+     236,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Fourth quarter financial performance:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Global comparable sales increased 0.4%: U.S. decreased 1.4%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "International Operated Markets segment increased 0.1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "International Developmental Licensed Markets segment increased 4.1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Consolidated revenues were flat (flat in constant currencies).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Systemwide sales increased 2% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Consolidated operating income increased 2% (3% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Excluding $3 million of current year net charges, as well as prior year pre-tax charges of $138 million, consolidated operating income decreased 2% (2% in constant currencies).**.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Diluted earnings per share was flat at $2.80 (increased 1% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Excluding the current year net charges described above of $0.03 per share, diluted earnings per share was $2.83, a decrease of 4% (4% in constant currencies) when also excluding prior year charges.**.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Full year financial performance:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Global comparable sales decreased 0.1%: U.S. increased 0.2%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "International Operated Markets segment decreased 0.2%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "International Developmental Licensed Markets segment decreased 0.3%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Consolidated revenues increased 2% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Systemwide sales increased 1% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Consolidated operating income increased 1% (1% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Results included $221 million of pre-tax restructuring charges associated with Accelerating the Organization and $70 million of pre-tax transaction costs and non-cash impairment charges, net of gains on associated property sales.",
+   "d": -1,
+   "m": true,
+   "tone": -0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "negative"
+     ]
+    ],
+    [
+     167,
+     177,
+     [
+      "negative",
+      "constraining"
+     ]
+    ],
+    [
+     194,
+     199,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Excluding these current year net charges, as well as prior year pre-tax charges of $362 million, consolidated operating income was flat (flat in constant currencies).**.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Diluted earnings per share was $11.39, a decrease of 1% (1% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Excluding the current year net charges described above of $0.33 per share, diluted earnings per share was $11.72, a decrease of 2% (1% in constant currencies) when also excluding prior year charges.**",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
