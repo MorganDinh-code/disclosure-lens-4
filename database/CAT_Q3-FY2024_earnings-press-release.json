@@ -1,0 +1,201 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-30",
+ "source_url": "https://www.caterpillar.com/content/caterpillarDotCom/en/news/corporate-press-releases/h/3q24-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports Third-Quarter 2024 Results\n\nThird-quarter 2024 profit per share of $5.06; adjusted profit per share of $5.17\nEnterprise operating cash flow was $3.6 billion in the third quarter of 2024\nDeployed $1.5 billion of cash for share repurchases and dividends in the third quarter\n\n\n\nIRVING, Texas, October 30, 2024 \u2013 Caterpillar Inc. (NYSE: CAT) announced third-quarter 2024 results. Sales and revenues for the third quarter of 2024 were $16.1 billion, a 4% decrease compared with $16.8 billion in the third quarter of 2023. The decrease was primarily due to lower sales volume.\n\nOperating profit margin was 19.5% for the third quarter of 2024, compared with 20.5% for the third quarter of 2023. Adjusted operating profit margin was 20.0% for the third quarter of 2024, compared with 20.8% for the third quarter of 2023. Third-quarter 2024 profit per share was $5.06, compared with third-quarter 2023 profit per share of $5.45. Adjusted profit per share in the third quarter of 2024 was $5.17, compared with third-quarter 2023 adjusted profit per share of $5.52. For the third quarter of 2024 and 2023, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.\n\nFor the third quarter of 2024, enterprise operating cash flow was $3.6 billion, and the company ended the third quarter with $5.6 billion of enterprise cash. In the quarter, the company deployed $0.8 billion of cash for repurchases of Caterpillar common stock and $0.7 billion of cash for dividends.\n\n\u201cI'd like to thank our global team for delivering strong adjusted operating profit margin and adjusted profit per share while generating robust ME&T free cash flow,\u201d said Chairman and CEO Jim Umpleby. \u201cOur third-quarter results reflect the benefit of the diversity of our end markets.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 15,
+  "n_material_neg": 1,
+  "n_positive": 0,
+  "mean_pos_negative": 0.8,
+  "distance_from_headline": 10,
+  "first_negative_pos": 0.8,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": null,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.7222222222222222,
+  "overall_hedge": 0.0,
+  "mean_tone": -0.02285263987391647
+ },
+ "lexicon": {
+  "words": 255,
+  "per_1000": {
+   "Negative": 3.9,
+   "Positive": 3.9,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 1,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports Third-Quarter 2024 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Third-quarter 2024 profit per share of $5.06; adjusted profit per share of $5.17.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Enterprise operating cash flow was $3.6 billion in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Deployed $1.5 billion of cash for share repurchases and dividends in the third quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "IRVING, Texas, October 30, 2024 \u2013 Caterpillar Inc. (NYSE: CAT) announced third-quarter 2024 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Sales and revenues for the third quarter of 2024 were $16.1 billion, a 4% decrease compared with $16.8 billion in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "The decrease was primarily due to lower sales volume.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Operating profit margin was 19.5% for the third quarter of 2024, compared with 20.5% for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Adjusted operating profit margin was 20.0% for the third quarter of 2024, compared with 20.8% for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Third-quarter 2024 profit per share was $5.06, compared with third-quarter 2023 profit per share of $5.45.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted profit per share in the third quarter of 2024 was $5.17, compared with third-quarter 2023 adjusted profit per share of $5.52.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "For the third quarter of 2024 and 2023, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.",
+   "d": -1,
+   "m": true,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     125,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "For the third quarter of 2024, enterprise operating cash flow was $3.6 billion, and the company ended the third quarter with $5.6 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "In the quarter, the company deployed $0.8 billion of cash for repurchases of Caterpillar common stock and $0.7 billion of cash for dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "\u201cI'd like to thank our global team for delivering strong adjusted operating profit margin and adjusted profit per share while generating robust ME&T free cash flow,\u201d said Chairman and CEO Jim Umpleby. \u201cOur third-quarter results reflect the benefit of the diversity of our end markets.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.213,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
