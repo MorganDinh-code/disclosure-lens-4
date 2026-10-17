@@ -1,0 +1,256 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-30",
+ "source_url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/1q26-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports First-Quarter 2026 Results\n\nFirst-quarter 2026 sales and revenues increased 22% to $17.4 billion\nFirst-quarter 2026 profit per share of $5.47; adjusted profit per share of $5.54\nDeployed $5.7 billion of cash for share repurchases and dividends in the first quarter\n\nIRVING, Texas, Apr. 30, 2026 \u2013 Caterpillar Inc. (NYSE: CAT) announced first-quarter 2026 results.\n\n\u201cOur team delivered a strong start to the year, driven by resilient end markets and disciplined execution in a dynamic operating environment,\u201d said Caterpillar Chairman and CEO Joe Creed. \u201cSolid sales and revenues growth, combined with robust order activity, demonstrate the strength of our business and our focus on solving our customers\u2019 toughest challenges. A record backlog provides a strong foundation for continued positive momentum.\u201d\n\nSales and revenues for the first quarter of 2026 were $17.4 billion, a 22% increase compared with $14.2 billion in the first quarter of 2025. The increase was primarily due to higher sales volume of $2.3 billion and favorable price realization of $426 million.\n\nOperating profit margin was 17.7% for the first quarter of 2026, compared with 18.1% for the first quarter of 2025. Adjusted operating profit margin was 18.0% for the first quarter of 2026, compared with 18.3% for the first quarter of 2025. First-quarter 2026 profit per share was $5.47, compared with first-quarter 2025 profit per share of $4.20. Adjusted profit per share in the first quarter of 2026 was $5.54, compared with first-quarter 2025 adjusted profit per share of $4.25. For the first quarter of 2026 and 2025, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.\n\nFor the first quarter of 2026, enterprise operating cash flow was $1.9 billion, and the company ended the first quarter with $4.1 billion of enterprise cash. In the quarter, the company deployed $5.0 billion of cash for repurchases of Caterpillar common stock and $0.7 billion of cash for dividends.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 1,
+  "n_positive": 4,
+  "mean_pos_negative": 0.875,
+  "mean_pos_positive": 0.375,
+  "placement_asymmetry": 0.5,
+  "distance_from_headline": 12,
+  "first_negative_pos": 0.875,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4444444444444444,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.08769063180827887
+ },
+ "lexicon": {
+  "words": 278,
+  "per_1000": {
+   "Negative": 7.2,
+   "Positive": 21.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 6,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports First-Quarter 2026 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "First-quarter 2026 sales and revenues increased 22% to $17.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "First-quarter 2026 profit per share of $5.47; adjusted profit per share of $5.54.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Deployed $5.7 billion of cash for share repurchases and dividends in the first quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "IRVING, Texas, Apr. 30, 2026 \u2013 Caterpillar Inc. (NYSE: CAT) announced first-quarter 2026 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201cOur team delivered a strong start to the year, driven by resilient end markets and disciplined execution in a dynamic operating environment,\u201d said Caterpillar Chairman and CEO Joe Creed. \u201cSolid sales and revenues growth, combined with robust order activity, demonstrate the strength of our business and our focus on solving our customers\u2019 toughest challenges.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ],
+    [
+     275,
+     283,
+     [
+      "positive"
+     ]
+    ],
+    [
+     317,
+     324,
+     [
+      "positive"
+     ]
+    ],
+    [
+     349,
+     359,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "A record backlog provides a strong foundation for continued positive momentum.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Sales and revenues for the first quarter of 2026 were $17.4 billion, a 22% increase compared with $14.2 billion in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The increase was primarily due to higher sales volume of $2.3 billion and favorable price realization of $426 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Operating profit margin was 17.7% for the first quarter of 2026, compared with 18.1% for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted operating profit margin was 18.0% for the first quarter of 2026, compared with 18.3% for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "First-quarter 2026 profit per share was $5.47, compared with first-quarter 2025 profit per share of $4.20.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Adjusted profit per share in the first quarter of 2026 was $5.54, compared with first-quarter 2025 adjusted profit per share of $4.25.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "For the first quarter of 2026 and 2025, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.",
+   "d": -1,
+   "m": true,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     125,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "For the first quarter of 2026, enterprise operating cash flow was $1.9 billion, and the company ended the first quarter with $4.1 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "In the quarter, the company deployed $5.0 billion of cash for repurchases of Caterpillar common stock and $0.7 billion of cash for dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
