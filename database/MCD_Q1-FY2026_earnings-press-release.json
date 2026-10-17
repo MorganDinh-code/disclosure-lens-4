@@ -1,0 +1,269 @@
+{
+ "company": "McDonald's",
+ "ticker": "MCD",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-07",
+ "source_url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q1-2026-results.html",
+ "demo": false,
+ "source_text": "Global comparable sales increased 3.8% for the quarter, with consistently solid comparable sales growth across all segments\nGlobal Systemwide sales* increased 11% (6% in constant currencies) to over $34 billion for the quarter\nAcross 70 loyalty markets, Systemwide sales to loyalty members were over $38 billion for the trailing twelve-month period and over $9 billion for the quarter\n \n\nCHICAGO, IL - McDonald's Corporation today announced results for the first quarter ended March 31, 2026.\n\n\u201cMcDonald's delivered this quarter. Our 6% global Systemwide sales growth shows how we executed with discipline, proving that we can drive results even in a challenging environment,\" said Chairman and CEO Chris Kempczinski. \"And it\u2019s our commitment to going three-for-three that sets McDonald\u2019s apart. Our value leadership, breakthrough marketing, and menu innovation continue to serve up what customers want.\u201d\n \n\nFirst quarter financial performance:\n\nGlobal comparable sales increased 3.8%:\nU.S. increased 3.9%\nInternational Operated Markets increased 3.9%\nInternational Developmental Licensed Markets increased 3.4%\nConsolidated revenues increased 9% (4% in constant currencies).\nSystemwide sales increased 11% (6% in constant currencies).\nConsolidated operating income increased 12% (6% in constant currencies). Results reflected pre-tax charges of $47 million and $66 million for the current year and prior year, respectively, primarily related to restructuring charges associated with Accelerating the Organization. Excluding these current and prior year charges, consolidated operating income increased 11% (5% in constant currencies).**\nDiluted earnings per share was $2.78, an increase of 7% (2% in constant currencies). Excluding the current year charges described above of $0.05 per share, diluted earnings per share was $2.83, an increase of 6% (1% in constant currencies) when also excluding prior year charges.**\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 19,
+  "n_material_neg": 1,
+  "n_positive": 13,
+  "mean_pos_negative": 0.8421052631578947,
+  "mean_pos_positive": 0.5910931174089069,
+  "placement_asymmetry": 0.2510121457489878,
+  "distance_from_headline": 12,
+  "first_negative_pos": 0.8421052631578947,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6296296296296297,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.014341409078251184
+ },
+ "lexicon": {
+  "words": 245,
+  "per_1000": {
+   "Negative": 8.2,
+   "Positive": 12.2,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 4.1
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 3,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Global comparable sales increased 3.8% for the quarter, with consistently solid comparable sales growth across all segments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Global Systemwide sales* increased 11% (6% in constant currencies) to over $34 billion for the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Across 70 loyalty markets, Systemwide sales to loyalty members were over $38 billion for the trailing twelve-month period and over $9 billion for the quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "CHICAGO, IL - McDonald's Corporation today announced results for the first quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\u201cMcDonald's delivered this quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Our 6% global Systemwide sales growth shows how we executed with discipline, proving that we can drive results even in a challenging environment,\" said Chairman and CEO Chris Kempczinski.",
+   "d": 1,
+   "m": false,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     121,
+     132,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\"And it\u2019s our commitment to going three-for-three that sets McDonald\u2019s apart.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     24,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Our value leadership, breakthrough marketing, and menu innovation continue to serve up what customers want.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     22,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     55,
+     65,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "First quarter financial performance:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Global comparable sales increased 3.8%: U.S. increased 3.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "International Operated Markets increased 3.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "International Developmental Licensed Markets increased 3.4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Consolidated revenues increased 9% (4% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Systemwide sales increased 11% (6% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Consolidated operating income increased 12% (6% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Results reflected pre-tax charges of $47 million and $66 million for the current year and prior year, respectively, primarily related to restructuring charges associated with Accelerating the Organization.",
+   "d": -1,
+   "m": true,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     150,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Excluding these current and prior year charges, consolidated operating income increased 11% (5% in constant currencies).**.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Diluted earnings per share was $2.78, an increase of 7% (2% in constant currencies).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Excluding the current year charges described above of $0.05 per share, diluted earnings per share was $2.83, an increase of 6% (1% in constant currencies) when also excluding prior year charges.**",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
