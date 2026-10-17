@@ -1,0 +1,647 @@
+{
+ "company": "Ferguson Enterprises, Inc.",
+ "ticker": "FERG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2024-12-10",
+ "source_url": "https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2024/Ferguson-Reports-First-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "Continued Volume Growth with Full Year Guidance Unchanged\n\nFirst quarter highlights\n\nSales of $7.8 billion, an increase of 0.8%.\nSales volume grew 3%, partially offset by continued deflation of approximately 2%.\nGross margin of 30.1%, down 10 bps from prior year.\nOperating margin of 8.6% (9.1% on an adjusted basis).\nDiluted earnings per share of $2.34 ($2.45 on an adjusted basis).\nDeclared quarterly dividend of $0.83, reflecting a 5% increase over the prior year.\nCompleted one acquisition during the quarter and one subsequently.\nShare repurchases of $256 million during the quarter.\nBalance sheet remains strong with net debt to adjusted EBITDA of 1.2x.\nNEWPORT NEWS, Va.--(BUSINESS WIRE)-- Kevin Murphy, Ferguson CEO, commented, \u201cOur associates remained focused on execution, delivering revenue growth in the quarter, despite continued market headwinds and commodity price deflation. The year has started largely as expected and our balanced business mix and ability to deploy scale locally give us confidence in our continued market outperformance. Our strong balance sheet and cash generative model allow us to continue to invest for organic growth, consolidate our fragmented markets through acquisitions and return capital to shareholders.\u201d\n\n\u201cOur fiscal 2025 financial guidance remains unchanged, reflecting modest full year revenue growth with continued outperformance. While we anticipate an ongoing challenging near term market environment, we will continue to invest in scale and capabilities to take advantage of multi-year structural tailwinds such as underbuilt and aging U.S. housing, non-residential large capital projects and our opportunity with the plumbing and HVAC specialized professional.\u201d\n\n\n\nSummary of financial results\n\nFirst quarter\n\nNet sales of $7.8 billion were 0.8% ahead of last year driven by an organic revenue decline of 0.3%, offset by acquisition growth of 1.1%. On a volumetric basis, total volume increased by approximately 3% with organic volume up approximately 2%. Continued weakness in certain commodity related categories drove modest overall price deflation of around 2%.\n\nGross margin of 30.1% was 10 basis points lower than last year. Operating expense growth was driven by volumetric growth, cost inflation and continued investment in core capabilities for future growth.\n\nReported operating profit was $665 million (8.6% operating margin), 10.0% lower than last year. Adjusted operating profit of $706 million (9.1% adjusted operating margin) was 8.7% below last year.\n\nReported diluted earnings per share was $2.34 (Q1 2024: $2.54), a decrease of 7.9% compared to last year, and adjusted diluted earnings per share of $2.45 decreased 7.5% due to the lower adjusted operating profit, partially offset by the impact of share repurchases.\n\nUSA - first quarter\n\nNet sales in the US business increased by 0.5%, with an organic revenue decline of 0.4% offset by a 0.9% contribution from acquisitions.\n\nResidential end markets, which comprise just over half of US revenue, remained down year-over-year with market activity similar to the fourth quarter. Overall, our residential revenue was flat in the first quarter.\n\nNon-residential end markets, representing just under half of US revenue, were slightly more resilient but also remain down year-over-year. We continue to take share with non-residential revenue growth of approximately 1% in the first quarter. Sales in civil/infrastructure and industrial end markets were stronger with commercial broadly flat. We continued to see good levels of shipment and bidding activity on large capital projects.\n\nAdjusted operating profit of $697 million was 9.0% or $69 million below last year.\n\nWe completed one acquisition during the quarter, Fresno Pipe and Supply, a leading distributor of industrial pipes, valves and fitting products in California. Additionally, subsequent to quarter end we acquired Templeton and its affiliate, TEMSCO, which serve the water and wastewater industries in the southeast.\n\nCanada - first quarter\n\nNet sales grew by 6.3%, with an organic revenue growth of 1.3% and a 5.6% contribution from acquisitions, partially offset by a 0.6% adverse impact from foreign exchange rates. Markets have been similar to that of the United States with non-residential activity remaining more resilient than residential. Adjusted operating profit of $23 million was flat to last year.\n\ninancial position\n\nNet debt to adjusted EBITDA at October 31, 2024 was 1.2x and during the quarter we completed share repurchases of $256 million with approximately $600 million remaining under our current share repurchase program.\n\nWe declared a quarterly dividend of $0.83 representing a 5% growth over prior year. The dividend will be paid on February 6, 2025 to stockholders of record as of December 20, 2024.\n\nDuring the quarter, we completed a public offering of $750 million of senior unsecured notes due in 2034. We used a portion of the net proceeds from the sale of the notes to prepay certain outstanding term loans, with the remaining proceeds to be used for general corporate purposes.\n\nThere have been no other significant changes to the financial position of the Company.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 48,
+  "n_material_neg": 5,
+  "n_positive": 14,
+  "mean_pos_negative": 0.4083333333333333,
+  "mean_pos_positive": 0.42857142857142855,
+  "placement_asymmetry": -0.02023809523809522,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.10416666666666667,
+  "hedge_near_negative": 0.018526315789473682,
+  "hedge_near_positive": 0.01309141769494841,
+  "hedging_asymmetry": 1.4151496973946862,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8979591836734694,
+  "overall_hedge": 0.008130081300813009,
+  "mean_tone": 0.030188923395445134
+ },
+ "lexicon": {
+  "words": 738,
+  "per_1000": {
+   "Negative": 6.8,
+   "Positive": 10.8,
+   "Uncertainty": 8.1,
+   "Litigious": 0.0,
+   "Strong modal": 2.7,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 8,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Continued Volume Growth with Full Year Guidance Unchanged",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "First quarter highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales of $7.8 billion, an increase of 0.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Sales volume grew 3%, partially offset by continued deflation of approximately 2%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Gross margin of 30.1%, down 10 bps from prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Operating margin of 8.6% (9.1% on an adjusted basis).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Diluted earnings per share of $2.34 ($2.45 on an adjusted basis).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Declared quarterly dividend of $0.83, reflecting a 5% increase over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Completed one acquisition during the quarter and one subsequently.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Share repurchases of $256 million during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Balance sheet remains strong with net debt to adjusted EBITDA of 1.2x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "NEWPORT NEWS, Va.--(BUSINESS WIRE)-- Kevin Murphy, Ferguson CEO, commented, \u201cOur associates remained focused on execution, delivering revenue growth in the quarter, despite continued market headwinds and commodity price deflation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     165,
+     172,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The year has started largely as expected and our balanced business mix and ability to deploy scale locally give us confidence in our continued market outperformance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Our strong balance sheet and cash generative model allow us to continue to invest for organic growth, consolidate our fragmented markets through acquisitions and return capital to shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cOur fiscal 2025 financial guidance remains unchanged, reflecting modest full year revenue growth with continued outperformance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "While we anticipate an ongoing challenging near term market environment, we will continue to invest in scale and capabilities to take advantage of multi-year structural tailwinds such as underbuilt and aging U.S. housing, non-residential large capital projects and our opportunity with the plumbing and HVAC specialized professional.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.2,
+   "h": 0.02,
+   "hits": [
+    [
+     9,
+     19,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     31,
+     42,
+     [
+      "negative"
+     ]
+    ],
+    [
+     76,
+     80,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     134,
+     143,
+     [
+      "positive"
+     ]
+    ],
+    [
+     269,
+     280,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Summary of financial results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "First quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Net sales of $7.8 billion were 0.8% ahead of last year driven by an organic revenue decline of 0.3%, offset by acquisition growth of 1.1%.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "On a volumetric basis, total volume increased by approximately 3% with organic volume up approximately 2%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     49,
+     62,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Continued weakness in certain commodity related categories drove modest overall price deflation of around 2%.",
+   "d": -1,
+   "m": true,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Gross margin of 30.1% was 10 basis points lower than last year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Operating expense growth was driven by volumetric growth, cost inflation and continued investment in core capabilities for future growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Reported operating profit was $665 million (8.6% operating margin), 10.0% lower than last year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Adjusted operating profit of $706 million (9.1% adjusted operating margin) was 8.7% below last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Reported diluted earnings per share was $2.34 (Q1 2024: $2.54), a decrease of 7.9% compared to last year, and adjusted diluted earnings per share of $2.45 decreased 7.5% due to the lower adjusted operating profit, partially offset by the impact of share repurchases.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "USA - first quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Net sales in the US business increased by 0.5%, with an organic revenue decline of 0.4% offset by a 0.9% contribution from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Residential end markets, which comprise just over half of US revenue, remained down year-over-year with market activity similar to the fourth quarter.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Overall, our residential revenue was flat in the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Non-residential end markets, representing just under half of US revenue, were slightly more resilient but also remain down year-over-year.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "We continue to take share with non-residential revenue growth of approximately 1% in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Sales in civil/infrastructure and industrial end markets were stronger with commercial broadly flat.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "We continued to see good levels of shipment and bidding activity on large capital projects.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Adjusted operating profit of $697 million was 9.0% or $69 million below last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "We completed one acquisition during the quarter, Fresno Pipe and Supply, a leading distributor of industrial pipes, valves and fitting products in California.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Additionally, subsequent to quarter end we acquired Templeton and its affiliate, TEMSCO, which serve the water and wastewater industries in the southeast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Canada - first quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Net sales grew by 6.3%, with an organic revenue growth of 1.3% and a 5.6% contribution from acquisitions, partially offset by a 0.6% adverse impact from foreign exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     133,
+     140,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Markets have been similar to that of the United States with non-residential activity remaining more resilient than residential.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Adjusted operating profit of $23 million was flat to last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "inancial position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Net debt to adjusted EBITDA at October 31, 2024 was 1.2x and during the quarter we completed share repurchases of $256 million with approximately $600 million remaining under our current share repurchase program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     132,
+     145,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "We declared a quarterly dividend of $0.83 representing a 5% growth over prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The dividend will be paid on February 6, 2025 to stockholders of record as of December 20, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "During the quarter, we completed a public offering of $750 million of senior unsecured notes due in 2034.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "We used a portion of the net proceeds from the sale of the notes to prepay certain outstanding term loans, with the remaining proceeds to be used for general corporate purposes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "There have been no other significant changes to the financial position of the Company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
