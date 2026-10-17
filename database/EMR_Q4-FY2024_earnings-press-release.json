@@ -1,0 +1,244 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2024-11-05",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/22/emerson-reports-fourth-quarter-and-full-year-2024-results-provides-initial-2025-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Nov. 5, 2024 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its fourth quarter and fiscal year ended September 30, 2024. Emerson also declared a quarterly cash dividend increase to $0.5275 per share of common stock payable December 10, 2024 to stockholders of record November 15, 2024.\n\nManagement Commentary\n\n\"Emerson completed an outstanding fiscal 2024, with strong underlying sales growth, operating leverage, adjusted earnings per share and cash generation. I want to thank our employees around the world for their commitment and passion which were integral to delivering these results,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"We have done an exceptional job integrating Test & Measurement with $100 million of synergies realized in the first year, and we remain resolute in our focus on executing at a world-class level, guided by our Emerson Management System. Emerson's leading technology, alignment with secular trends and customer focus provide confidence for continued momentum in fiscal 2025.\"\n\nKarsanbhai continued, \"We have made significant progress on our value-creation roadmap over the past three years, and the strategic actions announced today mark the final phase of our portfolio transformation to an industrial technology leader delivering advanced automation solutions. The actions we are taking, combined with our solid fiscal 2024 financial results, demonstrate the benefits and potential of Emerson's higher growth and higher margin portfolio. We are energized to complete our transformation and continue creating value for shareholders over the near- and long-term.\"\n\n2025 Outlook\n\nThe following tables summarize the fiscal year 2025 guidance framework and does not include any impact from the proposed portfolio transactions announced today. The 2025 outlook assumes approximately $1.2 billion of dividend payments. Guidance figures are approximate.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 15,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.39999999999999997,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.011320754716981131,
+  "mean_tone": 0.10851393188854488
+ },
+ "lexicon": {
+  "words": 265,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 15.1,
+   "Uncertainty": 11.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 3.8
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 4,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Nov. 5, 2024 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its fourth quarter and fiscal year ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend increase to $0.5275 per share of common stock payable December 10, 2024 to stockholders of record November 15, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson completed an outstanding fiscal 2024, with strong underlying sales growth, operating leverage, adjusted earnings per share and cash generation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     58,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "I want to thank our employees around the world for their commitment and passion which were integral to delivering these results,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     67,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\"We have done an exceptional job integrating Test & Measurement with $100 million of synergies realized in the first year, and we remain resolute in our focus on executing at a world-class level, guided by our Emerson Management System.",
+   "d": 0,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Emerson's leading technology, alignment with secular trends and customer focus provide confidence for continued momentum in fiscal 2025.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Karsanbhai continued, \"We have made significant progress on our value-creation roadmap over the past three years, and the strategic actions announced today mark the final phase of our portfolio transformation to an industrial technology leader delivering advanced automation solutions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "The actions we are taking, combined with our solid fiscal 2024 financial results, demonstrate the benefits and potential of Emerson's higher growth and higher margin portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "We are energized to complete our transformation and continue creating value for shareholders over the near- and long-term.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The following tables summarize the fiscal year 2025 guidance framework and does not include any impact from the proposed portfolio transactions announced today.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The 2025 outlook assumes approximately $1.2 billion of dividend payments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.25,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     25,
+     38,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Guidance figures are approximate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.25,
+   "hits": [
+    [
+     21,
+     32,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
