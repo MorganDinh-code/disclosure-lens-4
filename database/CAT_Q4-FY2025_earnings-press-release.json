@@ -1,0 +1,285 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-01-29",
+ "source_url": "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "Fourth-quarter 2025 sales and revenues were $19.1 billion; full-year sales and revenues were $67.6 billion\nFourth-quarter 2025 profit per share of $5.12; adjusted profit per share of $5.16\nFull-year profit per share of $18.81; adjusted profit per share of $19.06\nStrong full-year enterprise operating cash flow of $11.7 billion; ended 2025 with $10.0 billion of enterprise cash\nDeployed $7.9 billion of cash for share repurchases and dividends in 2025\n\n\"Our centennial year marked a significant milestone, underscored by the highest full-year sales and revenues in Caterpillar's history and a single-quarter record of $19.1 billion,\" said Caterpillar CEO Joe Creed. \"These results demonstrate the strength of our end markets and our disciplined execution. With a record backlog, we enter the new year with strong momentum and a continued focus on delivering long-term value for our customers and shareholders.\"\n\nSales and revenues for the fourth quarter of 2025 were $19.1 billion, an 18% increase compared with $16.2 billion in the fourth quarter of 2024. Operating profit margin was 13.9% for the fourth quarter of 2025, compared with 18.0% for the fourth quarter of 2024. Adjusted operating profit margin was 15.6% for the fourth quarter of 2025, compared with 18.3% for the fourth quarter of 2024. Fourth-quarter 2025 profit per share was $5.12, compared with $5.78 profit per share in the fourth quarter of 2024. Adjusted profit per share in the fourth quarter of 2025 was $5.16, compared with fourth-quarter 2024 adjusted profit per share of $5.14.\n\nFull-year sales and revenues in 2025 were $67.6 billion, up 4% compared with $64.8 billion in 2024. The increase reflected higher sales volume of $3.4 billion, partially offset by unfavorable price realization of $0.8 billion. Higher sales volume was primarily driven by higher sales of equipment to end users. Operating profit margin was 16.5% in 2025, compared with 20.2% in 2024. Adjusted operating profit margin was 17.2% in 2025, compared with 20.7% in 2024. Full-year profit was $18.81 per share in 2025, compared with profit of $22.05 per share in 2024. Adjusted profit per share in 2025 was $19.06, compared with adjusted profit per share of $21.90 in 2024.\n\nIn 2025 and 2024, adjusted operating profit margin excluded restructuring costs. 2025 and 2024 adjusted profit per share excluded restructuring costs and mark-to-market gains for remeasurement of pension and other postemployment benefit (OPEB) plans. In 2024, adjusted profit per share also excluded a discrete tax benefit for a tax law change related to currency translation. Please see a reconciliation of GAAP to non-GAAP financial measures in the appendix on pages 13 to 15.\n\nFor the full year 2025, enterprise operating cash flow was $11.7 billion, and the company ended the fourth quarter with $10.0 billion of enterprise cash. During the year, the company deployed $5.2 billion of cash for repurchases of Caterpillar common stock and $2.7 billion of cash for dividends.\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.5363636363636364,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.06900424843973231
+ },
+ "lexicon": {
+  "words": 350,
+  "per_1000": {
+   "Negative": 2.9,
+   "Positive": 11.4,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.9,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 4,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Fourth-quarter 2025 sales and revenues were $19.1 billion; full-year sales and revenues were $67.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth-quarter 2025 profit per share of $5.12; adjusted profit per share of $5.16.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Full-year profit per share of $18.81; adjusted profit per share of $19.06.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Strong full-year enterprise operating cash flow of $11.7 billion; ended 2025 with $10.0 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Deployed $7.9 billion of cash for share repurchases and dividends in 2025",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"Our centennial year marked a significant milestone, underscored by the highest full-year sales and revenues in Caterpillar's history and a single-quarter record of $19.1 billion,\" said Caterpillar CEO Joe Creed.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\"These results demonstrate the strength of our end markets and our disciplined execution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "With a record backlog, we enter the new year with strong momentum and a continued focus on delivering long-term value for our customers and shareholders.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Sales and revenues for the fourth quarter of 2025 were $19.1 billion, an 18% increase compared with $16.2 billion in the fourth quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Operating profit margin was 13.9% for the fourth quarter of 2025, compared with 18.0% for the fourth quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted operating profit margin was 15.6% for the fourth quarter of 2025, compared with 18.3% for the fourth quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Fourth-quarter 2025 profit per share was $5.12, compared with $5.78 profit per share in the fourth quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Adjusted profit per share in the fourth quarter of 2025 was $5.16, compared with fourth-quarter 2024 adjusted profit per share of $5.14.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Full-year sales and revenues in 2025 were $67.6 billion, up 4% compared with $64.8 billion in 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase reflected higher sales volume of $3.4 billion, partially offset by unfavorable price realization of $0.8 billion.",
+   "d": 1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Higher sales volume was primarily driven by higher sales of equipment to end users.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Operating profit margin was 16.5% in 2025, compared with 20.2% in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Adjusted operating profit margin was 17.2% in 2025, compared with 20.7% in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Full-year profit was $18.81 per share in 2025, compared with profit of $22.05 per share in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Adjusted profit per share in 2025 was $19.06, compared with adjusted profit per share of $21.90 in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "For the full year 2025, enterprise operating cash flow was $11.7 billion, and the company ended the fourth quarter with $10.0 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "During the year, the company deployed $5.2 billion of cash for repurchases of Caterpillar common stock and $2.7 billion of cash for dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
