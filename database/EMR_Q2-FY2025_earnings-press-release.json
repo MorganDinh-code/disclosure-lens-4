@@ -1,0 +1,310 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-05-07",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/8/emerson-reports-second-quarter-2025-results-updates-2025-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, May 7, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its second quarter ended March 31, 2025 and updated its full year outlook for fiscal 2025. Emerson also declared a quarterly cash dividend of $0.5275 per share of common stock payable June 10, 2025 to stockholders of record on May 16, 2025.\n\nManagement Commentary\n\n\"Emerson delivered strong underlying orders in the second quarter with margin expansion and adjusted earnings exceeding our expectations,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"We achieved another quarter of record gross profit and adjusted segment EBITA margins, supported by our Emerson Management System and demonstrating the value customers attribute to our leading technology. Our superior first half performance and ability to navigate the tariff environment give us the confidence to update our 2025 outlook.\"\n\nKarsanbhai continued, \"We have also marked the conclusion of Emerson's portfolio transformation with the completion of the AspenTech buy-in on March 12. We are pleased to be making significant progress on the integration. In addition, our review of strategic alternatives for our Safety & Productivity segment concluded the best value for our shareholders is to retain the business and continue to drive the segment's industry leading margins and cash flow. Looking ahead, we are excited to capitalize on the growth potential of our transformed portfolio, supported by secular drivers, and to sustain the excellent operational performance we have consistently delivered since 2021.\"\n\n2025 Outlook\n\nThe fiscal year 2025 guidance framework now reflects the full ownership of AspenTech. Net sales guidance increases to ~4%, as the impact from foreign exchange is now expected to be flat, and underlying sales are held at the midpoint. GAAP EPS decreases due to transaction-related costs, while adjusted EPS guidance increases at the midpoint. Expectations for operating cash flow and free cash flow are updated to $3.5B - $3.6B and $3.1B - $3.2B, respectively, as strong operational performance partially offsets transaction-related headwinds of ~$0.2B. The 2025 outlook assumes returning ~$2.3B to shareholders through $1.1B of share repurchases and ~$1.2B of dividend.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 17,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.45882352941176474,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.003105590062111801,
+  "mean_tone": 0.24150411616877626
+ },
+ "lexicon": {
+  "words": 322,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 34.2,
+   "Uncertainty": 9.3,
+   "Litigious": 0.0,
+   "Strong modal": 3.1,
+   "Weak modal": 6.2,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 11,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, May 7, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its second quarter ended March 31, 2025 and updated its full year outlook for fiscal 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     10,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.5275 per share of common stock payable June 10, 2025 to stockholders of record on May 16, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     136,
+     139,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson delivered strong underlying orders in the second quarter with margin expansion and adjusted earnings exceeding our expectations,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\"We achieved another quarter of record gross profit and adjusted segment EBITA margins, supported by our Emerson Management System and demonstrating the value customers attribute to our leading technology.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     186,
+     193,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Our superior first half performance and ability to navigate the tariff environment give us the confidence to update our 2025 outlook.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Karsanbhai continued, \"We have also marked the conclusion of Emerson's portfolio transformation with the completion of the AspenTech buy-in on March 12.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "We are pleased to be making significant progress on the integration.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     40,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "In addition, our review of strategic alternatives for our Safety & Productivity segment concluded the best value for our shareholders is to retain the business and continue to drive the segment's industry leading margins and cash flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     106,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     205,
+     212,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Looking ahead, we are excited to capitalize on the growth potential of our transformed portfolio, supported by secular drivers, and to sustain the excellent operational performance we have consistently delivered since 2021.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     156,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The fiscal year 2025 guidance framework now reflects the full ownership of AspenTech.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Net sales guidance increases to ~4%, as the impact from foreign exchange is now expected to be flat, and underlying sales are held at the midpoint.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "GAAP EPS decreases due to transaction-related costs, while adjusted EPS guidance increases at the midpoint.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Expectations for operating cash flow and free cash flow are updated to $3.5B - $3.6B and $3.1B - $3.2B, respectively, as strong operational performance partially offsets transaction-related headwinds of ~$0.2B.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     121,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "The 2025 outlook assumes returning ~$2.3B to shareholders through $1.1B of share repurchases and ~$1.2B of dividend.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
