@@ -1,0 +1,238 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-29",
+ "source_url": "https://investors.caterpillar.com/news/news-details/2025/Caterpillar-Reports-Third-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "Third-quarter 2025 sales and revenues increased 10% to $17.6 billion\nThird-quarter 2025 profit per share of $4.88; adjusted profit per share of $4.95    \nDeployed $1.1 billion of cash for dividends and share repurchases in the third quarter\n\nIRVING, Texas, Oct. 29, 2025 /PRNewswire/ -- Caterpillar Inc. (NYSE: CAT) announced third-quarter 2025 results.\n\nCaterpillar Inc (PRNewsfoto/Caterpillar Inc.)(opens in a new window)\n\n\"Solid performance from our team generated strong results this quarter, driven by resilient demand and focused execution across our three primary segments,\" said Caterpillar CEO Joe Creed. \"Our team's continued discipline in a dynamic environment, coupled with a growing backlog, positions us for sustained momentum and long-term profitable growth.\"\n\nSales and revenues for the third quarter of 2025 were $17.6 billion, a 10% increase compared with $16.1 billion in the third quarter of 2024. The increase was primarily due to higher sales volume. Higher sales volume was mainly driven by higher sales of equipment to end users.\n\nOperating profit margin was 17.3% for the third quarter of 2025, compared with 19.5% for the third quarter of 2024. Adjusted operating profit margin was 17.5% for the third quarter of 2025, compared with 20.0% for the third quarter of 2024. Third-quarter 2025 profit per share was $4.88, compared with third-quarter 2024 profit per share of $5.06. Adjusted profit per share in the third quarter of 2025 was $4.95, compared with third-quarter 2024 adjusted profit per share of $5.17. Third-quarter 2025 profit per share of $4.88 reflected an increase in the estimated global annual effective tax rate to 24.0%, and a net discrete tax charge in the quarter. For the third quarter of 2025 and 2024, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.\n\nFor the third quarter of 2025, enterprise operating cash flow was $3.7 billion, and the company ended the third quarter with $7.5 billion of enterprise cash. In the quarter, the company deployed $0.7 billion of cash for dividends and $0.4 billion of cash for repurchases of Caterpillar common stock.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 1,
+  "n_positive": 5,
+  "mean_pos_negative": 0.8888888888888888,
+  "mean_pos_positive": 0.4666666666666667,
+  "placement_asymmetry": 0.42222222222222217,
+  "distance_from_headline": 12,
+  "first_negative_pos": 0.8888888888888888,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4444444444444444,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.013866523528359273
+ },
+ "lexicon": {
+  "words": 302,
+  "per_1000": {
+   "Negative": 3.3,
+   "Positive": 6.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 2,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Third-quarter 2025 sales and revenues increased 10% to $17.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Third-quarter 2025 profit per share of $4.88; adjusted profit per share of $4.95.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Deployed $1.1 billion of cash for dividends and share repurchases in the third quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "IRVING, Texas, Oct. 29, 2025 /PRNewswire/ -- Caterpillar Inc. (NYSE: CAT) announced third-quarter 2025 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Caterpillar Inc (PRNewsfoto/Caterpillar Inc.)(opens in a new window)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"Solid performance from our team generated strong results this quarter, driven by resilient demand and focused execution across our three primary segments,\" said Caterpillar CEO Joe Creed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\"Our team's continued discipline in a dynamic environment, coupled with a growing backlog, positions us for sustained momentum and long-term profitable growth.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     141,
+     151,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Sales and revenues for the third quarter of 2025 were $17.6 billion, a 10% increase compared with $16.1 billion in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The increase was primarily due to higher sales volume.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Higher sales volume was mainly driven by higher sales of equipment to end users.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Operating profit margin was 17.3% for the third quarter of 2025, compared with 19.5% for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted operating profit margin was 17.5% for the third quarter of 2025, compared with 20.0% for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Third-quarter 2025 profit per share was $4.88, compared with third-quarter 2024 profit per share of $5.06.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Adjusted profit per share in the third quarter of 2025 was $4.95, compared with third-quarter 2024 adjusted profit per share of $5.17.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Third-quarter 2025 profit per share of $4.88 reflected an increase in the estimated global annual effective tax rate to 24.0%, and a net discrete tax charge in the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "For the third quarter of 2025 and 2024, adjusted operating profit margin and adjusted profit per share excluded restructuring costs.",
+   "d": -1,
+   "m": true,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     125,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "For the third quarter of 2025, enterprise operating cash flow was $3.7 billion, and the company ended the third quarter with $7.5 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "In the quarter, the company deployed $0.7 billion of cash for dividends and $0.4 billion of cash for repurchases of Caterpillar common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
