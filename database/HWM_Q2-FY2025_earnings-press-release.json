@@ -1,0 +1,658 @@
+{
+ "company": "Howmet Aerospace",
+ "ticker": "HWM",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-31",
+ "source_url": "https://www.howmet.com/financial-release/2025-07-31/howmet-aerospace-reports-second-quarter-2025-results/",
+ "demo": false,
+ "source_text": "Record Revenue Up 9% Year Over Year, Record Profit, Strong Cash from Operations\n$175 Million Deployed for Common Stock Repurchases, $76 Million Debt Reduction\nFull Year 2025 Guidance1 Raised on All Metrics\n\nSecond Quarter 2025 GAAP Financial Results\n\nRevenue of $2.05 billion, up 9% year over year, driven by Commercial Aerospace, up 8%\nOperating Income Margin of 25.4%, up 420 basis points year over year\nNet Income of $407 million versus $266 million in the second quarter 2024; Earnings per Share of $1.00 versus $0.65 in the second quarter 2024\nGenerated $446 million of Cash from Operations; $339 million of Cash used for Financing Activities; and $97 million of Cash used for Investing Activities\nShare repurchases of $175 million; paid $0.10 per share common stock dividend\nSecond Quarter 2025 Adjusted Financial Results\n\nAdjusted EBITDA excluding special items of $589 million, up 22% year over year\nAdjusted EBITDA margin excluding special items of 28.7%, up 300 basis points year over year\nAdjusted Operating Income Margin excluding special items of 25.3%, up 330 basis points year over year\nAdjusted Earnings Per Share excluding special items of $0.91, up 36% year over year\nGenerated $344 million of free cash flow\n\nKey Announcements \n\nRepurchased $175 million of common stock in second quarter 2025 at an average price of $142.36 per share\nRepurchased an additional $100 million of common stock in July 2025 at an average price of $182.90 per share\nIncreased the third quarter dividend by 20% to $0.12 per share on the Company\u2019s common stock\nPaid down $76 million of the US dollar-denominated Term Loan in second quarter 2025, reducing annualized interest expense by approximately $4 million\nFull Year 2025 Guidance raised on all metrics above the second quarter 2025 outperformance\nPITTSBURGH, Pa., July 31, 2025 /PRNewswire/ \u2014 Howmet Aerospace (NYSE: HWM) today reported second quarter 2025 results. The Company reported record second quarter 2025 revenue of $2.05 billion, up 9% year over year, driven by growth in the commercial aerospace market of 8%, growth in the defense aerospace market of 21%, and growth in the industrial and other market of 17%, partially offset by declines in the commercial transportation market of 4%.\n\nHowmet Aerospace reported Net Income of $407 million, or $1.00 per share, in the second quarter 2025 versus $266 million, or $0.65 per share, in the second quarter 2024, and included approximately $36 million in net benefits from special items. Net Income excluding special items was $371 million, or $0.91 per share, in the second quarter 2025, versus $276 million, or $0.67 per share, in the second quarter 2024.\n\nSecond quarter 2025 Operating Income was $521 million, up 31% year over year. Operating Income excluding special items was $520 million, up 26% year over year. Operating Income Margin was 25.4%, up approximately 420 basis points year over year. Second quarter 2025 Adjusted Operating Income Margin excluding special items was 25.3%, up approximately 330 basis points year over year.\n\nSecond quarter 2025 Adjusted EBITDA excluding special items was $589 million, up 22% year over year. The year-over-year increase was driven by strong growth in the commercial aerospace, defense aerospace, and industrial and other markets, partially offset by declines in the commercial transportation market. Adjusted EBITDA margin excluding special items was up approximately 300 basis points year over year at 28.7%.\n\nHowmet Aerospace Executive Chairman and Chief Executive Officer John Plant said, \u201cThe Howmet team delivered another strong set of results in the second quarter 2025, exceeding the high end of guidance on all metrics. Howmet achieved a quarterly record in revenue, surpassing the $2 billion mark, and also drove quarterly records in Adjusted EBITDA* and Adjusted Earnings Per Share*. Adjusted EBITDA Margin* was solid at 28.7%, up 300 basis points year over year, while Free Cash Flow was a second-quarter record at $344 million and marked the ninth consecutive quarter of positive Free Cash Flow generation.\u201d  \n\nMr. Plant continued, \u201cHowmet continues to invest in growth backed by customer contracts, with capital expenditures up approximately 60% year over year in the first half 2025. Strong cash generation supported continued return of cash to shareholders with $175 million of share repurchases in the second quarter 2025 and an additional $100 million in July, bringing year-to-date repurchases to $400 million. Furthermore, the Board of Directors declared a 20% increase in the common stock dividend to $0.12 per share in the third quarter 2025. The Company also paid down $76 million of debt in the quarter, further improving the balance sheet, which has never been stronger.\u201d   \n\n\u201cTurning to the outlook, the commercial aerospace market should continue to grow, driven by healthy passenger traffic, extraordinarily high OEM backlogs and the desire for new, fuel-efficient aircraft. We acknowledge positive signs for narrow body build rate increases, particularly on the Boeing 737MAX. Demand for engine spares also remains robust across all markets. The defense aerospace market continues to show strength that should carry through 2025. Additionally, demand for industrial gas turbines fueled by significant data center expansion should remain strong for the balance of the year. The commercial transportation market remains weak. Taking these factors into account, the overall picture appears healthy, and we are increasing our full year 2025 guidance on all metrics.\u201d  \n\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 46,
+  "n_material_neg": 0,
+  "n_positive": 19,
+  "mean_pos_positive": 0.45194508009153317,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.011831680519832898,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.0,
+  "overall_hedge": 0.00904392764857881,
+  "mean_tone": 0.08001295618424555
+ },
+ "lexicon": {
+  "words": 774,
+  "per_1000": {
+   "Negative": 3.9,
+   "Positive": 16.8,
+   "Uncertainty": 9.0,
+   "Litigious": 1.3,
+   "Strong modal": 1.3,
+   "Weak modal": 1.3,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 13,
+   "Uncertainty": 7,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Record Revenue Up 9% Year Over Year, Record Profit, Strong Cash from Operations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     58,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "$175 Million Deployed for Common Stock Repurchases, $76 Million Debt Reduction.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Full Year 2025 Guidance1 Raised on All Metrics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Second Quarter 2025 GAAP Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Revenue of $2.05 billion, up 9% year over year, driven by Commercial Aerospace, up 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Operating Income Margin of 25.4%, up 420 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Net Income of $407 million versus $266 million in the second quarter 2024; Earnings per Share of $1.00 versus $0.65 in the second quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Generated $446 million of Cash from Operations; $339 million of Cash used for Financing Activities; and $97 million of Cash used for Investing Activities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Share repurchases of $175 million; paid $0.10 per share common stock dividend.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Second Quarter 2025 Adjusted Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted EBITDA excluding special items of $589 million, up 22% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA margin excluding special items of 28.7%, up 300 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Adjusted Operating Income Margin excluding special items of 25.3%, up 330 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Adjusted Earnings Per Share excluding special items of $0.91, up 36% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Generated $344 million of free cash flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Key Announcements",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Repurchased $175 million of common stock in second quarter 2025 at an average price of $142.36 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Repurchased an additional $100 million of common stock in July 2025 at an average price of $182.90 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Increased the third quarter dividend by 20% to $0.12 per share on the Company\u2019s common stock.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Paid down $76 million of the US dollar-denominated Term Loan in second quarter 2025, reducing annualized interest expense by approximately $4 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     125,
+     138,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Full Year 2025 Guidance raised on all metrics above the second quarter 2025 outperformance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "PITTSBURGH, Pa., July 31, 2025 /PRNewswire/ \u2014 Howmet Aerospace (NYSE: HWM) today reported second quarter 2025 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Company reported record second quarter 2025 revenue of $2.05 billion, up 9% year over year, driven by growth in the commercial aerospace market of 8%, growth in the defense aerospace market of 21%, and growth in the industrial and other market of 17%, partially offset by declines in the commercial transportation market of 4%.",
+   "d": 1,
+   "m": false,
+   "tone": -0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     276,
+     284,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Howmet Aerospace reported Net Income of $407 million, or $1.00 per share, in the second quarter 2025 versus $266 million, or $0.65 per share, in the second quarter 2024, and included approximately $36 million in net benefits from special items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     183,
+     196,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Net Income excluding special items was $371 million, or $0.91 per share, in the second quarter 2025, versus $276 million, or $0.67 per share, in the second quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Second quarter 2025 Operating Income was $521 million, up 31% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Operating Income excluding special items was $520 million, up 26% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Operating Income Margin was 25.4%, up approximately 420 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Second quarter 2025 Adjusted Operating Income Margin excluding special items was 25.3%, up approximately 330 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     91,
+     104,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Second quarter 2025 Adjusted EBITDA excluding special items was $589 million, up 22% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The year-over-year increase was driven by strong growth in the commercial aerospace, defense aerospace, and industrial and other markets, partially offset by declines in the commercial transportation market.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     48,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     166,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Adjusted EBITDA margin excluding special items was up approximately 300 basis points year over year at 28.7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     54,
+     67,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Howmet Aerospace Executive Chairman and Chief Executive Officer John Plant said, \u201cThe Howmet team delivered another strong set of results in the second quarter 2025, exceeding the high end of guidance on all metrics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Howmet achieved a quarterly record in revenue, surpassing the $2 billion mark, and also drove quarterly records in Adjusted EBITDA* and Adjusted Earnings Per Share*.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     47,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Adjusted EBITDA Margin* was solid at 28.7%, up 300 basis points year over year, while Free Cash Flow was a second-quarter record at $344 million and marked the ninth consecutive quarter of positive Free Cash Flow generation.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     189,
+     197,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Mr. Plant continued, \u201cHowmet continues to invest in growth backed by customer contracts, with capital expenditures up approximately 60% year over year in the first half 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     78,
+     87,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     118,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Strong cash generation supported continued return of cash to shareholders with $175 million of share repurchases in the second quarter 2025 and an additional $100 million in July, bringing year-to-date repurchases to $400 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Furthermore, the Board of Directors declared a 20% increase in the common stock dividend to $0.12 per share in the third quarter 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The Company also paid down $76 million of debt in the quarter, further improving the balance sheet, which has never been stronger.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     115,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     121,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "\u201cTurning to the outlook, the commercial aerospace market should continue to grow, driven by healthy passenger traffic, extraordinarily high OEM backlogs and the desire for new, fuel-efficient aircraft.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     182,
+     191,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "We acknowledge positive signs for narrow body build rate increases, particularly on the Boeing 737MAX.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     23,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Demand for engine spares also remains robust across all markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "The defense aerospace market continues to show strength that should carry through 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "Additionally, demand for industrial gas turbines fueled by significant data center expansion should remain strong for the balance of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "The commercial transportation market remains weak.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     49,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "Taking these factors into account, the overall picture appears healthy, and we are increasing our full year 2025 guidance on all metrics.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
