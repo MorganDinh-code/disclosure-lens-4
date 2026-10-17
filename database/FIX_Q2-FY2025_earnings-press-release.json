@@ -1,0 +1,311 @@
+{
+ "company": "Comfort Systems USA",
+ "ticker": "FIX",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-24",
+ "source_url": "https://investors.comfortsystemsusa.com/news-releases/news-release-details/comfort-systems-usa-reports-second-quarter-2025-results",
+ "demo": false,
+ "source_text": "HOUSTON--(BUSINESS WIRE)--Jul. 24, 2025-- Comfort Systems USA, Inc. (NYSE: FIX) (the \u201cCompany\u201d) today reported results for the quarter ended June 30, 2025.\n\nFor the quarter ended June 30, 2025, net income was $230.8 million, or $6.53 per diluted share, as compared to $134.0 million, or $3.74 per diluted share, for the quarter ended June 30, 2024. Revenue for the second quarter of 2025 was $2.17 billion compared to $1.81 billion in 2024. The Company reported operating cash flow of $252.5 million in the current quarter compared to $189.9 million in 2024.\n\nBrian Lane, Comfort Systems USA\u2019s President and Chief Executive Officer, said, \u201cOur businesses and their stellar teams continue to demonstrate world class performance, as we achieved earnings that far surpass all prior quarters. Per share earnings in the second quarter of 2025 was $6.53, more than 70% higher than the spectacular results we achieved in the second quarter of 2024. For the first half of 2025, our per share earnings have grown by over 75% as compared to the record results in the same period of 2024. This quarter, we are also happy to report strong operating cash flow of over $250 million.\u201d\n\nBacklog as of June 30, 2025 was $8.12 billion as compared to $6.89 billion as of March 31, 2025 and $5.77 billion as of June 30, 2024. On a same-store basis, backlog increased from $5.77 billion as of June 30, 2024 to $7.93 billion as of June 30, 2025.\n\nMr. Lane continued, \u201cOur backlog continues to reflect the extraordinary demand that we are experiencing in our most important markets, increasing sequentially by over $1 billion. For the first time, our backlog has exceeded $8 billion, and it is $2.4 billion higher than it was at this time last year. Our strong earnings, backlog surge, and strong pipelines clearly demonstrate continued strength in our execution, customer relationships, and prospects. Overall, we remain optimistic that we will achieve continued success into 2026.\u201d\n\nThe Company reported net income of $400.1 million, or $11.28 per diluted share, for the six months ended June 30, 2025, compared to $230.3 million, or $6.43 per diluted share, in 2024. The income tax provision for the first six months of 2025 includes a benefit of $0.25 per diluted share related to interest income on a prior year tax refund that was received in April 2025. The Company also reported revenue of $4.00 billion for the six months ended June 30, 2025, as compared to $3.35 billion in 2024. Operating cash flow for the six months ended June 30, 2025 was $164.5 million, as compared to $336.4 million in 2024.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5833333333333334,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.24765558397271953
+ },
+ "lexicon": {
+  "words": 373,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 32.2,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 5.4,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 12,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HOUSTON--(BUSINESS WIRE)--Jul. 24, 2025-- Comfort Systems USA, Inc. (NYSE: FIX) (the \u201cCompany\u201d) today reported results for the quarter ended June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "For the quarter ended June 30, 2025, net income was $230.8 million, or $6.53 per diluted share, as compared to $134.0 million, or $3.74 per diluted share, for the quarter ended June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Revenue for the second quarter of 2025 was $2.17 billion compared to $1.81 billion in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "The Company reported operating cash flow of $252.5 million in the current quarter compared to $189.9 million in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Brian Lane, Comfort Systems USA\u2019s President and Chief Executive Officer, said, \u201cOur businesses and their stellar teams continue to demonstrate world class performance, as we achieved earnings that far surpass all prior quarters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     174,
+     182,
+     [
+      "positive"
+     ]
+    ],
+    [
+     201,
+     208,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Per share earnings in the second quarter of 2025 was $6.53, more than 70% higher than the spectacular results we achieved in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     90,
+     101,
+     [
+      "positive"
+     ]
+    ],
+    [
+     113,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "For the first half of 2025, our per share earnings have grown by over 75% as compared to the record results in the same period of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "This quarter, we are also happy to report strong operating cash flow of over $250 million.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     42,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Backlog as of June 30, 2025 was $8.12 billion as compared to $6.89 billion as of March 31, 2025 and $5.77 billion as of June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "On a same-store basis, backlog increased from $5.77 billion as of June 30, 2024 to $7.93 billion as of June 30, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Mr. Lane continued, \u201cOur backlog continues to reflect the extraordinary demand that we are experiencing in our most important markets, increasing sequentially by over $1 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "For the first time, our backlog has exceeded $8 billion, and it is $2.4 billion higher than it was at this time last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Our strong earnings, backlog surge, and strong pipelines clearly demonstrate continued strength in our execution, customer relationships, and prospects.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     10,
+     [
+      "positive"
+     ]
+    ],
+    [
+     40,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     57,
+     64,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     87,
+     95,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Overall, we remain optimistic that we will achieve continued success into 2026.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     38,
+     42,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     43,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The Company reported net income of $400.1 million, or $11.28 per diluted share, for the six months ended June 30, 2025, compared to $230.3 million, or $6.43 per diluted share, in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The income tax provision for the first six months of 2025 includes a benefit of $0.25 per diluted share related to interest income on a prior year tax refund that was received in April 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The Company also reported revenue of $4.00 billion for the six months ended June 30, 2025, as compared to $3.35 billion in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Operating cash flow for the six months ended June 30, 2025 was $164.5 million, as compared to $336.4 million in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
