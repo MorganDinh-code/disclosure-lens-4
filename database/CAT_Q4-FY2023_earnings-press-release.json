@@ -1,0 +1,305 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2023",
+ "date": "2024-02-05",
+ "source_url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/4q23-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports Fourth-Quarter and Full-Year 2023 Results\n\nFourth-quarter 2023 sales and revenues up 3%; full-year sales and revenues up 13%\nFourth-quarter 2023 profit per share of $5.28; adjusted profit per share of $5.23\nFull-year profit per share of $20.12; adjusted profit per share of $21.21\nStrong operating cash flow of $12.9 billion; ended the year with $7.0 billion of enterprise cash\nReturned $7.5 billion to shareholders through share repurchases and dividends in 2023\n\nIRVING, Texas, Feb. 5, 2024 \u2013 Caterpillar Inc. (NYSE: CAT) announced fourth-quarter and full-year results for 2023.\n\nSales and revenues for the fourth quarter of 2023 were $17.1 billion, a 3% increase compared with $16.6 billion in the fourth quarter of 2022. Operating profit margin was 18.4% for the fourth quarter of 2023, compared with 10.1% for the fourth quarter of 2022. Adjusted operating profit margin was 18.9% for the fourth quarter of 2023, compared with 17.0% for the fourth quarter of 2022. Fourth-quarter 2023 profit per share was $5.28, compared with $2.79 profit per share in the fourth quarter of 2022. Adjusted profit per share in the fourth quarter of 2023 was $5.23, compared with fourth-quarter 2022 adjusted profit per share of $3.86.\n\nFull-year sales and revenues in 2023 were $67.1 billion, up 13% compared with $59.4 billion in 2022. The increase reflected favorable price realization and higher sales volume, driven by higher sales of equipment to end users, partially offset by the impact from changes in dealer inventories. Operating profit margin was 19.3% in 2023, compared with 13.3% in 2022. Adjusted operating profit margin was 20.5% in 2023, compared with 15.4% in 2022. Full-year profit was $20.12 per share in 2023, compared with profit of $12.64 per share in 2022. Adjusted profit per share in 2023 was $21.21, compared with adjusted profit per share of $13.84 in 2022.\n\n\u201cI'm very proud of our global team's strong performance as they achieved the best year in our 98-year history, including record full-year sales and revenues, record adjusted profit per share and record ME&T free cash flow,\u201d said Caterpillar Chairman and CEO Jim Umpleby. \u201cWe remain committed to serving our customers, executing our strategy and investing for long-term profitable growth.\u201d\n\nIn 2023, adjusted operating profit margin and adjusted profit per share excluded restructuring costs, which included the impact of the divestiture of the company's Longwall business and other restructuring costs. 2023 adjusted profit per share also excluded a benefit for certain deferred tax valuation allowance adjustments and mark-to-market gains for remeasurement of pension and other postemployment benefit (OPEB) plans. In 2022, adjusted operating profit margin and adjusted profit per share excluded a goodwill impairment charge and restructuring costs related to the Rail division and other restructuring costs. 2022 adjusted profit per share also excluded mark-to-market gains for remeasurement of pension and OPEB plans. Please see a reconciliation of GAAP to non-GAAP financial measures in the appendix on page 13.\n\nFor the full year of 2023, enterprise operating cash flow was $12.9 billion. During the year, the company repurchased $5.0 billion of Caterpillar common stock and paid dividends of $2.6 billion. Liquidity remained strong with an enterprise cash balance of $7.0 billion at the end of 2023.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5454545454545454,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.10993455932276845
+ },
+ "lexicon": {
+  "words": 359,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 19.5,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.8,
+   "Weak modal": 0.0,
+   "Constraining": 2.8
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 7,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports Fourth-Quarter and Full-Year 2023 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth-quarter 2023 sales and revenues up 3%; full-year sales and revenues up 13%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Fourth-quarter 2023 profit per share of $5.28; adjusted profit per share of $5.23.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Full-year profit per share of $20.12; adjusted profit per share of $21.21.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Strong operating cash flow of $12.9 billion; ended the year with $7.0 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Returned $7.5 billion to shareholders through share repurchases and dividends in 2023",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "IRVING, Texas, Feb. 5, 2024 \u2013 Caterpillar Inc. (NYSE: CAT) announced fourth-quarter and full-year results for 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Sales and revenues for the fourth quarter of 2023 were $17.1 billion, a 3% increase compared with $16.6 billion in the fourth quarter of 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Operating profit margin was 18.4% for the fourth quarter of 2023, compared with 10.1% for the fourth quarter of 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Adjusted operating profit margin was 18.9% for the fourth quarter of 2023, compared with 17.0% for the fourth quarter of 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Fourth-quarter 2023 profit per share was $5.28, compared with $2.79 profit per share in the fourth quarter of 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted profit per share in the fourth quarter of 2023 was $5.23, compared with fourth-quarter 2022 adjusted profit per share of $3.86.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Full-year sales and revenues in 2023 were $67.1 billion, up 13% compared with $59.4 billion in 2022.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The increase reflected favorable price realization and higher sales volume, driven by higher sales of equipment to end users, partially offset by the impact from changes in dealer inventories.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Operating profit margin was 19.3% in 2023, compared with 13.3% in 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Adjusted operating profit margin was 20.5% in 2023, compared with 15.4% in 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Full-year profit was $20.12 per share in 2023, compared with profit of $12.64 per share in 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Adjusted profit per share in 2023 was $21.21, compared with adjusted profit per share of $13.84 in 2022.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "\u201cI'm very proud of our global team's strong performance as they achieved the best year in our 98-year history, including record full-year sales and revenues, record adjusted profit per share and record ME&T free cash flow,\u201d said Caterpillar Chairman and CEO Jim Umpleby. \u201cWe remain committed to serving our customers, executing our strategy and investing for long-term profitable growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     64,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     81,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     282,
+     291,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     369,
+     379,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "For the full year of 2023, enterprise operating cash flow was $12.9 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "During the year, the company repurchased $5.0 billion of Caterpillar common stock and paid dividends of $2.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Liquidity remained strong with an enterprise cash balance of $7.0 billion at the end of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
