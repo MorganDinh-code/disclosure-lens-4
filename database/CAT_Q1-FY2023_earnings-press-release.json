@@ -1,0 +1,174 @@
+{
+ "company": "Caterpillar",
+ "ticker": "CAT",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2023",
+ "date": "2023-04-27",
+ "source_url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/1q23-results-caterpillar-inc.html",
+ "demo": false,
+ "source_text": "Caterpillar Reports First-Quarter 2023 Results\n\nFirst-quarter 2023 sales and revenues increased 17% to $15.9 billion\nFirst-quarter 2023 profit per share of $3.74; adjusted profit per share of $4.91\nReturned $1.0 billion to shareholders through dividends and share repurchases in the quarter\n\nIRVING, Texas, April 27, 2023 \u2013 Caterpillar Inc. (NYSE: CAT) announced first-quarter 2023 sales and revenues of $15.9 billion, a 17% increase compared with $13.6 billion in the first quarter of 2022. The increase was primarily due to favorable price realization and higher sales volume.\n\nOperating profit margin was 17.2% for the first quarter of 2023, compared with 13.7% for the first quarter of 2022. Adjusted operating profit margin was 21.1% for the first quarter of 2023, compared with 13.7% for the first quarter of 2022. First-quarter 2023 profit per share was $3.74, compared with first-quarter 2022 profit per share of $2.86. Adjusted profit per share in the first quarter of 2023 was $4.91, compared with first-quarter 2022 adjusted profit per share of $2.88. In the first quarter of 2023 and 2022, adjusted operating profit margin and adjusted profit per share excluded restructuring costs. First-quarter 2023 restructuring costs included the impact of the divestiture of the company's Longwall business. Please see a reconciliation of GAAP to non-GAAP financial measures in the appendix on page 13.\n\nFor the three months ended March 31, 2023, enterprise operating cash flow was $1.6 billion, and the company ended the first quarter with $6.8 billion of enterprise cash. In the quarter, the company paid dividends of $0.6 billion and repurchased $0.4 billion of Caterpillar common stock.\n\n\u201cI\u2019d like to thank our global team for their strong operational performance while serving healthy demand during the first quarter. We achieved double-digit top-line growth and record adjusted profit per share while generating strong ME&T free cash flow,\u201d said Jim Umpleby, Chairman and CEO. \u201cOur team remains focused on supporting our customers as we execute our strategy for long-term profitable growth.\u201d",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 10,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.575,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.1912087912087912
+ },
+ "lexicon": {
+  "words": 180,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 27.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 5,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Caterpillar Reports First-Quarter 2023 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "First-quarter 2023 sales and revenues increased 17% to $15.9 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "First-quarter 2023 profit per share of $3.74; adjusted profit per share of $4.91.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Returned $1.0 billion to shareholders through dividends and share repurchases in the quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "IRVING, Texas, April 27, 2023 \u2013 Caterpillar Inc. (NYSE: CAT) announced first-quarter 2023 sales and revenues of $15.9 billion, a 17% increase compared with $13.6 billion in the first quarter of 2022.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "The increase was primarily due to favorable price realization and higher sales volume.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "For the three months ended March 31, 2023, enterprise operating cash flow was $1.6 billion, and the company ended the first quarter with $6.8 billion of enterprise cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "In the quarter, the company paid dividends of $0.6 billion and repurchased $0.4 billion of Caterpillar common stock.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\u201cI\u2019d like to thank our global team for their strong operational performance while serving healthy demand during the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "We achieved double-digit top-line growth and record adjusted profit per share while generating strong ME&T free cash flow,\u201d said Jim Umpleby, Chairman and CEO. \u201cOur team remains focused on supporting our customers as we execute our strategy for long-term profitable growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     95,
+     101,
+     [
+      "positive"
+     ]
+    ],
+    [
+     255,
+     265,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
