@@ -1,0 +1,241 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-08-06",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/612/emerson-reports-third-quarter-2025-results-updates-2025-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Aug. 6, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its third quarter ended June 30, 2025 and updated its full year outlook for fiscal 2025. Emerson also declared a quarterly cash dividend of $0.5275 per share of common stock payable September 10, 2025 to stockholders of record on August 15, 2025.\n\nManagement Commentary\n\n\"Emerson's solid third quarter results reflect our sustained momentum, delivering strong underlying growth, profitability and cash flow, which we expect to continue as we finish the fiscal year,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"We are experiencing positive momentum in key end markets, and our team's ability to execute in this dynamic environment demonstrates the resilience of our business model and our operational excellence.\"\n\nKarsanbhai continued, \"We are taking pivotal steps to advance our industrial software capabilities, launching breakthrough innovations that are transforming how our customers optimize their operations. We deliver value by unlocking productivity and efficiency, and we are seeing accelerated adoption of our digital solutions.\"\n\n2025 Outlook\n\nThe following table summarizes the fiscal year 2025 guidance framework. Net and underlying sales guidance of ~3.5% growth reflects our updated expectations for pricing actions as the tariff expense exposure has reduced. GAAP EPS is now expected to be ~$4.08 and adjusted EPS guidance is now ~$6.00, an increase versus the previous midpoint. Expectations for operating cash flow and free cash flow increase to ~$3.6B and ~$3.2B, respectively. The 2025 outlook assumes returning ~$2.3B to shareholders through $1.1B of share repurchases and ~$1.2B of dividends, unchanged from the prior guidance.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.6285714285714286,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.014252910650426177,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.012345679012345678,
+  "mean_tone": 0.18305448305448305
+ },
+ "lexicon": {
+  "words": 243,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 28.8,
+   "Uncertainty": 8.2,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 7,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Aug. 6, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its third quarter ended June 30, 2025 and updated its full year outlook for fiscal 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.5275 per share of common stock payable September 10, 2025 to stockholders of record on August 15, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson's solid third quarter results reflect our sustained momentum, delivering strong underlying growth, profitability and cash flow, which we expect to continue as we finish the fiscal year,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 1,
+   "m": false,
+   "tone": 0.541,
+   "h": 0.027,
+   "hits": [
+    [
+     82,
+     88,
+     [
+      "positive"
+     ]
+    ],
+    [
+     108,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\"We are experiencing positive momentum in key end markets, and our team's ability to execute in this dynamic environment demonstrates the resilience of our business model and our operational excellence.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     191,
+     201,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Karsanbhai continued, \"We are taking pivotal steps to advance our industrial software capabilities, launching breakthrough innovations that are transforming how our customers optimize their operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     110,
+     122,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We deliver value by unlocking productivity and efficiency, and we are seeing accelerated adoption of our digital solutions.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "The following table summarizes the fiscal year 2025 guidance framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Net and underlying sales guidance of ~3.5% growth reflects our updated expectations for pricing actions as the tariff expense exposure has reduced.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     126,
+     134,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "GAAP EPS is now expected to be ~$4.08 and adjusted EPS guidance is now ~$6.00, an increase versus the previous midpoint.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Expectations for operating cash flow and free cash flow increase to ~$3.6B and ~$3.2B, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The 2025 outlook assumes returning ~$2.3B to shareholders through $1.1B of share repurchases and ~$1.2B of dividends, unchanged from the prior guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
