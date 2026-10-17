@@ -1,0 +1,354 @@
+{
+ "company": "Republic Services",
+ "ticker": "RSG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-29",
+ "source_url": "https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-third-quarter-2024-results",
+ "demo": false,
+ "source_text": "Third Quarter Total Revenue Growth of 6.5 Percent\nReported Earnings Per Share of $1.80 and Adjusted Earnings Per Share of $1.81\nExpanded Net Income Margin 130 Basis Points and Adjusted EBITDA Margin 210 Basis Points\nGenerated Year-to-Date Cash Flow from Operations of $2.91 Billion and Adjusted Free Cash Flow of $1.74 Billion\nCertified as a Great Place to Work\u00ae for Eighth Consecutive Year\nPHOENIX, Oct. 29, 2024 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $565.7 million, or $1.80 per diluted share, for the three months ended September 30, 2024, versus $480.2 million, or $1.52 per diluted share, for the comparable 2023 period. Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended September 30, 2024, was $568.3 million, or $1.81 per diluted share, versus $488.3 million, or $1.54 per diluted share, for the comparable 2023 period.\n\n\"Our strong performance during the third quarter is a direct result of executing our strategic priorities,\" said Jon Vander Ark, president and chief executive officer. \"By pricing ahead of cost inflation and effective cost management, we delivered double-digit growth in adjusted EBITDA and EPS, and expanded adjusted EBITDA margin by more than 200 basis points. Our results continue to demonstrate the power of a well-designed strategy in driving sustainable growth and the value created for all stakeholders.\"\n\nThird-Quarter and Year-to-Date 2024 Highlights: \n\nThird quarter total revenue growth of 6.5 percent includes 4.2 percent organic growth and 2.3 percent growth from acquisitions.\n\nThird quarter core price on total revenue increased revenue by 6.2 percent. Core price on related business revenue increased revenue by 7.4 percent, which consisted of 9.1 percent in the open market and 4.8 percent in the restricted portion of the business.\n\nThird quarter revenue growth from average yield on total revenue was 4.6 percent, and volume decreased revenue by 1.2 percent. Revenue growth from average yield on related business revenue was 5.5 percent, and volume decreased related business revenue by 1.5 percent.\n\nThird quarter net income was $565.7 million, or a margin of 13.9 percent.\n\nThird quarter EPS was $1.80 per share, an increase of 18.4 percent over the prior year.\n\nThird quarter adjusted EPS, a non-GAAP measure, was $1.81 per share, an increase of 17.5 percent over the prior year.\n\nThird quarter adjusted EBITDA, a non-GAAP measure, was $1,303.3 million, and adjusted EBITDA margin, a non-GAAP measure, was 32.0 percent of revenue, an increase of 210 basis points over the prior year.\n\nYear-to-date cash invested in acquisitions, including an investment in a post-collection business, was $104.4 million.\n\nYear-to-date cash returned to shareholders was $834.3 million, which included $329.5 million of share repurchases and $504.8 million of dividends paid.\n\nThe Company's average recycled commodity price per ton sold at our recycling centers during the third quarter was $177. This represents an increase of $65 per ton over the prior year.\n\nThe Company completed and commenced operations on two renewable natural gas projects during the quarter.\n\nThe Company expects revenue to be near the low end of its full-year 2024 guidance range. The Company expects to achieve the high end of its full-year 2024 adjusted EBITDA guidance range.\nCompany Declared Quarterly Dividend\n\nRepublic previously announced that its Board of Directors declared a regular quarterly dividend of $0.58 per share for shareholders of record on January 2, 2025. The dividend will be paid on January 15, 2025.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 2,
+  "n_positive": 11,
+  "mean_pos_negative": 0.5166666666666666,
+  "mean_pos_positive": 0.4484848484848485,
+  "placement_asymmetry": 0.06818181818181812,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.5,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0038240917782026767,
+  "mean_tone": 0.034166666666666665
+ },
+ "lexicon": {
+  "words": 523,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 3.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 1.9,
+   "Weak modal": 0.0,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 2,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Third Quarter Total Revenue Growth of 6.5 Percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Reported Earnings Per Share of $1.80 and Adjusted Earnings Per Share of $1.81.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Expanded Net Income Margin 130 Basis Points and Adjusted EBITDA Margin 210 Basis Points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Generated Year-to-Date Cash Flow from Operations of $2.91 Billion and Adjusted Free Cash Flow of $1.74 Billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Certified as a Great Place to Work\u00ae for Eighth Consecutive Year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "PHOENIX, Oct. 29, 2024 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $565.7 million, or $1.80 per diluted share, for the three months ended September 30, 2024, versus $480.2 million, or $1.52 per diluted share, for the comparable 2023 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended September 30, 2024, was $568.3 million, or $1.81 per diluted share, versus $488.3 million, or $1.54 per diluted share, for the comparable 2023 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "\"Our strong performance during the third quarter is a direct result of executing our strategic priorities,\" said Jon Vander Ark, president and chief executive officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\"By pricing ahead of cost inflation and effective cost management, we delivered double-digit growth in adjusted EBITDA and EPS, and expanded adjusted EBITDA margin by more than 200 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Our results continue to demonstrate the power of a well-designed strategy in driving sustainable growth and the value created for all stakeholders.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Third-Quarter and Year-to-Date 2024 Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Third quarter total revenue growth of 6.5 percent includes 4.2 percent organic growth and 2.3 percent growth from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Third quarter core price on total revenue increased revenue by 6.2 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Core price on related business revenue increased revenue by 7.4 percent, which consisted of 9.1 percent in the open market and 4.8 percent in the restricted portion of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     146,
+     156,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Third quarter revenue growth from average yield on total revenue was 4.6 percent, and volume decreased revenue by 1.2 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Revenue growth from average yield on related business revenue was 5.5 percent, and volume decreased related business revenue by 1.5 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Third quarter net income was $565.7 million, or a margin of 13.9 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Third quarter EPS was $1.80 per share, an increase of 18.4 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Third quarter adjusted EPS, a non-GAAP measure, was $1.81 per share, an increase of 17.5 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Third quarter adjusted EBITDA, a non-GAAP measure, was $1,303.3 million, and adjusted EBITDA margin, a non-GAAP measure, was 32.0 percent of revenue, an increase of 210 basis points over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Year-to-date cash invested in acquisitions, including an investment in a post-collection business, was $104.4 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Year-to-date cash returned to shareholders was $834.3 million, which included $329.5 million of share repurchases and $504.8 million of dividends paid.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Company's average recycled commodity price per ton sold at our recycling centers during the third quarter was $177.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "This represents an increase of $65 per ton over the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The Company completed and commenced operations on two renewable natural gas projects during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company expects revenue to be near the low end of its full-year 2024 guidance range.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Company expects to achieve the high end of its full-year 2024 adjusted EBITDA guidance range.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0625,
+   "hits": [
+    [
+     23,
+     30,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Company Declared Quarterly Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Republic previously announced that its Board of Directors declared a regular quarterly dividend of $0.58 per share for shareholders of record on January 2, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The dividend will be paid on January 15, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
