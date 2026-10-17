@@ -1,0 +1,178 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2026",
+ "date": "2026-08-04",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/642/emerson-reports-third-quarter-2026-results-raises-2026-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Aug. 4, 2026 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its third quarter ended June 30, 2026 and updated its full year outlook for fiscal 2026. Emerson also declared a quarterly cash dividend of $0.555 per share of common stock payable September 10, 2026 to stockholders of record on August 14, 2026.\n\nManagement Commentary\n\n\"Emerson had an outstanding third quarter with sales, margin expansion, earnings and cash flow all exceeding expectations,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"Demand was robust, with underlying orders up 7%, led by Software & Systems and broad-based growth in North America and Asia. The conflict in the Middle East remains fluid, and I am proud of our team's ability to deliver results and support our customers around the world.\"\n\nKarsanbhai continued, \"We are raising our full year guidance, reflecting our strong third quarter performance and healthy demand. Secular tailwinds continue to support sustained investment in our growth verticals and provide a solid foundation as we finish 2026 and look ahead to 2027.\"\n\n2026 Outlook\n\nThe following tables summarize the fiscal year 2026 guidance framework. As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.4791666666666667,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0051813471502590676,
+  "mean_tone": 0.014245014245014245
+ },
+ "lexicon": {
+  "words": 193,
+  "per_1000": {
+   "Negative": 5.2,
+   "Positive": 5.2,
+   "Uncertainty": 5.2,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 1,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Aug. 4, 2026 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its third quarter ended June 30, 2026 and updated its full year outlook for fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.555 per share of common stock payable September 10, 2026 to stockholders of record on August 14, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson had an outstanding third quarter with sales, margin expansion, earnings and cash flow all exceeding expectations,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"Demand was robust, with underlying orders up 7%, led by Software & Systems and broad-based growth in North America and Asia.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "The conflict in the Middle East remains fluid, and I am proud of our team's ability to deliver results and support our customers around the world.\"",
+   "d": 0,
+   "m": false,
+   "tone": -0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Karsanbhai continued, \"We are raising our full year guidance, reflecting our strong third quarter performance and healthy demand.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Secular tailwinds continue to support sustained investment in our growth verticals and provide a solid foundation as we finish 2026 and look ahead to 2027.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "2026 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The following tables summarize the fiscal year 2026 guidance framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
