@@ -1,0 +1,695 @@
+{
+ "company": "Ferguson Enterprises, Inc.",
+ "ticker": "FERG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-03-11",
+ "source_url": "https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2025/Ferguson-Reports-Second-Quarter-Results/default.aspx",
+ "demo": false,
+ "source_text": "Continued Volume Growth in Challenging Markets\n\nSecond quarter highlights\n\nSales of $6.9 billion, an increase of 3.0%, driven by market outperformance.\nSales volume grew 5%, partially offset by continued deflation of approximately 2%.\nGross margin of 29.7%, down 70 bps from prior year.\nOperating margin of 6.0% (6.5% on an adjusted basis).\nDiluted earnings per share of $1.38 ($1.52 on an adjusted basis).\nDeclared quarterly dividend of $0.83, reflecting a 5% increase over the prior year.\nCompleted one acquisition during the quarter. Subsequent to the quarter end, signed a definitive purchase agreement to acquire a leading commercial/mechanical distributor in the Northeast.\nShare repurchases of $252 million during the quarter.\nShare repurchase program increased by an additional $1.0 billion.\nBalance sheet remains strong with net debt to adjusted EBITDA of 1.2x.\nNEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG; LSE: FERG). Kevin Murphy, Ferguson CEO, commented, \u201cOur associates continued to execute well for our customers in the second quarter, generating continued market outperformance with a sequential step up in volume growth rates. We are navigating a unique time with continued subdued markets and persistent commodity price deflation that drove lower than expected adjusted operating margin in our seasonally lightest quarter.\n\n\u201cGiven this backdrop, we are reaffirming our full year revenue guidance of low single digit growth, but updating the expected full year adjusted operating margin range to 8.3% to 8.8%. While we have been disciplined in managing costs in relation to volume growth, we are taking additional steps to streamline the business to increase speed and efficiency to better serve our customers, positioning the organization for future profitable growth.\n\n\u201cWe remain confident in our markets over the medium-term and continue to balance investment in key strategic opportunities, leveraging multiyear tailwinds in both residential and non-residential markets as we support the complex project requirements of our specialist professional customers.\u201d\n\nSummary of financial results\n\nSecond quarter\n\nNet sales of $6.9 billion were 3.0% ahead of last year driven by organic revenue growth of 2.1% and acquisition growth of 1.2%, offset by 0.3% from the adverse impact of foreign exchange rates. On a volumetric basis, total volume increased by approximately 5% with organic volume up approximately 4%. Continued weakness in certain commodity related categories drove modest overall price deflation of around 2%.\n\nGross margin of 29.7% was 70 basis points lower than last year due to subdued end market demand, persistent deflation and sales mix. While we continued to tightly manage headcount, the increase in operating expenses was driven by volumetric growth, cost inflation and continued selective investment in core capabilities for future growth.\n\nReported operating profit was $410 million (6.0% operating margin), 14.0% lower than last year. Adjusted operating profit of $449 million (6.5% adjusted operating margin) was 13.7% below last year in our seasonally lightest quarter.\n\nReported diluted earnings per share was $1.38 (Q2 2024: $1.58), a decrease of 12.7% compared to last year, and adjusted diluted earnings per share of $1.52 decreased 12.6% due to the lower adjusted operating profit, partially offset by the impact of share repurchases.\n\nUS - second quarter\n\nNet sales in the US business increased by 3.0%, with organic revenue growth of 2.0% and a further 1.0% contribution from acquisitions.\n\nResidential end markets, which comprise just over half of US revenue, remained similar to the first quarter across both new construction and repair, maintenance and improvement. Overall, our residential revenue grew approximately 2% in the second quarter.\n\nNon-residential end markets, representing just under half of US revenue, remained slightly more resilient than residential end markets with continued activity on large capital projects. We continued to take share with non-residential revenue growth of approximately 4% in the second quarter. Our sales grew modestly in both commercial and industrial end markets with particular strength in civil/infrastructure end markets.\n\nAdjusted operating profit of $455 million was 13.3% or $70 million below last year.\n\nWe completed one acquisition during the quarter, Templeton and its affiliate, TEMSCO, which serve the water and wastewater industries in the southeast. Additionally, subsequent to the quarter end we signed a definitive purchase agreement to acquire Independent Pipe & Supply Corporation, a leading commercial/mechanical distributor in the Northeast.\n\nCanada - second quarter\n\nNet sales grew by 3.2%, with organic revenue growth of 3.1% and a 5.4% contribution from acquisitions, partially offset by a 5.3% adverse impact from foreign exchange rates. Markets have been broadly similar to that of the United States with non-residential activity remaining more resilient than residential. Adjusted operating profit of $11 million was $2 million above last year.\n\nFinancial position\n\nNet debt to adjusted EBITDA at January 31, 2025 was 1.2x and during the quarter we completed share repurchases of $252 million. Taking into account the Company\u2019s strong financial position, we have extended the share repurchase program by an additional $1.0 billion, resulting in a remaining outstanding balance of approximately $1.4 billion.\n\nWe declared a quarterly dividend of $0.83 representing a 5% growth over prior year. The dividend will be paid on May 6, 2025 to stockholders of record as of March 21, 2025.\n\nThere have been no other significant changes to the financial position of the Company.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 49,
+  "n_material_neg": 5,
+  "n_positive": 18,
+  "mean_pos_negative": 0.4489795918367347,
+  "mean_pos_positive": 0.4761904761904762,
+  "placement_asymmetry": -0.027210884353741527,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.10204081632653061,
+  "hedge_near_negative": 0.01616326530612245,
+  "hedge_near_positive": 0.012842674101342062,
+  "hedging_asymmetry": 1.2585591737809017,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.7420634920634921,
+  "overall_hedge": 0.007509386733416771,
+  "mean_tone": 0.018808771939420862
+ },
+ "lexicon": {
+  "words": 799,
+  "per_1000": {
+   "Negative": 7.5,
+   "Positive": 13.8,
+   "Uncertainty": 8.8,
+   "Litigious": 0.0,
+   "Strong modal": 1.3,
+   "Weak modal": 1.3,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 6,
+   "Positive": 11,
+   "Uncertainty": 7,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Continued Volume Growth in Challenging Markets",
+   "d": 1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Second quarter highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales of $6.9 billion, an increase of 3.0%, driven by market outperformance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Sales volume grew 5%, partially offset by continued deflation of approximately 2%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Gross margin of 29.7%, down 70 bps from prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Operating margin of 6.0% (6.5% on an adjusted basis).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Diluted earnings per share of $1.38 ($1.52 on an adjusted basis).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Declared quarterly dividend of $0.83, reflecting a 5% increase over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Completed one acquisition during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Subsequent to the quarter end, signed a definitive purchase agreement to acquire a leading commercial/mechanical distributor in the Northeast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Share repurchases of $252 million during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Share repurchase program increased by an additional $1.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Balance sheet remains strong with net debt to adjusted EBITDA of 1.2x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "NEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG; LSE: FERG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Kevin Murphy, Ferguson CEO, commented, \u201cOur associates continued to execute well for our customers in the second quarter, generating continued market outperformance with a sequential step up in volume growth rates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "We are navigating a unique time with continued subdued markets and persistent commodity price deflation that drove lower than expected adjusted operating margin in our seasonally lightest quarter.",
+   "d": -1,
+   "m": false,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     77,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "\u201cGiven this backdrop, we are reaffirming our full year revenue guidance of low single digit growth, but updating the expected full year adjusted operating margin range to 8.3% to 8.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "While we have been disciplined in managing costs in relation to volume growth, we are taking additional steps to streamline the business to increase speed and efficiency to better serve our customers, positioning the organization for future profitable growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     159,
+     169,
+     [
+      "positive"
+     ]
+    ],
+    [
+     173,
+     179,
+     [
+      "positive"
+     ]
+    ],
+    [
+     241,
+     251,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "\u201cWe remain confident in our markets over the medium-term and continue to balance investment in key strategic opportunities, leveraging multiyear tailwinds in both residential and non-residential markets as we support the complex project requirements of our specialist professional customers.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     109,
+     122,
+     [
+      "positive"
+     ]
+    ],
+    [
+     237,
+     249,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Summary of financial results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Second quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Net sales of $6.9 billion were 3.0% ahead of last year driven by organic revenue growth of 2.1% and acquisition growth of 1.2%, offset by 0.3% from the adverse impact of foreign exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     152,
+     159,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "On a volumetric basis, total volume increased by approximately 5% with organic volume up approximately 4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     49,
+     62,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Continued weakness in certain commodity related categories drove modest overall price deflation of around 2%.",
+   "d": -1,
+   "m": true,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Gross margin of 29.7% was 70 basis points lower than last year due to subdued end market demand, persistent deflation and sales mix.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     107,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "While we continued to tightly manage headcount, the increase in operating expenses was driven by volumetric growth, cost inflation and continued selective investment in core capabilities for future growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Reported operating profit was $410 million (6.0% operating margin), 14.0% lower than last year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Adjusted operating profit of $449 million (6.5% adjusted operating margin) was 13.7% below last year in our seasonally lightest quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Reported diluted earnings per share was $1.38 (Q2 2024: $1.58), a decrease of 12.7% compared to last year, and adjusted diluted earnings per share of $1.52 decreased 12.6% due to the lower adjusted operating profit, partially offset by the impact of share repurchases.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "US - second quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Net sales in the US business increased by 3.0%, with organic revenue growth of 2.0% and a further 1.0% contribution from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Residential end markets, which comprise just over half of US revenue, remained similar to the first quarter across both new construction and repair, maintenance and improvement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     165,
+     176,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Overall, our residential revenue grew approximately 2% in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Non-residential end markets, representing just under half of US revenue, remained slightly more resilient than residential end markets with continued activity on large capital projects.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "We continued to take share with non-residential revenue growth of approximately 4% in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     66,
+     79,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Our sales grew modestly in both commercial and industrial end markets with particular strength in civil/infrastructure end markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Adjusted operating profit of $455 million was 13.3% or $70 million below last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "We completed one acquisition during the quarter, Templeton and its affiliate, TEMSCO, which serve the water and wastewater industries in the southeast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Additionally, subsequent to the quarter end we signed a definitive purchase agreement to acquire Independent Pipe & Supply Corporation, a leading commercial/mechanical distributor in the Northeast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     138,
+     145,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Canada - second quarter",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Net sales grew by 3.2%, with organic revenue growth of 3.1% and a 5.4% contribution from acquisitions, partially offset by a 5.3% adverse impact from foreign exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     130,
+     137,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Markets have been broadly similar to that of the United States with non-residential activity remaining more resilient than residential.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Adjusted operating profit of $11 million was $2 million above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Financial position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Net debt to adjusted EBITDA at January 31, 2025 was 1.2x and during the quarter we completed share repurchases of $252 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Taking into account the Company\u2019s strong financial position, we have extended the share repurchase program by an additional $1.0 billion, resulting in a remaining outstanding balance of approximately $1.4 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0345,
+   "hits": [
+    [
+     34,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     186,
+     199,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "We declared a quarterly dividend of $0.83 representing a 5% growth over prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "The dividend will be paid on May 6, 2025 to stockholders of record as of March 21, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     29,
+     32,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 49,
+   "t": "There have been no other significant changes to the financial position of the Company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
