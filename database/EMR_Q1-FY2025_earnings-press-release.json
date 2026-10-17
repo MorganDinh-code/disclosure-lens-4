@@ -1,0 +1,229 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-02-05",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/15/emerson-reports-first-quarter-2025-results-updates-2025-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Feb. 5, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its first quarter ended December 31, 2024 and updated its full year outlook for fiscal 2025. Emerson also declared a quarterly cash dividend of $0.5275 per share of common stock payable March 10, 2025 to stockholders of record on February 14, 2025.\n\nManagement Commentary\n\n\"Emerson began the fiscal year on a strong note, exceeding first quarter expectations for incremental operating margins and earnings per share with strong cash flow generation,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"Our record gross profit margin and adjusted segment EBITA margin reflect the strength of our transformed industrial technology portfolio and Emerson Management System, as well as the talent and dedication of our world-class team.\"\n\nKarsanbhai continued, \"We reiterate our guide for underlying sales, earnings per share and cash flow driven by resilient demand in process and hybrid markets, expected second half discrete recovery and our proven ability to execute. Our team remains energized, and we look forward to continuing the positive momentum across our business, including progressing in the final phase of our portfolio transformation.\"\n\n2025 Outlook\n\nThe following tables summarize the fiscal year 2025 guidance framework and does not include any impact from the recently announced portfolio transactions6 related to AspenTech and Safety & Productivity. The 2025 outlook assumes returning approximately $3.2 billion to shareholders through approximately $2.0 billion of share repurchases and approximately $1.2 billion of dividend payments. Guidance figures are approximate.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 2,
+  "mean_pos_positive": 0.375,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.021739130434782608,
+  "mean_tone": 0.13553113553113552
+ },
+ "lexicon": {
+  "words": 230,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 21.7,
+   "Uncertainty": 21.7,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 5,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Feb. 5, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its first quarter ended December 31, 2024 and updated its full year outlook for fiscal 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.5275 per share of common stock payable March 10, 2025 to stockholders of record on February 14, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson began the fiscal year on a strong note, exceeding first quarter expectations for incremental operating margins and earnings per share with strong cash flow generation,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 0,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     42,
+     [
+      "positive"
+     ]
+    ],
+    [
+     148,
+     154,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\"Our record gross profit margin and adjusted segment EBITA margin reflect the strength of our transformed industrial technology portfolio and Emerson Management System, as well as the talent and dedication of our world-class team.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Karsanbhai continued, \"We reiterate our guide for underlying sales, earnings per share and cash flow driven by resilient demand in process and hybrid markets, expected second half discrete recovery and our proven ability to execute.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Our team remains energized, and we look forward to continuing the positive momentum across our business, including progressing in the final phase of our portfolio transformation.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     74,
+     [
+      "positive"
+     ]
+    ],
+    [
+     115,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "The following tables summarize the fiscal year 2025 guidance framework and does not include any impact from the recently announced portfolio transactions6 related to AspenTech and Safety & Productivity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The 2025 outlook assumes returning approximately $3.2 billion to shareholders through approximately $2.0 billion of share repurchases and approximately $1.2 billion of dividend payments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     35,
+     48,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     86,
+     99,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     138,
+     151,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Guidance figures are approximate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.25,
+   "hits": [
+    [
+     21,
+     32,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
