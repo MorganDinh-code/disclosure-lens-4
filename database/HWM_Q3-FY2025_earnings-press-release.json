@@ -1,0 +1,607 @@
+{
+ "company": "Howmet Aerospace",
+ "ticker": "HWM",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-30",
+ "source_url": "https://www.howmet.com/financial-release/2025-10-30/howmet-aerospace-reports-third-quarter-2025-results/",
+ "demo": false,
+ "source_text": "Record Revenue, Growth Accelerated to\n14% Year Over Year; Strong Profit; Record Cash from Operations\n\n$200 Million Deployed for Common Stock Repurchases; $63 Million Debt Reduction\n\nFull Year 2025 Guidance: Raised on All Metrics\n\nFull Year 2026 Revenue Guidance: Approximately $9 Billion, Up ~10% Year over Year\n\nThird Quarter 2025 GAAP Financial Results\n\nRevenue of $2.09 billion, up 14% year over year, driven by Commercial Aerospace, up 15%\nOperating Income Margin of 25.9%, up 300 basis points year over year\nNet Income of $385 million versus $332 million in the third quarter 2024; Earnings per Share of $0.95 versus $0.81 in the third quarter 2024\nGenerated $531 million of Cash from Operations; $314 million of Cash used for Financing Activities; and $104 million of Cash used for Investing Activities\nShare repurchases of $200 million; paid $0.12 per share common stock dividend, a 20% increase from the second quarter 2025\nThird Quarter 2025 Adjusted Financial Results\n\nAdjusted EBITDA excluding special items of $614 million, up 26% year over year\nAdjusted EBITDA margin excluding special items of 29.4%, up 290 basis points year over year\nAdjusted Operating Income Margin excluding special items of 25.9%, up 310 basis points year over year\nAdjusted Earnings Per Share excluding special items of $0.95, up 34% year over year\nGenerated $423 million of Free Cash Flow\n\n\nKey Announcements \n\nRepurchased $200 million of common stock in third quarter 2025 at an average price of $182.20 per share\nRepurchased an additional $100 million of common stock in October 2025 at an average price of $191.86 per share\nIncreased the third quarter dividend by 20% quarter over quarter to $0.12 per share on the Company\u2019s common stock\nPaid down remaining $63 million of the US dollar-denominated Term Loan in third quarter 2025, reducing annualized interest expense by approximately $4 million\nS&P upgraded Howmet Aerospace\u2019s long-term issuer credit rating from BBB to BBB+ on September 8, 2025\nFull Year 2025 Guidance: Raised on all metrics\nFull Year 2026 Revenue Guidance: Approximately $9 billion, up ~10% year over year\nPITTSBURGH, Oct. 30, 2025 /PRNewswire/ \u2014 Howmet Aerospace (NYSE: HWM) today reported third quarter 2025 results. The Company reported record third quarter 2025 revenue of $2.09 billion, up 14% year over year, driven by growth in the commercial aerospace market of 15%, growth in the defense aerospace market of 24%, and growth in the industrial and other market of 18%, partially offset by declines in the commercial transportation market of 3%.\n\nHowmet Aerospace reported Net Income of $385 million, or $0.95 per share, in the third quarter 2025 versus $332 million, or $0.81 per share, in the third quarter 2024. Net Income excluding special items was $385 million, or $0.95 per share, in the third quarter 2025, versus $290 million, or $0.71 per share, in the third quarter 2024; there was no impact from special items in the third quarter of 2025.\n\nThird quarter 2025 Operating Income and Operating Income excluding special items were both $542 million, up 29% year over year. Operating Income Margin was 25.9%, up approximately 300 basis points year over year. Third quarter 2025 Adjusted Operating Income Margin excluding special items was 25.9%, up approximately 310 basis points year over year.\n\nThird quarter 2025 Adjusted EBITDA excluding special items was $614 million, up 26% year over year. The year-over-year increase was driven by strong growth in the commercial aerospace, defense aerospace, and industrial and other markets. Adjusted EBITDA margin excluding special items was up approximately 290 basis points year over year at 29.4%.\n\nHowmet Aerospace Executive Chairman and Chief Executive Officer John Plant said, \u201cThe Howmet team drove a very strong third quarter, with results exceeding the high end of guidance on all metrics. Notably, revenue growth accelerated to 14% year over year, versus 8% growth in the first half, driven by healthy demand across the commercial aerospace, defense aerospace, and industrial and other markets. Adjusted EBITDA Margin* was solid at 29.4%, up 290 basis points year over year. Free Cash Flow was $423 million after $108 million of capital expenditures, as Howmet continues to invest in growth, which is backed by customer contracts.\u201d  \n\nMr. Plant continued, \u201cStrong cash generation supported continued return of cash to shareholders, with $200 million of share repurchases in the third quarter 2025 and an additional $100 million in October, bringing year-to-date repurchases to $600 million. Furthermore, the Board of Directors declared a 20% increase in the common stock dividend to $0.12 per share in the third quarter 2025. The Company also paid down $63 million of debt in the quarter, further strengthening the balance sheet.\u201d   \n\n\u201cTurning to 2026, the outlook across most of our major end markets remains solid. Air traffic continues to grow and the backlog of commercial aircraft extends through the decade, providing for both solid commercial aerospace original equipment demand and growing demand for engine spares. The defense aerospace market remains strong across F-35 demand in addition to legacy fighters. Growing power demand to support data center builds bolsters the industrial gas turbine and aeroderivative market. However, the commercial transportation market remains weak. Our 2026 outlook envisions revenue of approximately $9 billion, up ~10% year over year.\u201d  ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 47,
+  "n_material_neg": 0,
+  "n_positive": 25,
+  "mean_pos_positive": 0.5182978723404256,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.012638532207668982,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.0,
+  "overall_hedge": 0.00922266139657444,
+  "mean_tone": 0.054355819197960585
+ },
+ "lexicon": {
+  "words": 759,
+  "per_1000": {
+   "Negative": 2.6,
+   "Positive": 9.2,
+   "Uncertainty": 9.2,
+   "Litigious": 1.3,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 7,
+   "Uncertainty": 7,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Record Revenue, Growth Accelerated to 14% Year Over Year; Strong Profit; Record Cash from Operations",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     64,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "$200 Million Deployed for Common Stock Repurchases; $63 Million Debt Reduction",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Full Year 2025 Guidance: Raised on All Metrics",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Full Year 2026 Revenue Guidance: Approximately $9 Billion, Up ~10% Year over Year",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     33,
+     46,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Third Quarter 2025 GAAP Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Revenue of $2.09 billion, up 14% year over year, driven by Commercial Aerospace, up 15%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Operating Income Margin of 25.9%, up 300 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Net Income of $385 million versus $332 million in the third quarter 2024; Earnings per Share of $0.95 versus $0.81 in the third quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Generated $531 million of Cash from Operations; $314 million of Cash used for Financing Activities; and $104 million of Cash used for Investing Activities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Share repurchases of $200 million; paid $0.12 per share common stock dividend, a 20% increase from the second quarter 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Third Quarter 2025 Adjusted Financial Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA excluding special items of $614 million, up 26% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Adjusted EBITDA margin excluding special items of 29.4%, up 290 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Adjusted Operating Income Margin excluding special items of 25.9%, up 310 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Adjusted Earnings Per Share excluding special items of $0.95, up 34% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Generated $423 million of Free Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Key Announcements",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Repurchased $200 million of common stock in third quarter 2025 at an average price of $182.20 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Repurchased an additional $100 million of common stock in October 2025 at an average price of $191.86 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Increased the third quarter dividend by 20% quarter over quarter to $0.12 per share on the Company\u2019s common stock.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Paid down remaining $63 million of the US dollar-denominated Term Loan in third quarter 2025, reducing annualized interest expense by approximately $4 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     134,
+     147,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "S&P upgraded Howmet Aerospace\u2019s long-term issuer credit rating from BBB to BBB+ on September 8, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Full Year 2025 Guidance: Raised on all metrics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Full Year 2026 Revenue Guidance: Approximately $9 billion, up ~10% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     33,
+     46,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "PITTSBURGH, Oct. 30, 2025 /PRNewswire/ \u2014 Howmet Aerospace (NYSE: HWM) today reported third quarter 2025 results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company reported record third quarter 2025 revenue of $2.09 billion, up 14% year over year, driven by growth in the commercial aerospace market of 15%, growth in the defense aerospace market of 24%, and growth in the industrial and other market of 18%, partially offset by declines in the commercial transportation market of 3%.",
+   "d": 1,
+   "m": false,
+   "tone": -0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     277,
+     285,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Howmet Aerospace reported Net Income of $385 million, or $0.95 per share, in the third quarter 2025 versus $332 million, or $0.81 per share, in the third quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Net Income excluding special items was $385 million, or $0.95 per share, in the third quarter 2025, versus $290 million, or $0.71 per share, in the third quarter 2024; there was no impact from special items in the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Third quarter 2025 Operating Income and Operating Income excluding special items were both $542 million, up 29% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Operating Income Margin was 25.9%, up approximately 300 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Third quarter 2025 Adjusted Operating Income Margin excluding special items was 25.9%, up approximately 310 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     90,
+     103,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Third quarter 2025 Adjusted EBITDA excluding special items was $614 million, up 26% year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "The year-over-year increase was driven by strong growth in the commercial aerospace, defense aerospace, and industrial and other markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Adjusted EBITDA margin excluding special items was up approximately 290 basis points year over year at 29.4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     54,
+     67,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Howmet Aerospace Executive Chairman and Chief Executive Officer John Plant said, \u201cThe Howmet team drove a very strong third quarter, with results exceeding the high end of guidance on all metrics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Notably, revenue growth accelerated to 14% year over year, versus 8% growth in the first half, driven by healthy demand across the commercial aerospace, defense aerospace, and industrial and other markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Adjusted EBITDA Margin* was solid at 29.4%, up 290 basis points year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Free Cash Flow was $423 million after $108 million of capital expenditures, as Howmet continues to invest in growth, which is backed by customer contracts.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     145,
+     154,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Mr. Plant continued, \u201cStrong cash generation supported continued return of cash to shareholders, with $200 million of share repurchases in the third quarter 2025 and an additional $100 million in October, bringing year-to-date repurchases to $600 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Furthermore, the Board of Directors declared a 20% increase in the common stock dividend to $0.12 per share in the third quarter 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The Company also paid down $63 million of debt in the quarter, further strengthening the balance sheet.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "\u201cTurning to 2026, the outlook across most of our major end markets remains solid.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Air traffic continues to grow and the backlog of commercial aircraft extends through the decade, providing for both solid commercial aerospace original equipment demand and growing demand for engine spares.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "The defense aerospace market remains strong across F-35 demand in addition to legacy fighters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "Growing power demand to support data center builds bolsters the industrial gas turbine and aeroderivative market.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "However, the commercial transportation market remains weak.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     58,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "Our 2026 outlook envisions revenue of approximately $9 billion, up ~10% year over year.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
