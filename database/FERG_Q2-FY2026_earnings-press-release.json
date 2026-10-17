@@ -1,0 +1,764 @@
+{
+ "company": "Ferguson Enterprises, Inc.",
+ "ticker": "FERG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-06-30",
+ "source_url": "https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2026/Ferguson-Reports-Second-Quarter-Ended-June-30-2026/default.aspx",
+ "demo": false,
+ "source_text": "Second quarter highlights\n\nSales of $8.8 billion, increased 4.6%.\nGross margin of 31.0%, down 20 bps from prior year.\nOperating margin of 10.2%, up 10 bps on prior year (10.7% on an adjusted basis, down 10 bps).\nDiluted earnings per share of $3.43, up 6.9% on prior year ($3.39 on an adjusted basis, up 5.3%).\nCompleted five acquisitions during the quarter and signed a definitive purchase agreement to acquire FWI Holdings, Inc. (\u201cFloWorks\u201d).\nDeclared quarterly dividend of $0.89.\nShare repurchases of $202 million during the quarter.\nBalance sheet remains strong with net debt to adjusted EBITDA of 1.3x.\nNEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG). Kevin Murphy, Ferguson CEO, commented, \u201cOur associates continued to execute for our customers, driving market outperformance in the second quarter. We delivered another strong quarter of non-residential growth and we returned to growth in residential despite the challenging market backdrop. We completed five acquisitions and signed a definitive purchase agreement to acquire FloWorks, a leading distributor of highly technical valves and flow control solutions. Our scale-advantaged business model and consistent cash generation enable us to invest in organic growth, consolidate our markets through acquisitions and return capital to shareholders, all while maintaining a strong balance sheet.\n\n\u201cWhile the economic environment remains uncertain, our performance year-to-date enables the upward revision of our full year guidance. We expect to continue delivering market outperformance by deploying scale locally and leveraging the long-term growth drivers of water infrastructure, large capital projects, climate and comfort and aging and underbuilt housing. We remain confident in our ability to capitalize on these growth drivers as we provide essential water and air solutions for the complex project needs of the specialized professional.\u201d\n\nSummary of financial results\n\nQuarter ended June 30, 2026\n\nNet sales of $8.8 billion were 4.6% ahead of last year driven by organic revenue growth of 3.8% and acquisition growth of 1.0%, partially offset by 0.2% from a divestment in Canada. Price inflation was in the low single digits.\n\nGross margin of 31.0% was 20 basis points below the prior year, which was temporarily elevated by the timing and extent of supplier price increases. We continued to drive operating leverage by balancing disciplined cost management with investments for future growth.\n\nReported operating profit was $893 million (10.2% operating margin), 6.1% ahead of last year. Adjusted operating profit of $932 million (10.7% adjusted operating margin) was 2.9% above last year.\n\nReported diluted earnings per share was $3.43, an increase of 6.9% compared to last year, while adjusted diluted earnings per share of $3.39 increased 5.3% due to the higher adjusted operating profit and the impact of share repurchases.\n\nUS - quarter ended June 30, 2026\n\nNet sales in the US business increased by 5.0%, with organic revenue growth of 4.0% and a further 1.0% contribution from acquisitions.\n\nResidential end markets, representing approximately half of revenue, remained subdued. New residential construction activity has been weak and repair, maintenance and improvement (\u201cRMI\u201d) work remains soft. We continue to outperform our markets with residential revenue up 2% in the quarter.\n\nOur non-residential revenue increased 8% this quarter as our scale, expertise, multi-customer group approach and value-added solutions drove strong share gains in a mixed market. Large capital project activity remained healthy with growth in open order volumes and strong bidding activity.\n\nAdjusted operating profit of $925 million was 2.9% or $26 million above last year.\n\nWe completed five acquisitions during the quarter, further strengthening our geographic footprint and specialized capabilities across our customer groups:\n\nHVAC: Expanded our offering by adding Carrier Great Lakes, with seven locations across Michigan and Ohio, and Dealers Supply Company, with seventeen locations in the Southeast.\n\nCommercial/Mechanical: Broadened our value-added capabilities with New England Applied Products, a manufacturer\u2019s representative and engineering firm specializing in high-performance commercial HVAC systems in the Northeast.\n\nWaterworks: Continued to diversify our portfolio by adding process solutions for water and wastewater treatment in Michigan through the acquisition of Hamlett Environmental Technologies Company.\n\nIndustrial: Strengthened our specialty valve, flow control, and process equipment offerings with ten locations across the country with PRD Technologies Group.\n\nSubsequent to quarter-end, we entered into a definitive agreement to acquire FWI Holdings, Inc. (\u201cFloWorks\u201d), a leading industrial distributor and service provider of highly technical valves and flow control solutions. We expect to complete this acquisition during the third quarter. The aggregate annualized revenue of the eight acquisitions announced year-to-date is approximately $1.4 billion. For more information on the FloWorks acquisition, see the press release dated July 13, 2026 on Ferguson\u2019s corporate pressroom at https://www.fergusonpressroom.com.\n\nCanada - quarter ended June 30, 2026\n\nNet sales decreased by 1.9% with organic growth of 1.7% fully offset by 3.6% from a non-core business divestment. Markets have remained challenging in Canada, particularly in residential. Adjusted operating profit of $22 million was $1 million below last year.\n\nFinancial position\n\nNet debt to adjusted EBITDA at June 30, 2026 was 1.3x and during the quarter we invested $573 million in acquisitions and returned $202 million of surplus capital via share repurchases.\n\nWe declared a quarterly dividend of $0.89. The dividend will be paid on October 7, 2026 to stockholders of record as of August 21, 2026.\n\nCancellation of secondary listing on the London Stock Exchange\n\nOn June 16, 2026, Ferguson announced its intention to cancel its secondary listing on the London Stock Exchange. This cancellation took effect on July 20, 2026.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 54,
+  "n_material_neg": 2,
+  "n_positive": 15,
+  "mean_pos_negative": 0.4444444444444445,
+  "mean_pos_positive": 0.3876543209876543,
+  "placement_asymmetry": 0.05679012345679019,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.05555555555555555,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0055577344466233355,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.803921568627451,
+  "overall_hedge": 0.00591016548463357,
+  "mean_tone": 0.04364003199624491
+ },
+ "lexicon": {
+  "words": 846,
+  "per_1000": {
+   "Negative": 9.5,
+   "Positive": 20.1,
+   "Uncertainty": 3.5,
+   "Litigious": 0.0,
+   "Strong modal": 1.2,
+   "Weak modal": 1.2,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 8,
+   "Positive": 17,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second quarter highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Sales of $8.8 billion, increased 4.6%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Gross margin of 31.0%, down 20 bps from prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating margin of 10.2%, up 10 bps on prior year (10.7% on an adjusted basis, down 10 bps).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Diluted earnings per share of $3.43, up 6.9% on prior year ($3.39 on an adjusted basis, up 5.3%).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Completed five acquisitions during the quarter and signed a definitive purchase agreement to acquire FWI Holdings, Inc. (\u201cFloWorks\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Declared quarterly dividend of $0.89.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Share repurchases of $202 million during the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Balance sheet remains strong with net debt to adjusted EBITDA of 1.3x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "NEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Kevin Murphy, Ferguson CEO, commented, \u201cOur associates continued to execute for our customers, driving market outperformance in the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We delivered another strong quarter of non-residential growth and we returned to growth in residential despite the challenging market backdrop.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     110,
+     [
+      "positive"
+     ]
+    ],
+    [
+     115,
+     126,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We completed five acquisitions and signed a definitive purchase agreement to acquire FloWorks, a leading distributor of highly technical valves and flow control solutions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     104,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Our scale-advantaged business model and consistent cash generation enable us to invest in organic growth, consolidate our markets through acquisitions and return capital to shareholders, all while maintaining a strong balance sheet.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     67,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     211,
+     217,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cWhile the economic environment remains uncertain, our performance year-to-date enables the upward revision of our full year guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     40,
+     49,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     80,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We expect to continue delivering market outperformance by deploying scale locally and leveraging the long-term growth drivers of water infrastructure, large capital projects, climate and comfort and aging and underbuilt housing.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "We remain confident in our ability to capitalize on these growth drivers as we provide essential water and air solutions for the complex project needs of the specialized professional.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Summary of financial results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Quarter ended June 30, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Net sales of $8.8 billion were 4.6% ahead of last year driven by organic revenue growth of 3.8% and acquisition growth of 1.0%, partially offset by 0.2% from a divestment in Canada.",
+   "d": 1,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     160,
+     170,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Price inflation was in the low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Gross margin of 31.0% was 20 basis points below the prior year, which was temporarily elevated by the timing and extent of supplier price increases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "We continued to drive operating leverage by balancing disciplined cost management with investments for future growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Reported operating profit was $893 million (10.2% operating margin), 6.1% ahead of last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Adjusted operating profit of $932 million (10.7% adjusted operating margin) was 2.9% above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Reported diluted earnings per share was $3.43, an increase of 6.9% compared to last year, while adjusted diluted earnings per share of $3.39 increased 5.3% due to the higher adjusted operating profit and the impact of share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "US - quarter ended June 30, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Net sales in the US business increased by 5.0%, with organic revenue growth of 4.0% and a further 1.0% contribution from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Residential end markets, representing approximately half of revenue, remained subdued.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "New residential construction activity has been weak and repair, maintenance and improvement (\u201cRMI\u201d) work remains soft.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     51,
+     [
+      "negative"
+     ]
+    ],
+    [
+     80,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "We continue to outperform our markets with residential revenue up 2% in the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Our non-residential revenue increased 8% this quarter as our scale, expertise, multi-customer group approach and value-added solutions drove strong share gains in a mixed market.",
+   "d": 1,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     141,
+     147,
+     [
+      "positive"
+     ]
+    ],
+    [
+     154,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Large capital project activity remained healthy with growth in open order volumes and strong bidding activity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Adjusted operating profit of $925 million was 2.9% or $26 million above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "We completed five acquisitions during the quarter, further strengthening our geographic footprint and specialized capabilities across our customer groups:",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "HVAC: Expanded our offering by adding Carrier Great Lakes, with seven locations across Michigan and Ohio, and Dealers Supply Company, with seventeen locations in the Southeast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Commercial/Mechanical: Broadened our value-added capabilities with New England Applied Products, a manufacturer\u2019s representative and engineering firm specializing in high-performance commercial HVAC systems in the Northeast.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Waterworks: Continued to diversify our portfolio by adding process solutions for water and wastewater treatment in Michigan through the acquisition of Hamlett Environmental Technologies Company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Industrial: Strengthened our specialty valve, flow control, and process equipment offerings with ten locations across the country with PRD Technologies Group.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Subsequent to quarter-end, we entered into a definitive agreement to acquire FWI Holdings, Inc. (\u201cFloWorks\u201d), a leading industrial distributor and service provider of highly technical valves and flow control solutions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     119,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "We expect to complete this acquisition during the third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The aggregate annualized revenue of the eight acquisitions announced year-to-date is approximately $1.4 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     85,
+     98,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "For more information on the FloWorks acquisition, see the press release dated July 13, 2026 on Ferguson\u2019s corporate pressroom at https://www.fergusonpressroom.com.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Canada - quarter ended June 30, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Net sales decreased by 1.9% with organic growth of 1.7% fully offset by 3.6% from a non-core business divestment.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     112,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "Markets have remained challenging in Canada, particularly in residential.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     33,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "Adjusted operating profit of $22 million was $1 million below last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Financial position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "Net debt to adjusted EBITDA at June 30, 2026 was 1.3x and during the quarter we invested $573 million in acquisitions and returned $202 million of surplus capital via share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "We declared a quarterly dividend of $0.89.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "The dividend will be paid on October 7, 2026 to stockholders of record as of August 21, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "Cancellation of secondary listing on the London Stock Exchange",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "On June 16, 2026, Ferguson announced its intention to cancel its secondary listing on the London Stock Exchange.",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     60,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 54,
+   "t": "This cancellation took effect on July 20, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     17,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
