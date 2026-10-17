@@ -1,0 +1,244 @@
+{
+ "company": "McDonald's",
+ "ticker": "MCD",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2026-05-01",
+ "source_url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q1-2025-results.html",
+ "demo": false,
+ "source_text": "CHICAGO, IL - McDonald's Corporation today announced results for the first quarter ended March 31, 2025.\n\n\u201cMcDonald's has a 70-year legacy of innovation, leadership, and proven agility, all of which give us confidence in our ability to navigate even the toughest of market conditions and gain market share,\" said Chairman and CEO Chris Kempczinski. \"Consumers today are grappling with uncertainty, but they can always count on McDonald\u2019s for both exciting new menu items and delicious favorites for exceptional value, from a brand they love.\u201d\n \n\nFirst quarter financial performance:\n\nGlobal comparable sales decreased 1.0%, impacted by the comparison to Leap Day in the prior year:\nU.S. decreased 3.6%\nInternational Operated Markets decreased 1.0%\nInternational Developmental Licensed Markets increased 3.5%\nConsolidated revenues decreased 3% (2% in constant currencies).\nSystemwide sales decreased 1% (increased 1% in constant currencies).\nConsolidated operating income decreased 3% (1% in constant currencies). Results reflected pre-tax charges of $66 million and $35 million for the current year and prior year, respectively, primarily related to restructuring charges associated with Accelerating the Organization. Excluding these current and prior year charges, consolidated operating income decreased 2% (flat in constant currencies).**\nDiluted earnings per share was $2.60, a decrease of 2% (1% in constant currencies). Excluding the current year charges described above of $0.07 per share, diluted earnings per share was $2.67, a decrease of 1% (increase of 1% in constant currencies) when also excluding prior year charges.**\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 8,
+  "n_positive": 1,
+  "mean_pos_negative": 0.6607142857142857,
+  "mean_pos_positive": 0.5,
+  "placement_asymmetry": 0.1607142857142857,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.35714285714285715,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9537037037037037,
+  "overall_hedge": 0.004651162790697674,
+  "mean_tone": 0.09906037495171621
+ },
+ "lexicon": {
+  "words": 215,
+  "per_1000": {
+   "Negative": 4.7,
+   "Positive": 27.9,
+   "Uncertainty": 4.7,
+   "Litigious": 0.0,
+   "Strong modal": 4.7,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 6,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CHICAGO, IL - McDonald's Corporation today announced results for the first quarter ended March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\u201cMcDonald's has a 70-year legacy of innovation, leadership, and proven agility, all of which give us confidence in our ability to navigate even the toughest of market conditions and gain market share,\" said Chairman and CEO Chris Kempczinski.",
+   "d": 0,
+   "m": false,
+   "tone": 0.789,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     48,
+     58,
+     [
+      "positive"
+     ]
+    ],
+    [
+     182,
+     186,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"Consumers today are grappling with uncertainty, but they can always count on McDonald\u2019s for both exciting new menu items and delicious favorites for exceptional value, from a brand they love.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.968,
+   "h": 0.0323,
+   "hits": [
+    [
+     36,
+     47,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     62,
+     68,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     98,
+     106,
+     [
+      "positive"
+     ]
+    ],
+    [
+     136,
+     145,
+     [
+      "positive"
+     ]
+    ],
+    [
+     150,
+     161,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "First quarter financial performance:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Global comparable sales decreased 1.0%, impacted by the comparison to Leap Day in the prior year: U.S. decreased 3.6%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "International Operated Markets decreased 1.0%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "International Developmental Licensed Markets increased 3.5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Consolidated revenues decreased 3% (2% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Systemwide sales decreased 1% (increased 1% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Consolidated operating income decreased 3% (1% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Results reflected pre-tax charges of $66 million and $35 million for the current year and prior year, respectively, primarily related to restructuring charges associated with Accelerating the Organization.",
+   "d": -1,
+   "m": true,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     150,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Excluding these current and prior year charges, consolidated operating income decreased 2% (flat in constant currencies).**.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Diluted earnings per share was $2.60, a decrease of 2% (1% in constant currencies).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Excluding the current year charges described above of $0.07 per share, diluted earnings per share was $2.67, a decrease of 1% (increase of 1% in constant currencies) when also excluding prior year charges.**",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
