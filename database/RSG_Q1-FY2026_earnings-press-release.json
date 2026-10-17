@@ -1,0 +1,396 @@
+{
+ "company": "Republic Services",
+ "ticker": "RSG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-07",
+ "source_url": "https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-first-quarter-2026-results",
+ "demo": false,
+ "source_text": "First Quarter Earnings Per Share of $1.70\nExpanded First Quarter Net Income Margin 50 Basis Points and Adjusted EBITDA Margin 50 Basis Points\nGenerated Cash Flow from Operations of $1.23 Billion\nGenerated Adjusted Free Cash Flow of $984 Million\nInvested More Than $700 Million in Value-Creating Acquisitions To Date\nNamed to Fortune's 2026 World's Most Admired Companies List\nPHOENIX, May 7, 2026 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $525 million, or $1.70 per diluted share, for the three months ended March 31, 2026, versus $495 million, or $1.58 per diluted share, for the comparable 2025 period. Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended March 31, 2026, was $526 million, or $1.70 per diluted share, versus $496 million, or $1.58 per diluted share, for the comparable 2025 period.\n\n Republic Services logo (PRNewsfoto/Republic Services, Inc.)  \n\n\"We are off to a strong start and remain well positioned to achieve our full\u2011year objectives,\" said Jon Vander Ark, president and chief executive officer. \"Disciplined pricing and effective cost management drove solid earnings growth and 50 basis points of adjusted EBITDA margin expansion in the first quarter. We remain focused on executing our strategy and investing for growth to deliver long\u2011term value for our customers and shareholders.\"\n\nFirst-Quarter 2026 Highlights:\n\nTotal revenue growth of 2.6 percent includes 2.8 percent organic growth from our recycling and waste business, 1.3 percent organic decline from our environmental solutions business, and 1.1 percent growth from acquisitions.\nCore price on total revenue increased revenue by 5.7 percent. Core price on related business revenue increased revenue by 6.8 percent, which consisted of 8.4 percent in the open market and 4.4 percent in the restricted portion of the business.\nRevenue growth from average yield on total revenue was 3.4 percent, and volume decreased revenue by 0.8 percent. Revenue growth from average yield on related business revenue was 4.1 percent, and volume decreased related business revenue by 1.0 percent.\nNet income was $525 million, or a margin of 12.8 percent.\nEPS and Adjusted EPS, a non-GAAP measure, were both $1.70 per share, an increase of 7.6 percent over the prior year.\nAdjusted EBITDA, a non-GAAP measure, was $1.32 billion, and adjusted EBITDA margin, a non-GAAP measure, was 32.1 percent of revenue, an increase of 50 basis points over the prior year.\nCash invested in acquisitions was $433 million.\nCash returned to shareholders was $507 million, which included $314 million of share repurchases and $193 million of dividends paid.\nThe Company's average recycled commodity price per ton sold at its recycling centers during the first quarter was $120. This represents a decrease of $35 per ton over the prior year.\nRepublic was recognized by several leading organizations during the quarter, including:\nEthisphere's 2026 World's Most Ethical Companies\u00ae List\nFortune's 2026 World's Most Admired Companies List\nCompany Declared Quarterly Dividend\n\nOn May 5, 2026, the Board of Directors of Republic Services, Inc. declared a regular quarterly dividend of $0.625 per share for shareholders of record on July 2, 2026. The dividend will be paid on July 15, 2026.\n\nPresentation of Certain Performance Metrics and Non-GAAP Measures\n\nAdjusted diluted earnings per share, adjusted net income - Republic, adjusted pre-tax income, adjusted tax impact, EBITDA, EBITDA margin, adjusted EBITDA, adjusted EBITDA margin, adjusted EBITDA by business type, adjusted EBITDA margin by business type and adjusted free cash flow are described in the Performance Metrics and Reconciliations of Certain Non-GAAP Measures section of this document.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 31,
+  "n_material_neg": 2,
+  "n_positive": 9,
+  "mean_pos_negative": 0.564516129032258,
+  "mean_pos_positive": 0.5017921146953405,
+  "placement_asymmetry": 0.06272401433691754,
+  "distance_from_headline": 8,
+  "first_negative_pos": 0.5483870967741935,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.03226849052275997
+ },
+ "lexicon": {
+  "words": 475,
+  "per_1000": {
+   "Negative": 2.1,
+   "Positive": 6.3,
+   "Uncertainty": 4.2,
+   "Litigious": 0.0,
+   "Strong modal": 2.1,
+   "Weak modal": 4.2,
+   "Constraining": 2.1
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 3,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First Quarter Earnings Per Share of $1.70.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Expanded First Quarter Net Income Margin 50 Basis Points and Adjusted EBITDA Margin 50 Basis Points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Generated Cash Flow from Operations of $1.23 Billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Generated Adjusted Free Cash Flow of $984 Million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Invested More Than $700 Million in Value-Creating Acquisitions To Date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Named to Fortune's 2026 World's Most Admired Companies List.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "PHOENIX, May 7, 2026 /PRNewswire/ -- Republic Services, Inc. (NYSE: RSG) today reported net income of $525 million, or $1.70 per diluted share, for the three months ended March 31, 2026, versus $495 million, or $1.58 per diluted share, for the comparable 2025 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     12,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Excluding certain expenses and other items, on an adjusted basis, net income for the three months ended March 31, 2026, was $526 million, or $1.70 per diluted share, versus $496 million, or $1.58 per diluted share, for the comparable 2025 period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Republic Services logo (PRNewsfoto/Republic Services, Inc.)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\"We are off to a strong start and remain well positioned to achieve our full\u2011year objectives,\" said Jon Vander Ark, president and chief executive officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\"Disciplined pricing and effective cost management drove solid earnings growth and 50 basis points of adjusted EBITDA margin expansion in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We remain focused on executing our strategy and investing for growth to deliver long\u2011term value for our customers and shareholders.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "First-Quarter 2026 Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Total revenue growth of 2.6 percent includes 2.8 percent organic growth from our recycling and waste business, 1.3 percent organic decline from our environmental solutions business, and 1.1 percent growth from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     131,
+     138,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Core price on total revenue increased revenue by 5.7 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Core price on related business revenue increased revenue by 6.8 percent, which consisted of 8.4 percent in the open market and 4.4 percent in the restricted portion of the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     146,
+     156,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Revenue growth from average yield on total revenue was 3.4 percent, and volume decreased revenue by 0.8 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Revenue growth from average yield on related business revenue was 4.1 percent, and volume decreased related business revenue by 1.0 percent.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Net income was $525 million, or a margin of 12.8 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "EPS and Adjusted EPS, a non-GAAP measure, were both $1.70 per share, an increase of 7.6 percent over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Adjusted EBITDA, a non-GAAP measure, was $1.32 billion, and adjusted EBITDA margin, a non-GAAP measure, was 32.1 percent of revenue, an increase of 50 basis points over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Cash invested in acquisitions was $433 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Cash returned to shareholders was $507 million, which included $314 million of share repurchases and $193 million of dividends paid.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "The Company's average recycled commodity price per ton sold at its recycling centers during the first quarter was $120.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "This represents a decrease of $35 per ton over the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Republic was recognized by several leading organizations during the quarter, including: Ethisphere's 2026 World's Most Ethical Companies\u00ae List.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Fortune's 2026 World's Most Admired Companies List.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Company Declared Quarterly Dividend",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "On May 5, 2026, the Board of Directors of Republic Services, Inc. declared a regular quarterly dividend of $0.625 per share for shareholders of record on July 2, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     6,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "The dividend will be paid on July 15, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Presentation of Certain Performance Metrics and Non-GAAP Measures",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
