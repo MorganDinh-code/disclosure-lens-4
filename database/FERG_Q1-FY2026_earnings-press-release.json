@@ -1,0 +1,791 @@
+{
+ "company": "Ferguson Enterprises, Inc.",
+ "ticker": "FERG",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-05",
+ "source_url": "https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2026/Ferguson-Reports-First-Quarter-Ended-March-31-2026/default.aspx",
+ "demo": false,
+ "source_text": "Solid Start to the Year; Full Year Guidance Unchanged\n\nFirst quarter highlights\n\nSales of $7.5 billion, increased 3.6%.\nGross margin of 31.0%, up 30 bps from prior year.\nOperating margin of 8.2%, up 120 bps on prior year (8.7%, up 40 bps on an adjusted basis).\nDiluted earnings per share of $2.13, up 23.1% on prior year ($2.28 on an adjusted basis, up 9.1%).\nCompleted two acquisitions during the quarter, one subsequent to quarter-end and signed definitive purchase agreements on another three.\nDeclared quarterly dividend of $0.89.\nShare repurchases of $236 million during the quarter; and new $2 billion share repurchase program authorization.\nBalance sheet remains strong with net debt to adjusted EBITDA of 1.0x.\nNEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG; LSE: FERG). Kevin Murphy, Ferguson CEO, commented, \u201cOur associates delivered another quarter of solid results in a challenging market. We are particularly pleased with another quarter of strong non-residential revenue growth, driven by our ability to serve large capital projects. Our scale-advantaged business model and consistent cash generation enable us to invest in organic growth, consolidate our markets through acquisitions and return capital to shareholders, all while maintaining a strong balance sheet.\n\n\u201cWhile the economic environment remains uncertain, we expect to continue to outperform the market by deploying scale locally while leveraging the long term growth drivers of water infrastructure, large capital projects, climate and comfort and aging and underbuilt housing. We are confident in our ability to capitalize on these growth drivers as we provide essential water and air solutions for the complex project needs of the specialized professional.\u201d\n\nSummary of financial results\n\nQuarter ended March 31, 2026\n\nNet sales of $7.5 billion were 3.6% ahead of last year driven by organic revenue growth of 2.8% and acquisition growth of 0.8%. Price inflation was in the mid-single digits.\n\nGross margin of 31.0% was 30 basis points above last year reflecting solid execution across the business. In addition, we continued to drive productivity and diligently manage the cost base.\n\nReported operating profit was $612 million (8.2% operating margin), 20.7% ahead of last year. Adjusted operating profit of $647 million (8.7% adjusted operating margin) was 8.4% above last year.\n\nReported diluted earnings per share was $2.13, an increase of 23.1% compared to last year, while adjusted diluted earnings per share of $2.28 increased 9.1% due to the higher adjusted operating profit and the impact of share repurchases.\n\nUS - quarter ended March 31, 2026\n\nNet sales in the US business increased by 3.5%, with organic revenue growth of 2.9% and a further 0.6% contribution from acquisitions.\n\nResidential end markets, representing approximately half of US revenue, remained challenged. New residential construction activity has been weak and repair, maintenance and improvement (\u201cRMI\u201d) work remains soft. We continue to outperform weak markets with residential revenue down 1% in the quarter.\n\nAlthough the overall non-residential market remains mixed, our scale, expertise, multi-customer group approach and value-added solutions drove strong share gains with non-residential revenue up 8% this quarter. We are pleased with the on-going large capital project activity and continue to see solid shipments with growth in open order volumes and bidding activity.\n\nAdjusted operating profit of $656 million was 7.4% or $45 million above last year.\n\nWe completed two acquisitions within our Waterworks customer group during the first quarter, including: Technology Sales Associates, Inc. and Chesapeake Environmental Equipment, LLC. Subsequent to quarter-end, we acquired Carrier Great Lakes in our HVAC customer group. We also signed definitive purchase agreements for two additional HVAC acquisitions, Dealers Supply Company and New England Applied Products, as well as PRD Technologies Group within our Industrial customer group. We anticipate closing these three acquisitions during the second quarter. Collectively, these acquisitions will expand and enhance our capabilities across water and wastewater treatment, residential, commercial and applied HVAC, and industrial valves and flow control. The aggregate annualized revenue impact of these six acquisitions is approximately $350 million.\n\nCanada - quarter ended March 31, 2026\n\nNet sales increased by 5.5%, with a 5.8% contribution from acquisitions offset by an organic decline of 0.3%. A favorable 4.6% impact from foreign exchange rates was fully offset by 4.6% from a non-core business divestment. Markets have remained subdued in Canada, particularly in residential. Adjusted operating profit of $5 million was $1 million below last year.\n\ninancial position\n\nNet debt to adjusted EBITDA at March 31, 2026 was 1.0x and during the quarter we completed share repurchases of $236 million. Taking into account our strong financial position, the Board authorized the repurchase of up to $2.0 billion of Ferguson's outstanding common stock, replacing the company's existing repurchase program. The authorization has no expiration date.\n\nWe declared a quarterly dividend of $0.89. The dividend will be paid on July 8, 2026 to stockholders of record as of May 15, 2026.\n\nLondon Stock Exchange listing review\n\nFerguson is undertaking a review of its London Stock Exchange (LSE) secondary listing, the outcome of which may result in the cancellation of the Company's LSE listing. The Company anticipates completing this review during the second quarter of 2026 and will provide an update to shareholders at that time.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 53,
+  "n_material_neg": 1,
+  "n_positive": 16,
+  "mean_pos_negative": 0.5660377358490566,
+  "mean_pos_positive": 0.41037735849056606,
+  "placement_asymmetry": 0.15566037735849053,
+  "distance_from_headline": 28,
+  "first_negative_pos": 0.5660377358490566,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.006141757401647549,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.008771929824561403,
+  "mean_tone": 0.06243911216546985
+ },
+ "lexicon": {
+  "words": 798,
+  "per_1000": {
+   "Negative": 8.8,
+   "Positive": 21.3,
+   "Uncertainty": 8.8,
+   "Litigious": 0.0,
+   "Strong modal": 3.8,
+   "Weak modal": 3.8,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 7,
+   "Positive": 17,
+   "Uncertainty": 7,
+   "Litigious": 0,
+   "Strong modal": 3,
+   "Weak modal": 3,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Solid Start to the Year; Full Year Guidance Unchanged",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "First quarter highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales of $7.5 billion, increased 3.6%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Gross margin of 31.0%, up 30 bps from prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Operating margin of 8.2%, up 120 bps on prior year (8.7%, up 40 bps on an adjusted basis).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share of $2.13, up 23.1% on prior year ($2.28 on an adjusted basis, up 9.1%).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Completed two acquisitions during the quarter, one subsequent to quarter-end and signed definitive purchase agreements on another three.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Declared quarterly dividend of $0.89.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Share repurchases of $236 million during the quarter; and new $2 billion share repurchase program authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Balance sheet remains strong with net debt to adjusted EBITDA of 1.0x.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "NEWPORT NEWS, Va.--(BUSINESS WIRE)-- Ferguson Enterprises Inc. (NYSE: FERG; LSE: FERG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Kevin Murphy, Ferguson CEO, commented, \u201cOur associates delivered another quarter of solid results in a challenging market.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     114,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We are particularly pleased with another quarter of strong non-residential revenue growth, driven by our ability to serve large capital projects.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     58,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Our scale-advantaged business model and consistent cash generation enable us to invest in organic growth, consolidate our markets through acquisitions and return capital to shareholders, all while maintaining a strong balance sheet.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     67,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     211,
+     217,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cWhile the economic environment remains uncertain, we expect to continue to outperform the market by deploying scale locally while leveraging the long term growth drivers of water infrastructure, large capital projects, climate and comfort and aging and underbuilt housing.",
+   "d": 1,
+   "m": false,
+   "tone": 0.256,
+   "h": 0.0513,
+   "hits": [
+    [
+     40,
+     49,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     76,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We are confident in our ability to capitalize on these growth drivers as we provide essential water and air solutions for the complex project needs of the specialized professional.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Summary of financial results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Quarter ended March 31, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Net sales of $7.5 billion were 3.6% ahead of last year driven by organic revenue growth of 2.8% and acquisition growth of 0.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Price inflation was in the mid-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Gross margin of 31.0% was 30 basis points above last year reflecting solid execution across the business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "In addition, we continued to drive productivity and diligently manage the cost base.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Reported operating profit was $612 million (8.2% operating margin), 20.7% ahead of last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Adjusted operating profit of $647 million (8.7% adjusted operating margin) was 8.4% above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Reported diluted earnings per share was $2.13, an increase of 23.1% compared to last year, while adjusted diluted earnings per share of $2.28 increased 9.1% due to the higher adjusted operating profit and the impact of share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "US - quarter ended March 31, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Net sales in the US business increased by 3.5%, with organic revenue growth of 2.9% and a further 0.6% contribution from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Residential end markets, representing approximately half of US revenue, remained challenged.",
+   "d": 0,
+   "m": false,
+   "tone": -0.909,
+   "h": 0.0909,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     81,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "New residential construction activity has been weak and repair, maintenance and improvement (\u201cRMI\u201d) work remains soft.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     51,
+     [
+      "negative"
+     ]
+    ],
+    [
+     80,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "We continue to outperform weak markets with residential revenue down 1% in the quarter.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     26,
+     30,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Although the overall non-residential market remains mixed, our scale, expertise, multi-customer group approach and value-added solutions drove strong share gains with non-residential revenue up 8% this quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     143,
+     149,
+     [
+      "positive"
+     ]
+    ],
+    [
+     156,
+     161,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "We are pleased with the on-going large capital project activity and continue to see solid shipments with growth in open order volumes and bidding activity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Adjusted operating profit of $656 million was 7.4% or $45 million above last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "We completed two acquisitions within our Waterworks customer group during the first quarter, including: Technology Sales Associates, Inc. and Chesapeake Environmental Equipment, LLC.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Subsequent to quarter-end, we acquired Carrier Great Lakes in our HVAC customer group.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "We also signed definitive purchase agreements for two additional HVAC acquisitions, Dealers Supply Company and New England Applied Products, as well as PRD Technologies Group within our Industrial customer group.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "We anticipate closing these three acquisitions during the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Collectively, these acquisitions will expand and enhance our capabilities across water and wastewater treatment, residential, commercial and applied HVAC, and industrial valves and flow control.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     37,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     49,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "The aggregate annualized revenue impact of these six acquisitions is approximately $350 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     69,
+     82,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Canada - quarter ended March 31, 2026",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Net sales increased by 5.5%, with a 5.8% contribution from acquisitions offset by an organic decline of 0.3%.",
+   "d": 1,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     100,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "A favorable 4.6% impact from foreign exchange rates was fully offset by 4.6% from a non-core business divestment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     2,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     102,
+     112,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Markets have remained subdued in Canada, particularly in residential.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Adjusted operating profit of $5 million was $1 million below last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "inancial position",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Net debt to adjusted EBITDA at March 31, 2026 was 1.0x and during the quarter we completed share repurchases of $236 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Taking into account our strong financial position, the Board authorized the repurchase of up to $2.0 billion of Ferguson's outstanding common stock, replacing the company's existing repurchase program.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     30,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "The authorization has no expiration date.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "We declared a quarterly dividend of $0.89.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "The dividend will be paid on July 8, 2026 to stockholders of record as of May 15, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     74,
+     77,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "London Stock Exchange listing review",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "Ferguson is undertaking a review of its London Stock Exchange (LSE) secondary listing, the outcome of which may result in the cancellation of the Company's LSE listing.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     108,
+     111,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     126,
+     138,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "The Company anticipates completing this review during the second quarter of 2026 and will provide an update to shareholders at that time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     12,
+     23,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     85,
+     89,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
