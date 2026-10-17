@@ -1,0 +1,200 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-02-07",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/44/emerson-reports-first-quarter-2024-results-updates-2024-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Feb. 7, 2024 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its first quarter ended December 31, 2023 and updated its full year outlook for fiscal 2024. Emerson also declared a quarterly cash dividend of $0.525 per share of common stock payable March 11, 2024 to stockholders of record on February 16, 2024.\n\nManagement Commentary\n\n\"Emerson's first quarter results exceeded expectations in key financial metrics including underlying sales, operating leverage and adjusted earnings per share,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"Our strong start to the year, continued focus on execution, and resilient process and hybrid demand provide the confidence to update our 2024 outlook.\"\n\nKarsanbhai continued, \"NI, now referred to as Test & Measurement, started the year strong delivering robust sales and margins. We have increased and accelerated our synergy plan in Test & Measurement and remain focused on creating value.\"\n\n2024 Outlook\n\nThe following tables summarize the fiscal year 2024 guidance framework. The 2024 outlook assumes approximately $500 million returned to shareholders through share repurchases and approximately $1.2 billion of dividend payments. Guidance figures are approximate.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.4444444444444444,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.024242424242424242,
+  "mean_tone": 0.08252818035426732
+ },
+ "lexicon": {
+  "words": 165,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 12.1,
+   "Uncertainty": 24.2,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 2,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Feb. 7, 2024 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its first quarter ended December 31, 2023 and updated its full year outlook for fiscal 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.525 per share of common stock payable March 11, 2024 to stockholders of record on February 16, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson's first quarter results exceeded expectations in key financial metrics including underlying sales, operating leverage and adjusted earnings per share,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"Our strong start to the year, continued focus on execution, and resilient process and hybrid demand provide the confidence to update our 2024 outlook.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Karsanbhai continued, \"NI, now referred to as Test & Measurement, started the year strong delivering robust sales and margins.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     89,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We have increased and accelerated our synergy plan in Test & Measurement and remain focused on creating value.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "2024 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "The following tables summarize the fiscal year 2024 guidance framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The 2024 outlook assumes approximately $500 million returned to shareholders through share repurchases and approximately $1.2 billion of dividend payments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1765,
+   "hits": [
+    [
+     17,
+     24,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     25,
+     38,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     107,
+     120,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Guidance figures are approximate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.25,
+   "hits": [
+    [
+     21,
+     32,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
