@@ -1,0 +1,206 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-02-03",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/623/emerson-reports-first-quarter-2026-results-updates-2026-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Feb. 3, 2026 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results for its first quarter ended December 31, 2025 and updated its full year outlook for fiscal 2026. Emerson also declared a quarterly cash dividend of $0.555 per share of common stock payable March 10, 2026 to stockholders of record on February 13, 2026.\n\nManagement Commentary\n\n\"Emerson met sales commitments and exceeded expectations for profitability as our global teams continue to execute well,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"We delivered a fourth consecutive quarter of strong underlying orders growth, and we are experiencing robust demand for our automation technology, led by Software & Systems, with strength in North America, India and the Middle East & Africa.\"\n\nKarsanbhai continued, \"Emerson is accelerating innovation, introducing new products and delivering on the critical programs we highlighted at our 2025 investor conference. These releases advance our capabilities in software-defined automation and further enhance our leadership position in high-growth verticals.\"\n\n2026 Outlook\n\nThe following tables summarize the fiscal year 2026 guidance framework. As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 11,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.005494505494505495,
+  "mean_tone": 0.21966921966921968
+ },
+ "lexicon": {
+  "words": 182,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 33.0,
+   "Uncertainty": 5.5,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 5.5
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 6,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Feb. 3, 2026 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results for its first quarter ended December 31, 2025 and updated its full year outlook for fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.555 per share of common stock payable March 10, 2026 to stockholders of record on February 13, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson met sales commitments and exceeded expectations for profitability as our global teams continue to execute well,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     30,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     61,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\"We delivered a fourth consecutive quarter of strong underlying orders growth, and we are experiencing robust demand for our automation technology, led by Software & Systems, with strength in North America, India and the Middle East & Africa.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     52,
+     [
+      "positive"
+     ]
+    ],
+    [
+     180,
+     188,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Karsanbhai continued, \"Emerson is accelerating innovation, introducing new products and delivering on the critical programs we highlighted at our 2025 investor conference.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "These releases advance our capabilities in software-defined automation and further enhance our leadership position in high-growth verticals.\"",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "positive"
+     ]
+    ],
+    [
+     95,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "2026 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "The following tables summarize the fiscal year 2026 guidance framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
