@@ -1,0 +1,510 @@
+{
+ "company": "Quanta Services",
+ "ticker": "PWR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-08-01",
+ "source_url": "https://investors.quantaservices.com/news-events/press-releases/detail/361/quanta-services-reports-second-quarter-2024-results",
+ "demo": false,
+ "source_text": "Second Quarter Consolidated Revenues of $5.59 Billion*\n\nSecond Quarter GAAP Diluted EPS of $1.26* and Adjusted Diluted EPS of $1.90*\n\nNet Income Attributable to Common Stock of $188.2 Million* and Adjusted EBITDA of $523.2 Million*\n\nYear-to-Date Cash Flow From Operations of $629.3 Million and Free Cash Flow of $439.8 Million\n\nRemaining Performance Obligations of $14.4 Billion* and Total Backlog of $31.3 Billion*\n\nUpdating Full-Year 2024 Financial Expectations for the Expected Contribution of Cupertino Electric\n\n* = Record quarterly or record second quarter result\n\nHOUSTON, Aug. 1, 2024 /PRNewswire/ -- Quanta Services, Inc. (NYSE: PWR) today announced results for the three and six months ended June 30, 2024. Revenues in the second quarter of 2024 were $5.59 billion compared to revenues of $5.05 billion in the second quarter of 2023, and net income attributable to common stock was $188.2 million, or $1.26 per diluted share, in the second quarter of 2024 compared to net income attributable to common stock of $165.9 million, or $1.12 per diluted share, in the second quarter of 2023. Adjusted diluted earnings per share attributable to common stock (a non-GAAP financial measure) was $1.90 for the second quarter of 2024 compared to $1.65 for the second quarter of 2023.\n\nQuanta Services Logo. (PRNewsFoto/Quanta Services, Inc.)\n\n\"Quanta's first half of the year is a good start, with our second quarter results reflecting another quarter of double-digit growth in revenue, adjusted EBITDA and adjusted earnings per share, record total backlog of $31.3 billion and strong cash flow, which we believe reflects the power of our portfolio, sound execution and continued demand for our services, driven by our customers' multi-year programs to build the renewable generation and power grid infrastructure necessary to support North America's energy transition, load growth, security and reliability,\" said Duke Austin, President and Chief Executive Officer of Quanta Services.\n\n\"We recently completed the acquisition of Cupertino Electric, Inc. (CEI), which provides a platform of new service lines and a dynamic customer base. CEI also brings an exceptional management team and a premier craft-skilled workforce that complements Quanta's culture and will create a comprehensive electrical infrastructure solution offering that we believe can facilitate innovative solutions between utilities and large power consumers \u2013 from electron generation to transmission to consumption. With the complexities of the power grid and the significant upgrades and enhancements required to facilitate load growth, our collaborative, solutions-based approach is valued by our clients more than ever. As a result of our solid year-to-date results and the addition of CEI, we are increasing our full-year 2024 financial expectations for revenue, adjusted EBITDA and adjusted EPS.\"\n\nCertain items that impacted Quanta's results for the three and six months ended June 30, 2024 and 2023 are reflected as adjustments in the calculation of Quanta's adjusted net income attributable to common stock, adjusted diluted earnings per share attributable to common stock and adjusted EBITDA (non-GAAP financial measures). These items are described in the accompanying tables reconciling adjusted net income attributable to common stock to net income attributable to common stock and adjusted diluted earnings per share attributable to common stock to GAAP diluted earnings per share attributable to common stock. Quanta completed five acquisitions during the first six months of 2024 and five acquisitions during the full year 2023, and the results of the acquired businesses are included in Quanta's consolidated results from the respective acquisition dates. For further information on the items that impacted comparability of 2024 and 2023, see the footnotes in the accompanying tables presenting Supplemental Segment Data and reconciliations of EBITDA, adjusted EBITDA, adjusted net income attributable to common stock and adjusted diluted earnings per share attributable to common stock (non-GAAP financial measures) to their comparable GAAP financial measures.\n\nRECENT HIGHLIGHTS\n\nCompleted the Acquisition of Cupertino Electric - In July 2024, Quanta completed the acquisition of CEI, a premier electrical infrastructure solutions provider to the technology, renewable energy and infrastructure and commercial industries. Founded in 1954 and headquartered in San Jose, California, CEI provides integrated turnkey solutions, including engineering, procurement, project management, construction and modularization services, to a high-quality and diverse customer base across the United States. Through its diverse geographic, customer, end market and service line portfolio, CEI has grown to become the sixth largest electrical solutions provider in the country, with a workforce of approximately 4,300 employees.\nMade Strategic Investment in TS Conductor - In June 2024, Quanta made a strategic minority investment in TS Conductor, a domestic manufacturer of high-performance conductors for transmission and distribution systems. TS Conductor's Aluminum Encapsulated Carbon Core technology is designed to enable double to triple the capacity of traditional power line conductor, lower line losses, and provide greater flexibility in both new build and reconductoring projects due to its design characteristics.\nRESULTS FOR THE SIX MONTHS ENDED JUNE 30, 2024\nRevenues in the six months ended June 30, 2024 were $10.63 billion compared to revenues of $9.48 billion in the six months ended June 30, 2023, and net income attributable to common stock was $306.5 million, or $2.05 per diluted share, in the six months ended June 30, 2024 compared to net income attributable to common stock of $260.9 million, or $1.75 per diluted share, in the six months ended June 30, 2023. Adjusted diluted earnings per share attributable to common stock was $3.31 for the six months ended June 30, 2024 compared to $2.88 for the six months ended June 30, 2023.\n\nFULL-YEAR 2024 OUTLOOK\nThe long-term outlook for Quanta's business is positive. However, weather, regulatory, permitting, supply chain challenges and other factors affecting project timing and execution have impacted, and may impact in the future, Quanta's financial results. Additionally, we continue to consider future uncertainty associated with overall challenges to the domestic and global economy, including inflation, increased interest rates and potential recessionary economic conditions. Quanta's financial outlook for revenues, margins and earnings reflects management's effort to align these uncertainties with the backlog the Company is executing on and the opportunities expected to materialize during the remainder of 2024.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 30,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.5611111111111111,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.00869433720987731,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.007874015748031496,
+  "mean_tone": 0.06722253492356345
+ },
+ "lexicon": {
+  "words": 762,
+  "per_1000": {
+   "Negative": 5.2,
+   "Positive": 14.4,
+   "Uncertainty": 7.9,
+   "Litigious": 1.3,
+   "Strong modal": 1.3,
+   "Weak modal": 1.3,
+   "Constraining": 3.9
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 11,
+   "Uncertainty": 6,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second Quarter Consolidated Revenues of $5.59 Billion*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Second Quarter GAAP Diluted EPS of $1.26* and Adjusted Diluted EPS of $1.90*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Net Income Attributable to Common Stock of $188.2 Million* and Adjusted EBITDA of $523.2 Million*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Year-to-Date Cash Flow From Operations of $629.3 Million and Free Cash Flow of $439.8 Million",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Remaining Performance Obligations of $14.4 Billion* and Total Backlog of $31.3 Billion*",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     33,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Updating Full-Year 2024 Financial Expectations for the Expected Contribution of Cupertino Electric",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "* = Record quarterly or record second quarter result",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "HOUSTON, Aug. 1, 2024 /PRNewswire/ -- Quanta Services, Inc. (NYSE: PWR) today announced results for the three and six months ended June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Revenues in the second quarter of 2024 were $5.59 billion compared to revenues of $5.05 billion in the second quarter of 2023, and net income attributable to common stock was $188.2 million, or $1.26 per diluted share, in the second quarter of 2024 compared to net income attributable to common stock of $165.9 million, or $1.12 per diluted share, in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Adjusted diluted earnings per share attributable to common stock (a non-GAAP financial measure) was $1.90 for the second quarter of 2024 compared to $1.65 for the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Quanta Services Logo. (PRNewsFoto/Quanta Services, Inc.)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\"Quanta's first half of the year is a good start, with our second quarter results reflecting another quarter of double-digit growth in revenue, adjusted EBITDA and adjusted earnings per share, record total backlog of $31.3 billion and strong cash flow, which we believe reflects the power of our portfolio, sound execution and continued demand for our services, driven by our customers' multi-year programs to build the renewable generation and power grid infrastructure necessary to support North America's energy transition, load growth, security and reliability,\" said Duke Austin, President and Chief Executive Officer of Quanta Services.",
+   "d": 1,
+   "m": false,
+   "tone": 0.208,
+   "h": 0.0104,
+   "hits": [
+    [
+     38,
+     42,
+     [
+      "positive"
+     ]
+    ],
+    [
+     235,
+     241,
+     [
+      "positive"
+     ]
+    ],
+    [
+     262,
+     269,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "\"We recently completed the acquisition of Cupertino Electric, Inc. (CEI), which provides a platform of new service lines and a dynamic customer base.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "CEI also brings an exceptional management team and a premier craft-skilled workforce that complements Quanta's culture and will create a comprehensive electrical infrastructure solution offering that we believe can facilitate innovative solutions between utilities and large power consumers \u2013 from electron generation to transmission to consumption.",
+   "d": 0,
+   "m": false,
+   "tone": 0.652,
+   "h": 0.0217,
+   "hits": [
+    [
+     19,
+     30,
+     [
+      "positive"
+     ]
+    ],
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     127,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     203,
+     210,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     226,
+     236,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "With the complexities of the power grid and the significant upgrades and enhancements required to facilitate load growth, our collaborative, solutions-based approach is valued by our clients more than ever.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     73,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     86,
+     94,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     126,
+     139,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "As a result of our solid year-to-date results and the addition of CEI, we are increasing our full-year 2024 financial expectations for revenue, adjusted EBITDA and adjusted EPS.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "RECENT HIGHLIGHTS",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Completed the Acquisition of Cupertino Electric - In July 2024, Quanta completed the acquisition of CEI, a premier electrical infrastructure solutions provider to the technology, renewable energy and infrastructure and commercial industries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Founded in 1954 and headquartered in San Jose, California, CEI provides integrated turnkey solutions, including engineering, procurement, project management, construction and modularization services, to a high-quality and diverse customer base across the United States.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Through its diverse geographic, customer, end market and service line portfolio, CEI has grown to become the sixth largest electrical solutions provider in the country, with a workforce of approximately 4,300 employees.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     189,
+     202,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Made Strategic Investment in TS Conductor - In June 2024, Quanta made a strategic minority investment in TS Conductor, a domestic manufacturer of high-performance conductors for transmission and distribution systems.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "TS Conductor's Aluminum Encapsulated Carbon Core technology is designed to enable double to triple the capacity of traditional power line conductor, lower line losses, and provide greater flexibility in both new build and reconductoring projects due to its design characteristics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     160,
+     166,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "RESULTS FOR THE SIX MONTHS ENDED JUNE 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Revenues in the six months ended June 30, 2024 were $10.63 billion compared to revenues of $9.48 billion in the six months ended June 30, 2023, and net income attributable to common stock was $306.5 million, or $2.05 per diluted share, in the six months ended June 30, 2024 compared to net income attributable to common stock of $260.9 million, or $1.75 per diluted share, in the six months ended June 30, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Adjusted diluted earnings per share attributable to common stock was $3.31 for the six months ended June 30, 2024 compared to $2.88 for the six months ended June 30, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "FULL-YEAR 2024 OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The long-term outlook for Quanta's business is positive.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "However, weather, regulatory, permitting, supply chain challenges and other factors affecting project timing and execution have impacted, and may impact in the future, Quanta's financial results.",
+   "d": 0,
+   "m": false,
+   "tone": -0.385,
+   "h": 0.0385,
+   "hits": [
+    [
+     18,
+     28,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     30,
+     40,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     55,
+     65,
+     [
+      "negative"
+     ]
+    ],
+    [
+     142,
+     145,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Additionally, we continue to consider future uncertainty associated with overall challenges to the domestic and global economy, including inflation, increased interest rates and potential recessionary economic conditions.",
+   "d": 1,
+   "m": false,
+   "tone": -0.741,
+   "h": 0.037,
+   "hits": [
+    [
+     45,
+     56,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     81,
+     91,
+     [
+      "negative"
+     ]
+    ],
+    [
+     188,
+     200,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Quanta's financial outlook for revenues, margins and earnings reflects management's effort to align these uncertainties with the backlog the Company is executing on and the opportunities expected to materialize during the remainder of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     106,
+     119,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     173,
+     186,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
