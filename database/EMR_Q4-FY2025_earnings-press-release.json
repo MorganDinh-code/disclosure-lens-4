@@ -1,0 +1,250 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2025-11-05",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/617/emerson-reports-fourth-quarter-and-full-year-2025-results-provides-initial-2026-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, Nov. 5, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its fourth quarter and fiscal year ended September 30, 2025. Emerson also declared a 5% quarterly cash dividend increase to $0.555 per share of common stock payable December 10, 2025 to stockholders of record November 14, 2025. Additionally, Emerson announced that its Board of Directors authorized the company to repurchase up to 50 million shares of its common stock. This is in addition to the authorization approved in March 2020, to repurchase 60 million shares of common stock, which has approximately 20 million shares remaining.\n\nManagement Commentary\n\n\"Emerson delivered a solid fiscal 2025, marked by continued margin expansion, robust cash generation and strong execution. The dedication of our global teams was instrumental in driving our performance and advancing Emerson's position as the leading automation company,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"We are proud of the meaningful progress we have made integrating AspenTech and of completing the Test & Measurement integration \u2013 delivering on our commitment to achieve $200M of run-rate cost synergies.\"\n\nKarsanbhai continued, \"Our portfolio is aligned with long-term secular trends positioned to drive sustainable growth into the future. These trends have driven mid-single-digit underlying orders growth for three consecutive quarters, supporting our sales expectations for 2026 and beyond. We remain confident in our operational execution and ability to return cash to shareholders, accelerating further value creation.\"\n\n2026 Outlook\n\nThe following tables summarize the fiscal year 2026 guidance framework. As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B of share repurchases and ~$1.2B of dividends.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 15,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.4666666666666667,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0038461538461538464,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.00784313725490196,
+  "mean_tone": 0.16615890083632018
+ },
+ "lexicon": {
+  "words": 255,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 23.5,
+   "Uncertainty": 7.8,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 3.9
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 6,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, Nov. 5, 2025 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results1 for its fourth quarter and fiscal year ended September 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a 5% quarterly cash dividend increase to $0.555 per share of common stock payable December 10, 2025 to stockholders of record November 14, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Additionally, Emerson announced that its Board of Directors authorized the company to repurchase up to 50 million shares of its common stock.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "This is in addition to the authorization approved in March 2020, to repurchase 60 million shares of common stock, which has approximately 20 million shares remaining.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     124,
+     137,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "\"Emerson delivered a solid fiscal 2025, marked by continued margin expansion, robust cash generation and strong execution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     105,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The dedication of our global teams was instrumental in driving our performance and advancing Emerson's position as the leading automation company,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     92,
+     [
+      "positive"
+     ]
+    ],
+    [
+     119,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\"We are proud of the meaningful progress we have made integrating AspenTech and of completing the Test & Measurement integration \u2013 delivering on our commitment to achieve $200M of run-rate cost synergies.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     159,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     163,
+     170,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Karsanbhai continued, \"Our portfolio is aligned with long-term secular trends positioned to drive sustainable growth into the future.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "These trends have driven mid-single-digit underlying orders growth for three consecutive quarters, supporting our sales expectations for 2026 and beyond.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We remain confident in our operational execution and ability to return cash to shareholders, accelerating further value creation.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "2026 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The following tables summarize the fiscal year 2026 guidance framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B of share repurchases and ~$1.2B of dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
