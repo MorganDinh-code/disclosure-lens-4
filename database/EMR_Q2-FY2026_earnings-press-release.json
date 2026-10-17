@@ -1,0 +1,218 @@
+{
+ "company": "Emerson Electric",
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-05-05",
+ "source_url": "https://ir.emerson.com/news-events/press-releases/detail/629/emerson-reports-second-quarter-2026-results-updates-2026-outlook",
+ "demo": false,
+ "source_text": "ST. LOUIS, May 5, 2026 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results for its second quarter ended March 31, 2026 and updated its full year outlook for fiscal 2026. Emerson also declared a quarterly cash dividend of $0.555 per share of common stock payable June 10, 2026 to stockholders of record on May 15, 2026.\n\nManagement Commentary\n\n\"Emerson's second quarter results reflect our ability to deliver in a dynamic environment,\" said Emerson President and Chief Executive Officer Lal Karsanbhai. \"While sales were impacted by the conflict in the Middle East, margins exceeded expectations, and we achieved strong adjusted earnings per share. Underlying orders were up 5% as we continue to see resilient demand, led by Software & Systems, with sustained momentum in our growth verticals.\"\n\nKarsanbhai continued, \"I want to thank our employees and customers in the Middle East for their unwavering commitment and resiliency. As we look ahead, 2026 continues to develop largely as expected with a strong second half, supported by orders momentum and a robust backlog.\"\n\n2026 Outlook\n\nThe following tables summarize the fiscal year 2026 guidance framework. As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.4444444444444445,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.005291005291005291,
+  "mean_tone": 0.0741106719367589
+ },
+ "lexicon": {
+  "words": 189,
+  "per_1000": {
+   "Negative": 5.3,
+   "Positive": 15.9,
+   "Uncertainty": 15.9,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 10.6,
+   "Constraining": 5.3
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 3,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "ST.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "LOUIS, May 5, 2026 /PRNewswire/ -- Emerson (NYSE: EMR) today reported results for its second quarter ended March 31, 2026 and updated its full year outlook for fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     10,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Emerson also declared a quarterly cash dividend of $0.555 per share of common stock payable June 10, 2026 to stockholders of record on May 15, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     135,
+     138,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Management Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"Emerson's second quarter results reflect our ability to deliver in a dynamic environment,\" said Emerson President and Chief Executive Officer Lal Karsanbhai.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\"While sales were impacted by the conflict in the Middle East, margins exceeded expectations, and we achieved strong adjusted earnings per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     42,
+     [
+      "negative"
+     ]
+    ],
+    [
+     101,
+     109,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Underlying orders were up 5% as we continue to see resilient demand, led by Software & Systems, with sustained momentum in our growth verticals.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Karsanbhai continued, \"I want to thank our employees and customers in the Middle East for their unwavering commitment and resiliency.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     117,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "As we look ahead, 2026 continues to develop largely as expected with a strong second half, supported by orders momentum and a robust backlog.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     77,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "2026 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "The following tables summarize the fiscal year 2026 guidance framework.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "As we pivot capital allocation to returning cash to shareholders, the 2026 outlook assumes returning ~$2.2B through ~$1B share repurchases and ~$1.2B of dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     83,
+     90,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
