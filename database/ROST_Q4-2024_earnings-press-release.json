@@ -1,0 +1,600 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 2024",
+ "date": "2025-03-04",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-reports-results-fourth-quarter-and-fiscal-2024",
+ "demo": false,
+ "source_text": "DUBLIN, Calif.--(BUSINESS WIRE)--Mar. 4, 2025-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended February 1, 2025 of $1.79, compared with $1.82 per share for the 14 weeks ended February 3, 2024. Net income for the period was $587 million, versus $610 million last year. Sales for the 13 weeks ended February 1, 2025 were $5.9 billion, with comparable store sales up 3% on top of a robust 7% gain in the same period last year.\n\nFiscal 2024 earnings per share for the 52 weeks ended February 1, 2025 were $6.32, up from $5.56 in the 53-week fiscal 2023 year ended February 3, 2024. Net earnings for fiscal 2024 rose to $2.1 billion on sales of $21.1 billion, up from net earnings of $1.9 billion in fiscal 2023 on sales of $20.4 billion. Comparable store sales for the 52 weeks ended February 1, 2025 grew 3% versus a 5% gain in fiscal 2023.\n\nBoth the fourth quarter and full year results included a one-time benefit to earnings, equivalent to approximately $0.14 per share, related to the sale of a packaway facility. Additionally, as a reminder, prior year sales and earnings results for the 2023 fourth quarter and fiscal year included approximately $308 million in sales and a $0.20 earnings per share benefit from the 53rd week.\n\nJim Conroy, Chief Executive Officer, commented, \u201cFourth quarter sales and earnings results were at the high end of our expectations. Sales benefited from customers\u2019 positive responses to our improved assortments of quality branded bargains throughout our stores during the critical holiday selling season.\u201d\n\nMr. Conroy continued, \u201cFourth quarter operating margin of 12.4% was flat to last year. The benefit from the previously mentioned packaway facility sale was offset by planned declines in merchandise margin and unfavorable timing of packaway-related costs. The sale of the facility contributed about 105 basis points to this year\u2019s fourth quarter operating margin while the 53rd week benefited the prior year\u2019s period by about 80 basis points.\u201d\n\nUpdate on Shareholder Payouts\n\nDuring the recently completed fourth quarter, 1.7 million shares were repurchased for a total price of $262 million. For fiscal 2024, a total of 7.3 million shares of common stock were repurchased for an aggregate purchase price of $1.05 billion. These purchases were made pursuant to the two-year $2.1 billion program announced in March 2024. We expect to complete the $1.05 billion remaining under this authorization in fiscal 2025.\n\nThe Board of Directors also recently authorized a 10% increase in the Company\u2019s quarterly cash dividend to $0.405 per share. This higher quarterly dividend amount is payable on March 31, 2025 to stockholders of record as of March 18, 2025.\n\nMr. Conroy noted, \u201cWe ended the year with $4.7 billion of cash after funding the growth and capital needs of our business. Our ongoing share buyback and increased dividend programs reflect our longstanding commitment to return excess cash to our shareholders.\u201d\n\nFiscal 2025 Guidance\n\nLooking ahead, Mr. Conroy said, \u201cWhile we were pleased with our 2024 results, including the holiday selling period, sales trends began softening later in January and into February. We believe a combination of unseasonable weather and heightened volatility in the macroeconomic and geopolitical environments has negatively impacted customer traffic. Given the lack of visibility we have on these external factors, we believe it is prudent to take a cautious approach in forecasting our business, especially as we start the year.\u201d\n\nMr. Conroy continued, \u201cFor the 13 weeks ending May 3, 2025, comparable store sales are forecasted to be down 3% to flat versus a 3% gain last year. If sales perform in line with this plan, earnings per share are projected to be $1.33 to $1.47, compared to $1.46 in the first quarter ended May 4, 2024.\u201d\n\nMr. Conroy added, \u201cFor the 52 weeks ending January 31, 2026, while we hope to do better, we are planning same store sales of down 1% to up 2% on top of a 3% gain in 2024. Based on these assumptions, fiscal 2025 earnings per share are projected to be $5.95 to $6.55 compared to $6.32 for the fiscal year ended February 1, 2025. As previously mentioned, fiscal 2024 results included a per share benefit of $0.14 from the facility sale.\u201d\n\nMr. Conroy concluded, \u201cWe have an incredibly talented and dedicated team at Ross with deep-rooted off-price experience that helped deliver solid results in 2024. As we move forward, we believe that some of the recent challenges we are seeing could be transitory in nature. As we continue to navigate through a difficult external environment, we will search for opportunities to drive the business and to carefully manage what we can control.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 0,
+  "n_positive": 9,
+  "mean_pos_positive": 0.4411764705882353,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005554949384736619,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.16666666666666663,
+  "overall_hedge": 0.015736766809728183,
+  "mean_tone": 0.05001150218541523
+ },
+ "lexicon": {
+  "words": 699,
+  "per_1000": {
+   "Negative": 10.0,
+   "Positive": 17.2,
+   "Uncertainty": 17.2,
+   "Litigious": 0.0,
+   "Strong modal": 1.4,
+   "Weak modal": 4.3,
+   "Constraining": 1.4
+  },
+  "counts": {
+   "Negative": 7,
+   "Positive": 12,
+   "Uncertainty": 12,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 3,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif.--(BUSINESS WIRE)--Mar. 4, 2025-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended February 1, 2025 of $1.79, compared with $1.82 per share for the 14 weeks ended February 3, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net income for the period was $587 million, versus $610 million last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales for the 13 weeks ended February 1, 2025 were $5.9 billion, with comparable store sales up 3% on top of a robust 7% gain in the same period last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     121,
+     125,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Fiscal 2024 earnings per share for the 52 weeks ended February 1, 2025 were $6.32, up from $5.56 in the 53-week fiscal 2023 year ended February 3, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Net earnings for fiscal 2024 rose to $2.1 billion on sales of $21.1 billion, up from net earnings of $1.9 billion in fiscal 2023 on sales of $20.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Comparable store sales for the 52 weeks ended February 1, 2025 grew 3% versus a 5% gain in fiscal 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Both the fourth quarter and full year results included a one-time benefit to earnings, equivalent to approximately $0.14 per share, related to the sale of a packaway facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     101,
+     114,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Additionally, as a reminder, prior year sales and earnings results for the 2023 fourth quarter and fiscal year included approximately $308 million in sales and a $0.20 earnings per share benefit from the 53rd week.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": [
+    [
+     120,
+     133,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Jim Conroy, Chief Executive Officer, commented, \u201cFourth quarter sales and earnings results were at the high end of our expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Sales benefited from customers\u2019 positive responses to our improved assortments of quality branded bargains throughout our stores during the critical holiday selling season.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     58,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Mr. Conroy continued, \u201cFourth quarter operating margin of 12.4% was flat to last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The benefit from the previously mentioned packaway facility sale was offset by planned declines in merchandise margin and unfavorable timing of packaway-related costs.",
+   "d": -1,
+   "m": false,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     95,
+     [
+      "negative"
+     ]
+    ],
+    [
+     122,
+     133,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The sale of the facility contributed about 105 basis points to this year\u2019s fourth quarter operating margin while the 53rd week benefited the prior year\u2019s period by about 80 basis points.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     127,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Update on Shareholder Payouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "During the recently completed fourth quarter, 1.7 million shares were repurchased for a total price of $262 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "For fiscal 2024, a total of 7.3 million shares of common stock were repurchased for an aggregate purchase price of $1.05 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "These purchases were made pursuant to the two-year $2.1 billion program announced in March 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "We expect to complete the $1.05 billion remaining under this authorization in fiscal 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The Board of Directors also recently authorized a 10% increase in the Company\u2019s quarterly cash dividend to $0.405 per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "This higher quarterly dividend amount is payable on March 31, 2025 to stockholders of record as of March 18, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Mr. Conroy noted, \u201cWe ended the year with $4.7 billion of cash after funding the growth and capital needs of our business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Our ongoing share buyback and increased dividend programs reflect our longstanding commitment to return excess cash to our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     93,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Fiscal 2025 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Looking ahead, Mr. Conroy said, \u201cWhile we were pleased with our 2024 results, including the holiday selling period, sales trends began softening later in January and into February.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "We believe a combination of unseasonable weather and heightened volatility in the macroeconomic and geopolitical environments has negatively impacted customer traffic.",
+   "d": 0,
+   "m": false,
+   "tone": -0.952,
+   "h": 0.1429,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     28,
+     40,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     64,
+     74,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     130,
+     140,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Given the lack of visibility we have on these external factors, we believe it is prudent to take a cautious approach in forecasting our business, especially as we start the year.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": -0.323,
+   "h": 0.0645,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "negative"
+     ]
+    ],
+    [
+     67,
+     74,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     99,
+     107,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Mr. Conroy continued, \u201cFor the 13 weeks ending May 3, 2025, comparable store sales are forecasted to be down 3% to flat versus a 3% gain last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     50,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     132,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "If sales perform in line with this plan, earnings per share are projected to be $1.33 to $1.47, compared to $1.46 in the first quarter ended May 4, 2024.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     141,
+     144,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Mr. Conroy added, \u201cFor the 52 weeks ending January 31, 2026, while we hope to do better, we are planning same store sales of down 1% to up 2% on top of a 3% gain in 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     81,
+     87,
+     [
+      "positive"
+     ]
+    ],
+    [
+     157,
+     161,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Based on these assumptions, fiscal 2025 earnings per share are projected to be $5.95 to $6.55 compared to $6.32 for the fiscal year ended February 1, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     15,
+     26,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "As previously mentioned, fiscal 2024 results included a per share benefit of $0.14 from the facility sale.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Mr. Conroy concluded, \u201cWe have an incredibly talented and dedicated team at Ross with deep-rooted off-price experience that helped deliver solid results in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     44,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "As we move forward, we believe that some of the recent challenges we are seeing could be transitory in nature.",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.1,
+   "hits": [
+    [
+     23,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     55,
+     65,
+     [
+      "negative"
+     ]
+    ],
+    [
+     80,
+     85,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "As we continue to navigate through a difficult external environment, we will search for opportunities to drive the business and to carefully manage what we can control.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     46,
+     [
+      "negative"
+     ]
+    ],
+    [
+     72,
+     76,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     88,
+     101,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
