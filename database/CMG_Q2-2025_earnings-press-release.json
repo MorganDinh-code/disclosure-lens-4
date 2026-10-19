@@ -1,0 +1,516 @@
+{
+ "company": "Chipotle Mexican Grill",
+ "ticker": "CMG",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 2025",
+ "date": "2025-07-23",
+ "source_url": "https://ir.chipotle.com/2025-07-23-CHIPOTLE-ANNOUNCES-SECOND-QUARTER-2025-RESULTS",
+ "demo": false,
+ "source_text": "Second quarter highlights, year over year:\n\nTotal revenue increased 3.0% to $3.1 billion\nComparable restaurant sales decreased 4.0%\nOperating margin was 18.2%, a decrease from 19.7%\nRestaurant level operating margin1 was 27.4%, a decrease from 28.9%\nDiluted earnings per share was $0.32, a 3.0% decrease from $0.33\nAdjusted diluted earnings per share1 was $0.33, a 2.9% decrease from $0.34\nOpened 61 company-owned restaurants with 47 locations including a Chipotlane\n\"We are seeing momentum build as we rolled out our summer marketing initiatives and as our comparisons ease,\" said Scott Boatwright, Chief Executive Officer, Chipotle. \"Our talented restaurant teams remain focused on delivering hand-crafted meals in abundance with the best ingredients, made fresh daily using classic culinary techniques at a value you cannot find anywhere else. I am optimistic that our positive momentum will continue as we further support our world-class people with new tools to improve execution, introduce new menu innovations, amplify our rewards program, and introduce this great brand to more communities around the globe.\"\n\nResults for the three months ended June 30, 2025:\nTotal revenue in the second quarter of 2025 was $3.1 billion, an increase of 3.0% compared to the second quarter of 2024. The increase in total revenue was driven by new restaurant openings. Comparable restaurant sales decreased 4.0% due to lower transactions of 4.9%, partially offset by a 0.9% increase in average check. Digital sales represented 35.5% of total food and beverage revenue.\n\nDuring the second quarter we opened 61 company-owned restaurants, of which 47 included a Chipotlane. Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins, and returns.\n\nFood, beverage and packaging costs in the second quarter of 2025 were 28.9% of total revenue, a decrease from 29.4% in the second quarter of 2024. The decrease was primarily due to the benefit of menu price increases in 2024 and from cost of sales efficiencies. This decrease was partially offset by inflation across several ingredient costs, primarily steak and chicken.\n\nLabor costs in the second quarter of 2025 were 24.7% of total revenue, an increase from 24.1% in the second quarter of 2024. The increase was primarily due to lower sales volumes. The benefit from menu price increases in 2024 and efficient management of labor more than offset wage inflation.\n\nGeneral and administrative expenses for the second quarter of 2025 were $172.2 million, compared to $175.0 million in the second quarter of 2024. The decrease was primarily due to lower performance bonuses and stock-based compensation. On a non-GAAP basis, general and administrative expenses1 for the second quarter of 2025 were $159.9 million, compared to $171.3 million in the second quarter of 2024.\n\nThe effective income tax rate for the second quarter of 2025 was 24.5%, a decrease from 25.0% in the second quarter of 2024. The decrease was primarily driven by lower non-deductible expenses, partially offset by a reduction in tax benefits related to option exercises and equity vesting.\n\nNet income for the second quarter of 2025 was $436.1 million, or $0.32 per diluted share, compared to $455.7 million, or $0.33 per diluted share in the second quarter of 2024. Adjusted net income1 for the second quarter of 2025 was $450.4 million, or $0.33 per adjusted diluted share, compared to $463.0 million, or $0.34 per adjusted diluted share in the second quarter of 2024.\n\nDuring the second quarter of 2025 we repurchased $435.9 million of stock at an average price per share of $50.16. As of June 30, 2025, $838.8 million remained available under share repurchase authorizations from our Board of Directors, including an additional $400 million in authorizations approved by our Board of Directors on June 10, 2025. The repurchase authorization may be modified, suspended, or discontinued at any time.\n\nMore information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC by the end of July 2025.\n\nOutlook\n\nFor 2025, management is anticipating the following:\n\nAbout flat full year comparable restaurant sales\n315 to 345 new company-owned restaurant openings with over 80% having a Chipotlane\nAn estimated underlying effective full year tax rate between 25% and 27% before discrete items",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 38,
+  "n_material_neg": 8,
+  "n_positive": 6,
+  "mean_pos_negative": 0.3223684210526316,
+  "mean_pos_positive": 0.40789473684210525,
+  "placement_asymmetry": -0.08552631578947367,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.07894736842105263,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.125,
+  "mean_tone_gap_on_negatives": 1.0657894736842106,
+  "overall_hedge": 0.003189792663476874,
+  "mean_tone": 0.05596617485968252
+ },
+ "lexicon": {
+  "words": 627,
+  "per_1000": {
+   "Negative": 3.2,
+   "Positive": 14.4,
+   "Uncertainty": 3.2,
+   "Litigious": 0.0,
+   "Strong modal": 6.4,
+   "Weak modal": 1.6,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 9,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second quarter highlights, year over year:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Total revenue increased 3.0% to $3.1 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Comparable restaurant sales decreased 4.0%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating margin was 18.2%, a decrease from 19.7%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Restaurant level operating margin1 was 27.4%, a decrease from 28.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share was $0.32, a 3.0% decrease from $0.33.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Adjusted diluted earnings per share1 was $0.33, a 2.9% decrease from $0.34.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Opened 61 company-owned restaurants with 47 locations including a Chipotlane.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"We are seeing momentum build as we rolled out our summer marketing initiatives and as our comparisons ease,\" said Scott Boatwright, Chief Executive Officer, Chipotle.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\"Our talented restaurant teams remain focused on delivering hand-crafted meals in abundance with the best ingredients, made fresh daily using classic culinary techniques at a value you cannot find anywhere else.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     105,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "I am optimistic that our positive momentum will continue as we further support our world-class people with new tools to improve execution, introduce new menu innovations, amplify our rewards program, and introduce this great brand to more communities around the globe.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     43,
+     47,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     120,
+     127,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     169,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Results for the three months ended June 30, 2025: Total revenue in the second quarter of 2025 was $3.1 billion, an increase of 3.0% compared to the second quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The increase in total revenue was driven by new restaurant openings.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Comparable restaurant sales decreased 4.0% due to lower transactions of 4.9%, partially offset by a 0.9% increase in average check.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Digital sales represented 35.5% of total food and beverage revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "During the second quarter we opened 61 company-owned restaurants, of which 47 included a Chipotlane.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins, and returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Food, beverage and packaging costs in the second quarter of 2025 were 28.9% of total revenue, a decrease from 29.4% in the second quarter of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The decrease was primarily due to the benefit of menu price increases in 2024 and from cost of sales efficiencies.",
+   "d": -1,
+   "m": true,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     101,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "This decrease was partially offset by inflation across several ingredient costs, primarily steak and chicken.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Labor costs in the second quarter of 2025 were 24.7% of total revenue, an increase from 24.1% in the second quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The increase was primarily due to lower sales volumes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The benefit from menu price increases in 2024 and efficient management of labor more than offset wage inflation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "General and administrative expenses for the second quarter of 2025 were $172.2 million, compared to $175.0 million in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The decrease was primarily due to lower performance bonuses and stock-based compensation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "On a non-GAAP basis, general and administrative expenses1 for the second quarter of 2025 were $159.9 million, compared to $171.3 million in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The effective income tax rate for the second quarter of 2025 was 24.5%, a decrease from 25.0% in the second quarter of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The decrease was primarily driven by lower non-deductible expenses, partially offset by a reduction in tax benefits related to option exercises and equity vesting.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Net income for the second quarter of 2025 was $436.1 million, or $0.32 per diluted share, compared to $455.7 million, or $0.33 per diluted share in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Adjusted net income1 for the second quarter of 2025 was $450.4 million, or $0.33 per adjusted diluted share, compared to $463.0 million, or $0.34 per adjusted diluted share in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "During the second quarter of 2025 we repurchased $435.9 million of stock at an average price per share of $50.16.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "As of June 30, 2025, $838.8 million remained available under share repurchase authorizations from our Board of Directors, including an additional $400 million in authorizations approved by our Board of Directors on June 10, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "The repurchase authorization may be modified, suspended, or discontinued at any time.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     29,
+     32,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     46,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     60,
+     72,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "More information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC by the end of July 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     79,
+     83,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "For 2025, management is anticipating the following:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     24,
+     36,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "About flat full year comparable restaurant sales 315 to 345 new company-owned restaurant openings with over 80% having a Chipotlane.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "An estimated underlying effective full year tax rate between 25% and 27% before discrete items",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
