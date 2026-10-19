@@ -1,0 +1,489 @@
+{
+ "company": "lululemon athletica inc.",
+ "ticker": "LULU",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 2024",
+ "date": "2024-08-29",
+ "source_url": "https://corporate.lululemon.com/newsroom/press-releases/2024/08-29-2024-210539148",
+ "demo": false,
+ "source_text": "Revenue increased 7% to $2.4 billion\n\nComparable sales increased 2%, or 3% on a constant dollar basis\n\nDiluted EPS of $3.15\n\nVANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the second quarter of fiscal 2024, which ended on July 28, 2024.\n\nCalvin McDonald, Chief Executive Officer, stated: \"In the second quarter, lululemon delivered revenue and earnings growth, with ongoing strength across our international business. In the U.S., our teams continue to optimize our product assortment and remain focused on driving forward our opportunities in the market. Looking ahead, we feel confident in the long runway in front of us as we execute on our Power of Three \u00d72 growth plan.\"\n\nFor the second quarter of 2024, compared to the second quarter of 2023:\n\nNet revenue increased 7% to $2.4 billion, or increased 8% on a constant dollar basis.\nAmericas net revenue increased 1%, or 2% on a constant dollar basis.\nInternational net revenue increased 29%, or 31% on a constant dollar basis.\nComparable sales increased 2%, or 3% on a constant dollar basis.\nAmericas comparable sales decreased 3%, or 2% on a constant dollar basis.\nInternational comparable sales increased 19%, or 22% on a constant dollar basis.\nGross profit increased 9% to $1.4 billion.\nGross margin increased 80 basis points to 59.6%.\nIncome from operations increased 13% to $540.2 million.\nOperating margin increased 110 basis points to 22.8%.\nThe effective income tax rate for the second quarter of 2024 was 29.6% compared to 29.8% for the second quarter of 2023.\nDiluted earnings per share were $3.15 compared to $2.68 in the second quarter of 2023.\nThe Company repurchased 1.9 million of its shares for a cost of $583.7 million.\nThe Company opened 10 net new company-operated stores during the second quarter, ending with 721 stores.\nMeghan Frank, Chief Financial Officer, stated: \"Earnings per share exceeded our expectations in the second quarter, driven by better-than-expected gross margin expansion and disciplined execution. As we enter the back half of the year, we remain focused on executing on our near-term priorities, while strategically investing for long-term growth. I would like to thank our teams around the world for their commitment to lululemon.\"\n\nBalance Sheet Highlights\n\nThe Company ended the second quarter of 2024 with $1.6 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $393.7 million.\n\nInventories at the end of the second quarter of 2024 decreased 14% to $1.4 billion compared to $1.7 billion at the end of the second quarter of 2023.\n\n2024 Outlook\n\nFor the third quarter of 2024, the Company expects net revenue to be in the range of $2.340 billion to $2.365 billion, representing growth of 6% to 7%. Diluted earnings per share are expected to be in the range of $2.68 to $2.73 for the quarter. This assumes a tax rate of approximately 30%.\n\nFor 2024, the Company now expects net revenue to be in the range of $10.375 billion to $10.475 billion, representing growth of 8% to 9%, or 6% to 7% excluding the 53rd week of 2024. Diluted earnings per share are now expected to be in the range of $13.95 to $14.15 for the year. This assumes a tax rate of approximately 30%.\n\nThe guidance does not reflect potential future repurchases of the Company's shares.\n\nThe guidance and outlook forward-looking statements made in this press release are based on management's expectations as of the date of this press release and do not incorporate future unknown impacts, including macroeconomic trends. The Company undertakes no duty to update or to continue to provide information with respect to any forward-looking statements or risk factors, whether as a result of new information or future events or circumstances or otherwise. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of risks and uncertainties, including those stated below.\n\nPower of Three \u00d72\n\nThe Company's Power of Three \u00d72 growth plan calls for a doubling of the business from 2021 net revenue of $6.25 billion to $12.5 billion by 2026. The key pillars of the plan are product innovation, guest experience, and market expansion and the growth strategy includes a plan to double men's, double e-commerce, and quadruple international net revenue relative to 2021.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 39,
+  "n_material_neg": 2,
+  "n_positive": 19,
+  "mean_pos_negative": 0.5256410256410257,
+  "mean_pos_positive": 0.43724696356275305,
+  "placement_asymmetry": 0.0883940620782726,
+  "distance_from_headline": 11,
+  "first_negative_pos": 0.3333333333333333,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.004411764705882353,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.01092896174863388,
+  "mean_tone": 0.05048297034656796
+ },
+ "lexicon": {
+  "words": 549,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 9.1,
+   "Uncertainty": 7.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 3.6
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 5,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 7% to $2.4 billion",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Comparable sales increased 2%, or 3% on a constant dollar basis",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted EPS of $3.15",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "VANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the second quarter of fiscal 2024, which ended on July 28, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Calvin McDonald, Chief Executive Officer, stated: \"In the second quarter, lululemon delivered revenue and earnings growth, with ongoing strength across our international business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     136,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "In the U.S., our teams continue to optimize our product assortment and remain focused on driving forward our opportunities in the market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Looking ahead, we feel confident in the long runway in front of us as we execute on our Power of Three \u00d72 growth plan.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "For the second quarter of 2024, compared to the second quarter of 2023:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Net revenue increased 7% to $2.4 billion, or increased 8% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Americas net revenue increased 1%, or 2% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "International net revenue increased 29%, or 31% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Comparable sales increased 2%, or 3% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Americas comparable sales decreased 3%, or 2% on a constant dollar basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "International comparable sales increased 19%, or 22% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Gross profit increased 9% to $1.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Gross margin increased 80 basis points to 59.6%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Income from operations increased 13% to $540.2 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Operating margin increased 110 basis points to 22.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The effective income tax rate for the second quarter of 2024 was 29.6% compared to 29.8% for the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Diluted earnings per share were $3.15 compared to $2.68 in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The Company repurchased 1.9 million of its shares for a cost of $583.7 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The Company opened 10 net new company-operated stores during the second quarter, ending with 721 stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Meghan Frank, Chief Financial Officer, stated: \"Earnings per share exceeded our expectations in the second quarter, driven by better-than-expected gross margin expansion and disciplined execution.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     126,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "As we enter the back half of the year, we remain focused on executing on our near-term priorities, while strategically investing for long-term growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "I would like to thank our teams around the world for their commitment to lululemon.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     69,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Balance Sheet Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Company ended the second quarter of 2024 with $1.6 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $393.7 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     119,
+     128,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Inventories at the end of the second quarter of 2024 decreased 14% to $1.4 billion compared to $1.7 billion at the end of the second quarter of 2023.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "2024 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "For the third quarter of 2024, the Company expects net revenue to be in the range of $2.340 billion to $2.365 billion, representing growth of 6% to 7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Diluted earnings per share are expected to be in the range of $2.68 to $2.73 for the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "For 2024, the Company now expects net revenue to be in the range of $10.375 billion to $10.475 billion, representing growth of 8% to 9%, or 6% to 7% excluding the 53rd week of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Diluted earnings per share are now expected to be in the range of $13.95 to $14.15 for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "The guidance does not reflect potential future repurchases of the Company's shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Power of Three \u00d72",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "The Company's Power of Three \u00d72 growth plan calls for a doubling of the business from 2021 net revenue of $6.25 billion to $12.5 billion by 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The key pillars of the plan are product innovation, guest experience, and market expansion and the growth strategy includes a plan to double men's, double e-commerce, and quadruple international net revenue relative to 2021.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
