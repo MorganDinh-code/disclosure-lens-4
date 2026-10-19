@@ -1,0 +1,211 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2025",
+ "date": "2025-10-29",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earnings-release-q3-25-vf.pdf",
+ "demo": false,
+ "source_text": "\u201cIn Q3, Carvana once again drove industry-leading growth and profitability while crossing over $20 billion revenue\nrun rate scale for the first time,\" said Ernie Garcia, Carvana founder and CEO. \u201cWe continue to focus on unlocking\nthe structural advantages of our vertically integrated model that strengthen our business and separate our customer\noffering. This effort has already driven new milestones in speed, selection, convenience, and efficiency and we are\neven more excited about what\u2019s possible on the road ahead.\u201d\nQ3 2025 Highlights\nIn Q3 2025, Carvana sold 155,941 retail units (+44% YoY) for total Revenue of $5.647 billion (+55% YoY), both\nall-time quarterly records. This growth was paired with industry-leading Q3 profitability, including:\n\u25cf Net income of $263 million\n1 and Net income margin of 4.7%\n\u25cf Adjusted EBITDA of $637 million and Adjusted EBITDA margin of 11.3%\n\u25cf GAAP Operating income of $552 million and GAAP Operating margin of 9.8%\nOutlook\nLooking toward the fourth quarter, Carvana expects the following as long as the environment remains stable:\n\u25cf Retail units sold above 150,000, and\n\u25cf Adjusted EBITDA at or above the high end of its previously communicated range of $2.0 to $2.2\nbillion for the full year 2025",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 10,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.33333333333333337,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.004166666666666667,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.011111111111111112,
+  "mean_tone": 0.29716481980632925
+ },
+ "lexicon": {
+  "words": 180,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 50.0,
+   "Uncertainty": 5.6,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 5.6,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\u201cIn Q3, Carvana once again drove industry-leading growth and profitability while crossing over $20 billion revenue run rate scale for the first time,\" said Ernie Garcia, Carvana founder and CEO. \u201cWe continue to focus on unlocking the structural advantages of our vertically integrated model that strengthen our business and separate our customer offering.",
+   "d": 1,
+   "m": false,
+   "tone": 0.755,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     74,
+     [
+      "positive"
+     ]
+    ],
+    [
+     245,
+     255,
+     [
+      "positive"
+     ]
+    ],
+    [
+     296,
+     306,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "This effort has already driven new milestones in speed, selection, convenience, and efficiency and we are even more excited about what\u2019s possible on the road ahead.\u201d.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.037,
+   "hits": [
+    [
+     84,
+     94,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     123,
+     [
+      "positive"
+     ]
+    ],
+    [
+     137,
+     145,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Q3 2025 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "In Q3 2025, Carvana sold 155,941 retail units (+44% YoY) for total Revenue of $5.647 billion (+55% YoY), both all-time quarterly records.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "This growth was paired with industry-leading Q3 profitability, including: Net income of $263 million 1 and Net income margin of 4.7%.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     44,
+     [
+      "positive"
+     ]
+    ],
+    [
+     48,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Adjusted EBITDA of $637 million and Adjusted EBITDA margin of 11.3%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "GAAP Operating income of $552 million and GAAP Operating margin of 9.8%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Looking toward the fourth quarter, Carvana expects the following as long as the environment remains stable: Retail units sold above 150,000, and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     100,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Adjusted EBITDA at or above the high end of its previously communicated range of $2.0 to $2.2 billion for the full year 2025",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
