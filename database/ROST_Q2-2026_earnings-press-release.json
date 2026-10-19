@@ -1,0 +1,586 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 2026",
+ "date": "2026-08-20",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-reports-strong-second-quarter-sales-and-earnings",
+ "demo": false,
+ "source_text": "DUBLIN, Calif., Aug. 20, 2026 /PRNewswire/ -- Ross Stores, Inc. (Nasdaq: ROST) today reported financial results for the 13\u2011week quarter ended August 1, 2026.\n\nHighlights:\n\nTotal sales for the second quarter of fiscal 2026 increased 13% versus last year, with comparable store sales up a very strong 10%, primarily driven by customer traffic.\nSecond quarter operating profits were $1.1 billion, which includes approximately $253 million from IEEPA tariff refunds. Operating margin increased 610 basis points, including 405 basis points from the tariff refunds. Excluding this benefit, operating margin increased by 205 basis points, well above the Company's plan for an increase of 130 to 150 basis points.\nEarnings per share for the second quarter were $2.66, which includes an approximate $0.60 per share benefit from the tariff refunds, well above our guidance of $1.85 to $1.93.  \nOpened 47 new stores during the quarter, including 35 Ross and 12 dd's DISCOUNTS. Increasing 2026 store opening plans to 115 new locations.\nJim Conroy, Chief Executive Officer, commented, \"We achieved stellar sales and earnings growth in the second quarter. I am incredibly proud of our teams across the Company, whose dedication and strong execution drove these outstanding results. Our performance was fueled by our compelling merchandise offerings, engaging marketing initiatives, and continued enhancements to the in-store experience. We were pleased to see strength throughout the quarter, with comparable store sales growth once again primarily driven by customer traffic. Importantly, that growth was supported by both an increase in new customers and higher engagement from existing customers. These trends reinforce our belief that the actions we are taking are not only driving the current business performance but that we can continue to build on our early successes.\"\n\nSecond Quarter and First Six Months Results\n\nSales for the second quarter increased 13% to $6.3 billion, up from $5.5 billion in 2025. Comparable store sales rose a very strong 10% for the quarter on top of a 2% gain last year. Net income was $851 million versus $508 million last year, while earnings per share were $2.66 compared to $1.56 per share in the prior year period.\n\nFor the first six months of fiscal 2026, sales increased a robust 17% to $12.3 billion, up from $10.5 billion in 2025. Comparable store sales for the six-month period were up 13%. Net income was $1.5 billion versus $987 million last year, while earnings per share were $4.69 compared to $3.03 per share in the prior year period.\n\nBoth the second quarter and first six months 2026 results include about $253 million in IEEPA tariff refunds, benefiting earnings per share by approximately $0.60.\n\nUpdate on Shareholder Payouts\n\nDuring the 2026 second quarter, a total of 1.4 million shares of common stock were repurchased for an aggregate price of $319 million under the Company's two-year $2.55 billion authorization approved by its Board of Directors in March 2026. The Company remains on track to buy back a total of $1.275 billion in common stock during fiscal 2026.\n\nFiscal 2026 Guidance\n\nMr. Conroy commented, \"Looking ahead, we exited the second quarter with building momentum and are excited for the plans we have in place entering the Fall season. Despite facing significantly more challenging year-over-year comparisons in the back half, we are raising our outlook for both the third and fourth quarters. Comparable store sales are now expected to increase 6% to 7% in the third quarter and 4% to 5% in the fourth quarter. If the second half of 2026 performs in line with these sales projections, our earnings per share ranges for the third and fourth quarters are projected to be $1.75 to $1.83 and $2.17 to $2.26, respectively.\"\n\nMr. Conroy continued, \"Based on our strong first half results and our updated second half guidance, we are increasing our 2026 fiscal year earnings per share projections to be in the range of $8.61 to $8.77, which again includes an approximate $0.60 earnings per share benefit from IEEPA tariff refunds recognized in the second quarter. From a store growth perspective, we continue to be encouraged by the success of our expansion strategy across both new and existing markets. As a result, we are increasing our 2026 new store opening plan to 115 locations, consisting of approximately 90 Ross Dress for Less and 25 dd's DISCOUNTS stores.\"\n\nMr. Conroy concluded, \"The year is off to a very strong start with the entire organization executing at a high level. As our efforts to improve topline growth continue, we remain focused on disciplined, consistent execution across the business. Moving forward, we believe we are well positioned to capture additional market share and drive profitable growth over the long term.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 37,
+  "n_material_neg": 0,
+  "n_positive": 15,
+  "mean_pos_positive": 0.5315315315315315,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.009050509343455575,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.008486562942008486,
+  "mean_tone": 0.22087690706616536
+ },
+ "lexicon": {
+  "words": 707,
+  "per_1000": {
+   "Negative": 1.4,
+   "Positive": 26.9,
+   "Uncertainty": 8.5,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.4
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 19,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif., Aug. 20, 2026 /PRNewswire/ -- Ross Stores, Inc. (Nasdaq: ROST) today reported financial results for the 13\u2011week quarter ended August 1, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Total sales for the second quarter of fiscal 2026 increased 13% versus last year, with comparable store sales up a very strong 10%, primarily driven by customer traffic.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     120,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Second quarter operating profits were $1.1 billion, which includes approximately $253 million from IEEPA tariff refunds.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     67,
+     80,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Operating margin increased 610 basis points, including 405 basis points from the tariff refunds.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Excluding this benefit, operating margin increased by 205 basis points, well above the Company's plan for an increase of 130 to 150 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Earnings per share for the second quarter were $2.66, which includes an approximate $0.60 per share benefit from the tariff refunds, well above our guidance of $1.85 to $1.93.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     72,
+     83,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Opened 47 new stores during the quarter, including 35 Ross and 12 dd's DISCOUNTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Increasing 2026 store opening plans to 115 new locations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Jim Conroy, Chief Executive Officer, commented, \"We achieved stellar sales and earnings growth in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "I am incredibly proud of our teams across the Company, whose dedication and strong execution drove these outstanding results.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Our performance was fueled by our compelling merchandise offerings, engaging marketing initiatives, and continued enhancements to the in-store experience.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     44,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     114,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We were pleased to see strength throughout the quarter, with comparable store sales growth once again primarily driven by customer traffic.",
+   "d": 1,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     23,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Importantly, that growth was supported by both an increase in new customers and higher engagement from existing customers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "These trends reinforce our belief that the actions we are taking are not only driving the current business performance but that we can continue to build on our early successes.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     166,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Second Quarter and First Six Months Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Sales for the second quarter increased 13% to $6.3 billion, up from $5.5 billion in 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Comparable store sales rose a very strong 10% for the quarter on top of a 2% gain last year.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Net income was $851 million versus $508 million last year, while earnings per share were $2.66 compared to $1.56 per share in the prior year period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "For the first six months of fiscal 2026, sales increased a robust 17% to $12.3 billion, up from $10.5 billion in 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Comparable store sales for the six-month period were up 13%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Net income was $1.5 billion versus $987 million last year, while earnings per share were $4.69 compared to $3.03 per share in the prior year period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Both the second quarter and first six months 2026 results include about $253 million in IEEPA tariff refunds, benefiting earnings per share by approximately $0.60.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0455,
+   "hits": [
+    [
+     110,
+     120,
+     [
+      "positive"
+     ]
+    ],
+    [
+     143,
+     156,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Update on Shareholder Payouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "During the 2026 second quarter, a total of 1.4 million shares of common stock were repurchased for an aggregate price of $319 million under the Company's two-year $2.55 billion authorization approved by its Board of Directors in March 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company remains on track to buy back a total of $1.275 billion in common stock during fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Fiscal 2026 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Mr. Conroy commented, \"Looking ahead, we exited the second quarter with building momentum and are excited for the plans we have in place entering the Fall season.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Despite facing significantly more challenging year-over-year comparisons in the back half, we are raising our outlook for both the third and fourth quarters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     34,
+     45,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Comparable store sales are now expected to increase 6% to 7% in the third quarter and 4% to 5% in the fourth quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "If the second half of 2026 performs in line with these sales projections, our earnings per share ranges for the third and fourth quarters are projected to be $1.75 to $1.83 and $2.17 to $2.26, respectively.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Mr. Conroy continued, \"Based on our strong first half results and our updated second half guidance, we are increasing our 2026 fiscal year earnings per share projections to be in the range of $8.61 to $8.77, which again includes an approximate $0.60 earnings per share benefit from IEEPA tariff refunds recognized in the second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.196,
+   "h": 0.0196,
+   "hits": [
+    [
+     36,
+     42,
+     [
+      "positive"
+     ]
+    ],
+    [
+     232,
+     243,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "From a store growth perspective, we continue to be encouraged by the success of our expansion strategy across both new and existing markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     61,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "As a result, we are increasing our 2026 new store opening plan to 115 locations, consisting of approximately 90 Ross Dress for Less and 25 dd's DISCOUNTS stores.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     95,
+     108,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Mr. Conroy concluded, \"The year is off to a very strong start with the entire organization executing at a high level.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "As our efforts to improve topline growth continue, we remain focused on disciplined, consistent execution across the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Moving forward, we believe we are well positioned to capture additional market share and drive profitable growth over the long term.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     95,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
