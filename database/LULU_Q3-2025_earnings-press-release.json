@@ -1,0 +1,636 @@
+{
+ "company": "lululemon athletica inc.",
+ "ticker": "LULU",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2025",
+ "date": "2025-12-11",
+ "source_url": "https://corporate.lululemon.com/newsroom/press-releases/2025/12-11-2025-210611862",
+ "demo": false,
+ "source_text": "Revenue increased 7% to $2.6 billion\n\nComparable sales increased 1%, or 2% on a constant dollar basis\n\nDiluted EPS of $2.59\n\nVANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the third quarter of fiscal 2025, which ended on November 2, 2025.\n\nCalvin McDonald, Chief Executive Officer, stated: \"In the third quarter, our teams remained focused on driving improvements within our U.S. business and maintaining momentum in our international regions. We are beginning to make progress against our action plan and continue to expect to see the impact of this work in 2026. As we enter the holiday season, we are encouraged by our early performance, and I would like to thank all our lululemon team members for their hard work and dedication to our guests and communities.\"\n\nFor the third quarter of 2025, compared to the third quarter of 2024:\n\nNet revenue increased 7% to $2.6 billion.\nAmericas net revenue decreased 2%.\nInternational net revenue increased 33%.\nComparable sales increased 1%, or 2% on a constant dollar basis.\nAmericas comparable sales decreased 5%.\nInternational comparable sales increased 18%.\nGross profit increased 2% to $1.4 billion and gross margin decreased 290 basis points to 55.6%.\nIncome from operations decreased 11% to $435.9 million and operating margin decreased 350 basis points to 17.0%.\nThe effective income tax rate for the third quarter of 2025 was 30.5% compared to 30.2% for the third quarter of 2024.\nDiluted earnings per share were $2.59 compared to $2.87 in the third quarter of 2024.\nThe Company opened 12 net new company-operated stores during the third quarter, ending with 796 stores.\nMeghan Frank, Chief Financial Officer, stated: \"We delivered better-than-expected revenue and EPS in the third quarter as a result of our disciplined execution and ongoing strength internationally. Looking forward, we will continue to leverage our strong financial position to invest in our growth initiatives, while maintaining operational rigor. In addition, we are pleased our Board of Directors recently increased our share repurchase authorization, which demonstrates our collective confidence in the opportunities ahead for our brand.\"\n\nStock Repurchase Program\n\nDuring the third quarter of 2025, the Company repurchased 1.0 million shares of its common stock for a cost of $189.0 million.\n\nOn December 3, 2025, the board of directors approved a $1.0 billion increase to the Company's stock repurchase program. Including this increase, as of December 11, 2025, the Company had approximately $1.6 billion remaining authorized on its stock repurchase program.\n\nBalance Sheet Highlights\n\nThe Company ended the third quarter of 2025 with $1.0 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $593.0 million.\n\nInventories at the end of the third quarter of 2025 increased 11% to $2.0 billion compared to $1.8 billion at the end of the third quarter of 2024. On a unit basis, inventories increased 4%.\n\n2025 Outlook\n\nFor the fourth quarter of 2025, the Company expects net revenue to be in the range of $3.500 billion to $3.585 billion, representing a decline of 3% to 1%, or growth of 2% to 4% excluding the 53rd week of 2024. Diluted earnings per share are expected to be in the range of $4.66 to $4.76 for the quarter. This assumes a tax rate of approximately 30%.\n\nFor 2025, the Company now expects net revenue to be in the range of $10.962 billion to $11.047 billion, representing growth of 4%, or 5% to 6% excluding the 53rd week of 2024. Diluted earnings per share are now expected to be in the range of $12.92 to $13.02 for the year. This assumes a tax rate of approximately 30%.\n\nThe guidance for 2025 includes an estimated reduction in income from operations of approximately $210 million, net of currently anticipated mitigation efforts, including vendor savings, and pricing actions, reflecting our current assumptions about higher levels of tariffs on imports into the United States and the removal of the de minimis exemption. Actual results could differ materially from these estimates if tariff rates, sourcing savings, consumer demand, or the timing of regulatory changes vary from our current assumptions, or if our mitigation initiatives are less effective than currently expected.\n\nThe guidance does not reflect potential future repurchases of the Company's shares.\n\nThe guidance and outlook forward-looking statements made in this press release are based on management's expectations as of the date of this press release and do not incorporate future unknown impacts, including tariffs and macroeconomic trends. The Company undertakes no duty to update or to continue to provide information with respect to any forward-looking statements or risk factors, whether as a result of new information or future events or circumstances or otherwise. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of risks and uncertainties, including those stated below.\n\nLeadership Transition\n\nIn a separate press release today, lululemon also announced a CEO succession plan. For additional details, please visit: https://corporate.lululemon.com/media/press-releases.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 43,
+  "n_material_neg": 5,
+  "n_positive": 12,
+  "mean_pos_negative": 0.42790697674418604,
+  "mean_pos_positive": 0.40891472868217055,
+  "placement_asymmetry": 0.018992248062015493,
+  "distance_from_headline": 8,
+  "first_negative_pos": 0.23255813953488372,
+  "hedge_near_negative": 0.01935483870967742,
+  "hedge_near_positive": 0.006572327044025157,
+  "hedging_asymmetry": 2.9448989041518754,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.02276176024279211,
+  "mean_tone": 0.07521158042409044
+ },
+ "lexicon": {
+  "words": 659,
+  "per_1000": {
+   "Negative": 3.0,
+   "Positive": 13.7,
+   "Uncertainty": 18.2,
+   "Litigious": 1.5,
+   "Strong modal": 1.5,
+   "Weak modal": 1.5,
+   "Constraining": 1.5
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 9,
+   "Uncertainty": 12,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 7% to $2.6 billion",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Comparable sales increased 1%, or 2% on a constant dollar basis",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted EPS of $2.59",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "VANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the third quarter of fiscal 2025, which ended on November 2, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Calvin McDonald, Chief Executive Officer, stated: \"In the third quarter, our teams remained focused on driving improvements within our U.S. business and maintaining momentum in our international regions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We are beginning to make progress against our action plan and continue to expect to see the impact of this work in 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     34,
+     41,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "As we enter the holiday season, we are encouraged by our early performance, and I would like to thank all our lululemon team members for their hard work and dedication to our guests and communities.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "For the third quarter of 2025, compared to the third quarter of 2024:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Net revenue increased 7% to $2.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Americas net revenue decreased 2%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "International net revenue increased 33%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Comparable sales increased 1%, or 2% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Americas comparable sales decreased 5%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "International comparable sales increased 18%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Gross profit increased 2% to $1.4 billion and gross margin decreased 290 basis points to 55.6%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Income from operations decreased 11% to $435.9 million and operating margin decreased 350 basis points to 17.0%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The effective income tax rate for the third quarter of 2025 was 30.5% compared to 30.2% for the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Diluted earnings per share were $2.59 compared to $2.87 in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The Company opened 12 net new company-operated stores during the third quarter, ending with 796 stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Meghan Frank, Chief Financial Officer, stated: \"We delivered better-than-expected revenue and EPS in the third quarter as a result of our disciplined execution and ongoing strength internationally.",
+   "d": 0,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     172,
+     180,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Looking forward, we will continue to leverage our strong financial position to invest in our growth initiatives, while maintaining operational rigor.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     24,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     50,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "In addition, we are pleased our Board of Directors recently increased our share repurchase authorization, which demonstrates our collective confidence in the opportunities ahead for our brand.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     171,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Stock Repurchase Program",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "During the third quarter of 2025, the Company repurchased 1.0 million shares of its common stock for a cost of $189.0 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "On December 3, 2025, the board of directors approved a $1.0 billion increase to the Company's stock repurchase program.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Including this increase, as of December 11, 2025, the Company had approximately $1.6 billion remaining authorized on its stock repurchase program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     66,
+     79,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Balance Sheet Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Company ended the third quarter of 2025 with $1.0 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $593.0 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     127,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Inventories at the end of the third quarter of 2025 increased 11% to $2.0 billion compared to $1.8 billion at the end of the third quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "On a unit basis, inventories increased 4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "For the fourth quarter of 2025, the Company expects net revenue to be in the range of $3.500 billion to $3.585 billion, representing a decline of 3% to 1%, or growth of 2% to 4% excluding the 53rd week of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": -0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     135,
+     142,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Diluted earnings per share are expected to be in the range of $4.66 to $4.76 for the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "For 2025, the Company now expects net revenue to be in the range of $10.962 billion to $11.047 billion, representing growth of 4%, or 5% to 6% excluding the 53rd week of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Diluted earnings per share are now expected to be in the range of $12.92 to $13.02 for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "The guidance for 2025 includes an estimated reduction in income from operations of approximately $210 million, net of currently anticipated mitigation efforts, including vendor savings, and pricing actions, reflecting our current assumptions about higher levels of tariffs on imports into the United States and the removal of the de minimis exemption.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0612,
+   "hits": [
+    [
+     83,
+     96,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     128,
+     139,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     230,
+     241,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Actual results could differ materially from these estimates if tariff rates, sourcing savings, consumer demand, or the timing of regulatory changes vary from our current assumptions, or if our mitigation initiatives are less effective than currently expected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1081,
+   "hits": [
+    [
+     15,
+     20,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     21,
+     27,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     129,
+     139,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     148,
+     152,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     170,
+     181,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "The guidance does not reflect potential future repurchases of the Company's shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Leadership Transition",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "In a separate press release today, lululemon also announced a CEO succession plan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "For additional details, please visit: https://corporate.lululemon.com/media/press-releases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
