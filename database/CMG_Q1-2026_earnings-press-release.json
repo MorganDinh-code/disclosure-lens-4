@@ -1,0 +1,608 @@
+{
+ "company": "Chipotle Mexican Grill",
+ "ticker": "CMG",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2026",
+ "date": "2026-04-29",
+ "source_url": "https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS",
+ "demo": false,
+ "source_text": "First quarter highlights, year over year:\n\nTotal revenue increased 7.4% to $3.1 billion\nComparable restaurant sales increased 0.5%\nOperating margin was 12.9%, a decrease from 16.7%\nAdjusted restaurant level operating margin1 was 23.7%, a decrease from 26.2%\nDiluted earnings per share was $0.23, a 17.9% decrease from $0.28\nAdjusted diluted earnings per share1 was $0.24, a 17.2% decrease from $0.29\nOpened 49 company-owned restaurants, with 42 locations including a Chipotlane.\n\"Our first quarter exceeded expectations as we advanced our Recipe for Growth strategy, delivering tangible progress across operations, digital, menu innovation, people, and development,\" said Scott Boatwright, Chief Executive Officer, Chipotle. \"We are excited to welcome a new Chief Brand Officer and a new Chief Digital Officer to further strengthen our value proposition, sharpen our brand messaging, and accelerate innovation\u2014positioning Chipotle for sustained, long-term growth as we advance on our path to becoming a global iconic brand.\"\n\nResults for the three months ended March 31, 2026:\n\nTotal revenue in the first quarter of 2026 was $3.1 billion, an increase of 7.4% compared to the first quarter of 2025. The increase was driven by new restaurant openings and, to a lesser extent, a 0.5% increase in comparable restaurant sales due to higher transactions of 0.6%, partially offset by a 0.1% decrease in average check. Digital sales represented 38.6% of total food and beverage revenue.\n\nDuring the first quarter we opened 49 company-owned restaurants, of which 42 included a Chipotlane. Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins and returns.\n\nFood, beverage and packaging costs in the first quarter of 2026 were 29.6% of total revenue, an increase from 29.2% in the first quarter of 2025. The increase was driven by inflation, primarily in beef and freight, and higher produce usage. These increases were partially offset by lower dairy and avocado costs, and the benefit of menu price increases.\n\nLabor costs in the first quarter of 2026 were 26.1% of total revenue, an increase from 25.0% in the first quarter of 2025. The increase was primarily driven by wage inflation, lower average restaurant sales volumes, and higher benefits expense, including performance-based bonuses. These headwinds were partially offset by the benefit of menu price increases. Excluding a 40 basis point impact from costs related to certain legal proceedings, adjusted labor costs1 were 25.7% of total revenue, compared to 25.0% in the first quarter of 2025.\n\n1\n\nAdjusted restaurant level operating margin, adjusted diluted earnings per share, adjusted labor costs, adjusted net income, adjusted general and administrative expenses, and non-GAAP effective income tax rate are non-GAAP financial measures. Reconciliations to GAAP measures and further information are set forth in the table at the end of this press release. \n\nGeneral and administrative expenses for the first quarter of 2026 were $203.7 million, compared to $172.8 million in the first quarter of 2025. The increase was driven by our biennial All Managers Conference held in the first quarter of 2026, performance bonuses and wages, and benefited from lower stock-based compensation. Adjusted general and administrative expenses1 for the first quarter of 2026 were $197.9 million, compared to $160.9 million in the first quarter of 2025.\n\nThe effective income tax rate for the first quarter of 2026 was 25.4%, an increase from 22.9% in the first quarter of 2025. The increase was driven by a reduction in tax benefits related to option exercises and equity vesting, fewer tax credits, and an increase in other discrete income tax items.\n\nNet income for the first quarter of 2026 was $302.8 million, or $0.23 per diluted share, compared to $386.6 million, or $0.28 per diluted share, in the first quarter of 2025. Adjusted net income1 for the first quarter of 2026 was $316.2 million, or $0.24 per adjusted diluted share, compared to $396.8 million, or $0.29 per adjusted diluted share, in the first quarter of 2025.\n\nDuring the first quarter of 2026 we repurchased $700.8 million of stock at an average price per share of $36.14. As of March 31, 2026, $1.0 billion remained available under share repurchase authorizations from our Board of Directors. The repurchase authorization may be modified, suspended or discontinued at any time.\n\nMore information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC in April 2026.\n\nOutlook\n\nFor 2026, management is anticipating the following:\n\nFull year comparable restaurant sales to be about flat\n350 to 370 new restaurant openings, which includes 10 to 15 international partner-operated restaurants. Around 80% of company-owned restaurants will have a Chipotlane\nAn estimated underlying effective full year tax rate between 24% and 26% before discrete items\nDefinitions\n\nThe following definitions apply to these terms as used throughout this release:\n\nComparable restaurant sales, or sales comps, and comparable restaurant transactions, represent the change in period-over-period total revenue or transactions for company-owned restaurants in operation for at least 13 full calendar months.\nAverage restaurant sales refers to the average trailing 12-month food and beverage revenue for company-owned restaurants in operation for at least 12 full calendar months.\nRestaurant level operating margin represents total revenue less direct restaurant operating costs, expressed as a percent of total revenue.\nDigital sales represent food and beverage revenue for company-owned restaurants generated through the Chipotle website, Chipotle app or third-party delivery aggregators. Digital sales include revenue deferrals associated with Chipotle Rewards.\nPartner-operated restaurants - Chipotle restaurants over which Chipotle does not have a controlling financial interest and for which Chipotle does not directly manage day-to-day operations. This includes restaurants operated by third parties pursuant to license or franchise agreements and restaurants in which Chipotle holds a minority, non\u2011controlling ownership interest.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 49,
+  "n_material_neg": 3,
+  "n_positive": 11,
+  "mean_pos_negative": 0.11564625850340135,
+  "mean_pos_positive": 0.2949907235621521,
+  "placement_asymmetry": -0.17934446505875076,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.08163265306122448,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.002421307506053269,
+  "mean_tone": 0.02194518917119598
+ },
+ "lexicon": {
+  "words": 826,
+  "per_1000": {
+   "Negative": 2.4,
+   "Positive": 8.5,
+   "Uncertainty": 2.4,
+   "Litigious": 1.2,
+   "Strong modal": 3.6,
+   "Weak modal": 1.2,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 7,
+   "Uncertainty": 2,
+   "Litigious": 1,
+   "Strong modal": 3,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First quarter highlights, year over year:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Total revenue increased 7.4% to $3.1 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Comparable restaurant sales increased 0.5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating margin was 12.9%, a decrease from 16.7%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Adjusted restaurant level operating margin1 was 23.7%, a decrease from 26.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share was $0.23, a 17.9% decrease from $0.28.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Adjusted diluted earnings per share1 was $0.24, a 17.2% decrease from $0.29.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Opened 49 company-owned restaurants, with 42 locations including a Chipotlane.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"Our first quarter exceeded expectations as we advanced our Recipe for Growth strategy, delivering tangible progress across operations, digital, menu innovation, people, and development,\" said Scott Boatwright, Chief Executive Officer, Chipotle.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     108,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     150,
+     160,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "\"We are excited to welcome a new Chief Brand Officer and a new Chief Digital Officer to further strengthen our value proposition, sharpen our brand messaging, and accelerate innovation\u2014positioning Chipotle for sustained, long-term growth as we advance on our path to becoming a global iconic brand.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     96,
+     106,
+     [
+      "positive"
+     ]
+    ],
+    [
+     174,
+     184,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Results for the three months ended March 31, 2026:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Total revenue in the first quarter of 2026 was $3.1 billion, an increase of 7.4% compared to the first quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "The increase was driven by new restaurant openings and, to a lesser extent, a 0.5% increase in comparable restaurant sales due to higher transactions of 0.6%, partially offset by a 0.1% decrease in average check.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Digital sales represented 38.6% of total food and beverage revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "During the first quarter we opened 49 company-owned restaurants, of which 42 included a Chipotlane.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins and returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Food, beverage and packaging costs in the first quarter of 2026 were 29.6% of total revenue, an increase from 29.2% in the first quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The increase was driven by inflation, primarily in beef and freight, and higher produce usage.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "These increases were partially offset by lower dairy and avocado costs, and the benefit of menu price increases.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Labor costs in the first quarter of 2026 were 26.1% of total revenue, an increase from 25.0% in the first quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The increase was primarily driven by wage inflation, lower average restaurant sales volumes, and higher benefits expense, including performance-based bonuses.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "These headwinds were partially offset by the benefit of menu price increases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Excluding a 40 basis point impact from costs related to certain legal proceedings, adjusted labor costs1 were 25.7% of total revenue, compared to 25.0% in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "1",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "General and administrative expenses for the first quarter of 2026 were $203.7 million, compared to $172.8 million in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The increase was driven by our biennial All Managers Conference held in the first quarter of 2026, performance bonuses and wages, and benefited from lower stock-based compensation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     134,
+     143,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Adjusted general and administrative expenses1 for the first quarter of 2026 were $197.9 million, compared to $160.9 million in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The effective income tax rate for the first quarter of 2026 was 25.4%, an increase from 22.9% in the first quarter of 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The increase was driven by a reduction in tax benefits related to option exercises and equity vesting, fewer tax credits, and an increase in other discrete income tax items.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Net income for the first quarter of 2026 was $302.8 million, or $0.23 per diluted share, compared to $386.6 million, or $0.28 per diluted share, in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Adjusted net income1 for the first quarter of 2026 was $316.2 million, or $0.24 per adjusted diluted share, compared to $396.8 million, or $0.29 per adjusted diluted share, in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "During the first quarter of 2026 we repurchased $700.8 million of stock at an average price per share of $36.14.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "As of March 31, 2026, $1.0 billion remained available under share repurchase authorizations from our Board of Directors.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The repurchase authorization may be modified, suspended or discontinued at any time.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     29,
+     32,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     46,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     59,
+     71,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "More information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC in April 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     79,
+     83,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "For 2026, management is anticipating the following:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     24,
+     36,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Full year comparable restaurant sales to be about flat 350 to 370 new restaurant openings, which includes 10 to 15 international partner-operated restaurants.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Around 80% of company-owned restaurants will have a Chipotlane.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     44,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "An estimated underlying effective full year tax rate between 24% and 26% before discrete items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "Definitions",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The following definitions apply to these terms as used throughout this release:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Comparable restaurant sales, or sales comps, and comparable restaurant transactions, represent the change in period-over-period total revenue or transactions for company-owned restaurants in operation for at least 13 full calendar months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "Average restaurant sales refers to the average trailing 12-month food and beverage revenue for company-owned restaurants in operation for at least 12 full calendar months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Restaurant level operating margin represents total revenue less direct restaurant operating costs, expressed as a percent of total revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Digital sales represent food and beverage revenue for company-owned restaurants generated through the Chipotle website, Chipotle app or third-party delivery aggregators.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "Digital sales include revenue deferrals associated with Chipotle Rewards.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Partner-operated restaurants - Chipotle restaurants over which Chipotle does not have a controlling financial interest and for which Chipotle does not directly manage day-to-day operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "This includes restaurants operated by third parties pursuant to license or franchise agreements and restaurants in which Chipotle holds a minority, non\u2011controlling ownership interest.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
