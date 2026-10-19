@@ -1,0 +1,388 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2024-11-21",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-reports-third-quarter-earnings-updates-fourth-4",
+ "demo": false,
+ "source_text": "DUBLIN, Calif.--(BUSINESS WIRE)--Nov. 21, 2024-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended November 2, 2024 of $1.48, up from $1.33 per share for the 13 weeks ended October 28, 2023. Net income for the period rose to $489 million versus $447 million last year. Sales for the 2024 third quarter were $5.1 billion, up from $4.9 billion in the prior year, with a comparable store sales gain of 1%.\n\nFor the nine months ended November 2, 2024, earnings per share were $4.53 on net earnings of $1.5 billion, versus $3.74 per share on net income of $1.3 billion for the same year-to-date period in 2023. Sales for the first nine months of 2024 were $15.2 billion, with comparable store sales up 3% over the prior year.\n\nBarbara Rentler, Chief Executive Officer, commented, \u201cWe are disappointed with our third quarter sales results as business slowed from the solid gains we reported in the first half of 2024. Although our low-to-moderate income customers continue to face persistently high costs on necessities pressuring their discretionary spending, we believe we should have better executed some of our merchandising initiatives. In addition, a combination of severe weather during the quarter from Hurricanes Helene and Milton, along with unseasonably warm temperatures, also negatively impacted our results.\u201d\n\nMs. Rentler continued, \u201cDespite the below-plan sales results, earnings were ahead of our expectations. Operating margin for the quarter was 11.9%, up from 11.2% last year, as lower incentive, freight, and distribution costs more than offset the planned decline in merchandise margin.\u201d\n\nMs. Rentler added, \u201cDuring the third quarter, we repurchased 1.8 million shares of common stock for an aggregate price of $262 million. We remain on track to buy back a total of $1.05 billion in common stock during fiscal 2024 under the Company\u2019s two-year $2.1 billion repurchase program.\u201d\n\nFourth Quarter and Fiscal 2024 Guidance\n\nLooking ahead, Ms. Rentler said, \u201cFor the 13 weeks ending February 1, 2025, we continue to project comparable store sales to increase 2% to 3%. Earnings per share for the fourth quarter are planned to be in the range of $1.57 to $1.64, compared to $1.82 for the 14 weeks ended February 3, 2024. This guidance range includes an unfavorable impact of approximately $0.03 per share primarily from the timing of packaway-related expenses that benefited the third quarter. Based on our year-to-date results and fourth quarter forecast, earnings per share for the 52 weeks ending February 1, 2025 are now expected to be in the range of $6.10 to $6.17 versus $5.56 last year. As a reminder, both the 2023 fourth quarter and full year results included an approximate $0.20 earnings per share benefit from the 53rd week.\u201d\n\nMs. Rentler concluded, \u201cWe remain confident that our ongoing focus and commitment to delivering the most compelling values possible will enable us to maximize our potential for profitable growth now and in the future.\u201d\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 19,
+  "n_material_neg": 0,
+  "n_positive": 6,
+  "mean_pos_positive": 0.4649122807017544,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005952380952380952,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.011286681715575621,
+  "mean_tone": 0.026093005958491164
+ },
+ "lexicon": {
+  "words": 443,
+  "per_1000": {
+   "Negative": 15.8,
+   "Positive": 18.1,
+   "Uncertainty": 11.3,
+   "Litigious": 0.0,
+   "Strong modal": 2.3,
+   "Weak modal": 2.3,
+   "Constraining": 4.5
+  },
+  "counts": {
+   "Negative": 7,
+   "Positive": 8,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif.--(BUSINESS WIRE)--Nov. 21, 2024-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended November 2, 2024 of $1.48, up from $1.33 per share for the 13 weeks ended October 28, 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net income for the period rose to $489 million versus $447 million last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales for the 2024 third quarter were $5.1 billion, up from $4.9 billion in the prior year, with a comparable store sales gain of 1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     122,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "For the nine months ended November 2, 2024, earnings per share were $4.53 on net earnings of $1.5 billion, versus $3.74 per share on net income of $1.3 billion for the same year-to-date period in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Sales for the first nine months of 2024 were $15.2 billion, with comparable store sales up 3% over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Barbara Rentler, Chief Executive Officer, commented, \u201cWe are disappointed with our third quarter sales results as business slowed from the solid gains we reported in the first half of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     73,
+     [
+      "negative"
+     ]
+    ],
+    [
+     123,
+     129,
+     [
+      "negative"
+     ]
+    ],
+    [
+     145,
+     150,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Although our low-to-moderate income customers continue to face persistently high costs on necessities pressuring their discretionary spending, we believe we should have better executed some of our merchandising initiatives.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     63,
+     75,
+     [
+      "negative"
+     ]
+    ],
+    [
+     146,
+     153,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     169,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "In addition, a combination of severe weather during the quarter from Hurricanes Helene and Milton, along with unseasonably warm temperatures, also negatively impacted our results.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": -0.8,
+   "h": 0.04,
+   "hits": [
+    [
+     30,
+     36,
+     [
+      "negative"
+     ]
+    ],
+    [
+     110,
+     122,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     147,
+     157,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Ms. Rentler continued, \u201cDespite the below-plan sales results, earnings were ahead of our expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Operating margin for the quarter was 11.9%, up from 11.2% last year, as lower incentive, freight, and distribution costs more than offset the planned decline in merchandise margin.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": -0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     150,
+     157,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Ms. Rentler added, \u201cDuring the third quarter, we repurchased 1.8 million shares of common stock for an aggregate price of $262 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We remain on track to buy back a total of $1.05 billion in common stock during fiscal 2024 under the Company\u2019s two-year $2.1 billion repurchase program.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Fourth Quarter and Fiscal 2024 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Looking ahead, Ms. Rentler said, \u201cFor the 13 weeks ending February 1, 2025, we continue to project comparable store sales to increase 2% to 3%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Earnings per share for the fourth quarter are planned to be in the range of $1.57 to $1.64, compared to $1.82 for the 14 weeks ended February 3, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "This guidance range includes an unfavorable impact of approximately $0.03 per share primarily from the timing of packaway-related expenses that benefited the third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     32,
+     43,
+     [
+      "negative"
+     ]
+    ],
+    [
+     54,
+     67,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     144,
+     153,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Based on our year-to-date results and fourth quarter forecast, earnings per share for the 52 weeks ending February 1, 2025 are now expected to be in the range of $6.10 to $6.17 versus $5.56 last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "As a reminder, both the 2023 fourth quarter and full year results included an approximate $0.20 earnings per share benefit from the 53rd week.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     78,
+     89,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Ms. Rentler concluded, \u201cWe remain confident that our ongoing focus and commitment to delivering the most compelling values possible will enable us to maximize our potential for profitable growth now and in the future.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.882,
+   "h": 0.0294,
+   "hits": [
+    [
+     34,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     71,
+     81,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     105,
+     115,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     123,
+     131,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     132,
+     136,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     137,
+     143,
+     [
+      "positive"
+     ]
+    ],
+    [
+     177,
+     187,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
