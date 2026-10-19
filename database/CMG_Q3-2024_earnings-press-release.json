@@ -1,0 +1,574 @@
+{
+ "company": "Chipotle Mexican Grill",
+ "ticker": "CMG",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2024",
+ "date": "2024-10-29",
+ "source_url": "https://ir.chipotle.com/2024-10-29-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2024-RESULTS",
+ "demo": false,
+ "source_text": "Third quarter highlights, year over year:\n\nTotal revenue increased 13.0% to $2.8 billion\nComparable restaurant sales increased 6.0%\nOperating margin was 16.9%, an increase from 16.0%\nRestaurant level operating margin was 25.5%1, a decrease from 26.3%1\nDiluted earnings per share was $0.28, a 21.7% increase from $0.232.\nAdjusted diluted earnings per share was $0.271, a 17.4% increase from $0.231\nOpened 86 new company-operated restaurants with 73 locations including a Chipotlane, and one international licensed restaurant\n\"Our focus on exceptional people, food and throughput and the long-awaited return of Smoked Brisket drove another quarter of strong results led by transaction growth,\" said Scott Boatwright, Interim CEO, Chipotle. \"Our teams work hard to deliver extraordinary value to our guests as they provide our fresh, delicious and customizable culinary experience, at accessible prices to millions of people every day. They are the backbone of Chipotle and, together with our support centers, we will continue to execute against our five key strategies that help us win today, while we grow our future. This will help us to achieve our long-term target of reaching 7,000 restaurants in North America and move towards a more global brand.\"\n\nResults for the three months ended September 30, 2024:\n\nTotal revenue in the third quarter of 2024 was $2.8 billion, an increase of 13.0% compared to the third quarter of 2023. The increase in total revenue was driven by new restaurant openings and a 6.0% increase in comparable restaurant sales due to higher transactions of 3.3% and a 2.7% increase in average check. Digital sales represented 34.0% of total food and beverage revenue.\n\nDuring the third quarter we opened 86 new company-operated restaurants, of which 73 included a Chipotlane, and one international licensed restaurant. Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins, and returns.\n\nFood, beverage and packaging costs in the third quarter of 2024 were 30.6% of total revenue, an increase from 29.7% in the third quarter of 2023. The increase was due to inflation across several ingredient costs, primarily avocados and dairy, higher usage of ingredients as we focused on ensuring consistent and generous portions, and a protein mix shift from the success of our Smoked Brisket limited time offer. This increase was partially offset by the benefit of menu price increases in the prior year.\n\nLabor costs in the third quarter of 2024 were 24.9% of total revenue, in line with the third quarter of 2023. The benefit from sales leverage was offset primarily by wage increases for our restaurants in California.\n\nOther operating costs in the third quarter of 2024 were 13.8% of total revenue, a decrease from 14.0% in the third quarter of 2023. The decrease was primarily due to sales leverage and lower delivery expenses, partially offset by higher advertising and marketing promotions expense.\n\nGeneral and administrative expenses for the third quarter of 2024 were $126.6 million on a GAAP basis, or $149.3 million1 on a non-GAAP basis. Adjusted general and administrative expenses exclude a $27.9 million decrease in stock-based compensation expense from equity awards forfeited by our former CEO, partially offset by $5.1 million of expense for retention equity awards granted to key executives.\n\nThe effective income tax rate for the third quarter of 2024 was 22.9%, a decrease from 24.2% in the third quarter of 2023. The decrease is primarily driven by reductions to nondeductible expenses, the release of income tax reserves, and additional tax benefits related to option exercises and equity vesting, partially offset by the impact of the return to provision adjustment in the comparable period.\n\nNet income for the third quarter was $387.4 million, or $0.28 per diluted share, compared to $313.2 million, or $0.232 per diluted share in the third quarter of 2023. Adjusting for a net benefit in stock-based compensation expense due to unvested equity awards forfeited by our former CEO and related retention equity awards granted to key executives, an unrealized gain on a long-term investment, and an impairment charge related to a software asset, adjusted net income was $366.6 million1 and adjusted diluted earnings per share was $0.271.\n\nDuring the third quarter we repurchased $488.1 million of stock at an average price per share of $54.55. As of September 30, 2024, $1.1 billion remained available under share repurchase authorizations from our Board of Directors, including an additional $400 million in additional authorizations approved by our Board of Directors on August 21, 2024 and $500 million in additional authorizations approved by our Board of Directors on September 19, 2024. The repurchase authorization may be modified, suspended, or discontinued at any time.\n\nMore information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC by the end of October.\n\nOutlook\n\nFor 2024, management is anticipating the following:\n\nFull year comparable restaurant sales growth in the mid to high-single digit range\n285 to 315 new company-operated restaurant openings with over 80% having a Chipotlane\nAn estimated underlying effective full year tax rate between 24% and 26% before discrete items\nFor 2025, management is anticipating the following:\n\n315 to 345 new company-operated restaurant openings with over 80% having a Chipotlane",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 41,
+  "n_material_neg": 4,
+  "n_positive": 14,
+  "mean_pos_negative": 0.5365853658536586,
+  "mean_pos_positive": 0.37282229965156793,
+  "placement_asymmetry": 0.16376306620209063,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.12195121951219512,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0016233766233766235,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0.16666666666666666,
+  "mean_tone_gap_on_negatives": 1.0109469074986317,
+  "overall_hedge": 0.0037641154328732747,
+  "mean_tone": 0.006889484990373569
+ },
+ "lexicon": {
+  "words": 797,
+  "per_1000": {
+   "Negative": 7.5,
+   "Positive": 8.8,
+   "Uncertainty": 3.8,
+   "Litigious": 0.0,
+   "Strong modal": 5.0,
+   "Weak modal": 1.3,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 6,
+   "Positive": 7,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 4,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Third quarter highlights, year over year:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Total revenue increased 13.0% to $2.8 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Comparable restaurant sales increased 6.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating margin was 16.9%, an increase from 16.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Restaurant level operating margin was 25.5%1, a decrease from 26.3%1.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share was $0.28, a 21.7% increase from $0.232.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Adjusted diluted earnings per share was $0.271, a 17.4% increase from $0.231.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Opened 86 new company-operated restaurants with 73 locations including a Chipotlane, and one international licensed restaurant.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"Our focus on exceptional people, food and throughput and the long-awaited return of Smoked Brisket drove another quarter of strong results led by transaction growth,\" said Scott Boatwright, Interim CEO, Chipotle.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     125,
+     131,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "\"Our teams work hard to deliver extraordinary value to our guests as they provide our fresh, delicious and customizable culinary experience, at accessible prices to millions of people every day.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "They are the backbone of Chipotle and, together with our support centers, we will continue to execute against our five key strategies that help us win today, while we grow our future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     81,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     102,
+     109,
+     [
+      "negative"
+     ]
+    ],
+    [
+     147,
+     150,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "This will help us to achieve our long-term target of reaching 7,000 restaurants in North America and move towards a more global brand.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     9,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     21,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Results for the three months ended September 30, 2024:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Total revenue in the third quarter of 2024 was $2.8 billion, an increase of 13.0% compared to the third quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase in total revenue was driven by new restaurant openings and a 6.0% increase in comparable restaurant sales due to higher transactions of 3.3% and a 2.7% increase in average check.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Digital sales represented 34.0% of total food and beverage revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "During the third quarter we opened 86 new company-operated restaurants, of which 73 included a Chipotlane, and one international licensed restaurant.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Chipotlanes continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins, and returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Food, beverage and packaging costs in the third quarter of 2024 were 30.6% of total revenue, an increase from 29.7% in the third quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The increase was due to inflation across several ingredient costs, primarily avocados and dairy, higher usage of ingredients as we focused on ensuring consistent and generous portions, and a protein mix shift from the success of our Smoked Brisket limited time offer.",
+   "d": -1,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     218,
+     225,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "This increase was partially offset by the benefit of menu price increases in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Labor costs in the third quarter of 2024 were 24.9% of total revenue, in line with the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The benefit from sales leverage was offset primarily by wage increases for our restaurants in California.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Other operating costs in the third quarter of 2024 were 13.8% of total revenue, a decrease from 14.0% in the third quarter of 2023.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The decrease was primarily due to sales leverage and lower delivery expenses, partially offset by higher advertising and marketing promotions expense.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "General and administrative expenses for the third quarter of 2024 were $126.6 million on a GAAP basis, or $149.3 million1 on a non-GAAP basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Adjusted general and administrative expenses exclude a $27.9 million decrease in stock-based compensation expense from equity awards forfeited by our former CEO, partially offset by $5.1 million of expense for retention equity awards granted to key executives.",
+   "d": 1,
+   "m": false,
+   "tone": -0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     133,
+     142,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "The effective income tax rate for the third quarter of 2024 was 22.9%, a decrease from 24.2% in the third quarter of 2023.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The decrease is primarily driven by reductions to nondeductible expenses, the release of income tax reserves, and additional tax benefits related to option exercises and equity vesting, partially offset by the impact of the return to provision adjustment in the comparable period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Net income for the third quarter was $387.4 million, or $0.28 per diluted share, compared to $313.2 million, or $0.232 per diluted share in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Adjusting for a net benefit in stock-based compensation expense due to unvested equity awards forfeited by our former CEO and related retention equity awards granted to key executives, an unrealized gain on a long-term investment, and an impairment charge related to a software asset, adjusted net income was $366.6 million1 and adjusted diluted earnings per share was $0.271.",
+   "d": -1,
+   "m": true,
+   "tone": -0.172,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     103,
+     [
+      "negative"
+     ]
+    ],
+    [
+     199,
+     203,
+     [
+      "positive"
+     ]
+    ],
+    [
+     238,
+     248,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "During the third quarter we repurchased $488.1 million of stock at an average price per share of $54.55.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "As of September 30, 2024, $1.1 billion remained available under share repurchase authorizations from our Board of Directors, including an additional $400 million in additional authorizations approved by our Board of Directors on August 21, 2024 and $500 million in additional authorizations approved by our Board of Directors on September 19, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The repurchase authorization may be modified, suspended, or discontinued at any time.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     29,
+     32,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     46,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     60,
+     72,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "More information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC by the end of October.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     79,
+     83,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "For 2024, management is anticipating the following:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     24,
+     36,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Full year comparable restaurant sales growth in the mid to high-single digit range 285 to 315 new company-operated restaurant openings with over 80% having a Chipotlane.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "An estimated underlying effective full year tax rate between 24% and 26% before discrete items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "For 2025, management is anticipating the following:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     24,
+     36,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "315 to 345 new company-operated restaurant openings with over 80% having a Chipotlane",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
