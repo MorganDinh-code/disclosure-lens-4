@@ -1,0 +1,375 @@
+{
+ "company": "AutoZone",
+ "ticker": "AZO",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2026",
+ "date": "2026-09-22",
+ "source_url": "https://about.autozone.com/news-releases/news-release-details/autozone-4th-quarter-total-company-same-store-sales-increase-15",
+ "demo": false,
+ "source_text": "For the quarter, gross profit, as a percentage of sales, was 53.3%, an increase of 182 basis points versus the prior year. The increase in gross margin was driven by a 145 basis point impact from tariff refunds and a 105 basis point net non-cash LIFO impact, partially offset by higher commercial mix. Operating expenses, as a percentage of sales, were 33.4% versus last year at 32.4% with deleverage primarily driven by growth initiatives.\n\nOperating profit increased 10.1% to $1.3 billion. Net income for the quarter was $931.6 million compared to $837.0 million in the same period last year, while diluted earnings per share were $56.05 compared to last year at $48.71.\n\nFor the fiscal year ended August 29, 2026, net sales were $20.3 billion, an increase of 7.4% from the prior year. Gross profit, as a percentage of sales, was 52.3% versus last year at 52.6%. The decrease in gross margin was impacted by a 61 basis point net non-cash LIFO impact, partially offset by a 48 basis point benefit from tariff refunds. Operating expenses, as a percentage of sales, were 34.0% versus last year at 33.6%. Operating profit increased 3.1% to $3.7 billion, net income increased 3.0% to $2.6 billion and diluted earnings per share increased 5.3% to $152.55 from $144.87.\n\nUnder its share repurchase program, AutoZone repurchased 223 thousand shares of its common stock at an average price per share of $3,125, for a total investment of $697.5 million. For the fiscal year, the Company repurchased 579 thousand shares of its common stock, at an average price of $3,496, for a total investment of $2.0 billion. At year end, the Company had $1.6 billion remaining under its current share repurchase authorization.\n\nThe Company\u2019s inventory increased 10.1% over the same period last year, driven primarily by growth initiatives. Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $107 thousand versus negative $131 thousand last year and negative $107 thousand last quarter.\n\n\u201cI want to thank our entire organization for delivering another quarter of sales and earnings growth. In spite of a difficult selling environment the first eight weeks of our quarter, we remained committed to executing on our strategies to grow both our domestic and international businesses. Over the last eight weeks of the quarter our sales results strengthened, and we feel we are well positioned for sales growth in fiscal 2027.  We opened 175 new stores this past quarter, which included 16 new Mega Hub stores in the U.S. We continue to improve our inventory offering for both the do-it-yourself and professional customers. We continue to improve our speed of delivery and are intently focused on exceptional customer service. Based on the data we have, we continued to gain share and we expect sales in each of the three countries in which we operate to accelerate in the new fiscal year.  As always, we will remain committed to a disciplined approach of driving shareholder value,\u201d said Phil Daniele, President and Chief Executive Officer.\n\nDuring the quarter ended August 29, 2026, AutoZone opened 97 new stores in the U.S., 68 in Mexico and 10 in Brazil for a total of 175 new stores. For the fiscal year, the Company opened 374 new stores. As of August 29, 2026, the Company had 6,863 stores in the U.S., 1,001 in Mexico and 167 in Brazil for a total store count of 8,031.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 25,
+  "n_material_neg": 1,
+  "n_positive": 10,
+  "mean_pos_negative": 0.32,
+  "mean_pos_positive": 0.38,
+  "placement_asymmetry": -0.06,
+  "distance_from_headline": 4,
+  "first_negative_pos": 0.32,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0014285714285714286,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0019193857965451055,
+  "mean_tone": 0.027954545454545458
+ },
+ "lexicon": {
+  "words": 521,
+  "per_1000": {
+   "Negative": 7.7,
+   "Positive": 9.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 3.8,
+   "Weak modal": 0.0,
+   "Constraining": 3.8
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 5,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "For the quarter, gross profit, as a percentage of sales, was 53.3%, an increase of 182 basis points versus the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "The increase in gross margin was driven by a 145 basis point impact from tariff refunds and a 105 basis point net non-cash LIFO impact, partially offset by higher commercial mix.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Operating expenses, as a percentage of sales, were 33.4% versus last year at 32.4% with deleverage primarily driven by growth initiatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating profit increased 10.1% to $1.3 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Net income for the quarter was $931.6 million compared to $837.0 million in the same period last year, while diluted earnings per share were $56.05 compared to last year at $48.71.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "For the fiscal year ended August 29, 2026, net sales were $20.3 billion, an increase of 7.4% from the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Gross profit, as a percentage of sales, was 52.3% versus last year at 52.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The decrease in gross margin was impacted by a 61 basis point net non-cash LIFO impact, partially offset by a 48 basis point benefit from tariff refunds.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Operating expenses, as a percentage of sales, were 34.0% versus last year at 33.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Operating profit increased 3.1% to $3.7 billion, net income increased 3.0% to $2.6 billion and diluted earnings per share increased 5.3% to $152.55 from $144.87.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Under its share repurchase program, AutoZone repurchased 223 thousand shares of its common stock at an average price per share of $3,125, for a total investment of $697.5 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "For the fiscal year, the Company repurchased 579 thousand shares of its common stock, at an average price of $3,496, for a total investment of $2.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "At year end, the Company had $1.6 billion remaining under its current share repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The Company\u2019s inventory increased 10.1% over the same period last year, driven primarily by growth initiatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $107 thousand versus negative $131 thousand last year and negative $107 thousand last quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     107,
+     [
+      "negative"
+     ]
+    ],
+    [
+     129,
+     137,
+     [
+      "negative"
+     ]
+    ],
+    [
+     166,
+     174,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "\u201cI want to thank our entire organization for delivering another quarter of sales and earnings growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "In spite of a difficult selling environment the first eight weeks of our quarter, we remained committed to executing on our strategies to grow both our domestic and international businesses.",
+   "d": 0,
+   "m": false,
+   "tone": -0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     23,
+     [
+      "negative"
+     ]
+    ],
+    [
+     94,
+     103,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Over the last eight weeks of the quarter our sales results strengthened, and we feel we are well positioned for sales growth in fiscal 2027.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     71,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We opened 175 new stores this past quarter, which included 16 new Mega Hub stores in the U.S. We continue to improve our inventory offering for both the do-it-yourself and professional customers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "We continue to improve our speed of delivery and are intently focused on exceptional customer service.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     73,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Based on the data we have, we continued to gain share and we expect sales in each of the three countries in which we operate to accelerate in the new fiscal year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     43,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "As always, we will remain committed to a disciplined approach of driving shareholder value,\u201d said Phil Daniele, President and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     9,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     14,
+     18,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     26,
+     35,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "During the quarter ended August 29, 2026, AutoZone opened 97 new stores in the U.S., 68 in Mexico and 10 in Brazil for a total of 175 new stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "For the fiscal year, the Company opened 374 new stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "As of August 29, 2026, the Company had 6,863 stores in the U.S., 1,001 in Mexico and 167 in Brazil for a total store count of 8,031.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
