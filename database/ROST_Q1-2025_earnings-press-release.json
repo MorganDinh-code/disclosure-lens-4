@@ -1,0 +1,388 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2025",
+ "date": "2025-05-22",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-reports-first-quarter-earnings-3",
+ "demo": false,
+ "source_text": "DUBLIN, Calif.--(BUSINESS WIRE)--May 22, 2025-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended May 3, 2025 of $1.47, compared to $1.46 in earnings per share for the 13 weeks ended May 4, 2024. Net income for the period was $479 million versus $488 million last year. Sales for the first quarter of 2025 were $5.0 billion with comparable store sales flat versus last year.\n\nJim Conroy, Chief Executive Officer, commented, \u201cDespite the slower start to the spring selling season in February, our monthly sales performance improved sharply, month after month, for the balance of the quarter. For the first quarter, sales and earnings performed at the high end of our expectations while operating margin of 12.2% was flat year-over-year.\u201d\n\nUpdate on Shareholder Payouts\n\nDuring the first quarter of fiscal 2025, a total of 2.0 million shares of common stock were repurchased for an aggregate price of $263 million under the Company\u2019s two-year $2.1 billion authorization approved by its Board of Directors in March 2024. The Company remains on track to buy back a total of $1.05 billion in common stock during fiscal 2025 and complete the program as planned.\n\nFiscal 2025 Guidance\n\nLooking ahead, Mr. Conroy commented, \u201cHeightened macroeconomic and geopolitical uncertainty persists, most notably prolonged inflation and evolving trade policies. While we directly import only a small portion of our merchandise, more than half of the goods we sell originate from China. As such, we expect pressure on our profitability if tariffs remain at elevated levels. Given the varying nature of tariff announcements, we are only providing an outlook for the second quarter at this time and are withdrawing our previously provided annual sales and earnings guidance.\u201d\n\nMr. Conroy continued, \u201cFor the 13 weeks ending August 2, 2025, comparable store sales are now projected to be flat to up 3% on top of a 4% gain in the second quarter of last year. Earnings per share for the second quarter are now projected to be in the range of $1.40 to $1.55, versus earnings per share of $1.59 for the prior year period ended August 3, 2024. This earnings guidance range includes an approximate $0.11 to $0.16 per share cost impact from announced tariffs.\u201d\n\nMr. Conroy concluded, \u201cThe volatility of trade policies and the corresponding impact on the economy, the consumer, and our profitability is highly unpredictable. During these uncertain times, we will focus on what we can control and manage the business conservatively. We have a seasoned executive team, a flexible off-price business model, and a strong financial foundation that should enable us to navigate through this uncertain environment.\u201d\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 19,
+  "n_material_neg": 0,
+  "n_positive": 2,
+  "mean_pos_positive": 0.47368421052631576,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005494505494505495,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.01951219512195122,
+  "mean_tone": 0.018043394289057536
+ },
+ "lexicon": {
+  "words": 410,
+  "per_1000": {
+   "Negative": 14.6,
+   "Positive": 17.1,
+   "Uncertainty": 24.4,
+   "Litigious": 0.0,
+   "Strong modal": 2.4,
+   "Weak modal": 12.2,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 6,
+   "Positive": 7,
+   "Uncertainty": 10,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 5,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif.--(BUSINESS WIRE)--May 22, 2025-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended May 3, 2025 of $1.47, compared to $1.46 in earnings per share for the 13 weeks ended May 4, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     36,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     138,
+     141,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     223,
+     226,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Net income for the period was $479 million versus $488 million last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales for the first quarter of 2025 were $5.0 billion with comparable store sales flat versus last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Jim Conroy, Chief Executive Officer, commented, \u201cDespite the slower start to the spring selling season in February, our monthly sales performance improved sharply, month after month, for the balance of the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     67,
+     [
+      "negative"
+     ]
+    ],
+    [
+     146,
+     154,
+     [
+      "positive"
+     ]
+    ],
+    [
+     155,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "For the first quarter, sales and earnings performed at the high end of our expectations while operating margin of 12.2% was flat year-over-year.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Update on Shareholder Payouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "During the first quarter of fiscal 2025, a total of 2.0 million shares of common stock were repurchased for an aggregate price of $263 million under the Company\u2019s two-year $2.1 billion authorization approved by its Board of Directors in March 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The Company remains on track to buy back a total of $1.05 billion in common stock during fiscal 2025 and complete the program as planned.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Fiscal 2025 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Looking ahead, Mr. Conroy commented, \u201cHeightened macroeconomic and geopolitical uncertainty persists, most notably prolonged inflation and evolving trade policies.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     80,
+     91,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     92,
+     100,
+     [
+      "negative"
+     ]
+    ],
+    [
+     115,
+     124,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "While we directly import only a small portion of our merchandise, more than half of the goods we sell originate from China.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "As such, we expect pressure on our profitability if tariffs remain at elevated levels.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0714,
+   "hits": [
+    [
+     35,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Given the varying nature of tariff announcements, we are only providing an outlook for the second quarter at this time and are withdrawing our previously provided annual sales and earnings guidance.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Mr. Conroy continued, \u201cFor the 13 weeks ending August 2, 2025, comparable store sales are now projected to be flat to up 3% on top of a 4% gain in the second quarter of last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     143,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Earnings per share for the second quarter are now projected to be in the range of $1.40 to $1.55, versus earnings per share of $1.59 for the prior year period ended August 3, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "This earnings guidance range includes an approximate $0.11 to $0.16 per share cost impact from announced tariffs.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     41,
+     52,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Mr. Conroy concluded, \u201cThe volatility of trade policies and the corresponding impact on the economy, the consumer, and our profitability is highly unpredictable.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.087,
+   "hits": [
+    [
+     27,
+     37,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     123,
+     136,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     160,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "During these uncertain times, we will focus on what we can control and manage the business conservatively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     13,
+     22,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     33,
+     37,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We have a seasoned executive team, a flexible off-price business model, and a strong financial foundation that should enable us to navigate through this uncertain environment.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.037,
+   "hits": [
+    [
+     78,
+     84,
+     [
+      "positive"
+     ]
+    ],
+    [
+     118,
+     124,
+     [
+      "positive"
+     ]
+    ],
+    [
+     153,
+     162,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
