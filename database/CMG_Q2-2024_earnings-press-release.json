@@ -1,0 +1,521 @@
+{
+ "company": "Chipotle Mexican Grill",
+ "ticker": "CMG",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 2024",
+ "date": "2024-07-24",
+ "source_url": "https://ir.chipotle.com/2024-07-24-CHIPOTLE-ANNOUNCES-SECOND-QUARTER-2024-RESULTS",
+ "demo": false,
+ "source_text": "Second quarter highlights, year over year:\n\nTotal revenue increased 18.2% to $3.0 billion\nComparable restaurant sales increased 11.1%\nOperating margin was 19.7%, an increase from 17.2%\nRestaurant level operating margin was 28.9%1, an increase of 140 basis points\nDiluted earnings per share was $0.33, a 32.0% increase from $0.25. Adjusted diluted earnings per share, which excluded a $0.01 after-tax impact from an unrealized loss on a long-term investment and an increase in legal reserves, was $0.341, a 36.0% increase from $0.251\nOpened 52 new company-operated restaurants with 46 locations including a Chipotlane, and one international licensed restaurant\n\"The second quarter was outstanding as successful brand marketing, including the return of Chicken Al Pastor, drove strong demand to our restaurants. Our focus and training around throughput paid off as we were able to meet the stronger demand trends with terrific service and speed driving over 8% transaction growth in the quarter,\" said Brian Niccol, Chairman and CEO, Chipotle.\n\nCommon Stock Split Completed\n\nOn June 26, 2024, we executed a 50-for-1 stock split of our common stock with a record date of June 18, 2024, and proportionately increased the number of authorized shares of common stock to reflect the effect of the stock split.\n\nResults for the three months ended June 30, 2024:\n\nTotal revenue in the second quarter was $3.0 billion, an increase of 18.2% compared to the second quarter of 2023. The increase in total revenue was driven by new restaurant openings and an 11.1% increase in comparable restaurant sales due to higher transactions of 8.7% and a 2.4% increase in average check. Digital sales represented 35.3% of total food and beverage revenue.\n\nDuring the second quarter we opened 52 new company-operated restaurants, of which 46 included a Chipotlane, and one international licensed restaurant. These formats continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins, and returns.\n\nFood, beverage and packaging costs in the second quarter of 2024 were 29.4% of total revenue, in line with the second quarter of 2023. The benefit of last year's menu price increase was partially offset by inflation of avocados, and, to a lesser extent, increased oil usage for frying chips and higher incidence of beef as a result of the continued success of our Braised Beef Barbacoa marketing initiative.\n\nRestaurant level operating margin in the second quarter was 28.9%1 compared to 27.5%1 in the second quarter of 2023. The improvement was primarily driven by the benefit of sales leverage, partially offset by wage and ingredient inflation.\n\nGeneral and administrative expenses for the second quarter were $175.0 million on a GAAP basis, or $171.3 million1 on a non-GAAP basis, excluding a $3.8 million increase in legal reserves. GAAP and non-GAAP general and administrative expenses for the second quarter also include $121.9 million of underlying general and administrative expenses, $43.5 million of non-cash stock compensation, and $5.9 million of higher performance-based accruals and payroll taxes on equity vesting and exercises.\n\nThe effective income tax rate for the second quarter was 25.0% compared to 23.8% in the second quarter of 2023. The increase in the effective income tax rate was primarily due to a decrease in tax benefits related to option exercises and equity vesting, partially offset with a decrease in tax reserves.\n\nNet income for the second quarter was $455.7 million, or $0.33 per diluted share, compared to $341.8 million, or $0.25 per diluted share in the second quarter of 2023. In the second quarter of 2024, excluding the $0.01 after-tax impact from an unrealized loss on a long-term investment and an increase in legal reserves, adjusted net income was $463.0 million1 and adjusted diluted earnings per share was $0.341.\n\nDuring the second quarter we repurchased $151.4 million of stock at an average price per share of $63.52. As of June 30, 2024, $647.7 million remained available under share repurchase authorizations from our Board of Directors, including an additional $400 million in authorized repurchases approved by the Board on June 5, 2024. The repurchase authorization may be modified, suspended, or discontinued at any time.\n\nMore information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC by the end of July.\n\nOutlook\n\nFor 2024, management is anticipating the following:\n\nFull year comparable restaurant sales growth in the mid to high-single digit range\n285 to 315 new restaurant openings with over 80% having a Chipotlane\nAn estimated underlying effective full year tax rate between 25% and 27% before discrete items",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 2,
+  "n_positive": 13,
+  "mean_pos_negative": 0.4861111111111111,
+  "mean_pos_positive": 0.3547008547008547,
+  "placement_asymmetry": 0.1314102564102564,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.19444444444444445,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0018315018315018315,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6981981981981982,
+  "overall_hedge": 0.002886002886002886,
+  "mean_tone": 0.022729168562501897
+ },
+ "lexicon": {
+  "words": 693,
+  "per_1000": {
+   "Negative": 7.2,
+   "Positive": 10.1,
+   "Uncertainty": 2.9,
+   "Litigious": 4.3,
+   "Strong modal": 2.9,
+   "Weak modal": 1.4,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 7,
+   "Uncertainty": 2,
+   "Litigious": 3,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second quarter highlights, year over year:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Total revenue increased 18.2% to $3.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Comparable restaurant sales increased 11.1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Operating margin was 19.7%, an increase from 17.2%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Restaurant level operating margin was 28.9%1, an increase of 140 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share was $0.33, a 32.0% increase from $0.25.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Adjusted diluted earnings per share, which excluded a $0.01 after-tax impact from an unrealized loss on a long-term investment and an increase in legal reserves, was $0.341, a 36.0% increase from $0.251.",
+   "d": -1,
+   "m": true,
+   "tone": -0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     100,
+     [
+      "negative"
+     ]
+    ],
+    [
+     146,
+     151,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Opened 52 new company-operated restaurants with 46 locations including a Chipotlane, and one international licensed restaurant.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\"The second quarter was outstanding as successful brand marketing, including the return of Chicken Al Pastor, drove strong demand to our restaurants.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our focus and training around throughput paid off as we were able to meet the stronger demand trends with terrific service and speed driving over 8% transaction growth in the quarter,\" said Brian Niccol, Chairman and CEO, Chipotle.",
+   "d": 1,
+   "m": false,
+   "tone": 0.541,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     65,
+     [
+      "positive"
+     ]
+    ],
+    [
+     78,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Common Stock Split Completed",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "On June 26, 2024, we executed a 50-for-1 stock split of our common stock with a record date of June 18, 2024, and proportionately increased the number of authorized shares of common stock to reflect the effect of the stock split.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Results for the three months ended June 30, 2024:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Total revenue in the second quarter was $3.0 billion, an increase of 18.2% compared to the second quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The increase in total revenue was driven by new restaurant openings and an 11.1% increase in comparable restaurant sales due to higher transactions of 8.7% and a 2.4% increase in average check.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Digital sales represented 35.3% of total food and beverage revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "During the second quarter we opened 52 new company-operated restaurants, of which 46 included a Chipotlane, and one international licensed restaurant.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "These formats continue to perform well and are helping enhance guest access and convenience, as well as increase new restaurant sales, margins, and returns.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Food, beverage and packaging costs in the second quarter of 2024 were 29.4% of total revenue, in line with the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The benefit of last year's menu price increase was partially offset by inflation of avocados, and, to a lesser extent, increased oil usage for frying chips and higher incidence of beef as a result of the continued success of our Braised Beef Barbacoa marketing initiative.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     167,
+     176,
+     [
+      "negative"
+     ]
+    ],
+    [
+     214,
+     221,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Restaurant level operating margin in the second quarter was 28.9%1 compared to 27.5%1 in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The improvement was primarily driven by the benefit of sales leverage, partially offset by wage and ingredient inflation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "General and administrative expenses for the second quarter were $175.0 million on a GAAP basis, or $171.3 million1 on a non-GAAP basis, excluding a $3.8 million increase in legal reserves.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     173,
+     178,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "GAAP and non-GAAP general and administrative expenses for the second quarter also include $121.9 million of underlying general and administrative expenses, $43.5 million of non-cash stock compensation, and $5.9 million of higher performance-based accruals and payroll taxes on equity vesting and exercises.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The effective income tax rate for the second quarter was 25.0% compared to 23.8% in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The increase in the effective income tax rate was primarily due to a decrease in tax benefits related to option exercises and equity vesting, partially offset with a decrease in tax reserves.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Net income for the second quarter was $455.7 million, or $0.33 per diluted share, compared to $341.8 million, or $0.25 per diluted share in the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "In the second quarter of 2024, excluding the $0.01 after-tax impact from an unrealized loss on a long-term investment and an increase in legal reserves, adjusted net income was $463.0 million1 and adjusted diluted earnings per share was $0.341.",
+   "d": -1,
+   "m": true,
+   "tone": -0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     91,
+     [
+      "negative"
+     ]
+    ],
+    [
+     137,
+     142,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "During the second quarter we repurchased $151.4 million of stock at an average price per share of $63.52.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As of June 30, 2024, $647.7 million remained available under share repurchase authorizations from our Board of Directors, including an additional $400 million in authorized repurchases approved by the Board on June 5, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The repurchase authorization may be modified, suspended, or discontinued at any time.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     29,
+     32,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     46,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     60,
+     72,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "More information will be available in our Quarterly Report on Form 10-Q, which will be filed with the SEC by the end of July.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     79,
+     83,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "For 2024, management is anticipating the following:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     24,
+     36,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Full year comparable restaurant sales growth in the mid to high-single digit range 285 to 315 new restaurant openings with over 80% having a Chipotlane.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "An estimated underlying effective full year tax rate between 25% and 27% before discrete items",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
