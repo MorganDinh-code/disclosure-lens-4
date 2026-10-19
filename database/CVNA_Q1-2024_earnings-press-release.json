@@ -1,0 +1,301 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2024",
+ "date": "2024-05-01",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earning-release-q1-2024.pdf",
+ "demo": false,
+ "source_text": "\u201cIn the first quarter, we delivered our best results in company history, validating our long-held belief that\nCarvana\u2019s online retail model can drive industry-leading profitability while delivering industry-leading\ncustomer experiences. We reached new Q1 milestones for all key profitability metrics while also growing\n16% year over year,\u201d says Ernie Garcia, Carvana Founder and Chief Executive Officer. \u201cWith these strong\nresults, significant fundamental margin opportunities ahead, and a nationwide infrastructure that can\nsupport multiples of our current scale, we have never been more confident in our opportunity to become\nthe largest and most profitable automotive retailer and to buy and sell millions of cars.\"\n\nQ1 2024 Highlights\nIn Q1 2024, Carvana sold 91,878 retail units (+16% YoY) for total revenue of $3.061 billion (+17%\nYoY) while reaching new profitability milestones, including:\n\u25cf Record Q1 Net Income of $49 million\n2 and Net Income margin of 1.6%\n\u25cf Record Adjusted EBITDA of $235 million\n\u25cf Record 7.7% Adjusted EBITDA margin, higher than all U.S. publicly traded automotive\nretailers in Q1\n\u25cf Record GAAP Operating Income of $134 million\n\u25cf Record Q1 Total Gross Profit per Unit (\u201cGPU\u201d) of $6,432 (+$2,129 YoY) and\nNon-GAAP Total GPU of $6,802 (+$2,006 YoY)\nIn addition, Carvana\u2019s Adjusted EBITDA now significantly exceeds capital expenditures and interest\nexpense, and the company plans to pay cash interest on its 2028 and 2030 Senior Secured Notes on\nboth semiannual payment dates in 2025.\n\nOutlook\nLooking toward the second quarter of 2024, Carvana expects the following as long as the\nenvironment remains stable:\n\u25cf A sequential increase in its year-over-year growth rate in retail units, and\n\u25cf A sequential increase in Adjusted EBITDA\n1\nWith strong results in Q1 and outlook for Q2, Carvana expects to comfortably deliver on its outlook of\nyear-over-year growth in retail units sold and Adjusted EBITDA for FY 2024.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 1,
+  "n_positive": 8,
+  "mean_pos_negative": 0.75,
+  "mean_pos_positive": 0.5703125,
+  "placement_asymmetry": 0.1796875,
+  "distance_from_headline": 8,
+  "first_negative_pos": 0.75,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.006667852062588905,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.007042253521126761,
+  "mean_tone": 0.20698924731182797
+ },
+ "lexicon": {
+  "words": 284,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 45.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 7.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 13,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\u201cIn the first quarter, we delivered our best results in company history, validating our long-held belief that.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     44,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Carvana\u2019s online retail model can drive industry-leading profitability while delivering industry-leading customer experiences.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     57,
+     70,
+     [
+      "positive"
+     ]
+    ],
+    [
+     97,
+     104,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We reached new Q1 milestones for all key profitability metrics while also growing 16% year over year,\u201d says Ernie Garcia, Carvana Founder and Chief Executive Officer. \u201cWith these strong results, significant fundamental margin opportunities ahead, and a nationwide infrastructure that can support multiples of our current scale, we have never been more confident in our opportunity to become the largest and most profitable automotive retailer and to buy and sell millions of cars.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     54,
+     [
+      "positive"
+     ]
+    ],
+    [
+     179,
+     185,
+     [
+      "positive"
+     ]
+    ],
+    [
+     226,
+     239,
+     [
+      "positive"
+     ]
+    ],
+    [
+     336,
+     341,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     352,
+     361,
+     [
+      "positive"
+     ]
+    ],
+    [
+     369,
+     380,
+     [
+      "positive"
+     ]
+    ],
+    [
+     412,
+     422,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Q1 2024 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "In Q1 2024, Carvana sold 91,878 retail units (+16% YoY) for total revenue of $3.061 billion (+17%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "YoY) while reaching new profitability milestones, including: Record Q1 Net Income of $49 million 2 and Net Income margin of 1.6%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Record Adjusted EBITDA of $235 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Record 7.7% Adjusted EBITDA margin, higher than all U.S. publicly traded automotive retailers in Q1.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Record GAAP Operating Income of $134 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Record Q1 Total Gross Profit per Unit (\u201cGPU\u201d) of $6,432 (+$2,129 YoY) and.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Non-GAAP Total GPU of $6,802 (+$2,006 YoY).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "In addition, Carvana\u2019s Adjusted EBITDA now significantly exceeds capital expenditures and interest expense, and the company plans to pay cash interest on its 2028 and 2030 Senior Secured Notes on both semiannual payment dates in 2025.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Looking toward the second quarter of 2024, Carvana expects the following as long as the environment remains stable: A sequential increase in its year-over-year growth rate in retail units, and.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     108,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "A sequential increase in Adjusted EBITDA 1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "With strong results in Q1 and outlook for Q2, Carvana expects to comfortably deliver on its outlook of year-over-year growth in retail units sold and Adjusted EBITDA for FY 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
