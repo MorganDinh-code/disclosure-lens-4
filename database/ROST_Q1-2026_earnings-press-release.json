@@ -1,0 +1,396 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2026",
+ "date": "2026-05-21",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-reports-robust-first-quarter-sales-and-earnings",
+ "demo": false,
+ "source_text": "DUBLIN, Calif., May 21, 2026 /PRNewswire/ -- Ross Stores, Inc. (Nasdaq: ROST) today reported financial results for the 13\u2011week quarter ended May 2, 2026.\n\nHighlights:\n\nTotal sales for the first quarter of fiscal 2026 increased 21% compared to last year, with comparable store sales up a very robust 17%\nFirst quarter operating margin of 13.4% was well above the Company's plan of 11.8% to 12.1%, primarily from the strong sales outperformance\nEarnings per share for the first quarter of $2.02 grew 37%, significantly exceeding guidance of $1.60 to $1.67\nJim Conroy, Chief Executive Officer, commented, \"We achieved outstanding sales and earnings results in the first quarter with superb execution throughout the business, especially the transition of our Spring assortment. Momentum was solid throughout the quarter, with broad-based strength across the business. Customer traffic was the primary driver of the strong sales trend as compelling merchandise assortments, higher customer acquisition and engagement from our ongoing marketing initiatives, and an improved in\u2011store experience are resonating with shoppers. We believe our results also benefited from higher consumer spending related to tax refunds.\"\n\nFirst Quarter Results\n\nSales increased 21% to $6.0 billion, up from $5.0 billion in 2025. Comparable store sales rose a very robust 17% for the quarter versus flat sales last year. Net income was $650 million versus $479 million last year, while earnings per share increased 37% to $2.02, compared with $1.47 per share in the prior year period.\n\nUpdate on Shareholder Payouts\n\nDuring the first quarter of fiscal 2026, a total of 1.5 million shares of common stock were repurchased for an aggregate price of $319 million under the Company's two-year $2.55 billion authorization approved by its Board of Directors in March 2026. The Company remains on track to buy back a total of $1.275 billion in common stock during fiscal 2026.\n\nFiscal 2026 Guidance\n\nMr. Conroy commented, \"Looking ahead, we exited the first quarter with solid momentum, and our underlying business fundamentals remain very strong. As such, for the 13 weeks ending August 1, 2026, comparable store sales are forecasted to increase 6% to 7%. If sales perform in line with this forecast, earnings per share are projected to be $1.85 to $1.93 or growth of 19% to 24%, compared to $1.56 for the second quarter ended August 2, 2025.\"\n\nMr. Conroy continued, \"Based on our first quarter results and our second quarter guidance, we are increasing our 2026 fiscal year same store sales growth to 6% to 7% on top of a 5% gain in 2025. As a result, fiscal 2026 earnings per share are now projected to be in the range of $7.50 to $7.74, or growth of 13% to 17% when compared to $6.61 for the fiscal year ended January 31, 2026.\"\n\nMr. Conroy concluded, \"The year is off to a very strong start with the entire organization executing at a high level. As our efforts to improve topline growth continue, we remain focused on disciplined, consistent execution across the business. Moving forward, we believe we are well positioned to capture additional market share and drive profitable growth over the long term.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 25,
+  "n_material_neg": 0,
+  "n_positive": 12,
+  "mean_pos_positive": 0.61,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.004869727047146402,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004338394793926247,
+  "mean_tone": 0.20844884647516226
+ },
+ "lexicon": {
+  "words": 461,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 23.9,
+   "Uncertainty": 8.7,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 4.3,
+   "Constraining": 2.2
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 11,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif., May 21, 2026 /PRNewswire/ -- Ross Stores, Inc. (Nasdaq: ROST) today reported financial results for the 13\u2011week quarter ended May 2, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     19,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     141,
+     144,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Total sales for the first quarter of fiscal 2026 increased 21% compared to last year, with comparable store sales up a very robust 17%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "First quarter operating margin of 13.4% was well above the Company's plan of 11.8% to 12.1%, primarily from the strong sales outperformance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     118,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Earnings per share for the first quarter of $2.02 grew 37%, significantly exceeding guidance of $1.60 to $1.67.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Jim Conroy, Chief Executive Officer, commented, \"We achieved outstanding sales and earnings results in the first quarter with superb execution throughout the business, especially the transition of our Spring assortment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Momentum was solid throughout the quarter, with broad-based strength across the business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Customer traffic was the primary driver of the strong sales trend as compelling merchandise assortments, higher customer acquisition and engagement from our ongoing marketing initiatives, and an improved in\u2011store experience are resonating with shoppers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     53,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     79,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     195,
+     203,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "We believe our results also benefited from higher consumer spending related to tax refunds.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0714,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     28,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "First Quarter Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Sales increased 21% to $6.0 billion, up from $5.0 billion in 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Comparable store sales rose a very robust 17% for the quarter versus flat sales last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Net income was $650 million versus $479 million last year, while earnings per share increased 37% to $2.02, compared with $1.47 per share in the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Update on Shareholder Payouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "During the first quarter of fiscal 2026, a total of 1.5 million shares of common stock were repurchased for an aggregate price of $319 million under the Company's two-year $2.55 billion authorization approved by its Board of Directors in March 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The Company remains on track to buy back a total of $1.275 billion in common stock during fiscal 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Fiscal 2026 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Mr. Conroy commented, \"Looking ahead, we exited the first quarter with solid momentum, and our underlying business fundamentals remain very strong.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     140,
+     146,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "As such, for the 13 weeks ending August 1, 2026, comparable store sales are forecasted to increase 6% to 7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "If sales perform in line with this forecast, earnings per share are projected to be $1.85 to $1.93 or growth of 19% to 24%, compared to $1.56 for the second quarter ended August 2, 2025.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Mr. Conroy continued, \"Based on our first quarter results and our second quarter guidance, we are increasing our 2026 fiscal year same store sales growth to 6% to 7% on top of a 5% gain in 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     181,
+     185,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "As a result, fiscal 2026 earnings per share are now projected to be in the range of $7.50 to $7.74, or growth of 13% to 17% when compared to $6.61 for the fiscal year ended January 31, 2026.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Mr. Conroy concluded, \"The year is off to a very strong start with the entire organization executing at a high level.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "As our efforts to improve topline growth continue, we remain focused on disciplined, consistent execution across the business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Moving forward, we believe we are well positioned to capture additional market share and drive profitable growth over the long term.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     95,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
