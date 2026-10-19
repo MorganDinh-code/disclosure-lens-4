@@ -1,0 +1,363 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 2025",
+ "date": "2026-02-18",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earnings-release-q4-2025.pdf",
+ "demo": false,
+ "source_text": "Record Full Year Retail Units Sold of 596,641, up 43% YoY\nRecord Full Year Revenue of $20.3 billion, up 49% YoY\nRecord Full Year Net Income of $1.9 billion\n1\n, up more than $1 billion YoY\nRecord Full Year Adjusted EBITDA of $2.2 billion, up more than $850 million YoY\nExpects Significant Growth in Retail Units Sold and Adjusted EBITDA\n2\nin FY 2026 and Sequential Increase\nin Retail Units Sold and Adjusted EBITDA\n2\nin Q1\nPHOENIX \u2013 (Feb. 18, 2026) \u2013 Carvana (NYSE: CVNA), a leading e-commerce platform for buying and selling cars,\ntoday announced financial results for the full year and quarter ended December 31, 2025. Carvana\u2019s complete\nfourth quarter and fiscal year 2025 financial results and management commentary are available in the company\u2019s\nshareholder letter on the quarterly results page of its Investor Relations website.\n\u201cIn 2025, Carvana grew 43% year-over-year, delivered record unit economics, and passed significant value back to\ncustomers through better selection, faster delivery times, and lower costs. Achieving all of this at once is rare and\nspeaks to the powerful positive feedback our model generates as we grow. Carvana is still very small relative to our\nopportunity, but with 5 million cumulative customer transactions and counting, we are actively changing the way\npeople buy and sell cars,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cWe remain firmly on track to our goal of\nselling 3 million retail units a year at a 13.5% Adjusted EBITDA margin by 2030 to 2035.\u201d\nQ4 and Full Year 2025 Highlights\nIn 2025, Carvana sold 596,641 retail units (+43% YoY) for a record total annual Revenue of $20.322 billion (+49%\nYoY) while reaching new profitability milestones, including:\n\u25cf Full year record Net income of $1.895 billion\n1 and Net income margin of 9.3%\n\u25cb Net income included a net non-cash benefit of $621 million\n1\n\u25cf Full year record Adjusted EBITDA of $2.237 billion and Adjusted EBITDA margin of 11.0%\n\u25cf Full year record GAAP Operating Income of $1.881 billion and Operating margin of 9.3%\nIn Q4, Carvana sold 163,522 retail units (+43%) for a record total Q4 Revenue of $5.603 billion (+58%) while\nreaching new profitability milestones, including:\n\u25cf Q4 record Net income of $951 million\n1 and Net income margin of 17.0%\n\u25cb Net income included a net non-cash benefit of $618 million\n1\n\u25cf Q4 record Adjusted EBITDA of $511 million and Adjusted EBITDA margin of 9.1%\n\u25cf Q4 record GAAP Operating Income of $424 million and Operating margin of 7.6%\n\nOutlook\nIn 2025, Carvana focused on three key objectives: (i) significant growth in retail units and Adjusted EBITDA, (ii)\nfundamental gains in unit economics and customer experience, and (iii) developing foundational capabilities.\nCarvana made significant progress in all three areas in 2025, highlighted by record units, industry-leading margins,\nmulti-year high customer NPS, and expanded integrated reconditioning and digital auction capabilities.\nIn 2026, Carvana plans to maintain these priorities while placing additional weight on driving significant profitable\ngrowth at scale.\nLooking forward, Carvana expects significant growth in both retail units sold and Adjusted EBITDA\n3\nin full year\n2026, including a sequential increase in both retail units sold and Adjusted EBITDA\n3\nin Q1 2026, assuming the\nenvironment remains stable.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 24,
+  "n_material_neg": 0,
+  "n_positive": 17,
+  "mean_pos_positive": 0.5318627450980392,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005755280693267936,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0063025210084033615,
+  "mean_tone": 0.18245194956038388
+ },
+ "lexicon": {
+  "words": 476,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 25.2,
+   "Uncertainty": 2.1,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 12,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Record Full Year Retail Units Sold of 596,641, up 43% YoY.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Record Full Year Revenue of $20.3 billion, up 49% YoY.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Record Full Year Net Income of $1.9 billion 1 , up more than $1 billion YoY.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Record Full Year Adjusted EBITDA of $2.2 billion, up more than $850 million YoY.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Expects Significant Growth in Retail Units Sold and Adjusted EBITDA 2 in FY 2026 and Sequential Increase in Retail Units Sold and Adjusted EBITDA 2 in Q1.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "PHOENIX \u2013 (Feb. 18, 2026) \u2013 Carvana (NYSE: CVNA), a leading e-commerce platform for buying and selling cars, today announced financial results for the full year and quarter ended December 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Carvana\u2019s complete fourth quarter and fiscal year 2025 financial results and management commentary are available in the company\u2019s shareholder letter on the quarterly results page of its Investor Relations website. \u201cIn 2025, Carvana grew 43% year-over-year, delivered record unit economics, and passed significant value back to customers through better selection, faster delivery times, and lower costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.175,
+   "h": 0.0,
+   "hits": [
+    [
+     345,
+     351,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieving all of this at once is rare and speaks to the powerful positive feedback our model generates as we grow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ],
+    [
+     65,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Carvana is still very small relative to our opportunity, but with 5 million cumulative customer transactions and counting, we are actively changing the way people buy and sell cars,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cWe remain firmly on track to our goal of selling 3 million retail units a year at a 13.5% Adjusted EBITDA margin by 2030 to 2035.\u201d.",
+   "d": 0,
+   "m": false,
+   "tone": 0.175,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Q4 and Full Year 2025 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "In 2025, Carvana sold 596,641 retail units (+43% YoY) for a record total annual Revenue of $20.322 billion (+49%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "YoY) while reaching new profitability milestones, including: Full year record Net income of $1.895 billion 1 and Net income margin of 9.3%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Net income included a net non-cash benefit of $621 million 1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Full year record Adjusted EBITDA of $2.237 billion and Adjusted EBITDA margin of 11.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Full year record GAAP Operating Income of $1.881 billion and Operating margin of 9.3%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "In Q4, Carvana sold 163,522 retail units (+43%) for a record total Q4 Revenue of $5.603 billion (+58%) while reaching new profitability milestones, including: Q4 record Net income of $951 million 1 and Net income margin of 17.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     122,
+     135,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Net income included a net non-cash benefit of $618 million 1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Q4 record Adjusted EBITDA of $511 million and Adjusted EBITDA margin of 9.1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Q4 record GAAP Operating Income of $424 million and Operating margin of 7.6%",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "In 2025, Carvana focused on three key objectives: (i) significant growth in retail units and Adjusted EBITDA, (ii) fundamental gains in unit economics and customer experience, and (iii) developing foundational capabilities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     127,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Carvana made significant progress in all three areas in 2025, highlighted by record units, industry-leading margins, multi-year high customer NPS, and expanded integrated reconditioning and digital auction capabilities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     100,
+     107,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "In 2026, Carvana plans to maintain these priorities while placing additional weight on driving significant profitable growth at scale.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Looking forward, Carvana expects significant growth in both retail units sold and Adjusted EBITDA 3 in full year 2026, including a sequential increase in both retail units sold and Adjusted EBITDA 3 in Q1 2026, assuming the environment remains stable.",
+   "d": 1,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0556,
+   "hits": [
+    [
+     211,
+     219,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     244,
+     250,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
