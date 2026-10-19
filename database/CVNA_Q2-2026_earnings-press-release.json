@@ -1,0 +1,265 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 2026",
+ "date": "2026-07-29",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earnings-release-q2-2026.pdf",
+ "demo": false,
+ "source_text": "PHOENIX \u2013 (July 29, 2026) \u2013 Carvana (NYSE: CVNA), the leading e-commerce platform for buying and selling\ncars, today announced financial results for the quarter ended June 30, 2026. Carvana\u2019s complete second quarter\n2026 financial results and management commentary are available in the company\u2019s shareholder letter on the\nquarterly results page of its Investor Relations website.\n\n\"Q2 2026 was Carvana\u2019s 10th consecutive quarter of industry-leading growth and profitability, and it was made\npossible by the foundations we laid in the 10 years prior,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cWe built\nan experience customers love, our model gets better as we get bigger, and our execution is the key driver of our\nprogress from here. At Carvana\u2019s current run-rate scale of almost 800k retail units and over $2 billion Net income,\nwe are still just 1.5% of the U.S. automotive market. Our opportunity is very clear, and we are more confident than\never in the path ahead.\u201d\n\nQ2 2026 Highlights\nIn Q2 2026, Carvana sold 197,325 retail units (+38% YoY) for total revenue of $7.376 billion (+52% YoY), both\nall-time quarterly records. This growth was paired with record Q2 profitability, including:\n\u25cf Record Net Income of $513 million (+$205 million YoY)\n\u25cf Record Adjusted EBITDA of $769 million (+$168 million YoY)\n\u25cf Record GAAP Operating Income of $680 million (+$169 million YoY)\n\nOutlook\nCarvana\u2019s results in Q1 and Q2 position the company for a strong Q3 and Q4. Looking forward, Carvana\nexpects the following as long as the environment remains stable:\n\u25cf A sequential increase in retail units sold in Q3 compared to Q2, and\n\u25cf Adjusted EBITDA\n1 of $2.7 - $3.0 billion for the full year 2026, an increase from $2.24 billion last\nyear.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 0,
+  "n_positive": 5,
+  "mean_pos_positive": 0.5285714285714286,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0034782608695652175,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.011406844106463879,
+  "mean_tone": 0.26556776556776557
+ },
+ "lexicon": {
+  "words": 263,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 38.0,
+   "Uncertainty": 7.6,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 7.6,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 10,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "PHOENIX \u2013 (July 29, 2026) \u2013 Carvana (NYSE: CVNA), the leading e-commerce platform for buying and selling cars, today announced financial results for the quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Carvana\u2019s complete second quarter 2026 financial results and management commentary are available in the company\u2019s shareholder letter on the quarterly results page of its Investor Relations website.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "\"Q2 2026 was Carvana\u2019s 10th consecutive quarter of industry-leading growth and profitability, and it was made possible by the foundations we laid in the 10 years prior,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cWe built an experience customers love, our model gets better as we get bigger, and our execution is the key driver of our progress from here.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0167,
+   "hits": [
+    [
+     60,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     92,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     118,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     269,
+     275,
+     [
+      "positive"
+     ]
+    ],
+    [
+     337,
+     345,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "At Carvana\u2019s current run-rate scale of almost 800k retail units and over $2 billion Net income, we are still just 1.5% of the U.S. automotive market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     39,
+     45,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Our opportunity is very clear, and we are more confident than ever in the path ahead.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     47,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Q2 2026 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "In Q2 2026, Carvana sold 197,325 retail units (+38% YoY) for total revenue of $7.376 billion (+52% YoY), both all-time quarterly records.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "This growth was paired with record Q2 profitability, including: Record Net Income of $513 million (+$205 million YoY).",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Record Adjusted EBITDA of $769 million (+$168 million YoY).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Record GAAP Operating Income of $680 million (+$169 million YoY)",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Carvana\u2019s results in Q1 and Q2 position the company for a strong Q3 and Q4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     64,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Looking forward, Carvana expects the following as long as the environment remains stable: A sequential increase in retail units sold in Q3 compared to Q2, and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0385,
+   "hits": [
+    [
+     82,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Adjusted EBITDA 1 of $2.7 - $3.0 billion for the full year 2026, an increase from $2.24 billion last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
