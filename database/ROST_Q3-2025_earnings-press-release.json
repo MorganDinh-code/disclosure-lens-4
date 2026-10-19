@@ -1,0 +1,515 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2025",
+ "date": "2025-11-20",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-exceeds-third-quarter-earnings-guidance-raises-full",
+ "demo": false,
+ "source_text": "DUBLIN, Calif.--(BUSINESS WIRE)--Nov. 20, 2025-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended November 1, 2025 of $1.58 on net income of $512 million. Included in this year\u2019s third quarter earnings is an approximate $0.05 per share negative impact from tariff-related costs. These results compare to earnings per share of $1.48 on net income of $489 million for the 13 weeks ended November 2, 2024. Sales for the 2025 third quarter grew 10% to $5.6 billion versus $5.1 billion in the prior year. Comparable store sales increased a strong 7%.\n\nFor the nine months ended November 1, 2025, earnings per share were $4.61 on net earnings of $1.5 billion, versus $4.53 per share on net income of $1.5 billion for the same year-to-date period in 2024. Year-to-date 2025 earnings include an approximate $0.16 per share negative impact from tariff-related costs. Sales for the first nine months of 2025 were $16.1 billion, with comparable store sales up 3% over the prior year.\n\nJim Conroy, Chief Executive Officer, commented, \u201cWe are pleased with our third quarter sales results, which accelerated from the prior quarter. Our merchandise assortment of compelling brand name values resonated with shoppers, and our new marketing campaign drove excitement and higher customer engagement. We had an excellent back-to-school season with strong trends that continued through the balance of the quarter. The strong execution by the entire team led to broad-based sales growth across merchandise areas and geographical regions. The strength in top-line, coupled with our continued focus on expense control, resulted in an operating margin of 11.6% that was much stronger than expected.\u201d\n\nUpdate on Shareholder Payouts\n\nDuring the third quarter of fiscal 2025, a total of 1.7 million shares of common stock were repurchased for an aggregate price of $262 million under the Company\u2019s two-year $2.1 billion authorization approved by its Board of Directors in March 2024. The Company remains on track to buy back a total of $1.05 billion in common stock during fiscal 2025 and complete the program as planned.\n\nFiscal 2025 Guidance\n\nLooking ahead, Mr. Conroy said, \u201cWe enter the holiday season with strong momentum and are well-positioned to offer a compelling merchandise assortment across all our stores. As a result, for the 13 weeks ending January 31, 2026, we are raising our comparable store sales forecast to be up 3% to 4% with earnings per share in the range of $1.77 to $1.85. This updated guidance range reflects approximately $0.03 earnings per share of unfavorable timing of packaway-related expenses that benefited the third quarter. In addition, we now expect tariff-related costs to be negligible in the fourth quarter.\u201d\n\nMr. Conroy continued, \u201cBased on our year-to-date results and updated fourth quarter forecast, we are increasing our earnings per share guidance for fiscal 2025 to be in the range of $6.38 to $6.46, which includes approximately $0.16 per share negative impact from tariff-related costs. In addition, and as a reminder, 2024 fourth quarter and full year earnings per share of $1.79 and $6.32, respectively, included an approximate $0.14 earnings per share benefit related to the sale of a packaway facility.\u201d\n\nMr. Conroy concluded, \u201cWe are optimistic about our prospects for the holiday season, driven by our ongoing focus on delivering quality, branded merchandise at exceptional value. This approach continues to gain strong traction with the consumer, particularly in an environment of rising prices across mainstream retail. Additionally, the store and supply chain teams are well-positioned for the holiday season, and our new marketing campaigns have continued to build excitement. We believe that this multi-faceted approach will help us continue our positive momentum and enable us to capture additional market share.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.41798941798941797,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.009262694976980691,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.012089810017271158,
+  "mean_tone": 0.23321740147752207
+ },
+ "lexicon": {
+  "words": 579,
+  "per_1000": {
+   "Negative": 6.9,
+   "Positive": 29.4,
+   "Uncertainty": 10.4,
+   "Litigious": 0.0,
+   "Strong modal": 1.7,
+   "Weak modal": 0.0,
+   "Constraining": 3.5
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 17,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif.--(BUSINESS WIRE)--Nov. 20, 2025-- Ross Stores, Inc. (Nasdaq: ROST) today reported earnings per share for the 13 weeks ended November 1, 2025 of $1.58 on net income of $512 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Included in this year\u2019s third quarter earnings is an approximate $0.05 per share negative impact from tariff-related costs.",
+   "d": 0,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     53,
+     64,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     81,
+     89,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "These results compare to earnings per share of $1.48 on net income of $489 million for the 13 weeks ended November 2, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Sales for the 2025 third quarter grew 10% to $5.6 billion versus $5.1 billion in the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Comparable store sales increased a strong 7%.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "For the nine months ended November 1, 2025, earnings per share were $4.61 on net earnings of $1.5 billion, versus $4.53 per share on net income of $1.5 billion for the same year-to-date period in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Year-to-date 2025 earnings include an approximate $0.16 per share negative impact from tariff-related costs.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0667,
+   "hits": [
+    [
+     38,
+     49,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     66,
+     74,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Sales for the first nine months of 2025 were $16.1 billion, with comparable store sales up 3% over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Jim Conroy, Chief Executive Officer, commented, \u201cWe are pleased with our third quarter sales results, which accelerated from the prior quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Our merchandise assortment of compelling brand name values resonated with shoppers, and our new marketing campaign drove excitement and higher customer engagement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     121,
+     131,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "We had an excellent back-to-school season with strong trends that continued through the balance of the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     47,
+     53,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "The strong execution by the entire team led to broad-based sales growth across merchandise areas and geographical regions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     10,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The strength in top-line, coupled with our continued focus on expense control, resulted in an operating margin of 11.6% that was much stronger than expected.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     134,
+     142,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Update on Shareholder Payouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "During the third quarter of fiscal 2025, a total of 1.7 million shares of common stock were repurchased for an aggregate price of $262 million under the Company\u2019s two-year $2.1 billion authorization approved by its Board of Directors in March 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The Company remains on track to buy back a total of $1.05 billion in common stock during fiscal 2025 and complete the program as planned.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Fiscal 2025 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Looking ahead, Mr. Conroy said, \u201cWe enter the holiday season with strong momentum and are well-positioned to offer a compelling merchandise assortment across all our stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     117,
+     127,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "As a result, for the 13 weeks ending January 31, 2026, we are raising our comparable store sales forecast to be up 3% to 4% with earnings per share in the range of $1.77 to $1.85.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "This updated guidance range reflects approximately $0.03 earnings per share of unfavorable timing of packaway-related expenses that benefited the third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     37,
+     50,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     79,
+     90,
+     [
+      "negative"
+     ]
+    ],
+    [
+     132,
+     141,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "In addition, we now expect tariff-related costs to be negligible in the fourth quarter.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Mr. Conroy continued, \u201cBased on our year-to-date results and updated fourth quarter forecast, we are increasing our earnings per share guidance for fiscal 2025 to be in the range of $6.38 to $6.46, which includes approximately $0.16 per share negative impact from tariff-related costs.",
+   "d": 1,
+   "m": false,
+   "tone": -0.233,
+   "h": 0.0233,
+   "hits": [
+    [
+     213,
+     226,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     243,
+     251,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "In addition, and as a reminder, 2024 fourth quarter and full year earnings per share of $1.79 and $6.32, respectively, included an approximate $0.14 earnings per share benefit related to the sale of a packaway facility.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": [
+    [
+     131,
+     142,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Mr. Conroy concluded, \u201cWe are optimistic about our prospects for the holiday season, driven by our ongoing focus on delivering quality, branded merchandise at exceptional value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     159,
+     170,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "This approach continues to gain strong traction with the consumer, particularly in an environment of rising prices across mainstream retail.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     32,
+     38,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Additionally, the store and supply chain teams are well-positioned for the holiday season, and our new marketing campaigns have continued to build excitement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     147,
+     157,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "We believe that this multi-faceted approach will help us continue our positive momentum and enable us to capture additional market share.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0455,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     44,
+     48,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     70,
+     78,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     98,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
