@@ -1,0 +1,215 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2026",
+ "date": "2026-04-29",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earnings-release-q1-2026.pdf",
+ "demo": false,
+ "source_text": "PHOENIX \u2013 (April 29, 2026) \u2013 Carvana (NYSE: CVNA), the leading e-commerce platform for buying and selling\ncars, today announced financial results for the quarter ended March 31, 2026. Carvana\u2019s complete first quarter\n2026 financial results and management commentary are available in the company\u2019s shareholder letter on the\nquarterly results page of its Investor Relations website.\n\u201cIn Q1, Carvana delivered our sixth consecutive quarter of 40% or greater year-over-year retail unit growth while\ndriving record financial results,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cThe used vehicle industry is\ndesigned to help customers trade cars with one another, and our vertically integrated model is built to make that\nprocess easier, faster, more efficient, and more fun. We are proud to be changing the way people buy and sell\ncars and look forward to continuing to raise the bar for our customers as we grow and improve from here.\u201d\n\nQ1 2026 Highlights\nIn Q1 2026, Carvana sold 187,393 retail units (+40% YoY) for total revenue of $6.432 billion (+52% YoY), both\nall-time quarterly records. This growth was paired with record Q1 profitability, including:\n\u25cf Record Net Income of $405 million\n2\n\u25cf Record Adjusted EBITDA of $672 million\n\u25cf Record GAAP Operating Income of $581 million\n\nOutlook\nLooking toward the second quarter and assuming the environment remains stable, Carvana expects a\nsequential increase in both retail units sold and Adjusted EBITDA\n1\n, leading to all-time company records on\nboth metrics. The company remains on track to deliver significant growth in both retail units sold and\nAdjusted EBITDA\n1\nin FY 2026.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.5416666666666666,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.009909733124018837,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.00823045267489712,
+  "mean_tone": 0.18951934067804854
+ },
+ "lexicon": {
+  "words": 243,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 28.8,
+   "Uncertainty": 4.1,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 7,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "PHOENIX \u2013 (April 29, 2026) \u2013 Carvana (NYSE: CVNA), the leading e-commerce platform for buying and selling cars, today announced financial results for the quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Carvana\u2019s complete first quarter 2026 financial results and management commentary are available in the company\u2019s shareholder letter on the quarterly results page of its Investor Relations website. \u201cIn Q1, Carvana delivered our sixth consecutive quarter of 40% or greater year-over-year retail unit growth while driving record financial results,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cThe used vehicle industry is designed to help customers trade cars with one another, and our vertically integrated model is built to make that process easier, faster, more efficient, and more fun.",
+   "d": 1,
+   "m": false,
+   "tone": 0.225,
+   "h": 0.0,
+   "hits": [
+    [
+     542,
+     548,
+     [
+      "positive"
+     ]
+    ],
+    [
+     563,
+     572,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We are proud to be changing the way people buy and sell cars and look forward to continuing to raise the bar for our customers as we grow and improve from here.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     142,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Q1 2026 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "In Q1 2026, Carvana sold 187,393 retail units (+40% YoY) for total revenue of $6.432 billion (+52% YoY), both all-time quarterly records.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "This growth was paired with record Q1 profitability, including: Record Net Income of $405 million 2.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Record Adjusted EBITDA of $672 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Record GAAP Operating Income of $581 million",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Looking toward the second quarter and assuming the environment remains stable, Carvana expects a sequential increase in both retail units sold and Adjusted EBITDA 1 , leading to all-time company records on both metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.606,
+   "h": 0.0606,
+   "hits": [
+    [
+     38,
+     46,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     71,
+     77,
+     [
+      "positive"
+     ]
+    ],
+    [
+     167,
+     174,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "The company remains on track to deliver significant growth in both retail units sold and.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA 1 in FY 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
