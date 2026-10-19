@@ -1,0 +1,734 @@
+{
+ "company": "lululemon athletica inc.",
+ "ticker": "LULU",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 2024",
+ "date": "2025-03-27",
+ "source_url": "https://corporate.lululemon.com/newsroom/press-releases/2025/03-27-2025-200544345",
+ "demo": false,
+ "source_text": "\nFourth quarter revenue increased 13% to $3.6 billion. Diluted EPS of $6.14\n\nFull year revenue increased 10% to $10.6 billion. Diluted EPS of $14.64\n\nVANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the fourth quarter and fiscal year ended February 2, 2025.\n\nCalvin McDonald, Chief Executive Officer, stated: \"Our fourth quarter results exceeded our expectations as we continued to introduce more newness and innovation into our product assortment. Our performance demonstrates the ongoing strength and resilience of lululemon and is a testament to the passion and dedication of our teams around the world. As we begin 2025, we remain focused on executing on our Power of Three \u00d72 growth plan and delivering an exciting pipeline of innovation and brand activations for our guests and communities.\"\n\nThe adjusted non-GAAP financial measures below exclude asset impairment and other charges recognized in relation to lululemon Studio during 2023, and the related income tax effects of these items.\n\nFor the fourth quarter of 2024, compared to the fourth quarter of 2023:\n\nNet revenue increased 13% to $3.6 billion, or 14% on a constant dollar basis.\nAmericas net revenue increased 7%, or 8% on a constant dollar basis.\nInternational net revenue increased 38%, or 40% on a constant dollar basis.\nExcluding net revenue from the 53rd week of 2024, net revenue increased 8%.\nComparable sales, which excludes net revenue from the 53rd week of 2024, increased 3%, or 4% on a constant dollar basis.\nAmericas comparable sales were flat compared to the fourth quarter of 2023.\nInternational comparable sales increased 20%, or 22% on a constant dollar basis.\nGross profit increased 15% to $2.2 billion and gross margin increased 100 basis points to 60.4%.\nIncome from operations increased 14% to $1.0 billion and operating margin increased 40 basis points to 28.9%.\nThe effective income tax rate for the fourth quarter of 2024 was 29.2% compared to 28.1% for the fourth quarter of 2023.\nDiluted earnings per share were $6.14 compared to $5.29 in the fourth quarter of 2023.\nThe Company repurchased 0.9 million of its shares for a cost of $332.2 million.\nThe Company opened 18 net new company-operated stores during the quarter, ending with 767 stores.\nFor 2024 compared to 2023:\n\nNet revenue increased 10% to $10.6 billion, or increased 11% on a constant dollar basis.\nAmericas net revenue increased 4%.\nInternational net revenue increased 34%, or 36% on a constant dollar basis.\nExcluding net revenue from the 53rd week of 2024, net revenue increased 8%.\nComparable sales, which excludes net revenue from the 53rd week of 2024, increased 4%.\nAmericas comparable sales decreased 1%.\nInternational comparable sales increased 22%, or 24% on a constant dollar basis.\nGross profit increased 12% to $6.3 billion. Adjusted gross profit increased 11%.\nGross margin increased 90 basis points to 59.2%. Adjusted gross margin increased 60 basis points.\nIncome from operations increased 17% to $2.5 billion. Adjusted income from operations increased 12%.\nOperating margin increased 150 basis points to 23.7%. Adjusted operating margin increased 50 basis points.\nThe effective income tax rate was 29.6% for 2024 compared to 28.8% for 2023. The adjusted effective tax rate was 28.7% for 2023.\nDiluted earnings per share were $14.64 compared to $12.20 in 2023. Adjusted diluted earnings per share were $12.77 in 2023.\nThe Company repurchased 5.1 million shares for a cost of $1.6 billion.\nThe Company added 56 net new company-operated stores during the year, including 14 company-operated stores from the acquisition of the Mexico operations, ending with 767 stores.\nMeghan Frank, Chief Financial Officer, stated: \"We are pleased to deliver another solid year of performance in 2024 and surpass $10 billion in annual revenue for the first time. We look forward to building on our growth in 2025, while remaining agile as we navigate ongoing macro uncertainties. There are significant opportunities ahead for the lululemon brand and we are confident in our ability to continue creating long-term value for all our stakeholders.\"\n\nBalance Sheet Highlights\n\nThe Company ended 2024 with $2.0 billion in cash and cash equivalents and it had $393.9 million of available capacity under its committed revolving credit facility.\n\nInventories at the end of 2024 increased by 9% to $1.4 billion.\n\nFiscal 2025 Outlook\n\nFor the first quarter of 2025, the Company expects net revenue to be in the range of $2.335 billion to $2.355 billion, representing growth of 6% to 7%. Diluted earnings per share are expected to be in the range of $2.53 to $2.58 for the quarter. This assumes a tax rate of approximately 30%.\n\nFor 2025, the Company expects net revenue to be in the range of $11.150 billion to $11.300 billion, representing growth of 5% to 7%, or 7% to 8% excluding the 53rd week of 2024. Diluted earnings per share are expected to be in the range of $14.95 to $15.15 for the year. This assumes a tax rate of approximately 30%.\n\nThe guidance does not reflect potential future repurchases of the Company's shares.\n\nThe guidance and outlook forward-looking statements made in this press release are based on management's expectations as of the date of this press release and do not incorporate future unknown impacts, including macroeconomic trends. The Company undertakes no duty to update or to continue to provide information with respect to any forward-looking statements or risk factors, whether as a result of new information or future events or circumstances or otherwise. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of risks and uncertainties, including those stated below.\n\nPower of Three \u00d72\n\nThe Company's Power of Three \u00d72 growth plan calls for a doubling of the business from 2021 net revenue of $6.25 billion to $12.5 billion by 2026. The key pillars of the plan are product innovation, guest experience, and market expansion.",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 62,
+  "n_material_neg": 2,
+  "n_positive": 31,
+  "mean_pos_negative": 0.31451612903225806,
+  "mean_pos_positive": 0.44484911550468265,
+  "placement_asymmetry": -0.13033298647242458,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.14516129032258066,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.003216104540019707,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8275862068965517,
+  "overall_hedge": 0.009271523178807948,
+  "mean_tone": 0.0537211562795545
+ },
+ "lexicon": {
+  "words": 755,
+  "per_1000": {
+   "Negative": 1.3,
+   "Positive": 11.9,
+   "Uncertainty": 6.6,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.6
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 9,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Fourth quarter revenue increased 13% to $3.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Diluted EPS of $6.14",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Full year revenue increased 10% to $10.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Diluted EPS of $14.64",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "VANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the fourth quarter and fiscal year ended February 2, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Calvin McDonald, Chief Executive Officer, stated: \"Our fourth quarter results exceeded our expectations as we continued to introduce more newness and innovation into our product assortment.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     150,
+     160,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Our performance demonstrates the ongoing strength and resilience of lululemon and is a testament to the passion and dedication of our teams around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "As we begin 2025, we remain focused on executing on our Power of Three \u00d72 growth plan and delivering an exciting pipeline of innovation and brand activations for our guests and communities.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     104,
+     112,
+     [
+      "positive"
+     ]
+    ],
+    [
+     125,
+     135,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "The adjusted non-GAAP financial measures below exclude asset impairment and other charges recognized in relation to lululemon Studio during 2023, and the related income tax effects of these items.",
+   "d": -1,
+   "m": true,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     71,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "For the fourth quarter of 2024, compared to the fourth quarter of 2023:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Net revenue increased 13% to $3.6 billion, or 14% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Americas net revenue increased 7%, or 8% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "International net revenue increased 38%, or 40% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Excluding net revenue from the 53rd week of 2024, net revenue increased 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Comparable sales, which excludes net revenue from the 53rd week of 2024, increased 3%, or 4% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Americas comparable sales were flat compared to the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "International comparable sales increased 20%, or 22% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Gross profit increased 15% to $2.2 billion and gross margin increased 100 basis points to 60.4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Income from operations increased 14% to $1.0 billion and operating margin increased 40 basis points to 28.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The effective income tax rate for the fourth quarter of 2024 was 29.2% compared to 28.1% for the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Diluted earnings per share were $6.14 compared to $5.29 in the fourth quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "The Company repurchased 0.9 million of its shares for a cost of $332.2 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The Company opened 18 net new company-operated stores during the quarter, ending with 767 stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "For 2024 compared to 2023:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Net revenue increased 10% to $10.6 billion, or increased 11% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Americas net revenue increased 4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "International net revenue increased 34%, or 36% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Excluding net revenue from the 53rd week of 2024, net revenue increased 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Comparable sales, which excludes net revenue from the 53rd week of 2024, increased 4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Americas comparable sales decreased 1%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "International comparable sales increased 22%, or 24% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Gross profit increased 12% to $6.3 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Adjusted gross profit increased 11%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Gross margin increased 90 basis points to 59.2%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Adjusted gross margin increased 60 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Income from operations increased 17% to $2.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Adjusted income from operations increased 12%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Operating margin increased 150 basis points to 23.7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Adjusted operating margin increased 50 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "The effective income tax rate was 29.6% for 2024 compared to 28.8% for 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The adjusted effective tax rate was 28.7% for 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Diluted earnings per share were $14.64 compared to $12.20 in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Adjusted diluted earnings per share were $12.77 in 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "The Company repurchased 5.1 million shares for a cost of $1.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The Company added 56 net new company-operated stores during the year, including 14 company-operated stores from the acquisition of the Mexico operations, ending with 767 stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Meghan Frank, Chief Financial Officer, stated: \"We are pleased to deliver another solid year of performance in 2024 and surpass $10 billion in annual revenue for the first time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "positive"
+     ]
+    ],
+    [
+     120,
+     127,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "We look forward to building on our growth in 2025, while remaining agile as we navigate ongoing macro uncertainties.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     102,
+     115,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "There are significant opportunities ahead for the lululemon brand and we are confident in our ability to continue creating long-term value for all our stakeholders.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 49,
+   "t": "Balance Sheet Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "The Company ended 2024 with $2.0 billion in cash and cash equivalents and it had $393.9 million of available capacity under its committed revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     128,
+     137,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "Inventories at the end of 2024 increased by 9% to $1.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "Fiscal 2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "For the first quarter of 2025, the Company expects net revenue to be in the range of $2.335 billion to $2.355 billion, representing growth of 6% to 7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": []
+  },
+  {
+   "i": 54,
+   "t": "Diluted earnings per share are expected to be in the range of $2.53 to $2.58 for the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 55,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 56,
+   "t": "For 2025, the Company expects net revenue to be in the range of $11.150 billion to $11.300 billion, representing growth of 5% to 7%, or 7% to 8% excluding the 53rd week of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0385,
+   "hits": []
+  },
+  {
+   "i": 57,
+   "t": "Diluted earnings per share are expected to be in the range of $14.95 to $15.15 for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 58,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 59,
+   "t": "The guidance does not reflect potential future repurchases of the Company's shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 60,
+   "t": "Power of Three \u00d72",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 61,
+   "t": "The Company's Power of Three \u00d72 growth plan calls for a doubling of the business from 2021 net revenue of $6.25 billion to $12.5 billion by 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 62,
+   "t": "The key pillars of the plan are product innovation, guest experience, and market expansion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
