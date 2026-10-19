@@ -1,0 +1,559 @@
+{
+ "company": "lululemon athletica inc.",
+ "ticker": "LULU",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 2025",
+ "date": "2025-09-04",
+ "source_url": "https://corporate.lululemon.com/newsroom/press-releases/2025/09-04-2025-210520895",
+ "demo": false,
+ "source_text": "Revenue increased 7% to $2.5 billion, or increased 6% on a constant dollar basis\n\nComparable sales increased 1%\n\nDiluted EPS of $3.10\n\nVANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the second quarter of fiscal 2025, which ended on August 3, 2025.\n\nCalvin McDonald, Chief Executive Officer, stated: \"While we continued to see positive momentum overall in our international regions in the second quarter, we are disappointed with our U.S. business results and aspects of our product execution. We have closely assessed the drivers of our underperformance and are continuing to take the necessary actions to strengthen our merchandise mix and accelerate our business. We feel confident in the opportunity ahead and plans we have in place to drive long-term growth.\"\n\nFor the second quarter of 2025, compared to the second quarter of 2024:\n\nNet revenue increased 7% to $2.5 billion, or increased 6% on a constant dollar basis.\nAmericas net revenue increased 1%.\nInternational net revenue increased 22%, or 20% on a constant dollar basis.\nComparable sales increased 1%.\nAmericas comparable sales decreased 4%, or 3% on a constant dollar basis.\nInternational comparable sales increased 15%, or 13% on a constant dollar basis.\nGross profit increased 5% to $1.5 billion and gross margin decreased 110 basis points to 58.5%.\nIncome from operations decreased 3% to $523.8 million and operating margin decreased 210 basis points to 20.7%.\nThe effective income tax rate for the second quarter of 2025 was 30.5% compared to 29.6% for the second quarter of 2024.\nDiluted earnings per share were $3.10 compared to $3.15 in the second quarter of 2024.\nThe Company repurchased 1.1 million of its shares for a cost of $278.5 million.\nThe Company added 14 net new company-operated stores during the second quarter, ending with 784 stores.\nMeghan Frank, Chief Financial Officer, stated: \"In the second quarter, we exceeded expectations on EPS, but revenue fell short of our guidance driven predominantly by our U.S. business. We are also navigating industry-wide challenges, including higher tariff rates. In light of these dynamics, we are revising our full year outlook. As we begin the back half of the year, our brand and balance sheet remain strong, and we will continue to exercise financial discipline and strategically invest in our growth potential.\"\n\nBalance Sheet Highlights\n\nThe Company ended the second quarter of 2025 with $1.2 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $393.2 million.\n\nInventories at the end of the second quarter of 2025 increased 21% to $1.7 billion compared to $1.4 billion at the end of the second quarter of 2024. On a unit basis, inventories increased 13%.\n\n2025 Outlook\n\nFor the third quarter of 2025, the Company expects net revenue to be in the range of $2.470 billion to $2.500 billion, representing growth of 3% to 4%. Diluted earnings per share are expected to be in the range of $2.18 to $2.23 for the quarter. This assumes a tax rate of approximately 30.5%.\n\nFor 2025, the Company now expects net revenue to be in the range of $10.850 billion to $11.000 billion, representing growth of 2% to 4%, or 4% to 6% excluding the 53rd week of 2024. Diluted earnings per share are now expected to be in the range of $12.77 to $12.97 for the year. This assumes a tax rate of approximately 30%.\n\nThe guidance for 2025 includes an estimated reduction in gross profit of approximately $240 million, net of currently anticipated mitigation efforts, including vendor savings, and pricing actions, reflecting our current assumptions about higher levels of tariffs on imports into the United States and the removal of the de minimis exemption. Actual results could differ materially from these estimates if tariff rates, sourcing savings, consumer demand, or the timing of regulatory changes vary from our current assumptions, or if our mitigation initiatives are less effective than currently expected.\n\nThe guidance does not reflect potential future repurchases of the Company's shares.\n\nThe guidance and outlook forward-looking statements made in this press release are based on management's expectations as of the date of this press release and do not incorporate future unknown impacts, including tariffs and macroeconomic trends. The Company undertakes no duty to update or to continue to provide information with respect to any forward-looking statements or risk factors, whether as a result of new information or future events or circumstances or otherwise. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of risks and uncertainties, including those stated below.\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 38,
+  "n_material_neg": 4,
+  "n_positive": 14,
+  "mean_pos_negative": 0.5263157894736842,
+  "mean_pos_positive": 0.43045112781954886,
+  "placement_asymmetry": 0.09586466165413532,
+  "distance_from_headline": 11,
+  "first_negative_pos": 0.34210526315789475,
+  "hedge_near_negative": 0.024456521739130436,
+  "hedge_near_positive": 0.005987394957983194,
+  "hedging_asymmetry": 4.08466819221968,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.021702838063439065,
+  "mean_tone": 0.010881308843957401
+ },
+ "lexicon": {
+  "words": 599,
+  "per_1000": {
+   "Negative": 5.0,
+   "Positive": 8.3,
+   "Uncertainty": 18.4,
+   "Litigious": 1.7,
+   "Strong modal": 1.7,
+   "Weak modal": 1.7,
+   "Constraining": 1.7
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 5,
+   "Uncertainty": 11,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Revenue increased 7% to $2.5 billion, or increased 6% on a constant dollar basis",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Comparable sales increased 1%",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted EPS of $3.10",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "VANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the second quarter of fiscal 2025, which ended on August 3, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Calvin McDonald, Chief Executive Officer, stated: \"While we continued to see positive momentum overall in our international regions in the second quarter, we are disappointed with our U.S. business results and aspects of our product execution.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     162,
+     174,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "We have closely assessed the drivers of our underperformance and are continuing to take the necessary actions to strengthen our merchandise mix and accelerate our business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     60,
+     [
+      "negative"
+     ]
+    ],
+    [
+     113,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "We feel confident in the opportunity ahead and plans we have in place to drive long-term growth.\"",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     25,
+     36,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "For the second quarter of 2025, compared to the second quarter of 2024:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Net revenue increased 7% to $2.5 billion, or increased 6% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Americas net revenue increased 1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "International net revenue increased 22%, or 20% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Comparable sales increased 1%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Americas comparable sales decreased 4%, or 3% on a constant dollar basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "International comparable sales increased 15%, or 13% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Gross profit increased 5% to $1.5 billion and gross margin decreased 110 basis points to 58.5%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Income from operations decreased 3% to $523.8 million and operating margin decreased 210 basis points to 20.7%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The effective income tax rate for the second quarter of 2025 was 30.5% compared to 29.6% for the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Diluted earnings per share were $3.10 compared to $3.15 in the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The Company repurchased 1.1 million of its shares for a cost of $278.5 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The Company added 14 net new company-operated stores during the second quarter, ending with 784 stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Meghan Frank, Chief Financial Officer, stated: \"In the second quarter, we exceeded expectations on EPS, but revenue fell short of our guidance driven predominantly by our U.S. business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "We are also navigating industry-wide challenges, including higher tariff rates.",
+   "d": 0,
+   "m": false,
+   "tone": -0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     47,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "In light of these dynamics, we are revising our full year outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "As we begin the back half of the year, our brand and balance sheet remain strong, and we will continue to exercise financial discipline and strategically invest in our growth potential.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     89,
+     93,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Balance Sheet Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company ended the second quarter of 2025 with $1.2 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $393.2 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     119,
+     128,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Inventories at the end of the second quarter of 2025 increased 21% to $1.7 billion compared to $1.4 billion at the end of the second quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "On a unit basis, inventories increased 13%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "For the third quarter of 2025, the Company expects net revenue to be in the range of $2.470 billion to $2.500 billion, representing growth of 3% to 4%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Diluted earnings per share are expected to be in the range of $2.18 to $2.23 for the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "This assumes a tax rate of approximately 30.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "For 2025, the Company now expects net revenue to be in the range of $10.850 billion to $11.000 billion, representing growth of 2% to 4%, or 4% to 6% excluding the 53rd week of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Diluted earnings per share are now expected to be in the range of $12.77 to $12.97 for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "The guidance for 2025 includes an estimated reduction in gross profit of approximately $240 million, net of currently anticipated mitigation efforts, including vendor savings, and pricing actions, reflecting our current assumptions about higher levels of tariffs on imports into the United States and the removal of the de minimis exemption.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     73,
+     86,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     118,
+     129,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     220,
+     231,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Actual results could differ materially from these estimates if tariff rates, sourcing savings, consumer demand, or the timing of regulatory changes vary from our current assumptions, or if our mitigation initiatives are less effective than currently expected.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1081,
+   "hits": [
+    [
+     15,
+     20,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     21,
+     27,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     129,
+     139,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     148,
+     152,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     170,
+     181,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "The guidance does not reflect potential future repurchases of the Company's shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
