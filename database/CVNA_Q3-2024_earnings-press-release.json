@@ -1,0 +1,255 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2024",
+ "date": "2024-10-30",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earning-release-q3-2024.pdf",
+ "demo": false,
+ "source_text": "\u201cCarvana\u2019s exceptional results underscore our position as the fastest-growing and most profitable automotive\nretailer,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cOur progress in Q3 further highlights the strength of our\nvertically integrated business model and also begins to demonstrate the power of our unique infrastructure,\nincluding the ADESA network. As we integrate our operations and tap our national footprint, we are not only\ndriving efficient growth, but also improving customer experiences, reducing costs, and strengthening our\nwholesale platform. With just 1% share in an enormous market, significant capacity to support growth, and a\nbusiness that generates positive feedback as it scales, we are just getting started.\u201d\n\nQ3 2024 Highlights\nCarvana\u2019s strong results in Q3 continue to demonstrate the differentiated benefits of its vertically-integrated\nbusiness model\n. In Q3 2024, Carvana sold 108,651 retail units (+34% YoY) for total revenue of $3.655 billion\n(+32% YoY) while reaching new profitability milestones, including:\n\u25cf Net Income of $148 million and Net Income margin of 4.0%\n\u25cf Record Adjusted EBITDA of $429 million\n\u25cf Record Adjusted EBITDA margin of 11.7%, a new all-time best for public automotive retailers\n\u25cf Record GAAP Operating Income of $337 million\n\nOutlook\nLooking toward the fourth quarter, Carvana expects the following as long as the environment remains\nstable:\n\u25cf A sequential increase in its year-over-year growth rate in retail units sold, and\n\u25cf Adjusted EBITDA significantly above the high end of its previously communicated range of $1.0 to\n$1.2 billion for the full year 2024.\n1",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 13,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.45054945054945056,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.003105590062111801,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004310344827586207,
+  "mean_tone": 0.2641533459964195
+ },
+ "lexicon": {
+  "words": 232,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 51.7,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 4.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 12,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\u201cCarvana\u2019s exceptional results underscore our position as the fastest-growing and most profitable automotive retailer,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cOur progress in Q3 further highlights the strength of our vertically integrated business model and also begins to demonstrate the power of our unique infrastructure, including the ADESA network.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     87,
+     97,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     177,
+     [
+      "positive"
+     ]
+    ],
+    [
+     207,
+     215,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "As we integrate our operations and tap our national footprint, we are not only driving efficient growth, but also improving customer experiences, reducing costs, and strengthening our wholesale platform.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     96,
+     [
+      "positive"
+     ]
+    ],
+    [
+     114,
+     123,
+     [
+      "positive"
+     ]
+    ],
+    [
+     166,
+     179,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "With just 1% share in an enormous market, significant capacity to support growth, and a business that generates positive feedback as it scales, we are just getting started.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     120,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Q3 2024 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Carvana\u2019s strong results in Q3 continue to demonstrate the differentiated benefits of its vertically-integrated business model .",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "In Q3 2024, Carvana sold 108,651 retail units (+34% YoY) for total revenue of $3.655 billion (+32% YoY) while reaching new profitability milestones, including: Net Income of $148 million and Net Income margin of 4.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     123,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Record Adjusted EBITDA of $429 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Record Adjusted EBITDA margin of 11.7%, a new all-time best for public automotive retailers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     59,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Record GAAP Operating Income of $337 million",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Looking toward the fourth quarter, Carvana expects the following as long as the environment remains stable: A sequential increase in its year-over-year growth rate in retail units sold, and.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     100,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA significantly above the high end of its previously communicated range of $1.0 to.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "$1.2 billion for the full year 2024. 1",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
