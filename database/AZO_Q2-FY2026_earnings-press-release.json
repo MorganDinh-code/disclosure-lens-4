@@ -1,0 +1,290 @@
+{
+ "company": "AutoZone",
+ "ticker": "AZO",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-03-03",
+ "source_url": "https://about.autozone.com/news-releases/news-release-details/autozone-2nd-quarter-total-company-same-store-sales-increase-33",
+ "demo": false,
+ "source_text": "For the quarter, gross profit, as a percentage of sales, was 52.5%, a decrease of 137 basis points versus the prior year. The decrease in gross margin was driven by a 138 basis point non-cash LIFO charge. Operating expenses, as a percentage of sales, were 36.1% versus last year at 36.0%. Deleverage was driven by investments to support our growth initiatives.\n\nOperating profit decreased 1.2% to $698.5 million. Net income for the quarter was $468.9 million compared to $487.9 million in the same period last year, while diluted earnings per share were $27.63 compared to last year at $28.29.\n\nUnder its share repurchase program, AutoZone repurchased 85 thousand shares of its common stock at an average price per share of $3,666, for a total investment of $310.8 million. At the end of the second quarter, the Company had $1.4 billion remaining under its current share repurchase authorization.\n\nThe Company\u2019s inventory increased 13.1% over the same period last year, driven primarily by growth initiatives and inflation. Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $105 thousand versus negative $161 thousand last year and negative $145 thousand last quarter.\n\n\u201cI want to thank our AutoZoners across the company for delivering solid financial results this past quarter. We continue to be pleased with our strategies to grow sales. Domestically, both DIY and Commercial sales continued to perform well this past quarter in spite of winter storms causing disruptions the last week of January and the first week of February. While our international sales, in constant currency, were slightly below our expectations, we believe our market share continues to grow as we outpace our competition in both Mexico and Brazil.  We were also pleased to have opened 64 net new stores globally in the quarter, in line with our expectations to open approximately 350-360 stores for the full fiscal year. As we remain focused on gaining market share across our highly fragmented industry, we remain committed to a disciplined approach of increasing earnings and cash flows to drive shareholder value,\u201d said Phil Daniele, President and Chief Executive Officer.\n\nDuring the quarter ended February 14, 2026, AutoZone opened 43 new stores in the U.S., 18 in Mexico and three in Brazil for a total of 64 net new stores. As of February 14, 2026, the Company had 6,709 stores in the U.S., 913 in Mexico and 152 in Brazil for a total store count of 7,774.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 3,
+  "n_positive": 4,
+  "mean_pos_negative": 0.14814814814814814,
+  "mean_pos_positive": 0.5694444444444444,
+  "placement_asymmetry": -0.4212962962962963,
+  "distance_from_headline": -4,
+  "first_negative_pos": 0.05555555555555555,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.002717391304347826,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.005249343832020997,
+  "mean_tone": 0.011489500878295443
+ },
+ "lexicon": {
+  "words": 381,
+  "per_1000": {
+   "Negative": 10.5,
+   "Positive": 7.9,
+   "Uncertainty": 5.2,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.6
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 3,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "For the quarter, gross profit, as a percentage of sales, was 52.5%, a decrease of 137 basis points versus the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "The decrease in gross margin was driven by a 138 basis point non-cash LIFO charge.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Operating expenses, as a percentage of sales, were 36.1% versus last year at 36.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Deleverage was driven by investments to support our growth initiatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Operating profit decreased 1.2% to $698.5 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Net income for the quarter was $468.9 million compared to $487.9 million in the same period last year, while diluted earnings per share were $27.63 compared to last year at $28.29.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Under its share repurchase program, AutoZone repurchased 85 thousand shares of its common stock at an average price per share of $3,666, for a total investment of $310.8 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "At the end of the second quarter, the Company had $1.4 billion remaining under its current share repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The Company\u2019s inventory increased 13.1% over the same period last year, driven primarily by growth initiatives and inflation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $105 thousand versus negative $161 thousand last year and negative $145 thousand last quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     107,
+     [
+      "negative"
+     ]
+    ],
+    [
+     129,
+     137,
+     [
+      "negative"
+     ]
+    ],
+    [
+     166,
+     174,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\u201cI want to thank our AutoZoners across the company for delivering solid financial results this past quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We continue to be pleased with our strategies to grow sales.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Domestically, both DIY and Commercial sales continued to perform well this past quarter in spite of winter storms causing disruptions the last week of January and the first week of February.",
+   "d": 0,
+   "m": false,
+   "tone": -0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     122,
+     133,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "While our international sales, in constant currency, were slightly below our expectations, we believe our market share continues to grow as we outpace our competition in both Mexico and Brazil.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     94,
+     101,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "We were also pleased to have opened 64 net new stores globally in the quarter, in line with our expectations to open approximately 350-360 stores for the full fiscal year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0357,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     117,
+     130,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "As we remain focused on gaining market share across our highly fragmented industry, we remain committed to a disciplined approach of increasing earnings and cash flows to drive shareholder value,\u201d said Phil Daniele, President and Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     103,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "During the quarter ended February 14, 2026, AutoZone opened 43 new stores in the U.S., 18 in Mexico and three in Brazil for a total of 64 net new stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "As of February 14, 2026, the Company had 6,709 stores in the U.S., 913 in Mexico and 152 in Brazil for a total store count of 7,774.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
