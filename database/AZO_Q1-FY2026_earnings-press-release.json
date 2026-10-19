@@ -1,0 +1,264 @@
+{
+ "company": "AutoZone",
+ "ticker": "AZO",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2025-12-09",
+ "source_url": "https://about.autozone.com/news-releases/news-release-details/autozone-1st-quarter-total-company-same-store-sales-increase-47",
+ "demo": false,
+ "source_text": "For the quarter, gross profit, as a percentage of sales, was 51.0%, a decrease of 203 basis points versus the prior year. The decrease in gross margin was driven by a 212 basis point non-cash LIFO impact, partially offset by other net margin improvements. Operating expenses, as a percentage of sales, were 34.0% versus last year at 33.3%. Deleverage was primarily driven by investments to support our growth initiatives.\n\nOperating profit decreased 6.8% to $784.2 million. Net income for the quarter was $530.8 million compared to $564.9 million in the same period last year, while diluted earnings per share were $31.04 compared to last year at $32.52.\n\nUnder its share repurchase program, AutoZone repurchased 108 thousand shares of its common stock during the first quarter, at an average price per share of $3,999, for a total investment of $431.1 million. At the end of the first quarter, the Company had $1.7 billion remaining under its current share repurchase authorization.\n\nThe Company\u2019s inventory increased 13.9% over the same period last year, driven primarily by growth initiatives and inflation. Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $145 thousand versus negative $166 thousand last year and negative $131 thousand last quarter.\n\n\u201cI would like to thank our AutoZoners for delivering another quarter of strong sales growth. Our Domestic and International businesses performed well throughout the quarter as we continue to execute on our growth initiatives. We were especially pleased to open 53 net new stores globally in the quarter and we plan to aggressively open stores over the remainder of the fiscal year as we continue our focus on gaining market share. As we invest in growing our business, we will remain committed to our disciplined approach of increasing earnings and cash flow to drive shareholder value,\u201d said Phil Daniele, President and Chief Executive Officer.\n\nDuring the quarter ended November 22, 2025, AutoZone opened 39 new stores in the U.S., 12 in Mexico and two in Brazil for a total of 53 net new stores. As of November 22, 2025, the Company had 6,666 stores in the U.S., 895 in Mexico and 149 in Brazil for a total store count of 7,710.\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 16,
+  "n_material_neg": 2,
+  "n_positive": 5,
+  "mean_pos_negative": 0.1875,
+  "mean_pos_positive": 0.625,
+  "placement_asymmetry": -0.4375,
+  "distance_from_headline": -4,
+  "first_negative_pos": 0.0625,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.04229797979797979
+ },
+ "lexicon": {
+  "words": 341,
+  "per_1000": {
+   "Negative": 8.8,
+   "Positive": 11.7,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 2.9,
+   "Weak modal": 0.0,
+   "Constraining": 2.9
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 4,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "For the quarter, gross profit, as a percentage of sales, was 51.0%, a decrease of 203 basis points versus the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "The decrease in gross margin was driven by a 212 basis point non-cash LIFO impact, partially offset by other net margin improvements.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     120,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Operating expenses, as a percentage of sales, were 34.0% versus last year at 33.3%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Deleverage was primarily driven by investments to support our growth initiatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Operating profit decreased 6.8% to $784.2 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Net income for the quarter was $530.8 million compared to $564.9 million in the same period last year, while diluted earnings per share were $31.04 compared to last year at $32.52.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Under its share repurchase program, AutoZone repurchased 108 thousand shares of its common stock during the first quarter, at an average price per share of $3,999, for a total investment of $431.1 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "At the end of the first quarter, the Company had $1.7 billion remaining under its current share repurchase authorization.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The Company\u2019s inventory increased 13.9% over the same period last year, driven primarily by growth initiatives and inflation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Net inventory, defined as merchandise inventories less accounts payable, on a per store basis, was negative $145 thousand versus negative $166 thousand last year and negative $131 thousand last quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     107,
+     [
+      "negative"
+     ]
+    ],
+    [
+     129,
+     137,
+     [
+      "negative"
+     ]
+    ],
+    [
+     166,
+     174,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "\u201cI would like to thank our AutoZoners for delivering another quarter of strong sales growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Our Domestic and International businesses performed well throughout the quarter as we continue to execute on our growth initiatives.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "We were especially pleased to open 53 net new stores globally in the quarter and we plan to aggressively open stores over the remainder of the fiscal year as we continue our focus on gaining market share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     183,
+     190,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "As we invest in growing our business, we will remain committed to our disciplined approach of increasing earnings and cash flow to drive shareholder value,\u201d said Phil Daniele, President and Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     45,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     53,
+     62,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "During the quarter ended November 22, 2025, AutoZone opened 39 new stores in the U.S., 12 in Mexico and two in Brazil for a total of 53 net new stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "As of November 22, 2025, the Company had 6,666 stores in the U.S., 895 in Mexico and 149 in Brazil for a total store count of 7,710.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
