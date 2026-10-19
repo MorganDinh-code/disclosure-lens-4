@@ -1,0 +1,672 @@
+{
+ "company": "Ross Stores, Inc.",
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q4 2025",
+ "date": "2026-03-03",
+ "source_url": "https://investors.rossstores.com/news-releases/news-release-details/ross-stores-reports-fourth-quarter-earnings-well-above-guidance",
+ "demo": false,
+ "source_text": "DUBLIN, Calif., March 3, 2026 /PRNewswire/ -- Ross Stores, Inc. (Nasdaq: ROST) today reported financial results for the 13\u2011week fourth quarter and 52\u2011week fiscal year ended January 31, 2026.\n\nHighlights:\n\nTotal sales for the fourth quarter of fiscal 2025 grew 12%, with comparable store sales increasing a robust 9%\nFourth quarter operating margin of 12.3% exceeded the Company's plan of 11.5% to 11.8%, primarily from the strong sales performance\nEarnings per share for the fourth quarter of $2.00 was well above guidance of $1.77 to $1.85\nFor the full year, sales reached a record $22.8 billion, with comparable store sales growth of 5%, and earnings per share of $6.61\nJim Conroy, Chief Executive Officer, commented, \"We are pleased to report that business momentum accelerated further in the fourth quarter, with both sales and earnings significantly surpassing our expectations. Throughout the holiday season, we delivered compelling merchandise assortments to our stores, benefited from higher customer engagement through our new marketing campaigns, and executed in\u2011store initiatives that enhanced the customer experience.\"\n\nMr. Conroy continued, \"For the full year, we delivered a solid performance. While the first half presented challenges amid a dynamic macroeconomic environment, including the impact of tariffs and broader consumer uncertainty, we remained focused on executing our strategy and managing the business with discipline. As the year progressed, underlying trends steadily improved, reflecting the strength of our merchandising efforts, enhanced marketing programs, and improved shopping experience. This momentum built throughout the back half of the year and culminated in a strong finish, positioning us well as we move into the year ahead.\"\n\nFourth Quarter Results\n\nSales increased 12% to $6.6 billion, up from $5.9 billion in 2024. Comparable store sales rose a robust 9% for the quarter on top of a solid 3% gain last year. Net income was $646 million versus $587 million last year, while earnings per share increased to $2.00, compared with $1.79 per share in the prior year period. Excluding a $0.14 per share gain from the sale of a packaway facility in 2024, earnings per share grew 21%.\n\nFiscal 2025 Results\n\nTotal sales increased to a record $22.8 billion, up 8% compared with last year's $21.1 billion. Comparable store sales grew 5% on top of a solid 3% gain in fiscal 2024.  Net income for fiscal 2025 was $2.1 billion, similar to the prior year, while earnings per share were $6.61, up from $6.32 last year. Excluding the $0.14 per share gain from the facility sale in fiscal 2024 and the approximate $0.16 per share impact from tariff-related costs this year, earnings per share growth for the full year was 10%.\n\nUpdate on Shareholder Payouts\n\nDuring the recently completed fourth quarter, 1.5 million shares of common stock were repurchased for a total price of $262 million. For fiscal 2025, a total of 7.1 million shares were repurchased for an aggregate purchase price of $1.05 billion, completing the two-year stock repurchase program as planned.\n\nThe Company's Board of Directors recently approved a new two-year $2.55 billion stock repurchase authorization for fiscal 2026 and 2027. This new program represents a 21% increase over the recently completed repurchase of $2.1 billion of common stock during 2024 and 2025 combined. The Board also authorized a 10% increase in the Company's quarterly cash dividend to $0.445 per share. This higher quarterly dividend amount is payable on March 31, 2026 to stockholders of record as of March 13, 2026.\n\nMr. Conroy noted, \"The increases to our stock repurchase and dividend programs reflect our continued commitment to return excess cash to our shareholders after funding growth and other capital needs of our business.\"   \n\nFiscal 2026 Guidance\n\nLooking ahead, Mr. Conroy said, \"We ended the fourth quarter with solid momentum, and while early, we are encouraged by the very strong start to the Spring season. As such, for the 13 weeks ending May 2, 2026, comparable store sales are forecasted to increase 7% to 8%. If sales perform in line with this forecast, earnings per share are projected to be $1.60 to $1.67, compared to $1.47 for the first quarter ended May 3, 2025. For the 52 weeks ending January 30, 2027, we are projecting same store sales growth of 3% to 4% on top of a 5% gain in 2025. Based on these assumptions, fiscal 2026 earnings per share are projected to be in the range of $7.02 to $7.36, compared to $6.61 for the fiscal year ended January 31, 2026.\"\n\nMr. Conroy concluded, \"As we reflect on 2025, we are proud of the meaningful progress we made across the business, including advancing key initiatives to further drive topline growth, while improving our operational performance. These solid results are a testament to the dedication and hard work of our Associates. As we move into 2026, we are encouraged by the strength of our business and confident in the strategic priorities we have set for the year. With a healthy balance sheet, disciplined execution, and a clear focus on delivering compelling value to our customers, we believe we are well-positioned to capture additional market share and drive sustainable, profitable growth in the year ahead and beyond.\"",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 40,
+  "n_material_neg": 0,
+  "n_positive": 21,
+  "mean_pos_positive": 0.5166666666666667,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.004257324810203744,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.005201560468140442,
+  "mean_tone": 0.21700390232654432
+ },
+ "lexicon": {
+  "words": 769,
+  "per_1000": {
+   "Negative": 1.3,
+   "Positive": 32.5,
+   "Uncertainty": 7.8,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 2.6,
+   "Constraining": 3.9
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 25,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DUBLIN, Calif., March 3, 2026 /PRNewswire/ -- Ross Stores, Inc. (Nasdaq: ROST) today reported financial results for the 13\u2011week fourth quarter and 52\u2011week fiscal year ended January 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Total sales for the fourth quarter of fiscal 2025 grew 12%, with comparable store sales increasing a robust 9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Fourth quarter operating margin of 12.3% exceeded the Company's plan of 11.5% to 11.8%, primarily from the strong sales performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Earnings per share for the fourth quarter of $2.00 was well above guidance of $1.77 to $1.85.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "For the full year, sales reached a record $22.8 billion, with comparable store sales growth of 5%, and earnings per share of $6.61.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Jim Conroy, Chief Executive Officer, commented, \"We are pleased to report that business momentum accelerated further in the fourth quarter, with both sales and earnings significantly surpassing our expectations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     63,
+     [
+      "positive"
+     ]
+    ],
+    [
+     183,
+     193,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Throughout the holiday season, we delivered compelling merchandise assortments to our stores, benefited from higher customer engagement through our new marketing campaigns, and executed in\u2011store initiatives that enhanced the customer experience.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     44,
+     54,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     94,
+     103,
+     [
+      "positive"
+     ]
+    ],
+    [
+     212,
+     220,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Mr. Conroy continued, \"For the full year, we delivered a solid performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "While the first half presented challenges amid a dynamic macroeconomic environment, including the impact of tariffs and broader consumer uncertainty, we remained focused on executing our strategy and managing the business with discipline.",
+   "d": 0,
+   "m": false,
+   "tone": -0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     31,
+     41,
+     [
+      "negative"
+     ]
+    ],
+    [
+     137,
+     148,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "As the year progressed, underlying trends steadily improved, reflecting the strength of our merchandising efforts, enhanced marketing programs, and improved shopping experience.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     51,
+     59,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     84,
+     [
+      "positive"
+     ]
+    ],
+    [
+     115,
+     123,
+     [
+      "positive"
+     ]
+    ],
+    [
+     148,
+     156,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "This momentum built throughout the back half of the year and culminated in a strong finish, positioning us well as we move into the year ahead.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Fourth Quarter Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Sales increased 12% to $6.6 billion, up from $5.9 billion in 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Comparable store sales rose a robust 9% for the quarter on top of a solid 3% gain last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Net income was $646 million versus $587 million last year, while earnings per share increased to $2.00, compared with $1.79 per share in the prior year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Excluding a $0.14 per share gain from the sale of a packaway facility in 2024, earnings per share grew 21%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Fiscal 2025 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Total sales increased to a record $22.8 billion, up 8% compared with last year's $21.1 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Comparable store sales grew 5% on top of a solid 3% gain in fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Net income for fiscal 2025 was $2.1 billion, similar to the prior year, while earnings per share were $6.61, up from $6.32 last year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Excluding the $0.14 per share gain from the facility sale in fiscal 2024 and the approximate $0.16 per share impact from tariff-related costs this year, earnings per share growth for the full year was 10%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     30,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     92,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Update on Shareholder Payouts",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "During the recently completed fourth quarter, 1.5 million shares of common stock were repurchased for a total price of $262 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "For fiscal 2025, a total of 7.1 million shares were repurchased for an aggregate purchase price of $1.05 billion, completing the two-year stock repurchase program as planned.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company's Board of Directors recently approved a new two-year $2.55 billion stock repurchase authorization for fiscal 2026 and 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "This new program represents a 21% increase over the recently completed repurchase of $2.1 billion of common stock during 2024 and 2025 combined.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Board also authorized a 10% increase in the Company's quarterly cash dividend to $0.445 per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "This higher quarterly dividend amount is payable on March 31, 2026 to stockholders of record as of March 13, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Mr. Conroy noted, \"The increases to our stock repurchase and dividend programs reflect our continued commitment to return excess cash to our shareholders after funding growth and other capital needs of our business.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     101,
+     111,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Fiscal 2026 Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Looking ahead, Mr. Conroy said, \"We ended the fourth quarter with solid momentum, and while early, we are encouraged by the very strong start to the Spring season.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     129,
+     135,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "As such, for the 13 weeks ending May 2, 2026, comparable store sales are forecasted to increase 7% to 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     36,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "If sales perform in line with this forecast, earnings per share are projected to be $1.60 to $1.67, compared to $1.47 for the first quarter ended May 3, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     146,
+     149,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "For the 52 weeks ending January 30, 2027, we are projecting same store sales growth of 3% to 4% on top of a 5% gain in 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Based on these assumptions, fiscal 2026 earnings per share are projected to be in the range of $7.02 to $7.36, compared to $6.61 for the fiscal year ended January 31, 2026.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     15,
+     26,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Mr. Conroy concluded, \"As we reflect on 2025, we are proud of the meaningful progress we made across the business, including advancing key initiatives to further drive topline growth, while improving our operational performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     125,
+     134,
+     [
+      "positive"
+     ]
+    ],
+    [
+     190,
+     199,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "These solid results are a testament to the dedication and hard work of our Associates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "As we move into 2026, we are encouraged by the strength of our business and confident in the strategic priorities we have set for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     39,
+     [
+      "positive"
+     ]
+    ],
+    [
+     47,
+     55,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "With a healthy balance sheet, disciplined execution, and a clear focus on delivering compelling value to our customers, we believe we are well-positioned to capture additional market share and drive sustainable, profitable growth in the year ahead and beyond.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.025,
+   "hits": [
+    [
+     85,
+     95,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     123,
+     130,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     212,
+     222,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
