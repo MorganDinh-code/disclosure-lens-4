@@ -1,0 +1,248 @@
+{
+ "company": "Carvana",
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2025",
+ "date": "2025-05-07",
+ "source_url": "https://investors.carvana.com/~/media/Files/C/Carvana-IR/documents/cvna-earning-release-q1-2025.pdf",
+ "demo": false,
+ "source_text": "PHOENIX \u2013 (May 7, 2025) \u2013 Carvana Co. (NYSE: CVNA), the leading e-commerce platform for buying and selling\nused cars, today announced financial results for the quarter ended March 31, 2025. Carvana\u2019s complete first\nquarter 2025 financial results and management commentary are available in the company\u2019s shareholder letter on\nthe quarterly results page of its Investor Relations website.\n\n\u201cIn Q1, Carvana set a new record for retail units while also driving record profitability and hitting our highest\ncustomer net promoter score in nearly three years,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cWe are\nincredibly well positioned for the path ahead and have very clear visibility to even stronger financial performance,\nmuch larger scales, and even better customer experiences. As Carvana grows larger and more efficient, we look\nforward to making our offering even faster and more convenient, and sharing the value we create with our\ncustomers as we continue our mission of changing the way people buy and sell cars.\u201d\n\nQ1 2025 Highlights\nIn Q1 2025, Carvana sold 133,898 retail units (+46% YoY) for total revenue of $4.232 billion (+38% YoY), both\nall-time quarterly records. This growth was paired with record Q1 profitability, including:\n\u25cf Record Net Income of $373 million\n2 and Net Income margin of 8.8%\n\u25cf Record Adjusted EBITDA of $488 million and Adjusted EBITDA margin of 11.5%\n\u25cf Record GAAP Operating Income of $394 million and Operating margin of 9.3%\n\nOutlook\nLooking toward the second quarter, Carvana expects a sequential increase in both retail units sold and\nAdjusted EBITDA\n1\n, leading to all-time company records on both metrics. The company remains on track to\ndeliver significant growth in both retail units sold and Adjusted EBITDA\n1\nin FY 2025.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 13,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.6373626373626373,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.004196102603006021,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0076045627376425855,
+  "mean_tone": 0.22136841941713514
+ },
+ "lexicon": {
+  "words": 263,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 34.2,
+   "Uncertainty": 7.6,
+   "Litigious": 0.0,
+   "Strong modal": 3.8,
+   "Weak modal": 7.6,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "PHOENIX \u2013 (May 7, 2025) \u2013 Carvana Co. (NYSE: CVNA), the leading e-commerce platform for buying and selling used cars, today announced financial results for the quarter ended March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     14,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     56,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Carvana\u2019s complete first quarter 2025 financial results and management commentary are available in the company\u2019s shareholder letter on the quarterly results page of its Investor Relations website.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "\u201cIn Q1, Carvana set a new record for retail units while also driving record profitability and hitting our highest customer net promoter score in nearly three years,\u201d said Ernie Garcia, Carvana founder and CEO. \u201cWe are incredibly well positioned for the path ahead and have very clear visibility to even stronger financial performance, much larger scales, and even better customer experiences.",
+   "d": 1,
+   "m": false,
+   "tone": 0.82,
+   "h": 0.0164,
+   "hits": [
+    [
+     76,
+     89,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     113,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     145,
+     151,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     218,
+     228,
+     [
+      "positive"
+     ]
+    ],
+    [
+     303,
+     311,
+     [
+      "positive"
+     ]
+    ],
+    [
+     364,
+     370,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "As Carvana grows larger and more efficient, we look forward to making our offering even faster and more convenient, and sharing the value we create with our customers as we continue our mission of changing the way people buy and sell cars.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Q1 2025 Highlights.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "In Q1 2025, Carvana sold 133,898 retail units (+46% YoY) for total revenue of $4.232 billion (+38% YoY), both all-time quarterly records.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "This growth was paired with record Q1 profitability, including: Record Net Income of $373 million 2 and Net Income margin of 8.8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Record Adjusted EBITDA of $488 million and Adjusted EBITDA margin of 11.5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Record GAAP Operating Income of $394 million and Operating margin of 9.3%",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Looking toward the second quarter, Carvana expects a sequential increase in both retail units sold and.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA 1 , leading to all-time company records on both metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The company remains on track to deliver significant growth in both retail units sold and Adjusted EBITDA 1 in FY 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
