@@ -1,0 +1,589 @@
+{
+ "company": "lululemon athletica inc.",
+ "ticker": "LULU",
+ "sector": "Consumer Discretionary",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2024",
+ "date": "2024-12-05",
+ "source_url": "https://corporate.lululemon.com/newsroom/press-releases/2024/12-05-2024-210546608",
+ "demo": false,
+ "source_text": "\nBoard of Directors Authorizes $1.0 Billion Increase in Its Stock Repurchase Program\n\nRevenue increased 9% to $2.4 billion\n\nComparable sales increased 4%, or 3% on a constant dollar basis\n\nDiluted EPS of $2.87\n\nVANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the third quarter of fiscal 2024, which ended on October 27, 2024.\n\nCalvin McDonald, Chief Executive Officer, stated: \"Our performance in the third quarter shows the enduring strength of lululemon globally, as we saw continued momentum across our international markets and in Canada. Looking to the future, we are pleased with the start to our holiday season, and we remain focused on accelerating our U.S. business and growing our brand awareness around the world. Thank you to our dedicated teams for continuing to deliver for our guests and stakeholders.\"\n\nThe adjusted non-GAAP financial measures below exclude asset impairment and other charges recognized in relation to lululemon Studio during the third quarter of 2023, and the related income tax effects of these items.\n\nFor the third quarter of 2024, compared to the third quarter of 2023:\n\nNet revenue increased 9% to $2.4 billion, or increased 8% on a constant dollar basis.\nAmericas net revenue increased 2%.\nInternational net revenue increased 33%, or 30% on a constant dollar basis.\nComparable sales increased 4%, or 3% on a constant dollar basis.\nAmericas comparable sales decreased 2%.\nInternational comparable sales increased 25%, or 22% on a constant dollar basis.\nGross profit increased 12% to $1.4 billion. Adjusted gross profit increased 9%.\nGross margin increased 150 basis points to 58.5%. Adjusted gross margin increased 40 basis points.\nIncome from operations increased 45% to $490.7 million. Adjusted income from operations increased 12%.\nOperating margin increased 520 basis points to 20.5%. Adjusted operating margin increased 70 basis points.\nThe effective income tax rate for the third quarter of 2024 was 30.2% compared to 28.5% for the third quarter of 2023. The adjusted effective tax rate was 28.1% for the third quarter of 2023.\nDiluted earnings per share were $2.87 compared to $1.96 in the third quarter of 2023. Adjusted diluted earnings per share were $2.53 in the third quarter of 2023.\nThe Company added 28 new company-operated stores during the third quarter, including 14 company-operated stores from the acquisition of the Mexico operations, ending with 749 stores.\nMeghan Frank, Chief Financial Officer, stated: \"Our third quarter results, which exceeded our expectations, demonstrate the ability of our teams to be agile in a dynamic operating environment. With the majority of the fourth quarter still in front of us, we are focused on deepening engagement with our guests and bringing new consumers into the brand. We are committed to delivering on our Power of Three \u00d72 revenue target of $12.5 billion in 2026 and look forward to all that lies ahead.\"\n\nStock Repurchase Program\n\nDuring the third quarter of 2024, the Company repurchased 1.6 million shares of its common stock for a cost of $408.5 million.\n\nOn December 3, 2024, the board of directors approved a $1.0 billion increase to the Company's stock repurchase program. Including this increase, as of December 5, 2024, the Company had approximately $1.8 billion remaining authorized on its stock repurchase program.\n\nBalance Sheet Highlights\n\nThe Company ended the third quarter of 2024 with $1.2 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $393.5 million.\n\nInventories at the end of the third quarter of 2024 increased 8% to $1.8 billion compared to $1.7 billion at the end of the third quarter of 2023.\n\n2024 Outlook\n\nFor the fourth quarter of 2024, the Company expects net revenue to be in the range of $3.475 billion to $3.510 billion, representing growth of 8% to 10%, or 3% to 4% excluding the 53rd week of 2024. Diluted earnings per share are expected to be in the range of $5.56 to $5.64 for the quarter. This assumes a tax rate of approximately 29.5%.\n\nFor 2024, the Company now expects net revenue to be in the range of $10.452 billion to $10.487 billion, representing growth of 9%, or 7% excluding the 53rd week of 2024. Diluted earnings per share are now expected to be in the range of $14.08 to $14.16 for the year. This assumes a tax rate of approximately 30%.\n\nThe guidance does not reflect potential future repurchases of the Company's shares.\n\nThe guidance and outlook forward-looking statements made in this press release are based on management's expectations as of the date of this press release and do not incorporate future unknown impacts, including macroeconomic trends. The Company undertakes no duty to update or to continue to provide information with respect to any forward-looking statements or risk factors, whether as a result of new information or future events or circumstances or otherwise. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of risks and uncertainties, including those stated below.\n\nPower of Three \u00d72\n\nThe Company's Power of Three \u00d72 growth plan calls for a doubling of the business from 2021 net revenue of $6.25 billion to $12.5 billion by 2026. The key pillars of the plan are product innovation, guest experience, and market expansion.\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 50,
+  "n_material_neg": 2,
+  "n_positive": 22,
+  "mean_pos_negative": 0.24,
+  "mean_pos_positive": 0.4309090909090909,
+  "placement_asymmetry": -0.19090909090909092,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.18,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.004607682275859141,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8484848484848485,
+  "overall_hedge": 0.010248901903367497,
+  "mean_tone": 0.020926721128334033
+ },
+ "lexicon": {
+  "words": 683,
+  "per_1000": {
+   "Negative": 1.5,
+   "Positive": 4.4,
+   "Uncertainty": 7.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 4.4
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 3,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Board of Directors Authorizes $1.0 Billion Increase in Its Stock Repurchase Program",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Revenue increased 9% to $2.4 billion",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Comparable sales increased 4%, or 3% on a constant dollar basis",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Diluted EPS of $2.87",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "VANCOUVER, British Columbia--(BUSINESS WIRE)-- lululemon athletica inc. (NASDAQ:LULU) today announced financial results for the third quarter of fiscal 2024, which ended on October 27, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Calvin McDonald, Chief Executive Officer, stated: \"Our performance in the third quarter shows the enduring strength of lululemon globally, as we saw continued momentum across our international markets and in Canada.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Looking to the future, we are pleased with the start to our holiday season, and we remain focused on accelerating our U.S. business and growing our brand awareness around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Thank you to our dedicated teams for continuing to deliver for our guests and stakeholders.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The adjusted non-GAAP financial measures below exclude asset impairment and other charges recognized in relation to lululemon Studio during the third quarter of 2023, and the related income tax effects of these items.",
+   "d": -1,
+   "m": true,
+   "tone": -0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     71,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "For the third quarter of 2024, compared to the third quarter of 2023:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Net revenue increased 9% to $2.4 billion, or increased 8% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Americas net revenue increased 2%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "International net revenue increased 33%, or 30% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Comparable sales increased 4%, or 3% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Americas comparable sales decreased 2%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "International comparable sales increased 25%, or 22% on a constant dollar basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Gross profit increased 12% to $1.4 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Adjusted gross profit increased 9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Gross margin increased 150 basis points to 58.5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Adjusted gross margin increased 40 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Income from operations increased 45% to $490.7 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Adjusted income from operations increased 12%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Operating margin increased 520 basis points to 20.5%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Adjusted operating margin increased 70 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The effective income tax rate for the third quarter of 2024 was 30.2% compared to 28.5% for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The adjusted effective tax rate was 28.1% for the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Diluted earnings per share were $2.87 compared to $1.96 in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Adjusted diluted earnings per share were $2.53 in the third quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "The Company added 28 new company-operated stores during the third quarter, including 14 company-operated stores from the acquisition of the Mexico operations, ending with 749 stores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Meghan Frank, Chief Financial Officer, stated: \"Our third quarter results, which exceeded our expectations, demonstrate the ability of our teams to be agile in a dynamic operating environment.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "With the majority of the fourth quarter still in front of us, we are focused on deepening engagement with our guests and bringing new consumers into the brand.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "We are committed to delivering on our Power of Three \u00d72 revenue target of $12.5 billion in 2026 and look forward to all that lies ahead.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     16,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Stock Repurchase Program",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "During the third quarter of 2024, the Company repurchased 1.6 million shares of its common stock for a cost of $408.5 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "On December 3, 2024, the board of directors approved a $1.0 billion increase to the Company's stock repurchase program.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Including this increase, as of December 5, 2024, the Company had approximately $1.8 billion remaining authorized on its stock repurchase program.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Balance Sheet Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "The Company ended the third quarter of 2024 with $1.2 billion in cash and cash equivalents and the capacity under its committed revolving credit facility was $393.5 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     127,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Inventories at the end of the third quarter of 2024 increased 8% to $1.8 billion compared to $1.7 billion at the end of the third quarter of 2023.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "2024 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "For the fourth quarter of 2024, the Company expects net revenue to be in the range of $3.475 billion to $3.510 billion, representing growth of 8% to 10%, or 3% to 4% excluding the 53rd week of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Diluted earnings per share are expected to be in the range of $5.56 to $5.64 for the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "This assumes a tax rate of approximately 29.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "For 2024, the Company now expects net revenue to be in the range of $10.452 billion to $10.487 billion, representing growth of 9%, or 7% excluding the 53rd week of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Diluted earnings per share are now expected to be in the range of $14.08 to $14.16 for the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "This assumes a tax rate of approximately 30%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.2857,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     27,
+     40,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "The guidance does not reflect potential future repurchases of the Company's shares.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Power of Three \u00d72",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "The Company's Power of Three \u00d72 growth plan calls for a doubling of the business from 2021 net revenue of $6.25 billion to $12.5 billion by 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "The key pillars of the plan are product innovation, guest experience, and market expansion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
