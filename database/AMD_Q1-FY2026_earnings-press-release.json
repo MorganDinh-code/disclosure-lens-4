@@ -1,0 +1,576 @@
+{
+ "company": "Advanced Micro Devices, Inc.",
+ "ticker": "AMD",
+ "sector": "Information Technology",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-05",
+ "source_url": "https://ir.amd.com/news-events/press-releases/detail/1284/amd-reports-first-quarter-2026-financial-results",
+ "demo": false,
+ "source_text": "SANTA CLARA, Calif., May 05, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the first quarter of 2026. First quarter revenue was $10.3 billion, gross margin was 53%, operating income was $1.5 billion, net income was $1.4 billion and diluted earnings per share was $0.84. On a non-GAAP(*) basis, gross margin was 55%, operating income was $2.5 billion, net income was $2.3 billion and diluted earnings per share was $1.37.\n\n\u201cWe delivered an outstanding first quarter, driven by accelerating demand for AI infrastructure, with Data Center now the primary driver of our revenue and earnings growth,\u201d said Dr. Lisa Su, AMD chair and CEO. \u201cWe are seeing strong momentum as inferencing and agentic AI drive increasing demand for high-performance CPUs and accelerators. Looking ahead, we expect server growth to accelerate meaningfully as we scale supply to meet demand. Customer engagement around MI450 Series and Helios is strengthening, with leading customer forecasts exceeding our initial expectations and a growing pipeline of large-scale deployments providing us with increasing visibility into our growth trajectory.\"\n\n\u201cFirst quarter results reflect strong performance across all key financial metrics, with accelerating revenue growth, earnings expansion and record quarterly free cash flow,\u201d said Jean Hu, AMD executive vice president, CFO and treasurer. \u201cThese results highlight continued momentum and execution across the business, demonstrating the leverage in our operating model as we invest for accelerated growth while expanding profitability.\u201d\n\nSegment Summary\n\nData Center segment revenue was $5.8 billion, up 57% year-over-year, driven by strong demand for AMD EPYC\u2122 processors and the continued ramp of AMD Instinct\u2122 GPU shipments. \nClient and Gaming segment revenue was $3.6 billion, up 23% year-over-year. Client business revenue was $2.9 billion, up 26% year-over-year, primarily driven by strong demand for leadership AMD Ryzen\u2122 processors and continued market share gains. Gaming business revenue was $720 million, up 11% year-over-year, driven by solid demand for AMD Radeon\u2122 GPUs partially offset by lower semi-custom revenue.\nEmbedded segment revenue was $873 million, up 6% year-over-year, as demand strengthened across several end markets.\nRecent PR Highlights\n\nAMD expanded its data center offerings and deepened strategic collaborations to deliver global compute infrastructure:\nMeta and AMD announced plans to deploy up to 6 gigawatts of AMD Instinct GPUs, with the first 1-GW to be powered by a custom AMD Instinct MI450-based GPU. Meta will also be a lead customer for the upcoming 6th Gen AMD EPYC CPUs, codenamed \u201cVenice\u201d and \u201cVerano.\u201d\nAWS, Google Cloud, Microsoft Azure and Tencent announced new and expanded 5th Gen EPYC-powered cloud instances, including Google Cloud H4D VMs for HPC and Azure instances across general-purpose, memory- and compute-optimized workloads.\nIn the latest MLPerf\u00ae results, AMD Instinct MI355X delivered strong competitive performance across the full suite, with leadership results in multiple categories.\nAMD announced EPYC 8005 server CPUs, delivering leadership performance per-watt-per-dollar optimized for telecommunications and edge environments.\nAMD and Tata Consultancy Services (TCS) are co-developing AMD Helios-based rack-scale AI infrastructure to accelerate enterprise AI deployments and sovereign AI initiatives in India.\nAMD and Samsung are collaborating on next-generation AI memory and compute technologies, including HBM4 supply for AMD Instinct MI455X GPUs and advanced DRAM solutions for 6th Gen AMD EPYC CPUs.\nAMD is collaborating with NAVER Cloud and Upstage to deploy AMD Instinct GPUs and EPYC CPUs across their AI infrastructure, advancing sovereign AI initiatives in Korea.\nAMD joined Open Telco AI, a GSMA-led initiative to accelerate telco-grade AI models and systems, with AMD Instinct GPUs training Open Telco AI models.\nAMD expanded its offerings for premium enterprise and enthusiast PCs, including:\nThe AMD Ryzen AI PRO 400 Series processors, expanding its lineup of next-generation enterprise desktop PCs that deliver Copilot+ experiences.\nThe Ryzen 9950X3D2 Dual Edition processor, delivering enhanced performance for creative and developer workloads with dual stacks of AMD 3D V-Cache\u2122 technology.\nAMD announced new adaptive and embedded AI processors, including:\nNew Ryzen AI Embedded P100 Series processors, delivering scalable, power-efficient AI compute for industrial and edge applications.\nThe Kintex\u2122 UltraScale+\u2122 Gen 2 family of mid-range FPGAs, delivering advanced memory bandwidth and I/O performance for industrial, imaging and broadcast applications.\n\nCurrent Outlook\nAMD\u2019s outlook statements are based on current expectations. The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.\n\nFor the second quarter of 2026, AMD expects revenue to be approximately $11.2 billion, plus or minus $300 million. The mid-point of the revenue range represents year-over-year growth of approximately 46% and a sequential increase of approximately 9%. Non-GAAP gross margin is expected to be approximately 56%.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 33,
+  "n_material_neg": 0,
+  "n_positive": 9,
+  "mean_pos_positive": 0.3265993265993266,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.01566479687675614,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.013020833333333334,
+  "mean_tone": 0.20148775556886528
+ },
+ "lexicon": {
+  "words": 768,
+  "per_1000": {
+   "Negative": 1.3,
+   "Positive": 26.0,
+   "Uncertainty": 10.4,
+   "Litigious": 0.0,
+   "Strong modal": 1.3,
+   "Weak modal": 3.9,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 20,
+   "Uncertainty": 8,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 3,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "SANTA CLARA, Calif., May 05, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the first quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     24,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "First quarter revenue was $10.3 billion, gross margin was 53%, operating income was $1.5 billion, net income was $1.4 billion and diluted earnings per share was $0.84.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "On a non-GAAP(*) basis, gross margin was 55%, operating income was $2.5 billion, net income was $2.3 billion and diluted earnings per share was $1.37.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\u201cWe delivered an outstanding first quarter, driven by accelerating demand for AI infrastructure, with Data Center now the primary driver of our revenue and earnings growth,\u201d said Dr. Lisa Su, AMD chair and CEO. \u201cWe are seeing strong momentum as inferencing and agentic AI drive increasing demand for high-performance CPUs and accelerators.",
+   "d": 1,
+   "m": false,
+   "tone": 0.189,
+   "h": 0.0,
+   "hits": [
+    [
+     226,
+     232,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Looking ahead, we expect server growth to accelerate meaningfully as we scale supply to meet demand.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Customer engagement around MI450 Series and Helios is strengthening, with leading customer forecasts exceeding our initial expectations and a growing pipeline of large-scale deployments providing us with increasing visibility into our growth trajectory.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cFirst quarter results reflect strong performance across all key financial metrics, with accelerating revenue growth, earnings expansion and record quarterly free cash flow,\u201d said Jean Hu, AMD executive vice president, CFO and treasurer. \u201cThese results highlight continued momentum and execution across the business, demonstrating the leverage in our operating model as we invest for accelerated growth while expanding profitability.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.339,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     37,
+     [
+      "positive"
+     ]
+    ],
+    [
+     419,
+     432,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Segment Summary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Data Center segment revenue was $5.8 billion, up 57% year-over-year, driven by strong demand for AMD EPYC\u2122 processors and the continued ramp of AMD Instinct\u2122 GPU shipments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Client and Gaming segment revenue was $3.6 billion, up 23% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Client business revenue was $2.9 billion, up 26% year-over-year, primarily driven by strong demand for leadership AMD Ryzen\u2122 processors and continued market share gains.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     113,
+     [
+      "positive"
+     ]
+    ],
+    [
+     163,
+     168,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Gaming business revenue was $720 million, up 11% year-over-year, driven by solid demand for AMD Radeon\u2122 GPUs partially offset by lower semi-custom revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Embedded segment revenue was $873 million, up 6% year-over-year, as demand strengthened across several end markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Recent PR Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "AMD expanded its data center offerings and deepened strategic collaborations to deliver global compute infrastructure: Meta and AMD announced plans to deploy up to 6 gigawatts of AMD Instinct GPUs, with the first 1-GW to be powered by a custom AMD Instinct MI450-based GPU.",
+   "d": 0,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Meta will also be a lead customer for the upcoming 6th Gen AMD EPYC CPUs, codenamed \u201cVenice\u201d and \u201cVerano.\u201d.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     9,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "AWS, Google Cloud, Microsoft Azure and Tencent announced new and expanded 5th Gen EPYC-powered cloud instances, including Google Cloud H4D VMs for HPC and Azure instances across general-purpose, memory- and compute-optimized workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "In the latest MLPerf\u00ae results, AMD Instinct MI355X delivered strong competitive performance across the full suite, with leadership results in multiple categories.",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     120,
+     130,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "AMD announced EPYC 8005 server CPUs, delivering leadership performance per-watt-per-dollar optimized for telecommunications and edge environments.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     58,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "AMD and Tata Consultancy Services (TCS) are co-developing AMD Helios-based rack-scale AI infrastructure to accelerate enterprise AI deployments and sovereign AI initiatives in India.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "AMD and Samsung are collaborating on next-generation AI memory and compute technologies, including HBM4 supply for AMD Instinct MI455X GPUs and advanced DRAM solutions for 6th Gen AMD EPYC CPUs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     33,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "AMD is collaborating with NAVER Cloud and Upstage to deploy AMD Instinct GPUs and EPYC CPUs across their AI infrastructure, advancing sovereign AI initiatives in Korea.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     124,
+     133,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "AMD joined Open Telco AI, a GSMA-led initiative to accelerate telco-grade AI models and systems, with AMD Instinct GPUs training Open Telco AI models.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "AMD expanded its offerings for premium enterprise and enthusiast PCs, including: The AMD Ryzen AI PRO 400 Series processors, expanding its lineup of next-generation enterprise desktop PCs that deliver Copilot+ experiences.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "The Ryzen 9950X3D2 Dual Edition processor, delivering enhanced performance for creative and developer workloads with dual stacks of AMD 3D V-Cache\u2122 technology.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     62,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     87,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "AMD announced new adaptive and embedded AI processors, including: New Ryzen AI Embedded P100 Series processors, delivering scalable, power-efficient AI compute for industrial and edge applications.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     148,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The Kintex\u2122 UltraScale+\u2122 Gen 2 family of mid-range FPGAs, delivering advanced memory bandwidth and I/O performance for industrial, imaging and broadcast applications.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Current Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "AMD\u2019s outlook statements are based on current expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.",
+   "d": 0,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.16,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     70,
+     76,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     97,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "For the second quarter of 2026, AMD expects revenue to be approximately $11.2 billion, plus or minus $300 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The mid-point of the revenue range represents year-over-year growth of approximately 46% and a sequential increase of approximately 9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     71,
+     84,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     118,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Non-GAAP gross margin is expected to be approximately 56%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     40,
+     53,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
