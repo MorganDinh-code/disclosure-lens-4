@@ -1,0 +1,660 @@
+{
+ "company": "Vulcan Materials Company",
+ "ticker": "VMC",
+ "sector": "Materials",
+ "filing_type": "Prepared remarks",
+ "period": "Q2 FY2026",
+ "date": "2026-07-29",
+ "source_url": "https://assets.contentstack.io/v3/assets/bltfd7cf707acd5b8e3/blt2ef038a34ef032de/6a695d7170f47c7ee3a63823/VMC_2Q_2026_Earnings_Release.pdf",
+ "demo": false,
+ "source_text": "Commercial Discipline and Cost Control Drive Continued Expansion\nin Aggregates Unit Profitability\nExecution in Aggregates Underpins Reaffirmed Full Year Earnings Outlook\nBirmingham, Alabama \u2013 July 29, 2026 \u2013 Vulcan Materials Company (NYSE: VMC), the\nnation\u2019s largest producer of construction aggregates, today announced results for the quarter\nended June 30, 2026.\n\nRonnie Pruitt, Vulcan Materials\u2019 Chief Executive Officer, said, \u201cCommercial and operational\nexecution drove solid results in the second quarter. Our industry-leading aggregates cash gross\nprofit per ton grew to over $12 per ton, despite significant energy inflation and disruptive\nweather. These results demonstrate the resiliency of our uniquely advantaged pure-play\naggregates business.\n\n\u201cConsistent with our aggregates growth strategy, during the second quarter we completed several\nportfolio enhancing actions. The pipeline for strategic acquisitions remains active, and we have\nthe financial strength and flexibility to capitalize on the most value-accretive opportunities.\u201d\n\nSegment Results\nAggregates\nContinued pricing discipline and operational execution drove gross profit growth despite energy\nheadwinds and challenging weather-related operating conditions throughout the quarter.\nSegment gross profit increased to $567 million ($9.47 per ton), and cash gross profit improved to\n$720 million ($12.02 per ton).\n\nAs compared to the prior year, second quarter aggregates shipments increased 1 percent and\ncontinued to benefit from healthy public construction activity and large projects. Shipments in\nTexas and certain Southeastern markets were impacted by significant rainfall, particularly in\nMay and June.\n\nThe pricing environment remains positive with widespread growth across the Company\u2019s\nfootprint. Freight-adjusted selling prices increased 5 percent on a mix-adjusted basis (4 percent,\nor $0.86 per ton, on a reported basis) as compared to the prior year\u2019s second quarter. Freightadjusted unit cash cost of sales increased 7 percent, or $0.72 per ton, over the prior year.\nExcluding the impact of higher diesel fuel costs, cash cost of sales increased 3 percent, reflecting\na continued focus on cost management and operating efficiencies.\n\nAsphalt and Concrete\nNon-aggregates segment gross profit in the second quarter was $58 million, and cash gross profit\nwas $73 million. Asphalt gross profit margin remained strong at 15 percent, despite lower\nshipments due to weather and higher liquid asphalt costs. The prior year results included the\nCompany\u2019s Houston asphalt and construction business that was divested in the fourth quarter of\n2025. Second quarter concrete results included two months of the Company\u2019s California readymixed concrete business. The divestiture of these operations was completed in early June of\n2026.\n\nSelling, Administrative and General (SAG)\nSAG expense in the quarter was $141 million, 2 percent lower than the prior year and 30 basis\npoints lower as a percentage of revenue. On a trailing-twelve months basis, SAG expense as a\npercent of total revenues was 6.9 percent and 30 basis points lower than the prior year.\n\nFinancial Position, Liquidity and Capital Allocation\nCapital expenditures for maintenance and growth projects were $176 million in the second\nquarter, and the Company returned $318 million to shareholders through $250 million of\ncommon stock repurchases and $68 million of dividends.\n\nIn early June, the Company completed the previously announced divestiture of its ready-mixed\nconcrete operations in California. Additionally, the Company acquired a quarry in southern\nColorado and a rail yard in Dallas-Fort Worth from Brannan Sand & Gravel. These portfolio actions align with our aggregates-led growth strategy by expanding our reach into southern\nColorado and strengthening our distribution network in Dallas-Fort Worth.\n\nOn a trailing-twelve months basis, return on average invested capital improved 20 basis points\nover the prior year to 16.1 percent. As of June 30, 2026, the ratio of total debt to trailing-twelve\nmonths Adjusted EBITDA was 1.9 times and below the Company\u2019s target range of 2.0 to 2.5\ntimes. The Company remains well positioned for continued growth with a strong liquidity\nposition and balance sheet profile.\n\nOutlook\nRegarding the Company\u2019s outlook, Mr. Pruitt said, \u201cOur aggregates business is executing well,\nand we reiterate our full-year outlook to deliver between $2.4 and $2.6 billion of Adjusted\nEBITDA. The construction environment remains supportive of continued aggregates price\ngrowth, and large projects and public construction activity continue to support our expectation\nfor volume growth in 2026. As always, our focus remains on compounding aggregates unit\nprofitability to drive earnings growth and strong cash generation for our shareholders.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 46,
+  "n_material_neg": 2,
+  "n_positive": 15,
+  "mean_pos_negative": 0.5978260869565217,
+  "mean_pos_positive": 0.5333333333333333,
+  "placement_asymmetry": 0.0644927536231884,
+  "distance_from_headline": 20,
+  "first_negative_pos": 0.5217391304347826,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0015151515151515152,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 1.5,
+  "overall_hedge": 0.0014749262536873156,
+  "mean_tone": 0.16049578394596742
+ },
+ "lexicon": {
+  "words": 678,
+  "per_1000": {
+   "Negative": 7.4,
+   "Positive": 26.5,
+   "Uncertainty": 1.5,
+   "Litigious": 0.0,
+   "Strong modal": 1.5,
+   "Weak modal": 1.5,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 18,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Commercial Discipline and Cost Control Drive Continued Expansion in Aggregates Unit Profitability.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     97,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Execution in Aggregates Underpins Reaffirmed Full Year Earnings Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Birmingham, Alabama \u2013 July 29, 2026 \u2013 Vulcan Materials Company (NYSE: VMC), the nation\u2019s largest producer of construction aggregates, today announced results for the quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Ronnie Pruitt, Vulcan Materials\u2019 Chief Executive Officer, said, \u201cCommercial and operational execution drove solid results in the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Our industry-leading aggregates cash gross profit per ton grew to over $12 per ton, despite significant energy inflation and disruptive weather.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     125,
+     135,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "These results demonstrate the resiliency of our uniquely advantaged pure-play aggregates business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cConsistent with our aggregates growth strategy, during the second quarter we completed several portfolio enhancing actions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The pipeline for strategic acquisitions remains active, and we have the financial strength and flexibility to capitalize on the most value-accretive opportunities.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     90,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Aggregates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Continued pricing discipline and operational execution drove gross profit growth despite energy headwinds and challenging weather-related operating conditions throughout the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     81,
+     88,
+     [
+      "positive"
+     ]
+    ],
+    [
+     110,
+     121,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Segment gross profit increased to $567 million ($9.47 per ton), and cash gross profit improved to.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "$720 million ($12.02 per ton).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "As compared to the prior year, second quarter aggregates shipments increased 1 percent and continued to benefit from healthy public construction activity and large projects.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Shipments in.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Texas and certain Southeastern markets were impacted by significant rainfall, particularly in.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "May and June.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.3333,
+   "hits": [
+    [
+     0,
+     3,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The pricing environment remains positive with widespread growth across the Company\u2019s footprint.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Freight-adjusted selling prices increased 5 percent on a mix-adjusted basis (4 percent, or $0.86 per ton, on a reported basis) as compared to the prior year\u2019s second quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Freightadjusted unit cash cost of sales increased 7 percent, or $0.72 per ton, over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Excluding the impact of higher diesel fuel costs, cash cost of sales increased 3 percent, reflecting a continued focus on cost management and operating efficiencies.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     152,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Asphalt and Concrete.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Non-aggregates segment gross profit in the second quarter was $58 million, and cash gross profit was $73 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Asphalt gross profit margin remained strong at 15 percent, despite lower shipments due to weather and higher liquid asphalt costs.",
+   "d": -1,
+   "m": true,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     59,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The prior year results included the.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Company\u2019s Houston asphalt and construction business that was divested in the fourth quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     69,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Second quarter concrete results included two months of the Company\u2019s California readymixed concrete business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The divestiture of these operations was completed in early June of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": -0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     15,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Selling, Administrative and General (SAG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "SAG expense in the quarter was $141 million, 2 percent lower than the prior year and 30 basis points lower as a percentage of revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "On a trailing-twelve months basis, SAG expense as a percent of total revenues was 6.9 percent and 30 basis points lower than the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Financial Position, Liquidity and Capital Allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Capital expenditures for maintenance and growth projects were $176 million in the second quarter, and the Company returned $318 million to shareholders through $250 million of common stock repurchases and $68 million of dividends.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "In early June, the Company completed the previously announced divestiture of its ready-mixed concrete operations in California.",
+   "d": 0,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     73,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Additionally, the Company acquired a quarry in southern.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Colorado and a rail yard in Dallas-Fort Worth from Brannan Sand & Gravel.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "These portfolio actions align with our aggregates-led growth strategy by expanding our reach into southern.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Colorado and strengthening our distribution network in Dallas-Fort Worth.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "On a trailing-twelve months basis, return on average invested capital improved 20 basis points over the prior year to 16.1 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "As of June 30, 2026, the ratio of total debt to trailing-twelve months Adjusted EBITDA was 1.9 times and below the Company\u2019s target range of 2.0 to 2.5 times.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The Company remains well positioned for continued growth with a strong liquidity position and balance sheet profile.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Regarding the Company\u2019s outlook, Mr. Pruitt said, \u201cOur aggregates business is executing well, and we reiterate our full-year outlook to deliver between $2.4 and $2.6 billion of Adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "EBITDA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The construction environment remains supportive of continued aggregates price growth, and large projects and public construction activity continue to support our expectation for volume growth in 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "As always, our focus remains on compounding aggregates unit profitability to drive earnings growth and strong cash generation for our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     9,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     60,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
