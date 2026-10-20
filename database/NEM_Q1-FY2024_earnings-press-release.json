@@ -1,0 +1,421 @@
+{
+ "company": "Newmont",
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-25",
+ "source_url": "https://www.newmont.com/investors/news-release/news-details/2024/Newmont-Reports-First-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, TSX: NGT, ASX: NEM, PNGX: NEM) (Newmont or the Company) today announced first quarter 2024 results and declared a first quarter dividend of $0.25 per share.\n\n\"Newmont delivered a strong first quarter operational performance, producing 2.2 million gold equivalent ounces and generating over $1.4 billion in cash from operations before working capital changes,\" said Tom Palmer, Newmont's President and Chief Executive Officer. \"Underpinned by the gold industry's leading portfolio of Tier 1 gold and copper operations, we remain well-positioned to achieve our full-year guidance and deliver meaningful synergies and productivity improvements from the combined portfolio. We remain focused on delivering on the commitments we laid out at the beginning of this year, creating an attractive value proposition for new and existing investors during this unique time in the gold industry.\"\n\nQ1 2024 Results1\n\nDelivered $288 million in dividends to shareholders; declared a dividend of $0.25 per share of common stock for the first quarter of 20242\nAnnounced sale of the Lundin Gold stream credit facility and offtake agreement (\"Lundin Gold Financing Facilities\") for $330 million, further monetizing Newmont\u2019s non-core assets while maintaining its equity interest in Lundin Gold\nProduced 1.7 million attributable gold ounces and 489 thousand gold equivalent ounces (GEOs)3 from copper, silver, lead and zinc; primarily driven by production of 1.4 million gold ounces from Newmont's Tier 1 Portfolio4\nReported gold Costs Applicable to Sales (CAS) per ounce of $1,057 and gold All-In Sustaining Costs (AISC) per ounce of $1,439; Newmont's Tier 1 Portfolio reported CAS of $1,000 per ounce and AISC of $1,378 per ounce5\nGenerated $776 million of cash from operating activities, net of working capital changes of $(666) million; reported $(74) million in Free Cash Flow net of working capital changes and $850 million of capital reinvestment to sustain current operations and advance high-return projects; excluding the stamp duty payment in connection with the Newcrest transaction, Newmont generated Free Cash Flow of $217 million5\nReported Net Income of $179 million, Adjusted Net Income (ANI) of $0.55 per share and Adjusted EBITDA of $1.7 billion for the quarter5\nDelivered $105 million in synergies to date from the Newcrest acquisition; on track to realize $500 million in annual synergies by the end of 20256\nFirmly on track to deliver 2024 guidance for production, costs and capital spend; full-year production expected to be second-half weighted as previously indicated7\nClassified six non-core assets and one project as held for sale, resulting in a non-cash impairment of $485 million\nRefinanced approximately $2 billion of debt acquired from the Newcrest acquisition; targeting a $1 billion debt reduction\nPublished 20th Annual Sustainability Report and 3rd Annual Taxes and Royalties Contribution Report, providing a transparent review of Newmont's ESG performance, tax strategy and economic contributions\n____________________\n\n1 Newmont\u2019s actual condensed consolidated financial results remain subject to completion and final review by management and external auditors for the quarter ended March 31, 2024. Newmont intends to file its Q1 2024 Form 10-Q on or about the close of business on April 29, 2024. See notes at the end of this release.\n\n2 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the first quarter of 2024, payable on June 27, 2024 to holders of record at the close of business on June 4, 2024.\n\n3 Gold equivalent ounces (GEOs) calculated using Gold ($1,400/oz.), Copper ($3.50/lb.), Silver ($20.00/oz.), Lead ($1.00/lb.) and Zinc ($1.20/lb.) pricing for 2024.\n\n4 Newmont\u2019s go-forward portfolio is focused on Tier 1 assets, consisting of (1) six managed Tier 1 assets (Boddington, Tanami, Cadia, Lihir, Pe\u00f1asquito and Ahafo), (2) assets owned through two non-managed joint ventures at Nevada Gold Mines and Pueblo Viejo, including four Tier 1 assets (Carlin, Cortez, Turquoise Ridge and Pueblo Viejo), (3) three emerging Tier 1 assets (Merian, Cerro Negro and Yanacocha), which do not currently meet the criteria for Tier 1 Asset, and (4) an emerging Tier 1 district in the Golden Triangle in British Columbia (Red Chris and Brucejack), which does not currently meet the criteria for Tier 1 Asset. Newmont\u2019s Tier 1 portfolio also includes attributable production from the Company\u2019s equity interest in Lundin Gold (Fruta del Norte). Tier 1 Portfolio cost and capital metrics include the proportional share of the Company\u2019s interest in the Nevada Gold Mines joint venture.\n\n5 Non-GAAP metrics; see reconciliations at the end of this release.\n\n6 Synergies are a management estimate provided for illustrative purposes and should not be considered a GAAP or non-GAAP financial measure. Synergies represent management\u2019s combined estimate of pre-tax synergies, supply chain efficiencies and Full Potential improvements, as a result of the integration of Newmont\u2019s and Newcrest\u2019s businesses that have been monetized for the purposes of the estimation. Such estimates are necessarily imprecise and are based on numerous judgments and assumptions. See cautionary statement at the end of this release regarding forward-looking statements.\n\n7 See discussion of outlook and cautionary statement at the end of this release regarding forward-looking statements.\n\nAdvancing Portfolio Optimization with Sale of Lundin Gold Financing Facilities\n\nNewmont announced today that Lundin Gold Inc. (Lundin Gold) has agreed to buy out 100 percent of the balance of the stream credit facility agreement and offtake agreement for the Fruta del Norte gold mine in Ecuador for total consideration of $330 million, payable in cash in two tranches: $180 million as of the expected closing date of June 28, 2024, and the remaining $150 million by September 30, 2024. Newmont has maintained its exposure to the Fruta del Norte operation through its equity interest in Lundin Gold.\n\nIn connection with the acquisition of Newcrest and the Company's strategy to create lasting value, Newmont committed to delivering at least $2 billion in near-term cash improvements through portfolio optimization within the first two years. The early repayment of the facilities is another step in delivering on this commitment as Newmont continues to build a more profitable and resilient future for the business.",
+ "boilerplate_paragraphs_removed": 3,
+ "summary": {
+  "n_sentences": 29,
+  "n_material_neg": 1,
+  "n_positive": 2,
+  "mean_pos_negative": 0.4827586206896552,
+  "mean_pos_positive": 0.603448275862069,
+  "placement_asymmetry": -0.12068965517241376,
+  "distance_from_headline": 12,
+  "first_negative_pos": 0.4827586206896552,
+  "hedge_near_negative": 0.01694915254237288,
+  "hedge_near_positive": 0.00819672131147541,
+  "hedging_asymmetry": 2.0677966101694913,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.5,
+  "overall_hedge": 0.0036363636363636364,
+  "mean_tone": 0.08982903506230078
+ },
+ "lexicon": {
+  "words": 825,
+  "per_1000": {
+   "Negative": 1.2,
+   "Positive": 9.7,
+   "Uncertainty": 2.4,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 4.8
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 8,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 4
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, TSX: NGT, ASX: NEM, PNGX: NEM) (Newmont or the Company) today announced first quarter 2024 results and declared a first quarter dividend of $0.25 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\"Newmont delivered a strong first quarter operational performance, producing 2.2 million gold equivalent ounces and generating over $1.4 billion in cash from operations before working capital changes,\" said Tom Palmer, Newmont's President and Chief Executive Officer.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"Underpinned by the gold industry's leading portfolio of Tier 1 gold and copper operations, we remain well-positioned to achieve our full-year guidance and deliver meaningful synergies and productivity improvements from the combined portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.882,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     121,
+     128,
+     [
+      "positive"
+     ]
+    ],
+    [
+     202,
+     214,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "We remain focused on delivering on the commitments we laid out at the beginning of this year, creating an attractive value proposition for new and existing investors during this unique time in the gold industry.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     50,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     106,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Q1 2024 Results1",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Delivered $288 million in dividends to shareholders; declared a dividend of $0.25 per share of common stock for the first quarter of 20242.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Announced sale of the Lundin Gold stream credit facility and offtake agreement (\"Lundin Gold Financing Facilities\") for $330 million, further monetizing Newmont\u2019s non-core assets while maintaining its equity interest in Lundin Gold.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Produced 1.7 million attributable gold ounces and 489 thousand gold equivalent ounces (GEOs)3 from copper, silver, lead and zinc; primarily driven by production of 1.4 million gold ounces from Newmont's Tier 1 Portfolio4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Reported gold Costs Applicable to Sales (CAS) per ounce of $1,057 and gold All-In Sustaining Costs (AISC) per ounce of $1,439; Newmont's Tier 1 Portfolio reported CAS of $1,000 per ounce and AISC of $1,378 per ounce5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Generated $776 million of cash from operating activities, net of working capital changes of $(666) million; reported $(74) million in Free Cash Flow net of working capital changes and $850 million of capital reinvestment to sustain current operations and advance high-return projects; excluding the stamp duty payment in connection with the Newcrest transaction, Newmont generated Free Cash Flow of $217 million5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Reported Net Income of $179 million, Adjusted Net Income (ANI) of $0.55 per share and Adjusted EBITDA of $1.7 billion for the quarter5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Delivered $105 million in synergies to date from the Newcrest acquisition; on track to realize $500 million in annual synergies by the end of 20256.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Firmly on track to deliver 2024 guidance for production, costs and capital spend; full-year production expected to be second-half weighted as previously indicated7.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Classified six non-core assets and one project as held for sale, resulting in a non-cash impairment of $485 million.",
+   "d": -1,
+   "m": true,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     89,
+     99,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Refinanced approximately $2 billion of debt acquired from the Newcrest acquisition; targeting a $1 billion debt reduction.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     11,
+     24,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Published 20th Annual Sustainability Report and 3rd Annual Taxes and Royalties Contribution Report, providing a transparent review of Newmont's ESG performance, tax strategy and economic contributions ____________________",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "1 Newmont\u2019s actual condensed consolidated financial results remain subject to completion and final review by management and external auditors for the quarter ended March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Newmont intends to file its Q1 2024 Form 10-Q on or about the close of business on April 29, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "See notes at the end of this release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "2 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the first quarter of 2024, payable on June 27, 2024 to holders of record at the close of business on June 4, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "3 Gold equivalent ounces (GEOs) calculated using Gold ($1,400/oz.), Copper ($3.50/lb.), Silver ($20.00/oz.), Lead ($1.00/lb.) and Zinc ($1.20/lb.) pricing for 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "4 Newmont\u2019s go-forward portfolio is focused on Tier 1 assets, consisting of (1) six managed Tier 1 assets (Boddington, Tanami, Cadia, Lihir, Pe\u00f1asquito and Ahafo), (2) assets owned through two non-managed joint ventures at Nevada Gold Mines and Pueblo Viejo, including four Tier 1 assets (Carlin, Cortez, Turquoise Ridge and Pueblo Viejo), (3) three emerging Tier 1 assets (Merian, Cerro Negro and Yanacocha), which do not currently meet the criteria for Tier 1 Asset, and (4) an emerging Tier 1 district in the Golden Triangle in British Columbia (Red Chris and Brucejack), which does not currently meet the criteria for Tier 1 Asset.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Newmont\u2019s Tier 1 portfolio also includes attributable production from the Company\u2019s equity interest in Lundin Gold (Fruta del Norte).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Tier 1 Portfolio cost and capital metrics include the proportional share of the Company\u2019s interest in the Nevada Gold Mines joint venture.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Advancing Portfolio Optimization with Sale of Lundin Gold Financing Facilities",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Newmont announced today that Lundin Gold Inc. (Lundin Gold) has agreed to buy out 100 percent of the balance of the stream credit facility agreement and offtake agreement for the Fruta del Norte gold mine in Ecuador for total consideration of $330 million, payable in cash in two tranches: $180 million as of the expected closing date of June 28, 2024, and the remaining $150 million by September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Newmont has maintained its exposure to the Fruta del Norte operation through its equity interest in Lundin Gold.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     27,
+     35,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "In connection with the acquisition of Newcrest and the Company's strategy to create lasting value, Newmont committed to delivering at least $2 billion in near-term cash improvements through portfolio optimization within the first two years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     116,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     169,
+     181,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "The early repayment of the facilities is another step in delivering on this commitment as Newmont continues to build a more profitable and resilient future for the business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     86,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     124,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
