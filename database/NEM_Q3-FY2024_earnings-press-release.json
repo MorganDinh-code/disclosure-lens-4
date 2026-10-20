@@ -1,0 +1,301 @@
+{
+ "company": "Newmont",
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-10-23",
+ "source_url": "https://www.newmont.com/investors/news-release/news-details/2024/Newmont-Reports-Third-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced third quarter 2024 results and declared a third quarter dividend of $0.25 per share.\n\n\u201cIn the third quarter, Newmont delivered 2.1 million gold equivalent ounces and generated $760 million in free cash flow from our world-class portfolio,\u201d said Tom Palmer, Newmont's President and Chief Executive Officer. \u201cWe continue to make meaningful progress on our non-core divestment program with the two transactions announced in the quarter, which are expected to deliver up to $1.5 billion in combined gross proceeds. Our divestiture progress and strong free cash flow generation have positioned us to continue reducing debt and repurchasing shares, creating significant and lasting value for our shareholders.\u201d\n\nQ3 2024 Results1\n\nAnnounced an agreement to sell the Akyem mine in Ghana for up to $1 billion in cash, as well as an agreement to divest the Telfer mine and 70 percent interest in the Havieron project in Western Australia for up to $475 million of gross proceeds\nContinue to expect to receive at least $2 billion in gross divestiture proceeds from high-quality, non-core asset sales, in addition to the $527 million dollars in cash already received from other investment sales since the beginning of 2024\nSince the last earnings release, repurchased 9.4 million shares at an average price of $53.16 for a total cost of $500 million, of which $198 million was repurchased during the third quarter2; $750 million of share repurchases completed since program announced in February 2024\nNewmont's Board authorized an additional $2 billion share repurchase program to be executed at the Company\u2019s discretion, utilizing open market repurchases to occur from time to time throughout the next 24 months3\nDelivered $786 million in total returns to shareholders through share repurchases and dividend payments2; declared a dividend of $0.25 per share of common stock for the third quarter of 20244\nSince the last earnings release, reduced nominal debt by $233 million for a cash cost of $210 million, of which $150 million was purchased during the third quarter and $83 million was purchased in October 2024; $483 million of debt retired year-to-date in 2024\nProduced 1.7 million attributable gold ounces, primarily driven by production of 1.4 million gold ounces from Newmont's Tier 1 Portfolio5, as well as 430 thousand gold equivalent ounces (GEOs)6 from copper, silver, zinc, and lead, including 37 thousand tonnes of copper\nGenerated $1.6 billion of cash from operating activities, net of working capital changes of $(209) million; reported $760 million in Free Cash Flow7\nReported Net Income of $924 million, Adjusted Net Income (ANI) of $0.81 per diluted share and Adjusted EBITDA of $2.0 billion7\nAchieved $500 million annual synergy run-rate following the Newcrest acquisition, reaching Newmont's commitment more than a year ahead of schedule8\nPositioned to meet Newmont's 2024 production guidance; expect to deliver attributable production of 1.8 million gold ounces at an All-In Sustaining Cost (AISC) of $1,475 per ounce in the fourth quarter9\nPartnered with MKS PAMP to launch a traceable mine-to-market gold bar; for sale through the largest U.S. wholesaler, providing consumers direct access to Newmont's gold and demonstrating a commitment to transparent sourcing\n \n1 Newmont\u2019s actual condensed consolidated financial results remain subject to completion and final review by management and external auditors for the quarter ended September 30, 2024. Newmont intends to file its Q3 2024 Form 10-Q on or about the close of business on October 24, 2024. See notes at the end of this releaseand cautionary statement regarding forward-looking statements.\n2 Total returns to shareholders includes $302 million of shares repurchased in October 2024.\n3The share repurchase program will be executed at the Company\u2019s discretion, utilizing open market repurchases to occur from time to time throughout authorization period, See cautionary statement regarding forward looking statements at end of this release.\n\n4Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the third quarter of 2024, payable on December 23, 2024 to holders of record at the close of business on November 27, 2024.\n\n5See cautionary statement and notes at the end of this release for definition of Tier 1 Portfolio.\n\n6Gold equivalent ounces (GEOs) calculated using Gold ($1,400/oz.), Copper ($3.50/lb.), Silver ($20.00/oz.), Lead ($1.00/lb.), and Zinc ($1.20/lb.) pricing for 2024.\n\n7Non-GAAP metrics; see reconciliations at the end of this release.",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 19,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.5263157894736842,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.003552397868561279,
+  "mean_tone": -0.013550423128146508
+ },
+ "lexicon": {
+  "words": 563,
+  "per_1000": {
+   "Negative": 8.9,
+   "Positive": 7.1,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 3.6
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 4,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced third quarter 2024 results and declared a third quarter dividend of $0.25 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\u201cIn the third quarter, Newmont delivered 2.1 million gold equivalent ounces and generated $760 million in free cash flow from our world-class portfolio,\u201d said Tom Palmer, Newmont's President and Chief Executive Officer. \u201cWe continue to make meaningful progress on our non-core divestment program with the two transactions announced in the quarter, which are expected to deliver up to $1.5 billion in combined gross proceeds.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     252,
+     260,
+     [
+      "positive"
+     ]
+    ],
+    [
+     277,
+     287,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Our divestiture progress and strong free cash flow generation have positioned us to continue reducing debt and repurchasing shares, creating significant and lasting value for our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     15,
+     [
+      "negative"
+     ]
+    ],
+    [
+     16,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     29,
+     35,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Q3 2024 Results1",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Announced an agreement to sell the Akyem mine in Ghana for up to $1 billion in cash, as well as an agreement to divest the Telfer mine and 70 percent interest in the Havieron project in Western Australia for up to $475 million of gross proceeds.",
+   "d": 0,
+   "m": false,
+   "tone": -0.233,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     118,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Continue to expect to receive at least $2 billion in gross divestiture proceeds from high-quality, non-core asset sales, in addition to the $527 million dollars in cash already received from other investment sales since the beginning of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": -0.27,
+   "h": 0.027,
+   "hits": [
+    [
+     59,
+     70,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Since the last earnings release, repurchased 9.4 million shares at an average price of $53.16 for a total cost of $500 million, of which $198 million was repurchased during the third quarter2; $750 million of share repurchases completed since program announced in February 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Newmont's Board authorized an additional $2 billion share repurchase program to be executed at the Company\u2019s discretion, utilizing open market repurchases to occur from time to time throughout the next 24 months3.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Delivered $786 million in total returns to shareholders through share repurchases and dividend payments2; declared a dividend of $0.25 per share of common stock for the third quarter of 20244.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Since the last earnings release, reduced nominal debt by $233 million for a cash cost of $210 million, of which $150 million was purchased during the third quarter and $83 million was purchased in October 2024; $483 million of debt retired year-to-date in 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Produced 1.7 million attributable gold ounces, primarily driven by production of 1.4 million gold ounces from Newmont's Tier 1 Portfolio5, as well as 430 thousand gold equivalent ounces (GEOs)6 from copper, silver, zinc, and lead, including 37 thousand tonnes of copper.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Generated $1.6 billion of cash from operating activities, net of working capital changes of $(209) million; reported $760 million in Free Cash Flow7.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Reported Net Income of $924 million, Adjusted Net Income (ANI) of $0.81 per diluted share and Adjusted EBITDA of $2.0 billion7.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Achieved $500 million annual synergy run-rate following the Newcrest acquisition, reaching Newmont's commitment more than a year ahead of schedule8.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     111,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Positioned to meet Newmont's 2024 production guidance; expect to deliver attributable production of 1.8 million gold ounces at an All-In Sustaining Cost (AISC) of $1,475 per ounce in the fourth quarter9.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Partnered with MKS PAMP to launch a traceable mine-to-market gold bar; for sale through the largest U.S. wholesaler, providing consumers direct access to Newmont's gold and demonstrating a commitment to transparent sourcing",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     189,
+     199,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "4Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the third quarter of 2024, payable on December 23, 2024 to holders of record at the close of business on November 27, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "5See cautionary statement and notes at the end of this release for definition of Tier 1 Portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     15,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "6Gold equivalent ounces (GEOs) calculated using Gold ($1,400/oz.), Copper ($3.50/lb.), Silver ($20.00/oz.), Lead ($1.00/lb.), and Zinc ($1.20/lb.) pricing for 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
