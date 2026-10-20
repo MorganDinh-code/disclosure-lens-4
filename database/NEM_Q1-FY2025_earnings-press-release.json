@@ -4,234 +4,61 @@
  "sector": "Materials",
  "filing_type": "Earnings press release",
  "period": "Q1 FY2025",
- "date": "2025-04-23",
- "source_url": "https://www.newmont.com/investors/news-release/news-details/2025/Newmont-Reports-First-Quarter-2025-Results/default.aspx",
+ "date": "2025-05-06",
+ "source_url": "https://ir.amd.com/news-events/press-releases/detail/1247/amd-reports-first-quarter-2025-financial-results",
  "demo": false,
- "source_text": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced first quarter 2025 results and declared a dividend of $0.251 per share.\n\n\"Following on from a robust fourth quarter performance, Newmont has delivered 1.5 million attributable gold ounces and generated a record first quarter free cash flow of $1.2 billion, demonstrating the strength of our unrivaled Tier 1 Portfolio,\u201d said Tom Palmer, Newmont's President and Chief Executive Officer. \"We also successfully completed our non-core divestiture program, generating up to $4.3 billion in total gross proceeds including over $2.5 billion of after-tax cash proceeds in the first half of 2025. With these significant achievements and a solid start to the year, we remain firmly on track to meet our 2025 guidance, continuing on our journey towards creating the world\u2019s leading gold and copper portfolio for the benefit of our shareholders.\"\n\nQ1 2025 Results\n\nReported Net Income of $1.9 billion, Adjusted Net Income (ANI)2of $1.25 per diluted share and Adjusted EBITDA2 of $2.6 billion\nOn track to meet Newmont's 2025 guidance3, with first quarter results in line with indications provided in February 2025\nCompleted divestiture program announced in 2024, and finalized the sales of Musselwhite, \u00c9l\u00e9onore and Cripple Creek & Victor (CC&V) in February, and Porcupine and Akyem in April4\nReceived over $2.5 billion in cash proceeds net of tax impacts from the divestiture sales closed in 2025, with total gross proceeds expected to total up to $4.3 billion from non-core asset and other investment sales\nGenerated $2.0 billion of cash from operating activities, net of working capital changes of $(141) million; reported a record first quarter Free Cash Flow2 of $1.2 billion\nDelivered $1.0 billion in total returns to shareholders through share repurchases and dividend payments since the start of the year; declared a dividend of $0.25 per share of common stock for the first quarter of 2025\nProduced 1.5 million attributable gold ounces, primarily driven by production of 1.3 million gold ounces from Newmont's Tier 1 Portfolio3, as well as 35 thousand tonnes of copper\nMaintained a strong and flexible investment-grade balance sheet, ending the quarter with $4.7 billion in cash and $8.8 billion in total liquidity5\nReduced debt by $1.0 billion since the start of the year6, which includes early redemption of $928 million of 2026 Notes redeemed on February 7, 2025 and $75 million in market purchases6; reported Net debt to Adjusted EBITDA2of 0.3x\n_____________________________\n1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the first quarter of 2025, payable on June 20, 2025 to holders of record at the close of business on May 27, 2025.\n\n2 Non-GAAP metrics; see reconciliations at the end of this release.\n\n3 See discussion of guidance, including the definition of the Tier 1 Portfolio, and cautionary statement at the end of this release regarding forward-looking statements.\n\n4 All previously announced operating sites have been divested, with the Coffee development project remaining designated as held for sale. No agreement has been reached with respect to Coffee as of the date of this release.\n\n5 Total liquidity as of March 31, 2025 includes $0.1 billion in cash for assets held for sale and $4.0 billion available on a revolving credit facility\n\n6 Total debt purchases include $22 million in April 2025.",
- "boilerplate_paragraphs_removed": 2,
+ "source_text": "SANTA CLARA, Calif., May 06, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the first quarter of 2025. First quarter revenue was $7.4 billion, gross margin was 50%, operating income was $806 million, net income was $709 million and diluted earnings per share was $0.44. On a non-GAAP(*) basis, gross margin was 54%, operating income was $1.8 billion, net income was $1.6 billion and diluted earnings per share was $0.96.\n\n\u201cWe delivered an outstanding start to 2025 as year-over-year growth accelerated for the fourth consecutive quarter driven by strength in our core businesses and expanding data center and AI momentum,\u201d said Dr. Lisa Su, AMD chair and CEO. \u201cDespite the dynamic macro and regulatory environment, our first quarter results and second quarter outlook highlight the strength of our differentiated product portfolio and consistent execution positioning us well for strong growth in 2025.\u201d\n\n\u201cWe grew first quarter revenue 36% year-over-year and delivered significant earnings leverage as our business gains scale,\u201d said AMD EVP, CFO and Treasurer Jean Hu. \u201cWe continue to invest in R&D and go-to-market initiatives, positioning the company for long-term growth and value creation for our shareholders.\u201d\n\nSegment Summary\n\nData Center segment revenue in the quarter was $3.7 billion, up 57% year-over-year primarily driven by growth in AMD EPYC\u2122 CPU and AMD Instinct\u2122 GPU sales.\nClient and Gaming segment revenue in the quarter was $2.9 billion, up 28% year-over-year. Client revenue was $2.3 billion, up 68% year-over-year primarily driven by strong demand for the latest \u201cZen 5\u201d AMD Ryzen\u2122 processors and a richer mix. Gaming revenue was $647 million, down 30% year-over-year primarily due to a decrease in semi-custom revenue.\nEmbedded segment revenue in the quarter was $823 million, down 3% year-over-year as demand in end markets remained mixed.\nRecent PR Highlights\n\nAMD closed the acquisition of ZT Systems, bringing together leadership systems and rack-level expertise with AMD GPU, CPU and networking silicon and open-source software to address the $500 billion data center AI accelerator opportunity in 2028.\nAMD expanded strategic partnerships aimed at delivering AMD AI solutions and continued to invest in enhancing developer tools and support:\nAMD continues to deepen support for frontier AI models on AMD Instinct GPUs with AMD ROCm\u2122 software, delivering day-zero support for the latest Meta AI Llama 4 models and Google Gemma 3 models.\nAMD delivers leadership inference performance on DeepSeek-R1, leveraging continuous optimization of the ROCm software stack and the latest vLLM offerings.\nCore42, G42\u2019s digital infrastructure company, announced it is broadly deploying AMD Instinct GPU technology to establish one of France's most powerful AI compute facilities.\nDell Technologies announced the expansion of its AI for Telecom offering powered by AMD.\nThe Commissariat \u00e0 l'\u00e9nergie atomique et aux \u00e9nergies alternatives (CEA) of France and AMD announced a collaboration to advance technologies, component and system architectures to shape the future of AI computing.\nAMD, Jio Platforms Limited, Cisco and Nokia announced the formation of a new Open Telecom AI Platform that will offer AI-driven solutions to enhance efficiency, security and capabilities.\nAMD announced support of the latest UALink 1.0 specification, an open, industry-standard, low-latency, high-bandwidth interconnect for scale-up AI.\nLeading hyperscalers continue expanding their deployments of AMD EPYC CPUs to power their internal infrastructure and public cloud offerings:\nOracle Cloud Infrastructure announced the OCI Compute E6 shapes, enabling impressive cost to performance improvements over its previous generation.\nGoogle Cloud announced C4D and H4D virtual machines delivering leadership performance, scalability, and efficiency for demanding general purpose and HPC cloud workloads.\nAMD is delivering incredible gaming and content creation experiences with the latest AMD Ryzen and Radeon\u2122 products and software:\nNew Radeon RX 9070 XT and RX 9070 graphics cards based on the AMD RDNA\u2122 4 graphics architecture offer gamers and creators a powerful blend of performance, visuals and value.\nAMD FidelityFX\u2122 Super Resolution 4 is an AI-accelerated frame generation technology that delivers incredible performance and image quality for gamers on the latest Radeon RX graphics cards.\nAMD Ryzen 9 9950X3D and Ryzen 9 9900X3D processors leverage 2nd Gen AMD 3D V-Cache\u2122 technology to deliver leadership performance and power efficiency.\nAMD expanded its portfolio for embedded markets:\nNew AMD EPYC Embedded 9005 Series processors deliver server-grade performance and energy efficiency combined with purpose-built features for networking, storage and industrial edge markets.\nAMD Versal\u2122 AI Edge XQRVE2302 adaptive SoCs are now available, bringing AI inferencing to space in a small form factor.\nNapatech and Druid Software announced the availability of a high-performance, energy-efficient 5G core powered by the AMD Virtex\u2122 UltraScale+\u2122 XCVU5P FPGA.\nCurrent Outlook\nAMD\u2019s outlook statements are based on current expectations. The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.\n\nFor the second quarter of 2025, AMD expects revenue to be approximately $7.4 billion, plus or minus $300 million. Non-GAAP gross margin is estimated to be 43% inclusive of approximately $800 million in charges for inventory and related reserves due to the new export controls as previously disclosed in AMD\u2019s Current Report on Form 8-K filed on April 16, 2025. Excluding this charge, non-GAAP gross margin would be approximately 54%.\n\n",
+ "boilerplate_paragraphs_removed": 0,
  "summary": {
-  "n_sentences": 18,
-  "n_material_neg": 0,
-  "n_positive": 4,
-  "mean_pos_positive": 0.4861111111111111,
-  "hedge_near_negative": null,
+  "n_sentences": 34,
+  "n_material_neg": 3,
+  "n_positive": 5,
+  "mean_pos_negative": 0.411764705882353,
+  "mean_pos_positive": 0.19411764705882353,
+  "placement_asymmetry": 0.21764705882352944,
+  "distance_from_headline": 6,
+  "first_negative_pos": 0.29411764705882354,
+  "hedge_near_negative": 0.0,
   "hedge_near_positive": 0.0,
   "hedging_asymmetry": null,
-  "overall_hedge": 0.0,
-  "mean_tone": 0.0009969338234712118
+  "framing_ratio": 0.3333333333333333,
+  "mean_tone_gap_on_negatives": 1.3333333333333333,
+  "overall_hedge": 0.00935672514619883,
+  "mean_tone": 0.19799338079014273
  },
  "lexicon": {
-  "words": 472,
+  "words": 855,
   "per_1000": {
-   "Negative": 8.5,
-   "Positive": 10.6,
-   "Uncertainty": 2.1,
-   "Litigious": 0.0,
-   "Strong modal": 0.0,
-   "Weak modal": 2.1,
-   "Constraining": 0.0
+   "Negative": 2.3,
+   "Positive": 29.2,
+   "Uncertainty": 8.2,
+   "Litigious": 1.2,
+   "Strong modal": 1.2,
+   "Weak modal": 3.5,
+   "Constraining": 1.2
   },
   "counts": {
-   "Negative": 4,
-   "Positive": 5,
-   "Uncertainty": 1,
-   "Litigious": 0,
-   "Strong modal": 0,
-   "Weak modal": 1,
-   "Constraining": 0
+   "Negative": 2,
+   "Positive": 25,
+   "Uncertainty": 7,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 3,
+   "Constraining": 1
   }
  },
  "sentences": [
   {
    "i": 1,
-   "t": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced first quarter 2025 results and declared a dividend of $0.251 per share.",
-   "d": 0,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 2,
-   "t": "\"Following on from a robust fourth quarter performance, Newmont has delivered 1.5 million attributable gold ounces and generated a record first quarter free cash flow of $1.2 billion, demonstrating the strength of our unrivaled Tier 1 Portfolio,\u201d said Tom Palmer, Newmont's President and Chief Executive Officer.",
-   "d": 1,
-   "m": false,
-   "tone": 0.233,
-   "h": 0.0,
-   "hits": [
-    [
-     202,
-     210,
-     [
-      "positive"
-     ]
-    ]
-   ]
-  },
-  {
-   "i": 3,
-   "t": "\"We also successfully completed our non-core divestiture program, generating up to $4.3 billion in total gross proceeds including over $2.5 billion of after-tax cash proceeds in the first half of 2025.",
+   "t": "SANTA CLARA, Calif., May 06, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the first quarter of 2025.",
    "d": 0,
    "m": false,
    "tone": 0.0,
    "h": 0.0,
    "hits": [
     [
-     9,
      21,
-     [
-      "positive"
-     ]
-    ],
-    [
-     45,
-     56,
-     [
-      "negative"
-     ]
-    ]
-   ]
-  },
-  {
-   "i": 4,
-   "t": "With these significant achievements and a solid start to the year, we remain firmly on track to meet our 2025 guidance, continuing on our journey towards creating the world\u2019s leading gold and copper portfolio for the benefit of our shareholders.\"",
-   "d": 0,
-   "m": false,
-   "tone": 0.5,
-   "h": 0.0,
-   "hits": [
-    [
-     23,
-     35,
-     [
-      "positive"
-     ]
-    ],
-    [
-     175,
-     182,
-     [
-      "positive"
-     ]
-    ]
-   ]
-  },
-  {
-   "i": 5,
-   "t": "Q1 2025 Results",
-   "d": 0,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 6,
-   "t": "Reported Net Income of $1.9 billion, Adjusted Net Income (ANI)2of $1.25 per diluted share and Adjusted EBITDA2 of $2.6 billion.",
-   "d": 0,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 7,
-   "t": "On track to meet Newmont's 2025 guidance3, with first quarter results in line with indications provided in February 2025.",
-   "d": 0,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 8,
-   "t": "Completed divestiture program announced in 2024, and finalized the sales of Musselwhite, \u00c9l\u00e9onore and Cripple Creek & Victor (CC&V) in February, and Porcupine and Akyem in April4.",
-   "d": 0,
-   "m": false,
-   "tone": -0.37,
-   "h": 0.0,
-   "hits": [
-    [
-     10,
-     21,
-     [
-      "negative"
-     ]
-    ]
-   ]
-  },
-  {
-   "i": 9,
-   "t": "Received over $2.5 billion in cash proceeds net of tax impacts from the divestiture sales closed in 2025, with total gross proceeds expected to total up to $4.3 billion from non-core asset and other investment sales.",
-   "d": 1,
-   "m": false,
-   "tone": -0.294,
-   "h": 0.0,
-   "hits": [
-    [
-     72,
-     83,
-     [
-      "negative"
-     ]
-    ]
-   ]
-  },
-  {
-   "i": 10,
-   "t": "Generated $2.0 billion of cash from operating activities, net of working capital changes of $(141) million; reported a record first quarter Free Cash Flow2 of $1.2 billion.",
-   "d": 1,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 11,
-   "t": "Delivered $1.0 billion in total returns to shareholders through share repurchases and dividend payments since the start of the year; declared a dividend of $0.25 per share of common stock for the first quarter of 2025.",
-   "d": 0,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 12,
-   "t": "Produced 1.5 million attributable gold ounces, primarily driven by production of 1.3 million gold ounces from Newmont's Tier 1 Portfolio3, as well as 35 thousand tonnes of copper.",
-   "d": 0,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": []
-  },
-  {
-   "i": 13,
-   "t": "Maintained a strong and flexible investment-grade balance sheet, ending the quarter with $4.7 billion in cash and $8.8 billion in total liquidity5.",
-   "d": 0,
-   "m": false,
-   "tone": 0.476,
-   "h": 0.0,
-   "hits": [
-    [
-     13,
-     19,
-     [
-      "positive"
-     ]
-    ]
-   ]
-  },
-  {
-   "i": 14,
-   "t": "Reduced debt by $1.0 billion since the start of the year6, which includes early redemption of $928 million of 2026 Notes redeemed on February 7, 2025 and $75 million in market purchases6; reported Net debt to Adjusted EBITDA2of 0.3x _____________________________ 1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the first quarter of 2025, payable on June 20, 2025 to holders of record at the close of business on May 27, 2025.",
-   "d": 1,
-   "m": false,
-   "tone": 0.0,
-   "h": 0.0,
-   "hits": [
-    [
-     454,
-     457,
+     24,
      [
       "uncertainty",
       "weak_modal"
@@ -240,25 +67,217 @@
    ]
   },
   {
-   "i": 15,
-   "t": "4 All previously announced operating sites have been divested, with the Coffee development project remaining designated as held for sale.",
+   "i": 2,
+   "t": "First quarter revenue was $7.4 billion, gross margin was 50%, operating income was $806 million, net income was $709 million and diluted earnings per share was $0.44.",
    "d": 0,
    "m": false,
-   "tone": -0.526,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "On a non-GAAP(*) basis, gross margin was 54%, operating income was $1.8 billion, net income was $1.6 billion and diluted earnings per share was $0.96.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\u201cWe delivered an outstanding start to 2025 as year-over-year growth accelerated for the fourth consecutive quarter driven by strength in our core businesses and expanding data center and AI momentum,\u201d said Dr. Lisa Su, AMD chair and CEO. \u201cDespite the dynamic macro and regulatory environment, our first quarter results and second quarter outlook highlight the strength of our differentiated product portfolio and consistent execution positioning us well for strong growth in 2025.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
    "h": 0.0,
    "hits": [
     [
-     53,
-     61,
+     125,
+     133,
      [
-      "negative"
+      "positive"
+     ]
+    ],
+    [
+     239,
+     246,
+     [
+      "positive"
+     ]
+    ],
+    [
+     269,
+     279,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     360,
+     368,
+     [
+      "positive"
+     ]
+    ],
+    [
+     458,
+     464,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "\u201cWe grew first quarter revenue 36% year-over-year and delivered significant earnings leverage as our business gains scale,\u201d said AMD EVP, CFO and Treasurer Jean Hu. \u201cWe continue to invest in R&D and go-to-market initiatives, positioning the company for long-term growth and value creation for our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.196,
+   "h": 0.0,
+   "hits": [
+    [
+     110,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Segment Summary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Data Center segment revenue in the quarter was $3.7 billion, up 57% year-over-year primarily driven by growth in AMD EPYC\u2122 CPU and AMD Instinct\u2122 GPU sales.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Client and Gaming segment revenue in the quarter was $2.9 billion, up 28% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Client revenue was $2.3 billion, up 68% year-over-year primarily driven by strong demand for the latest \u201cZen 5\u201d AMD Ryzen\u2122 processors and a richer mix.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Gaming revenue was $647 million, down 30% year-over-year primarily due to a decrease in semi-custom revenue.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Embedded segment revenue in the quarter was $823 million, down 3% year-over-year as demand in end markets remained mixed.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Recent PR Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "AMD closed the acquisition of ZT Systems, bringing together leadership systems and rack-level expertise with AMD GPU, CPU and networking silicon and open-source software to address the $500 billion data center AI accelerator opportunity in 2028.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     70,
+     [
+      "positive"
+     ]
+    ],
+    [
+     225,
+     236,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "AMD expanded strategic partnerships aimed at delivering AMD AI solutions and continued to invest in enhancing developer tools and support: AMD continues to deepen support for frontier AI models on AMD Instinct GPUs with AMD ROCm\u2122 software, delivering day-zero support for the latest Meta AI Llama 4 models and Google Gemma 3 models.",
+   "d": 0,
+   "m": false,
+   "tone": 0.192,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "AMD delivers leadership inference performance on DeepSeek-R1, leveraging continuous optimization of the ROCm software stack and the latest vLLM offerings.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     23,
+     [
+      "positive"
      ]
     ]
    ]
   },
   {
    "i": 16,
-   "t": "No agreement has been reached with respect to Coffee as of the date of this release.",
+   "t": "Core42, G42\u2019s digital infrastructure company, announced it is broadly deploying AMD Instinct GPU technology to establish one of France's most powerful AI compute facilities.",
    "d": 0,
    "m": false,
    "tone": 0.0,
@@ -267,7 +286,7 @@
   },
   {
    "i": 17,
-   "t": "5 Total liquidity as of March 31, 2025 includes $0.1 billion in cash for assets held for sale and $4.0 billion available on a revolving credit facility",
+   "t": "Dell Technologies announced the expansion of its AI for Telecom offering powered by AMD.",
    "d": 0,
    "m": false,
    "tone": 0.0,
@@ -276,12 +295,340 @@
   },
   {
    "i": 18,
-   "t": "6 Total debt purchases include $22 million in April 2025.",
+   "t": "The Commissariat \u00e0 l'\u00e9nergie atomique et aux \u00e9nergies alternatives (CEA) of France and AMD announced a collaboration to advance technologies, component and system architectures to shape the future of AI computing.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "AMD, Jio Platforms Limited, Cisco and Nokia announced the formation of a new Open Telecom AI Platform that will offer AI-driven solutions to enhance efficiency, security and capabilities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     111,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     141,
+     148,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "AMD announced support of the latest UALink 1.0 specification, an open, industry-standard, low-latency, high-bandwidth interconnect for scale-up AI.",
    "d": 0,
    "m": false,
    "tone": 0.0,
    "h": 0.0,
    "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Leading hyperscalers continue expanding their deployments of AMD EPYC CPUs to power their internal infrastructure and public cloud offerings: Oracle Cloud Infrastructure announced the OCI Compute E6 shapes, enabling impressive cost to performance improvements over its previous generation.",
+   "d": -1,
+   "m": true,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     207,
+     215,
+     [
+      "positive"
+     ]
+    ],
+    [
+     216,
+     226,
+     [
+      "positive"
+     ]
+    ],
+    [
+     247,
+     259,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Google Cloud announced C4D and H4D virtual machines delivering leadership performance, scalability, and efficiency for demanding general purpose and HPC cloud workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     104,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "AMD is delivering incredible gaming and content creation experiences with the latest AMD Ryzen and Radeon\u2122 products and software: New Radeon RX 9070 XT and RX 9070 graphics cards based on the AMD RDNA\u2122 4 graphics architecture offer gamers and creators a powerful blend of performance, visuals and value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.217,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "AMD FidelityFX\u2122 Super Resolution 4 is an AI-accelerated frame generation technology that delivers incredible performance and image quality for gamers on the latest Radeon RX graphics cards.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "AMD Ryzen 9 9950X3D and Ryzen 9 9900X3D processors leverage 2nd Gen AMD 3D V-Cache\u2122 technology to deliver leadership performance and power efficiency.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     149,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "AMD expanded its portfolio for embedded markets: New AMD EPYC Embedded 9005 Series processors deliver server-grade performance and energy efficiency combined with purpose-built features for networking, storage and industrial edge markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     138,
+     148,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "AMD Versal\u2122 AI Edge XQRVE2302 adaptive SoCs are now available, bringing AI inferencing to space in a small form factor.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Napatech and Druid Software announced the availability of a high-performance, energy-efficient 5G core powered by the AMD Virtex\u2122 UltraScale+\u2122 XCVU5P FPGA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Current Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "AMD\u2019s outlook statements are based on current expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.",
+   "d": 0,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.16,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     70,
+     76,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     97,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "For the second quarter of 2025, AMD expects revenue to be approximately $7.4 billion, plus or minus $300 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Non-GAAP gross margin is estimated to be 43% inclusive of approximately $800 million in charges for inventory and related reserves due to the new export controls as previously disclosed in AMD\u2019s Current Report on Form 8-K filed on April 16, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": -0.256,
+   "h": 0.0256,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     176,
+     185,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Excluding this charge, non-GAAP gross margin would be approximately 54%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     54,
+     67,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
   }
  ]
 }
