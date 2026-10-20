@@ -1,0 +1,501 @@
+{
+ "company": "Vulcan Materials Company",
+ "ticker": "VMC",
+ "sector": "Materials",
+ "filing_type": "Prepared remarks",
+ "period": "Q2 FY2025",
+ "date": "2025-07-31",
+ "source_url": "https://assets.contentstack.io/v3/assets/bltfd7cf707acd5b8e3/blt42b1624623f685af/69033a7b600e9e393bd226ab/VMC-2Q2025-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "Price Discipline and Cost Performance Drive Continued\nEarnings Growth and Margin Expansion\nStrong Execution in Aggregates Business Underpins Reaffirmed\nFull Year Earnings Outlook\nBirmingham, Alabama \u2013 July 31, 2025 \u2013 Vulcan Materials Company (NYSE: VMC), the nation\u2019s\nlargest producer of construction aggregates, today announced results for the quarter ended June 30,\n2025. \n\nTom Hill, Vulcan Materials\u2019 Chairman and Chief Executive Officer, said, \u201cOur second quarter results\nreflected another quarter of outstanding execution, and we carry good momentum into the remainder of\nthe year. Despite weather challenges, our pricing discipline and excellent cost performance have led to a\n13 percent increase in aggregates cash gross profit per ton, a 16 percent improvement in Adjusted\nEBITDA and Adjusted EBITDA margin expansion of 260 basis points through the first half of the\nyear.\u201d\n\nSecond Quarter Segment Results\nAggregates\nContinued pricing discipline and operational execution drove earnings growth and margin expansion\ndespite lower shipments and challenging weather conditions throughout the quarter. Segment gross\nprofit increased to $560 million ($9.44 per ton), and gross profit margin expanded to 33.9 percent. Cash\ngross profit per ton increased 9 percent to $11.88 per ton. On a trailing-twelve months basis, cash gross\nprofit per ton was $11.25, increasing 13 percent over the prior year and marking a tenth consecutive\nquarter of double-digit compounding improvement in unit profitability.\n\nSecond quarter aggregates shipments decreased 1 percent as compared to the prior year due in part to\nsignificant rainfall in many key Southeastern markets throughout much of the quarter. Price growth was\nwidespread, and freight-adjusted selling prices increased 5 percent (8 percent on a mix-adjusted basis) as\ncompared to the prior year. In addition to the anticipated impact of recent acquisitions, second quarter\nreported price was also impacted by unfavorable legacy geographic mix due to the inclement weather in\nthe Southeast. Freight-adjusted unit cash cost of sales increased a modest 1 percent ($0.15 per ton) as a\nresult of continued operating cost discipline despite challenging weather conditions.\n\nAsphalt and Concrete\nAsphalt segment gross profit was $57 million, and cash gross profit was $71 million. Despite lower\nshipments, unit cash gross profit improved 5 percent, and gross profit margin remained a solid 15.5\npercent. Concrete segment gross profit was 8 million, and cash gross profit was $27 million. Unit cash\ngross profit increased 30 percent, due mostly to the contribution of acquired operations.\nSelling, Administrative and General (SAG)\nSAG expense in the second quarter was $144 million, or 6.9 percent of total revenues. On a trailingtwelve months basis, SAG expense was $550 million, or 7.2 percent as a percentage of total revenues\n10 basis points lower than the prior year.\n\n\nFinancial Position, Liquidity and Capital Allocation\nThe Company remains well positioned for continued growth with a strong liquidity position and balance\nsheet profile. Capital expenditures for maintenance and growth projects were $102 million in the second\nquarter, and the Company returned $65 million to shareholders through dividends, a 6 percent increase\nversus the prior year.\n\nAs of June 30th, 2025, the ratio of total debt to trailing-twelve months Adjusted EBITDA was 2.2 times\n(2.1 times on a net debt basis) and within the Company\u2019s target range of 2.0 to 2.5 times. On a trailingtwelve months basis, return on average invested capital was 15.9 percent.\n\nOutlook\nRegarding the Company\u2019s outlook, Mr. Hill said, \u201cOur execution in the first half of the year along with\nan acceleration in new highway construction activity in our markets supports our full-year outlook to\ndeliver $2.35 to $2.55 billion of Adjusted EBITDA. As always, we will remain focused on factors\nwithin our control, including pricing and operating disciplines that drive earnings growth and cash\ngeneration.\u201d ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 2,
+  "n_positive": 12,
+  "mean_pos_negative": 0.6029411764705882,
+  "mean_pos_positive": 0.5318627450980392,
+  "placement_asymmetry": 0.07107843137254899,
+  "distance_from_headline": 9,
+  "first_negative_pos": 0.4411764705882353,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.002503654970760234,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0017452006980802793,
+  "mean_tone": 0.11486100198111045
+ },
+ "lexicon": {
+  "words": 573,
+  "per_1000": {
+   "Negative": 7.0,
+   "Positive": 20.9,
+   "Uncertainty": 1.7,
+   "Litigious": 0.0,
+   "Strong modal": 3.5,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 12,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Price Discipline and Cost Performance Drive Continued.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Earnings Growth and Margin Expansion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Strong Execution in Aggregates Business Underpins Reaffirmed.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Full Year Earnings Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Birmingham, Alabama \u2013 July 31, 2025 \u2013 Vulcan Materials Company (NYSE: VMC), the nation\u2019s largest producer of construction aggregates, today announced results for the quarter ended June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Tom Hill, Vulcan Materials\u2019 Chairman and Chief Executive Officer, said, \u201cOur second quarter results reflected another quarter of outstanding execution, and we carry good momentum into the remainder of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     165,
+     169,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Despite weather challenges, our pricing discipline and excellent cost performance have led to a 13 percent increase in aggregates cash gross profit per ton, a 16 percent improvement in Adjusted.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     16,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     55,
+     64,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     181,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "EBITDA and Adjusted EBITDA margin expansion of 260 basis points through the first half of the year.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Second Quarter Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Aggregates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Continued pricing discipline and operational execution drove earnings growth and margin expansion despite lower shipments and challenging weather conditions throughout the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     105,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     137,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Segment gross profit increased to $560 million ($9.44 per ton), and gross profit margin expanded to 33.9 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Cash gross profit per ton increased 9 percent to $11.88 per ton.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "On a trailing-twelve months basis, cash gross profit per ton was $11.25, increasing 13 percent over the prior year and marking a tenth consecutive quarter of double-digit compounding improvement in unit profitability.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     183,
+     194,
+     [
+      "positive"
+     ]
+    ],
+    [
+     203,
+     216,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Second quarter aggregates shipments decreased 1 percent as compared to the prior year due in part to significant rainfall in many key Southeastern markets throughout much of the quarter.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Price growth was widespread, and freight-adjusted selling prices increased 5 percent (8 percent on a mix-adjusted basis) as compared to the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "In addition to the anticipated impact of recent acquisitions, second quarter reported price was also impacted by unfavorable legacy geographic mix due to the inclement weather in the Southeast.",
+   "d": 0,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0345,
+   "hits": [
+    [
+     19,
+     30,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     113,
+     124,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Freight-adjusted unit cash cost of sales increased a modest 1 percent ($0.15 per ton) as a result of continued operating cost discipline despite challenging weather conditions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     144,
+     [
+      "positive"
+     ]
+    ],
+    [
+     145,
+     156,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Asphalt and Concrete.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Asphalt segment gross profit was $57 million, and cash gross profit was $71 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Despite lower shipments, unit cash gross profit improved 5 percent, and gross profit margin remained a solid 15.5 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     48,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Concrete segment gross profit was 8 million, and cash gross profit was $27 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Unit cash gross profit increased 30 percent, due mostly to the contribution of acquired operations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Selling, Administrative and General (SAG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "SAG expense in the second quarter was $144 million, or 6.9 percent of total revenues.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "On a trailingtwelve months basis, SAG expense was $550 million, or 7.2 percent as a percentage of total revenues 10 basis points lower than the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Financial Position, Liquidity and Capital Allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "The Company remains well positioned for continued growth with a strong liquidity position and balance sheet profile.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Capital expenditures for maintenance and growth projects were $102 million in the second quarter, and the Company returned $65 million to shareholders through dividends, a 6 percent increase versus the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As of June 30th, 2025, the ratio of total debt to trailing-twelve months Adjusted EBITDA was 2.2 times (2.1 times on a net debt basis) and within the Company\u2019s target range of 2.0 to 2.5 times.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "On a trailingtwelve months basis, return on average invested capital was 15.9 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Regarding the Company\u2019s outlook, Mr. Hill said, \u201cOur execution in the first half of the year along with an acceleration in new highway construction activity in our markets supports our full-year outlook to deliver $2.35 to $2.55 billion of Adjusted EBITDA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "As always, we will remain focused on factors within our control, including pricing and operating disciplines that drive earnings growth and cash generation.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     9,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     14,
+     18,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
