@@ -1,0 +1,339 @@
+{
+ "company": "Newmont",
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-24",
+ "source_url": "https://www.newmont.com/investors/news-release/news-details/2025/Newmont-Reports-Second-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced second quarter 2025 results, an additional $3.0 billion share repurchase program and declared a dividend of $0.251 per share.\n\n\"Newmont delivered a strong second quarter, producing approximately 1.5 million attributable gold ounces and generating an all time record quarterly free cash flow of $1.7 billion, underscoring the strength of our world-class portfolio and the disciplined execution of the commitments we shared at the beginning of the year,\" said Tom Palmer, Newmont's Chief Executive Officer. \"We remain firmly on track to achieve our 2025 guidance as we continue to strengthen our safety culture, stabilize our operations and deliver long term value to shareholders.\"\n\nQ2 2025 Results\n\nReported Net Income of $2.1 billion, Adjusted Net Income (ANI) 2 of $1.6 billion equating to $1.43 per diluted share and Adjusted EBITDA 2 of $3.0 billion\nOn track to meet Newmont's 2025 guidance 3, with second quarter results in line with indications provided in February 2025\nExpect to receive more than $3.0 billion in after tax cash proceeds from the divestiture program this year including approximately $2.5 billion from divested assets 4 and approximately $470 million from the sale of equity shares in Greatland Resources and Discovery Silver 5\nGenerated $2.4 billion of cash from operating activities, net of working capital contribution of $156 million; reported record Free Cash Flow 2 of $1.7 billion\nReturned $1.0 billion of capital to shareholders through share repurchases and dividend payments since the last earnings call 6; declared a dividend of $0.25 per share of common stock for the second quarter of 2025\nNewmont's Board authorized an additional $3.0 billion share repurchase program to be executed at the Company's discretion 7\nProduced 1.5 million gold ounces from Newmont's Core Portfolio, as well as 36 thousand tonnes of copper\nMaintained a strong and flexible investment-grade balance sheet, ending the quarter with $6.2 billion in cash and $10.2 billion in total liquidity 8\nReduced debt by $372 million since the last earnings call; reported Net debt to Adjusted EBITDA 2 of 0.1x\nPublished 21st Annual Sustainability Report and 4th Annual Taxes and Royalties Contribution Report, providing a transparent review of Newmont's sustainability performance and economic contributions to the communities where we operate\n_____________________________\n1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the second quarter of 2025, payable on September 29, 2025 to holders of record at the close of business on September 4, 2025.\n\n2 Non-GAAP metrics; see reconciliations at the end of this release.\n\n3 See discussion of guidance and cautionary statement at the end of this release regarding forward-looking statements.\n\n4 All operating sites previously announced for divestment have been sold, with the Coffee development project remaining designated as held for sale. No agreement has been reached with respect to Coffee as of the date of this release.\n\n5 Shares in Greatland Resources were received as part of the sale consideration for Telfer and Havieron and shares in Discovery Silver Corp were received as part of the sale consideration for Porcupine. For further details see the 'Divestiture Program Update' section below. $470 million of net proceeds from sale of equity shares includes $140 million of Discovery share sales in July.\n\n6 Includes $605 million of share repurchases in the second quarter of 2025 after April 24, 2025 and $145 million of share repurchases settled in July 2025.\n\n7 The share repurchase program will be executed at the Company's discretion. The share repurchase program permits shares to be repurchased in a variety of methods, has no time limit and may be suspended or discontinued at any time. See cautionary statement regarding forward-looking statements at end of this release.\n\n8 Total liquidity as of June 30, 2025 includes $4.0 billion available on a revolving credit facility.",
+ "boilerplate_paragraphs_removed": 3,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.44047619047619047,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.010488505747126436,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.007905138339920948,
+  "mean_tone": 0.04019307528079458
+ },
+ "lexicon": {
+  "words": 506,
+  "per_1000": {
+   "Negative": 7.9,
+   "Positive": 11.9,
+   "Uncertainty": 5.9,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 2.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 6,
+   "Uncertainty": 3,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced second quarter 2025 results, an additional $3.0 billion share repurchase program and declared a dividend of $0.251 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\"Newmont delivered a strong second quarter, producing approximately 1.5 million attributable gold ounces and generating an all time record quarterly free cash flow of $1.7 billion, underscoring the strength of our world-class portfolio and the disciplined execution of the commitments we shared at the beginning of the year,\" said Tom Palmer, Newmont's Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0185,
+   "hits": [
+    [
+     21,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     54,
+     67,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     198,
+     206,
+     [
+      "positive"
+     ]
+    ],
+    [
+     273,
+     284,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"We remain firmly on track to achieve our 2025 guidance as we continue to strengthen our safety culture, stabilize our operations and deliver long term value to shareholders.\"",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     37,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     84,
+     [
+      "positive"
+     ]
+    ],
+    [
+     105,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Q2 2025 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Reported Net Income of $2.1 billion, Adjusted Net Income (ANI) 2 of $1.6 billion equating to $1.43 per diluted share and Adjusted EBITDA 2 of $3.0 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "On track to meet Newmont's 2025 guidance 3, with second quarter results in line with indications provided in February 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Expect to receive more than $3.0 billion in after tax cash proceeds from the divestiture program this year including approximately $2.5 billion from divested assets 4 and approximately $470 million from the sale of equity shares in Greatland Resources and Discovery Silver 5.",
+   "d": 0,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0789,
+   "hits": [
+    [
+     77,
+     88,
+     [
+      "negative"
+     ]
+    ],
+    [
+     117,
+     130,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     149,
+     157,
+     [
+      "negative"
+     ]
+    ],
+    [
+     171,
+     184,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Generated $2.4 billion of cash from operating activities, net of working capital contribution of $156 million; reported record Free Cash Flow 2 of $1.7 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Returned $1.0 billion of capital to shareholders through share repurchases and dividend payments since the last earnings call 6; declared a dividend of $0.25 per share of common stock for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Newmont's Board authorized an additional $3.0 billion share repurchase program to be executed at the Company's discretion 7.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Produced 1.5 million gold ounces from Newmont's Core Portfolio, as well as 36 thousand tonnes of copper.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Maintained a strong and flexible investment-grade balance sheet, ending the quarter with $6.2 billion in cash and $10.2 billion in total liquidity 8.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Reduced debt by $372 million since the last earnings call; reported Net debt to Adjusted EBITDA 2 of 0.1x.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Published 21st Annual Sustainability Report and 4th Annual Taxes and Royalties Contribution Report, providing a transparent review of Newmont's sustainability performance and economic contributions to the communities where we operate _____________________________ 1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the second quarter of 2025, payable on September 29, 2025 to holders of record at the close of business on September 4, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "4 All operating sites previously announced for divestment have been sold, with the Coffee development project remaining designated as held for sale.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     57,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "No agreement has been reached with respect to Coffee as of the date of this release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "5 Shares in Greatland Resources were received as part of the sale consideration for Telfer and Havieron and shares in Discovery Silver Corp were received as part of the sale consideration for Porcupine.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "For further details see the 'Divestiture Program Update' section below.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "$470 million of net proceeds from sale of equity shares includes $140 million of Discovery share sales in July.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "6 Includes $605 million of share repurchases in the second quarter of 2025 after April 24, 2025 and $145 million of share repurchases settled in July 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "8 Total liquidity as of June 30, 2025 includes $4.0 billion available on a revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
