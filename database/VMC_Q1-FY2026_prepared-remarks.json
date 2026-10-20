@@ -1,0 +1,495 @@
+{
+ "company": "Vulcan Materials Company",
+ "ticker": "VMC",
+ "sector": "Materials",
+ "filing_type": "Prepared remarks",
+ "period": "Q1 FY2026",
+ "date": "2026-04-09",
+ "source_url": "https://assets.contentstack.io/v3/assets/bltfd7cf707acd5b8e3/bltf3bcdcb1117cff74/69f1e11f8a644dd450a6cbff/VMC_1Q_2026_Earnings_Release.pdf",
+ "demo": false,
+ "source_text": "Ronnie Pruitt, Vulcan Materials\u2019 Chief Executive Officer, said, \u201cThe combination of our\nadvantaged aggregates-led business and consistent focus on our strategic disciplines resulted in\nAdjusted EBITDA growth of 9 percent and margin expansion in the first quarter. Our strategy\nand execution, enhanced by innovation and technology, position us well to deliver strong\nearnings growth and cash generation. With this focus, and the financial strength and flexibility\nto grow, we will continue to drive sustainable value creation and win the future in aggregates.\u201d \n\nSegment Results\nAggregates\nSegment gross profit increased 12 percent to $400 million ($8.01 per ton), and gross profit\nmargin expanded 90 basis points to 27.6 percent. Widespread pricing growth and effective cost\ncontrol from operational execution drove cash gross profit per ton to $10.93.\nAs compared to the prior year, first quarter aggregates shipments increased 5 percent, supported\nby large projects and continued growth in public construction activity, as well as more typical\nweather in some markets. Shipments in the prior year\u2019s first quarter were impacted by severe\nwinter weather conditions.\n\nPrice increases effective at the beginning of the year resulted in widespread pricing growth\nacross the Company\u2019s footprint. Freight-adjusted selling prices increased 4 percent on a mixadjusted basis (3.5 percent, or $0.77 per ton, on a reported basis) as compared to the prior year\u2019s\nfirst quarter. Consistent with expectations, freight-adjusted unit cash cost of sales increased 4\npercent, or $0.47 per ton, over the prior year.\n\nAsphalt and Concrete\nNon-aggregates segment gross profit in the first quarter was $22 million, and cash gross profit\nwas $38 million. Asphalt gross profit margin improved sharply compared to the prior year\u2019s first\nquarter. Shipments increased 2 percent, and price improved 3 percent. First quarter results in\nthe prior year included the Company\u2019s Houston asphalt and construction business that was\ndivested in the fourth quarter of 2025. Gross profit margin in the Concrete segment expanded to\n5 percent. First quarter results included the Company\u2019s California ready-mixed concrete\nbusiness. The disposition of these assets is expected to close in the second quarter, subject to\nfinal regulatory approvals and other customary closing conditions.\n\nSelling, Administrative and General (SAG)\nSAG expense in the quarter was $136 million, 2 percent lower than the prior year and 80 basis\npoints lower as a percentage of revenue. On a trailing-twelve months basis, SAG expense as a\npercent of total revenues was 7.0 percent and 20 basis points lower than the prior year.\n\nFinancial Position, Liquidity and Capital Allocation\nThe Company remains well positioned for continued growth with a strong liquidity position and\nbalance sheet profile. As of March 31, 2026, the ratio of total debt to trailing-twelve months\nAdjusted EBITDA was 1.9 times and below the Company\u2019s target range of 2.0 to 2.5 times. On\na trailing-twelve months basis, return on average invested capital was 16.0 percent.\nCapital expenditures for maintenance and growth projects were $90 million in the first quarter,\nand the Company returned $217 million to shareholders through $149 million of common stock\nrepurchases and $68 million of dividends. \n\nOutlook\nRegarding the Company\u2019s outlook, Mr. Pruitt said, \u201cWe reiterate our full-year outlook to deliver\nbetween $2.4 and $2.6 billion of Adjusted EBITDA. Our execution in the first quarter, in\naddition to a healthy backlog supported by large projects and public construction activity, gives\nus good momentum heading into the rest of the year. We continue to monitor the potential\nimpacts from geopolitical uncertainty but, as always, will remain focused on what we can control\nto drive durable growth.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 1,
+  "n_positive": 14,
+  "mean_pos_negative": 0.7058823529411765,
+  "mean_pos_positive": 0.43487394957983194,
+  "placement_asymmetry": 0.2710084033613446,
+  "distance_from_headline": 19,
+  "first_negative_pos": 0.7058823529411765,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0012755102040816326,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0035460992907801418,
+  "mean_tone": 0.08904360605722365
+ },
+ "lexicon": {
+  "words": 564,
+  "per_1000": {
+   "Negative": 5.3,
+   "Positive": 17.7,
+   "Uncertainty": 1.8,
+   "Litigious": 1.8,
+   "Strong modal": 5.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 10,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 3,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Ronnie Pruitt, Vulcan Materials\u2019 Chief Executive Officer, said, \u201cThe combination of our advantaged aggregates-led business and consistent focus on our strategic disciplines resulted in.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     98,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Adjusted EBITDA growth of 9 percent and margin expansion in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Our strategy and execution, enhanced by innovation and technology, position us well to deliver strong earnings growth and cash generation.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     95,
+     101,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "With this focus, and the financial strength and flexibility to grow, we will continue to drive sustainable value creation and win the future in aggregates.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     72,
+     76,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     126,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Aggregates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Segment gross profit increased 12 percent to $400 million ($8.01 per ton), and gross profit margin expanded 90 basis points to 27.6 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Widespread pricing growth and effective cost control from operational execution drove cash gross profit per ton to $10.93.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "As compared to the prior year, first quarter aggregates shipments increased 5 percent, supported by large projects and continued growth in public construction activity, as well as more typical weather in some markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Shipments in the prior year\u2019s first quarter were impacted by severe winter weather conditions.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Price increases effective at the beginning of the year resulted in widespread pricing growth across the Company\u2019s footprint.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Freight-adjusted selling prices increased 4 percent on a mixadjusted basis (3.5 percent, or $0.77 per ton, on a reported basis) as compared to the prior year\u2019s first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Consistent with expectations, freight-adjusted unit cash cost of sales increased 4 percent, or $0.47 per ton, over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Asphalt and Concrete.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Non-aggregates segment gross profit in the first quarter was $22 million, and cash gross profit was $38 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Asphalt gross profit margin improved sharply compared to the prior year\u2019s first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     37,
+     44,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Shipments increased 2 percent, and price improved 3 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "First quarter results in the prior year included the Company\u2019s Houston asphalt and construction business that was divested in the fourth quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     122,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Gross profit margin in the Concrete segment expanded to 5 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "First quarter results included the Company\u2019s California ready-mixed concrete business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "The disposition of these assets is expected to close in the second quarter, subject to final regulatory approvals and other customary closing conditions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     93,
+     103,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Selling, Administrative and General (SAG).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "SAG expense in the quarter was $136 million, 2 percent lower than the prior year and 80 basis points lower as a percentage of revenue.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "On a trailing-twelve months basis, SAG expense as a percent of total revenues was 7.0 percent and 20 basis points lower than the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Financial Position, Liquidity and Capital Allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "The Company remains well positioned for continued growth with a strong liquidity position and balance sheet profile.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "As of March 31, 2026, the ratio of total debt to trailing-twelve months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Adjusted EBITDA was 1.9 times and below the Company\u2019s target range of 2.0 to 2.5 times.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "On a trailing-twelve months basis, return on average invested capital was 16.0 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Capital expenditures for maintenance and growth projects were $90 million in the first quarter, and the Company returned $217 million to shareholders through $149 million of common stock repurchases and $68 million of dividends.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Regarding the Company\u2019s outlook, Mr. Pruitt said, \u201cWe reiterate our full-year outlook to deliver between $2.4 and $2.6 billion of Adjusted EBITDA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Our execution in the first quarter, in addition to a healthy backlog supported by large projects and public construction activity, gives us good momentum heading into the rest of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     140,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "We continue to monitor the potential impacts from geopolitical uncertainty but, as always, will remain focused on what we can control to drive durable growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     63,
+     74,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     83,
+     89,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     91,
+     95,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
