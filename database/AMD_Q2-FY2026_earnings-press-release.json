@@ -1,0 +1,649 @@
+{
+ "company": "Advanced Micro Devices, Inc.",
+ "ticker": "AMD",
+ "sector": "Information Technology",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-04",
+ "source_url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+ "demo": false,
+ "source_text": "SANTA CLARA, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the second quarter of 2026. Second quarter revenue was $11.5 billion, gross margin was 54%, operating income was $2.0 billion, net income was $2.3 billion and diluted earnings per share was $1.38. On a non-GAAP(*) basis, gross margin was 56%, operating income was $3.1 billion, net income was $2.8 billion and diluted earnings per share was $1.66.\n\n\u201cWe delivered an excellent quarter, with record revenue and profitability as Data Center revenue more than doubled year-over-year,\u201d said Dr. Lisa Su, AMD chair and CEO. \u201cWe enter the second half with strong momentum as EPYC demand accelerates, Instinct deployments scale and Helios begins to ramp. More broadly, AI is driving a significant expansion in demand for compute across all of our markets, and our leadership portfolio and growing customer visibility position us exceptionally well to capture this expanding opportunity and deliver substantial revenue and earnings growth in the years ahead.\u201d \n\n\u201cRevenue increased 50% year-over-year to a record $11.5 billion, driven by continued strength in our Data Center business, which represented 58% of company revenue in the quarter,\u201d said Jean Hu, AMD executive vice president, chief financial officer and treasurer. \u201cWe expect Data Center sales to accelerate in the second half of 2026, driving stronger overall revenue growth and continued earnings expansion.\u201d\n\nSegment Summary\n\nData Center segment revenue was $6.7 billion, up 107% year-over-year, driven by strong demand for AMD EPYC\u2122 processors and AMD Instinct\u2122 GPUs.\nClient and Gaming segment revenue was $3.8 billion, up 6% year-over-year. Client business revenue was $3.1 billion, up 23% year-over-year, primarily driven by strong demand for AMD Ryzen\u2122 processors. Gaming business revenue was $779 million, down 31% year-over-year, due to lower semi-custom revenue.\nEmbedded segment revenue was $977 million, up 19% year-over-year, as demand strengthened across multiple end markets.\n\nRecent Highlights\n\nAMD announced a broad portfolio of high-performance and AI computing solutions and strategic partnerships to accelerate AI deployments at scale:\nLaunched the AMD Helios\u2122 rackscale solution, the world\u2019s most powerful AI server rack. AMD Helios delivers leadership inference tokens per dollar and is being deployed by leading AI labs and cloud providers including Anthropic, Cirrascale, HUMAIN, Meta, Microsoft, OpenAI, Oracle, Tensorwave, Vultr and others.\nLaunched the AMD Instinct MI400 Series GPU family, including MI455X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and inference, and MI430X, the most advanced accelerator for HPC and sovereign AI workloads.\nIntroduced 6th Gen AMD EPYC server CPUs, built to deliver leadership performance across the full range of agentic AI, general-purpose and enterprise workloads.\nReleased ROCm.ai, an AI-native developer experience designed to help developers build, deploy and optimize faster across AMD platforms.\nAnnounced a strategic partnership with Anthropic to deploy up to 2 gigawatts of MI450 Series GPUs in AMD Helios racks and a multiyear collaboration to optimize AMD Instinct GPUs and ROCm software development using Claude.\nExpanded collaboration with Microsoft to deploy AMD Helios racks at scale on Azure to power frontier model inference. Azure will also add two new AMD EPYC CPU-powered VM series and broaden its deployment of Pensando\u2122 DPUs to support Azure networking services.\nAnnounced a collaboration with Cerebras to bring together AMD Helios and Cerebras Wafer-Scale Engine to improve efficiency, scalability and economics for ultra-low-latency inference serving.\nLaunched the AMD Instinct MI350P GPU, designed to bring seamless AI acceleration to existing infrastructure with leadership token economics.\nAcquired MEXT, adding AI-powered predictive memory technology designed to optimize memory use and expand usable capacity for AI workloads.\nAMD extended its PC offerings for enterprises, developers and gamers:\nReleased Ryzen AI Halo systems, purpose-built for developers to build, test and run agentic AI workflows locally with leadership performance optimized by AMD ROCm\u2122 open software support.\nExpanded the AMD Ryzen PRO 9000 Series processor lineup, bringing AMD 3D V-Cache\u2122 technology to enterprise workstations for the first time.\nLaunched AMD Ryzen 7700X3D processors and extended support for Socket AM5 platforms through 2029, giving gamers more performance and longevity.\nCisco and AMD are collaborating to bring together AMD Ryzen AI Halo systems with Cisco networking, observability and security capabilities, so enterprises can deploy, govern and manage hybrid and local agentic AI at scale.\nExpanded global availability of AMD Radeon RX 9070 GRE graphics cards, extending performance and advanced ray tracing capabilities to more gamers.\nAMD expanded its adaptive and embedded AI portfolio:\nIntroduced AMD Ryzen\u2122 AI Embedded X100 Series processors, a new family of embedded x86 processors integrating CPU, GPU and AI acceleration to power robotics, industrial automation and intelligent embedded systems.\nAnnounced AMD Kria\u2122 AI solutions, including AMD Kria AI system-on-modules and the AMD Kria AI Robotics Developer Platform to accelerate the development of next-generation physical AI systems.\nLaunched Versal\u2122 Premium Series Gen 2 Memory on Package adaptive SoCs, to speed data transfer for test and measurement, professional video editing, communications and aerospace and defense workloads.\n\nCurrent Outlook\n\nAMD\u2019s outlook statements are based on current expectations. The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.\n\nFor the third quarter of 2026, AMD expects revenue to be approximately $13 billion, plus or minus $300 million. The mid-point of the revenue range represents year-over-year growth of approximately 41% and a sequential increase of approximately 13%. Non-GAAP gross margin is expected to be approximately 56%.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 38,
+  "n_material_neg": 1,
+  "n_positive": 8,
+  "mean_pos_negative": 0.2894736842105263,
+  "mean_pos_positive": 0.2993421052631579,
+  "placement_asymmetry": -0.009868421052631582,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.2894736842105263,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.015890502592960386,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.012222222222222223,
+  "mean_tone": 0.18678119273029653
+ },
+ "lexicon": {
+  "words": 900,
+  "per_1000": {
+   "Negative": 1.1,
+   "Positive": 25.6,
+   "Uncertainty": 8.9,
+   "Litigious": 0.0,
+   "Strong modal": 1.1,
+   "Weak modal": 2.2,
+   "Constraining": 1.1
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 23,
+   "Uncertainty": 8,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "SANTA CLARA, Calif., Aug. 04, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Second quarter revenue was $11.5 billion, gross margin was 54%, operating income was $2.0 billion, net income was $2.3 billion and diluted earnings per share was $1.38.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "On a non-GAAP(*) basis, gross margin was 56%, operating income was $3.1 billion, net income was $2.8 billion and diluted earnings per share was $1.66.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "\u201cWe delivered an excellent quarter, with record revenue and profitability as Data Center revenue more than doubled year-over-year,\u201d said Dr. Lisa Su, AMD chair and CEO. \u201cWe enter the second half with strong momentum as EPYC demand accelerates, Instinct deployments scale and Helios begins to ramp.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     200,
+     206,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "More broadly, AI is driving a significant expansion in demand for compute across all of our markets, and our leadership portfolio and growing customer visibility position us exceptionally well to capture this expanding opportunity and deliver substantial revenue and earnings growth in the years ahead.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     119,
+     [
+      "positive"
+     ]
+    ],
+    [
+     174,
+     187,
+     [
+      "positive"
+     ]
+    ],
+    [
+     219,
+     230,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\u201cRevenue increased 50% year-over-year to a record $11.5 billion, driven by continued strength in our Data Center business, which represented 58% of company revenue in the quarter,\u201d said Jean Hu, AMD executive vice president, chief financial officer and treasurer. \u201cWe expect Data Center sales to accelerate in the second half of 2026, driving stronger overall revenue growth and continued earnings expansion.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.339,
+   "h": 0.0169,
+   "hits": [
+    [
+     85,
+     93,
+     [
+      "positive"
+     ]
+    ],
+    [
+     343,
+     351,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Segment Summary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Data Center segment revenue was $6.7 billion, up 107% year-over-year, driven by strong demand for AMD EPYC\u2122 processors and AMD Instinct\u2122 GPUs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     86,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Client and Gaming segment revenue was $3.8 billion, up 6% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Client business revenue was $3.1 billion, up 23% year-over-year, primarily driven by strong demand for AMD Ryzen\u2122 processors.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Gaming business revenue was $779 million, down 31% year-over-year, due to lower semi-custom revenue.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Embedded segment revenue was $977 million, up 19% year-over-year, as demand strengthened across multiple end markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Recent Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "AMD announced a broad portfolio of high-performance and AI computing solutions and strategic partnerships to accelerate AI deployments at scale: Launched the AMD Helios\u2122 rackscale solution, the world\u2019s most powerful AI server rack.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "AMD Helios delivers leadership inference tokens per dollar and is being deployed by leading AI labs and cloud providers including Anthropic, Cirrascale, HUMAIN, Meta, Microsoft, OpenAI, Oracle, Tensorwave, Vultr and others.",
+   "d": 0,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     30,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Launched the AMD Instinct MI400 Series GPU family, including MI455X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and inference, and MI430X, the most advanced accelerator for HPC and sovereign AI workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     78,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Introduced 6th Gen AMD EPYC server CPUs, built to deliver leadership performance across the full range of agentic AI, general-purpose and enterprise workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Released ROCm.ai, an AI-native developer experience designed to help developers build, deploy and optimize faster across AMD platforms.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Announced a strategic partnership with Anthropic to deploy up to 2 gigawatts of MI450 Series GPUs in AMD Helios racks and a multiyear collaboration to optimize AMD Instinct GPUs and ROCm software development using Claude.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     134,
+     147,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Expanded collaboration with Microsoft to deploy AMD Helios racks at scale on Azure to power frontier model inference.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     22,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Azure will also add two new AMD EPYC CPU-powered VM series and broaden its deployment of Pensando\u2122 DPUs to support Azure networking services.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     10,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Announced a collaboration with Cerebras to bring together AMD Helios and Cerebras Wafer-Scale Engine to improve efficiency, scalability and economics for ultra-low-latency inference serving.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     104,
+     111,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Launched the AMD Instinct MI350P GPU, designed to bring seamless AI acceleration to existing infrastructure with leadership token economics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Acquired MEXT, adding AI-powered predictive memory technology designed to optimize memory use and expand usable capacity for AI workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     33,
+     43,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "AMD extended its PC offerings for enterprises, developers and gamers: Released Ryzen AI Halo systems, purpose-built for developers to build, test and run agentic AI workflows locally with leadership performance optimized by AMD ROCm\u2122 open software support.",
+   "d": 0,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     188,
+     198,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Expanded the AMD Ryzen PRO 9000 Series processor lineup, bringing AMD 3D V-Cache\u2122 technology to enterprise workstations for the first time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Launched AMD Ryzen 7700X3D processors and extended support for Socket AM5 platforms through 2029, giving gamers more performance and longevity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Cisco and AMD are collaborating to bring together AMD Ryzen AI Halo systems with Cisco networking, observability and security capabilities, so enterprises can deploy, govern and manage hybrid and local agentic AI at scale.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Expanded global availability of AMD Radeon RX 9070 GRE graphics cards, extending performance and advanced ray tracing capabilities to more gamers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "AMD expanded its adaptive and embedded AI portfolio: Introduced AMD Ryzen\u2122 AI Embedded X100 Series processors, a new family of embedded x86 processors integrating CPU, GPU and AI acceleration to power robotics, industrial automation and intelligent embedded systems.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Announced AMD Kria\u2122 AI solutions, including AMD Kria AI system-on-modules and the AMD Kria AI Robotics Developer Platform to accelerate the development of next-generation physical AI systems.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Launched Versal\u2122 Premium Series Gen 2 Memory on Package adaptive SoCs, to speed data transfer for test and measurement, professional video editing, communications and aerospace and defense workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Current Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "AMD\u2019s outlook statements are based on current expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.",
+   "d": 0,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.16,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     70,
+     76,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     97,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "For the third quarter of 2026, AMD expects revenue to be approximately $13 billion, plus or minus $300 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     57,
+     70,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "The mid-point of the revenue range represents year-over-year growth of approximately 41% and a sequential increase of approximately 13%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     71,
+     84,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     118,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Non-GAAP gross margin is expected to be approximately 56%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     40,
+     53,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
