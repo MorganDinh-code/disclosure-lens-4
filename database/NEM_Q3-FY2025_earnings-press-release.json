@@ -1,0 +1,423 @@
+{
+ "company": "Newmont",
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-23",
+ "source_url": "https://www.newmont.com/investors/news-release/news-details/2025/Newmont-Reports-Third-Quarter-2025-Results-and-Improves-2025-Cost--Capital-Guidance/default.aspx",
+ "demo": false,
+ "source_text": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, PNGX: NEM) (Newmont or the Company) today announced third quarter 2025 results and declared a dividend of $0.251 per share.\n\n\"Newmont delivered a robust third quarter performance, producing approximately 1.4 million attributable gold ounces and generating a third-quarter record of $1.6 billion in free cash flow, marking the fourth consecutive quarter with over $1 billion in free cash flow,\" said Tom Palmer, Newmont's Chief Executive Officer. \"We are making significant progress on the cost savings initiatives announced at the beginning of the year, enabling us to meaningfully improve our 2025 guidance for several cost metrics, while maintaining our outlook for production and unit costs in a rising gold price environment. As I prepare to retire at year-end, I am confident that Newmont is well positioned to continue delivering strong performance under Natascha Viljoen's leadership, as she assumes the role of Chief Executive Officer at the beginning of 2026.\"\n\nQ3 2025 Results\n\nReported Net Income of $1.8 billion, Adjusted Net Income (ANI) 2 of $1.9 billion or $1.71 per diluted share, and Adjusted EBITDA 2 of $3.3 billion\nProduced 1.4 million gold ounces, as well as 35 thousand tonnes of copper, primarily from Newmont's core managed operations\nImproved Newmont's 2025 cost and capital guidance through continued progress on cost savings initiatives and a shift in the timing of capital spend; remain on track to meet Newmont's 2025 production and unit cost guidance 3\nReceived net cash proceeds of nearly $640 million from asset and equity sales, including the sale of shares in Orla Mining and Discovery Silver, the receipt of the Akyem contingent payment, and the sale of the Coffee project 4\nIn 2025, received more than $3.5 billion in net cash proceeds from announced transactions, including approximately $2.6 billion from divested assets and nearly $900 million from the sale of equity shares 5\nGenerated $2.3 billion of cash from operating activities, net of unfavorable working capital impacts of $286 million, primarily driven by the timing of cash collections; reported third-quarter record Free Cash Flow 2 of $1.6 billion\nReturned $823 million of capital to shareholders through share repurchases and dividend payments since the last earnings call 6; declared a dividend of $0.25 per share of common stock for the third quarter of 2025\nThrough the date of filing, Newmont has executed and settled total trades of common stock repurchases of $3.3 billion; $2.7 billion remains under the previously authorized programs of $6.0 billion 7\nReduced debt by $2 billion through the completion of a successful debt tender offer, ending the quarter in a near-zero net debt position with $5.6 billion of cash and $9.6 billion in total liquidity 8\nReceived credit rating upgrade by Moody's to A3 with a stable outlook, supported by Newmont's improved credit profile, strengthened balance sheet, excellent liquidity position, and prudent financial management\nExpect to declare commercial production at the Ahafo North project in Ghana by end of day on October 23, 2025, adding profitable gold production over an initial 13-year mine life\n \t\n \n\n1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the third quarter of 2025, payable on December 22, 2025 to holders of record at the close of business on November 26, 2025.\n2 Non-GAAP metrics; see reconciliations at the end of this release.\n\n3 For further details see the 'Fourth Quarter and 2025 Guidance' section below, as well as the discussion of guidance and cautionary statement at the end of this release regarding forward-looking statements.\n\n4 Net proceeds from asset and equity share sales includes $10 million related to the Coffee project received in October.\n\n5 All operating sites and projects previously announced for divestment have been sold as of October 2025. For further details see the 'Divestiture Program Update' section below.\n\n6 Includes $550 million of share repurchases since July 24, 2025, including $179 million of share repurchases settled in October 2025.\n\n7 The share repurchase program will be executed at the Company's discretion. The share repurchase program permits shares to be repurchased in a variety of methods, has no time limit and may be suspended or discontinued at any time. See cautionary statement regarding forward-looking statements at end of this release.\n\n8 Total liquidity as of September 30, 2025 includes $4.0 billion available on a revolving credit facility.\n\n ",
+ "boilerplate_paragraphs_removed": 3,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 2,
+  "n_positive": 4,
+  "mean_pos_negative": 0.26190476190476186,
+  "mean_pos_positive": 0.5,
+  "placement_asymmetry": -0.23809523809523814,
+  "distance_from_headline": 1,
+  "first_negative_pos": 0.14285714285714285,
+  "hedge_near_negative": 0.01949425287356322,
+  "hedge_near_positive": 0.010589447102604998,
+  "hedging_asymmetry": 1.8409131926035727,
+  "framing_ratio": 1,
+  "mean_tone_gap_on_negatives": 1.6518675123326285,
+  "overall_hedge": 0.01303538175046555,
+  "mean_tone": 0.11491973947531446
+ },
+ "lexicon": {
+  "words": 537,
+  "per_1000": {
+   "Negative": 7.4,
+   "Positive": 26.1,
+   "Uncertainty": 11.2,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 3.7,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 14,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, PNGX: NEM) (Newmont or the Company) today announced third quarter 2025 results and declared a dividend of $0.251 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\"Newmont delivered a robust third quarter performance, producing approximately 1.4 million attributable gold ounces and generating a third-quarter record of $1.6 billion in free cash flow, marking the fourth consecutive quarter with over $1 billion in free cash flow,\" said Tom Palmer, Newmont's Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0227,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"We are making significant progress on the cost savings initiatives announced at the beginning of the year, enabling us to meaningfully improve our 2025 guidance for several cost metrics, while maintaining our outlook for production and unit costs in a rising gold price environment.",
+   "d": -1,
+   "m": true,
+   "tone": 0.698,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     108,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     136,
+     143,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "As I prepare to retire at year-end, I am confident that Newmont is well positioned to continue delivering strong performance under Natascha Viljoen's leadership, as she assumes the role of Chief Executive Officer at the beginning of 2026.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.789,
+   "h": 0.0263,
+   "hits": [
+    [
+     41,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     112,
+     [
+      "positive"
+     ]
+    ],
+    [
+     150,
+     160,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     176,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Q3 2025 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Reported Net Income of $1.8 billion, Adjusted Net Income (ANI) 2 of $1.9 billion or $1.71 per diluted share, and Adjusted EBITDA 2 of $3.3 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Produced 1.4 million gold ounces, as well as 35 thousand tonnes of copper, primarily from Newmont's core managed operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Improved Newmont's 2025 cost and capital guidance through continued progress on cost savings initiatives and a shift in the timing of capital spend; remain on track to meet Newmont's 2025 production and unit cost guidance 3.",
+   "d": -1,
+   "m": true,
+   "tone": 0.606,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     68,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Received net cash proceeds of nearly $640 million from asset and equity sales, including the sale of shares in Orla Mining and Discovery Silver, the receipt of the Akyem contingent payment, and the sale of the Coffee project 4.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0541,
+   "hits": [
+    [
+     30,
+     36,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     170,
+     180,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "In 2025, received more than $3.5 billion in net cash proceeds from announced transactions, including approximately $2.6 billion from divested assets and nearly $900 million from the sale of equity shares 5.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0741,
+   "hits": [
+    [
+     101,
+     114,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     133,
+     141,
+     [
+      "negative"
+     ]
+    ],
+    [
+     153,
+     159,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Generated $2.3 billion of cash from operating activities, net of unfavorable working capital impacts of $286 million, primarily driven by the timing of cash collections; reported third-quarter record Free Cash Flow 2 of $1.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": -0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     65,
+     76,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Returned $823 million of capital to shareholders through share repurchases and dividend payments since the last earnings call 6; declared a dividend of $0.25 per share of common stock for the third quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Through the date of filing, Newmont has executed and settled total trades of common stock repurchases of $3.3 billion; $2.7 billion remains under the previously authorized programs of $6.0 billion 7.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Reduced debt by $2 billion through the completion of a successful debt tender offer, ending the quarter in a near-zero net debt position with $5.6 billion of cash and $9.6 billion in total liquidity 8.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     65,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Received credit rating upgrade by Moody's to A3 with a stable outlook, supported by Newmont's improved credit profile, strengthened balance sheet, excellent liquidity position, and prudent financial management.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     61,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     102,
+     [
+      "positive"
+     ]
+    ],
+    [
+     119,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     156,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Expect to declare commercial production at the Ahafo North project in Ghana by end of day on October 23, 2025, adding profitable gold production over an initial 13-year mine life",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0357,
+   "hits": [
+    [
+     118,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "4 Net proceeds from asset and equity share sales includes $10 million related to the Coffee project received in October.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "5 All operating sites and projects previously announced for divestment have been sold as of October 2025.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     70,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "For further details see the 'Divestiture Program Update' section below.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "6 Includes $550 million of share repurchases since July 24, 2025, including $179 million of share repurchases settled in October 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "8 Total liquidity as of September 30, 2025 includes $4.0 billion available on a revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
