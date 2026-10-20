@@ -1,0 +1,800 @@
+{
+ "company": "Newmont",
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2024",
+ "date": "2025-02-04",
+ "source_url": "https://ir.amd.com/news-events/press-releases/detail/1236/amd-reports-fourth-quarter-and-full-year-2024-financial-results",
+ "demo": false,
+ "source_text": "SANTA CLARA, Calif., Feb. 04, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the fourth quarter and full year of 2024. Fourth quarter revenue was a record $7.7 billion, gross margin was 51%, operating income was $871 million, net income was $482 million and diluted earnings per share was $0.29. On a non-GAAP(*) basis, gross margin was 54%, operating income was a record $2.0 billion, net income was a record $1.8 billion and diluted earnings per share was $1.09.\n\nFor the full year 2024, AMD reported record revenue of $25.8 billion, gross margin of 49%, operating income of $1.9 billion, net income of $1.6 billion, and diluted earnings per share of $1.00. On a non-GAAP(*) basis, gross margin was a record 53%, operating income was $6.1 billion, net income was $5.4 billion and diluted earnings per share was $3.31.\n\n\u201c2024 was a transformative year for AMD as we delivered record annual revenue and strong earnings growth,\u201d said AMD Chair and CEO Dr. Lisa Su. \u201cData Center segment annual revenue nearly doubled as EPYC processor adoption accelerated and we delivered more than $5 billion of AMD Instinct accelerator revenue. Looking into 2025, we see clear opportunities for continued growth based on the strength of our product portfolio and growing demand for high-performance and adaptive computing.\u201d\n\n\u201cWe closed 2024 with a strong fourth quarter, delivering record revenue up 24% year-over-year, and accelerated earnings expansion while investing aggressively in AI and innovation to position us for long-term growth and value creation,\u201d said AMD EVP, CFO and Treasurer Jean Hu.\n\nSegment Summary\n\nData Center segment revenue in the quarter was a record $3.9 billion, up 69% year-over-year primarily driven by the strong ramp of AMD Instinct\u2122 GPU shipments and growth in AMD EPYC\u2122 CPU sales.  \nFor 2024, Data Center segment revenue was a record $12.6 billion, an increase of 94% compared to the prior year, driven by growth in both AMD Instinct and EPYC processors.\nClient segment revenue in the quarter was a record $2.3 billion, up 58% year-over-year primarily driven by strong demand for AMD Ryzen\u2122 processors.\nFor 2024, Client segment revenue was a record $7.1 billion, up 52% compared to the prior year, due to strong demand for AMD Ryzen processors in desktop and mobile.\nGaming segment revenue in the quarter was $563 million, down 59% year-over-year, primarily due to a decrease in semi-custom revenue.\nFor 2024, Gaming segment revenue was $2.6 billion, down 58% compared to the prior year, primarily due to a decrease in semi-custom revenue.\nEmbedded segment revenue in the quarter was $923 million, down 13% year-over-year, as end market demand continues to be mixed.\nFor 2024, Embedded segment revenue was $3.6 billion, down 33% from the prior year, primarily due to customers normalizing their inventory levels.\nRecent PR Highlights\n\nAMD continues expanding its partnerships to deliver highly performant AI infrastructure at scale:\nIBM announced plans to deploy AMD Instinct MI300X accelerators to power generative AI and HPC applications on IBM Cloud.\nVultr and AMD announced a strategic collaboration to leverage AMD Instinct MI300X accelerators and AMD ROCm\u2122 open software to power Vultr\u2019s cloud infrastructure for enterprise AI development and deployment.\nAleph Alpha announced that it will leverage AMD Instinct MI300 Series accelerators and ROCm software to enable its tokenizer-free LLM architecture, a new approach to generative AI that aims to simplify the development of sovereign AI solutions for governments and enterprises.\nFujitsu and AMD announced a strategic partnership to develop more sustainable computing infrastructure to accelerate open source AI.\nAMD expanded strategic investments to advance the AI ecosystem and solutions, including investments in LiquidAI, Vultr and Absci.\nAMD is accelerating its AI software roadmap to deliver a robust open AI stack for the ecosystem:\nAMD released ROCm 6.3 with numerous performance enhancements enabling faster inferencing on AMD Instinct accelerators as well as additional compiler tools and libraries.\nAMD shared an update on its 2025 plans for the ROCm software stack to enable easier adoption of and improved out of box support for both inferencing and training applications.\nDell and AMD announced that AMD Ryzen AI PRO processors will power new Dell Pro notebook and desktop PCs, bringing exceptional battery life, on-device AI, Copilot+ experiences and dependable productivity to enterprise users. For the first time, Dell will offer a full portfolio of commercial PCs based on Ryzen processors, marking a significant milestone in the companies\u2019 collaboration.\nAMD expanded its broad consumer and commercial AI PC portfolio:\nNew AMD Ryzen AI Max and Ryzen AI Max PRO Series processors deliver workstation-level performance and next-gen AI performance for gaming, content creation and complex AI-accelerated workloads.\nExpanded Ryzen AI 300 and Ryzen AI 300 PRO Series processors bring premium AI capabilities to mainstream and entry-level notebooks, as well as enhanced security, manageability and support for Microsoft Copilot+ experiences tailored for business users.\nAdditional Ryzen 200 and Ryzen 200 PRO Series processors offer incredible AI experiences, performance and battery life for everyday users and professionals.\nMore than 150 Ryzen AI platforms are expected to be available from leading OEMs this year.\nAMD extended its leadership in high performance computing (HPC), enabling the most powerful and many of the most energy efficient supercomputers in the world:\nThe El Capitan supercomputer at Lawrence Livermore National Laboratory became the second AMD supercomputer to surpass the exascale barrier, placing #1 on the latest Top500 list.\nThe Hunter supercomputer at the High-Performance Computing Center of the University of Stuttgart (HLRS), powered by AMD Instinct MI300A APUs, began service, delivering HPC and AI resources for scientists, researchers, industry and the public sector.\nAMD EPYC processors and AMD Instinct accelerators power many new supercomputing projects and AI deployments, including the Eni HPC 6 system, the University of Paderborn\u2019s latest supercomputer and the Sigma2 AS system which is slated to be the fastest system in Norway.\nAMD powers incredible experiences for gamers across a broad range of devices:\nAt CES 2025, AMD announced new AMD Ryzen 9000X3D, Ryzen Z2 and Ryzen 9000HX processors, extending its leadership in desktop, mobile and handheld gaming.\nAMD shared the latest version of AMD Software: Adrenalin Edition\u2122, 24.9.1, continuing to enhance gaming experiences with AMD Fluid Motion Frames 2 and AMD HYPR-RX.\nAMD continues to deliver leadership compute performance and capabilities at the edge with an expanded portfolio of solutions:\nNew AMD Versal\u2122 Gen 2 portfolio with next-generation interface and memory technologies for data-intensive applications in the data center, communications, test and measurement and aerospace and defense markets.\nAMD Versal RF Series adaptive SoCs, combining high-resolution radio frequency data converters, dedicated DSP hard IP, AI engines and programmable logic in a single chip.\nVodafone and AMD announced they are collaborating on mobile base station silicon chip designs to enable higher-capacity AI and digital services.\nCurrent Outlook\n\nAMD\u2019s outlook statements are based on current expectations. The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.\n\nFor the first quarter of 2025, AMD expects revenue to be approximately $7.1 billion, plus or minus $300 million. At the mid-point of the revenue range, this represents year-over-year growth of approximately 30% and a sequential decline of approximately 7%. Non-GAAP gross margin is expected to be approximately 54%.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 45,
+  "n_material_neg": 4,
+  "n_positive": 12,
+  "mean_pos_negative": 0.34444444444444444,
+  "mean_pos_positive": 0.1962962962962963,
+  "placement_asymmetry": 0.14814814814814814,
+  "distance_from_headline": 10,
+  "first_negative_pos": 0.3111111111111111,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.002427837469861745,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.008488964346349746,
+  "mean_tone": 0.19856516615195544
+ },
+ "lexicon": {
+  "words": 1178,
+  "per_1000": {
+   "Negative": 2.5,
+   "Positive": 26.3,
+   "Uncertainty": 6.8,
+   "Litigious": 0.0,
+   "Strong modal": 2.5,
+   "Weak modal": 2.5,
+   "Constraining": 0.8
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 31,
+   "Uncertainty": 8,
+   "Litigious": 0,
+   "Strong modal": 3,
+   "Weak modal": 3,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "SANTA CLARA, Calif., Feb. 04, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the fourth quarter and full year of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fourth quarter revenue was a record $7.7 billion, gross margin was 51%, operating income was $871 million, net income was $482 million and diluted earnings per share was $0.29.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "On a non-GAAP(*) basis, gross margin was 54%, operating income was a record $2.0 billion, net income was a record $1.8 billion and diluted earnings per share was $1.09.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "For the full year 2024, AMD reported record revenue of $25.8 billion, gross margin of 49%, operating income of $1.9 billion, net income of $1.6 billion, and diluted earnings per share of $1.00.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "On a non-GAAP(*) basis, gross margin was a record 53%, operating income was $6.1 billion, net income was $5.4 billion and diluted earnings per share was $3.31.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201c2024 was a transformative year for AMD as we delivered record annual revenue and strong earnings growth,\u201d said AMD Chair and CEO Dr. Lisa Su. \u201cData Center segment annual revenue nearly doubled as EPYC processor adoption accelerated and we delivered more than $5 billion of AMD Instinct accelerator revenue.",
+   "d": 1,
+   "m": false,
+   "tone": 0.213,
+   "h": 0.0213,
+   "hits": [
+    [
+     82,
+     88,
+     [
+      "positive"
+     ]
+    ],
+    [
+     179,
+     185,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Looking into 2025, we see clear opportunities for continued growth based on the strength of our product portfolio and growing demand for high-performance and adaptive computing.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "\u201cWe closed 2024 with a strong fourth quarter, delivering record revenue up 24% year-over-year, and accelerated earnings expansion while investing aggressively in AI and innovation to position us for long-term growth and value creation,\u201d said AMD EVP, CFO and Treasurer Jean Hu.",
+   "d": 1,
+   "m": false,
+   "tone": 0.465,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     179,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Segment Summary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Data Center segment revenue in the quarter was a record $3.9 billion, up 69% year-over-year primarily driven by the strong ramp of AMD Instinct\u2122 GPU shipments and growth in AMD EPYC\u2122 CPU sales.",
+   "d": 1,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "For 2024, Data Center segment revenue was a record $12.6 billion, an increase of 94% compared to the prior year, driven by growth in both AMD Instinct and EPYC processors.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Client segment revenue in the quarter was a record $2.3 billion, up 58% year-over-year primarily driven by strong demand for AMD Ryzen\u2122 processors.",
+   "d": 1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     107,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "For 2024, Client segment revenue was a record $7.1 billion, up 52% compared to the prior year, due to strong demand for AMD Ryzen processors in desktop and mobile.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Gaming segment revenue in the quarter was $563 million, down 59% year-over-year, primarily due to a decrease in semi-custom revenue.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "For 2024, Gaming segment revenue was $2.6 billion, down 58% compared to the prior year, primarily due to a decrease in semi-custom revenue.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Embedded segment revenue in the quarter was $923 million, down 13% year-over-year, as end market demand continues to be mixed.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "For 2024, Embedded segment revenue was $3.6 billion, down 33% from the prior year, primarily due to customers normalizing their inventory levels.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Recent PR Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "AMD continues expanding its partnerships to deliver highly performant AI infrastructure at scale: IBM announced plans to deploy AMD Instinct MI300X accelerators to power generative AI and HPC applications on IBM Cloud.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Vultr and AMD announced a strategic collaboration to leverage AMD Instinct MI300X accelerators and AMD ROCm\u2122 open software to power Vultr\u2019s cloud infrastructure for enterprise AI development and deployment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Aleph Alpha announced that it will leverage AMD Instinct MI300 Series accelerators and ROCm software to enable its tokenizer-free LLM architecture, a new approach to generative AI that aims to simplify the development of sovereign AI solutions for governments and enterprises.",
+   "d": 0,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     34,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     104,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Fujitsu and AMD announced a strategic partnership to develop more sustainable computing infrastructure to accelerate open source AI.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "AMD expanded strategic investments to advance the AI ecosystem and solutions, including investments in LiquidAI, Vultr and Absci.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "AMD is accelerating its AI software roadmap to deliver a robust open AI stack for the ecosystem: AMD released ROCm 6.3 with numerous performance enhancements enabling faster inferencing on AMD Instinct accelerators as well as additional compiler tools and libraries.",
+   "d": 0,
+   "m": false,
+   "tone": 0.513,
+   "h": 0.0,
+   "hits": [
+    [
+     145,
+     157,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     166,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "AMD shared an update on its 2025 plans for the ROCm software stack to enable easier adoption of and improved out of box support for both inferencing and training applications.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     76,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     100,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Dell and AMD announced that AMD Ryzen AI PRO processors will power new Dell Pro notebook and desktop PCs, bringing exceptional battery life, on-device AI, Copilot+ experiences and dependable productivity to enterprise users.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     56,
+     60,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     115,
+     126,
+     [
+      "positive"
+     ]
+    ],
+    [
+     180,
+     190,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "For the first time, Dell will offer a full portfolio of commercial PCs based on Ryzen processors, marking a significant milestone in the companies\u2019 collaboration.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     29,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     148,
+     161,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "AMD expanded its broad consumer and commercial AI PC portfolio: New AMD Ryzen AI Max and Ryzen AI Max PRO Series processors deliver workstation-level performance and next-gen AI performance for gaming, content creation and complex AI-accelerated workloads.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Expanded Ryzen AI 300 and Ryzen AI 300 PRO Series processors bring premium AI capabilities to mainstream and entry-level notebooks, as well as enhanced security, manageability and support for Microsoft Copilot+ experiences tailored for business users.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     143,
+     151,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Additional Ryzen 200 and Ryzen 200 PRO Series processors offer incredible AI experiences, performance and battery life for everyday users and professionals.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "More than 150 Ryzen AI platforms are expected to be available from leading OEMs this year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "AMD extended its leadership in high performance computing (HPC), enabling the most powerful and many of the most energy efficient supercomputers in the world: The El Capitan supercomputer at Lawrence Livermore National Laboratory became the second AMD supercomputer to surpass the exascale barrier, placing #1 on the latest Top500 list.",
+   "d": 0,
+   "m": false,
+   "tone": 0.612,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     27,
+     [
+      "positive"
+     ]
+    ],
+    [
+     65,
+     73,
+     [
+      "positive"
+     ]
+    ],
+    [
+     120,
+     129,
+     [
+      "positive"
+     ]
+    ],
+    [
+     269,
+     276,
+     [
+      "positive"
+     ]
+    ],
+    [
+     290,
+     297,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "The Hunter supercomputer at the High-Performance Computing Center of the University of Stuttgart (HLRS), powered by AMD Instinct MI300A APUs, began service, delivering HPC and AI resources for scientists, researchers, industry and the public sector.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "AMD EPYC processors and AMD Instinct accelerators power many new supercomputing projects and AI deployments, including the Eni HPC 6 system, the University of Paderborn\u2019s latest supercomputer and the Sigma2 AS system which is slated to be the fastest system in Norway.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "AMD powers incredible experiences for gamers across a broad range of devices: At CES 2025, AMD announced new AMD Ryzen 9000X3D, Ryzen Z2 and Ryzen 9000HX processors, extending its leadership in desktop, mobile and handheld gaming.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     180,
+     190,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "AMD shared the latest version of AMD Software: Adrenalin Edition\u2122, 24.9.1, continuing to enhance gaming experiences with AMD Fluid Motion Frames 2 and AMD HYPR-RX.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     89,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "AMD continues to deliver leadership compute performance and capabilities at the edge with an expanded portfolio of solutions: New AMD Versal\u2122 Gen 2 portfolio with next-generation interface and memory technologies for data-intensive applications in the data center, communications, test and measurement and aerospace and defense markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.213,
+   "h": 0.0,
+   "hits": [
+    [
+     25,
+     35,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "AMD Versal RF Series adaptive SoCs, combining high-resolution radio frequency data converters, dedicated DSP hard IP, AI engines and programmable logic in a single chip.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Vodafone and AMD announced they are collaborating on mobile base station silicon chip designs to enable higher-capacity AI and digital services.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     97,
+     103,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Current Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "AMD\u2019s outlook statements are based on current expectations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under \u201cCautionary Statement\u201d below.",
+   "d": 0,
+   "m": false,
+   "tone": -0.4,
+   "h": 0.16,
+   "hits": [
+    [
+     64,
+     69,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     70,
+     76,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     97,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "For the first quarter of 2025, AMD expects revenue to be approximately $7.1 billion, plus or minus $300 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.125,
+   "hits": [
+    [
+     57,
+     70,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "At the mid-point of the revenue range, this represents year-over-year growth of approximately 30% and a sequential decline of approximately 7%.",
+   "d": 0,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0909,
+   "hits": [
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     115,
+     122,
+     [
+      "negative"
+     ]
+    ],
+    [
+     126,
+     139,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "Non-GAAP gross margin is expected to be approximately 54%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     40,
+     53,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
