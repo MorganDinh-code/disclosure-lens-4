@@ -1,0 +1,287 @@
+{
+ "company": "Newmont",
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-23",
+ "source_url": "https://www.newmont.com/investors/news-release/news-details/2025/Newmont-Reports-First-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced first quarter 2025 results and declared a dividend of $0.251 per share.\n\n\"Following on from a robust fourth quarter performance, Newmont has delivered 1.5 million attributable gold ounces and generated a record first quarter free cash flow of $1.2 billion, demonstrating the strength of our unrivaled Tier 1 Portfolio,\u201d said Tom Palmer, Newmont's President and Chief Executive Officer. \"We also successfully completed our non-core divestiture program, generating up to $4.3 billion in total gross proceeds including over $2.5 billion of after-tax cash proceeds in the first half of 2025. With these significant achievements and a solid start to the year, we remain firmly on track to meet our 2025 guidance, continuing on our journey towards creating the world\u2019s leading gold and copper portfolio for the benefit of our shareholders.\"\n\nQ1 2025 Results\n\nReported Net Income of $1.9 billion, Adjusted Net Income (ANI)2of $1.25 per diluted share and Adjusted EBITDA2 of $2.6 billion\nOn track to meet Newmont's 2025 guidance3, with first quarter results in line with indications provided in February 2025\nCompleted divestiture program announced in 2024, and finalized the sales of Musselwhite, \u00c9l\u00e9onore and Cripple Creek & Victor (CC&V) in February, and Porcupine and Akyem in April4\nReceived over $2.5 billion in cash proceeds net of tax impacts from the divestiture sales closed in 2025, with total gross proceeds expected to total up to $4.3 billion from non-core asset and other investment sales\nGenerated $2.0 billion of cash from operating activities, net of working capital changes of $(141) million; reported a record first quarter Free Cash Flow2 of $1.2 billion\nDelivered $1.0 billion in total returns to shareholders through share repurchases and dividend payments since the start of the year; declared a dividend of $0.25 per share of common stock for the first quarter of 2025\nProduced 1.5 million attributable gold ounces, primarily driven by production of 1.3 million gold ounces from Newmont's Tier 1 Portfolio3, as well as 35 thousand tonnes of copper\nMaintained a strong and flexible investment-grade balance sheet, ending the quarter with $4.7 billion in cash and $8.8 billion in total liquidity5\nReduced debt by $1.0 billion since the start of the year6, which includes early redemption of $928 million of 2026 Notes redeemed on February 7, 2025 and $75 million in market purchases6; reported Net debt to Adjusted EBITDA2of 0.3x\n_____________________________\n1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the first quarter of 2025, payable on June 20, 2025 to holders of record at the close of business on May 27, 2025.\n\n2 Non-GAAP metrics; see reconciliations at the end of this release.\n\n3 See discussion of guidance, including the definition of the Tier 1 Portfolio, and cautionary statement at the end of this release regarding forward-looking statements.\n\n4 All previously announced operating sites have been divested, with the Coffee development project remaining designated as held for sale. No agreement has been reached with respect to Coffee as of the date of this release.\n\n5 Total liquidity as of March 31, 2025 includes $0.1 billion in cash for assets held for sale and $4.0 billion available on a revolving credit facility\n\n6 Total debt purchases include $22 million in April 2025.",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.4861111111111111,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.0009969338234712118
+ },
+ "lexicon": {
+  "words": 472,
+  "per_1000": {
+   "Negative": 8.5,
+   "Positive": 10.6,
+   "Uncertainty": 2.1,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 2.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 5,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "DENVER--(BUSINESS WIRE)-- Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) (Newmont or the Company) today announced first quarter 2025 results and declared a dividend of $0.251 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\"Following on from a robust fourth quarter performance, Newmont has delivered 1.5 million attributable gold ounces and generated a record first quarter free cash flow of $1.2 billion, demonstrating the strength of our unrivaled Tier 1 Portfolio,\u201d said Tom Palmer, Newmont's President and Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.233,
+   "h": 0.0,
+   "hits": [
+    [
+     202,
+     210,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"We also successfully completed our non-core divestiture program, generating up to $4.3 billion in total gross proceeds including over $2.5 billion of after-tax cash proceeds in the first half of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     45,
+     56,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "With these significant achievements and a solid start to the year, we remain firmly on track to meet our 2025 guidance, continuing on our journey towards creating the world\u2019s leading gold and copper portfolio for the benefit of our shareholders.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     175,
+     182,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Q1 2025 Results",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Reported Net Income of $1.9 billion, Adjusted Net Income (ANI)2of $1.25 per diluted share and Adjusted EBITDA2 of $2.6 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "On track to meet Newmont's 2025 guidance3, with first quarter results in line with indications provided in February 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Completed divestiture program announced in 2024, and finalized the sales of Musselwhite, \u00c9l\u00e9onore and Cripple Creek & Victor (CC&V) in February, and Porcupine and Akyem in April4.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     21,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Received over $2.5 billion in cash proceeds net of tax impacts from the divestiture sales closed in 2025, with total gross proceeds expected to total up to $4.3 billion from non-core asset and other investment sales.",
+   "d": 1,
+   "m": false,
+   "tone": -0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     83,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Generated $2.0 billion of cash from operating activities, net of working capital changes of $(141) million; reported a record first quarter Free Cash Flow2 of $1.2 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Delivered $1.0 billion in total returns to shareholders through share repurchases and dividend payments since the start of the year; declared a dividend of $0.25 per share of common stock for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Produced 1.5 million attributable gold ounces, primarily driven by production of 1.3 million gold ounces from Newmont's Tier 1 Portfolio3, as well as 35 thousand tonnes of copper.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Maintained a strong and flexible investment-grade balance sheet, ending the quarter with $4.7 billion in cash and $8.8 billion in total liquidity5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Reduced debt by $1.0 billion since the start of the year6, which includes early redemption of $928 million of 2026 Notes redeemed on February 7, 2025 and $75 million in market purchases6; reported Net debt to Adjusted EBITDA2of 0.3x _____________________________ 1 Newmont's Board of Directors declared a dividend of $0.25 per share of common stock for the first quarter of 2025, payable on June 20, 2025 to holders of record at the close of business on May 27, 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     454,
+     457,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "4 All previously announced operating sites have been divested, with the Coffee development project remaining designated as held for sale.",
+   "d": 0,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     61,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "No agreement has been reached with respect to Coffee as of the date of this release.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "5 Total liquidity as of March 31, 2025 includes $0.1 billion in cash for assets held for sale and $4.0 billion available on a revolving credit facility",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "6 Total debt purchases include $22 million in April 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
