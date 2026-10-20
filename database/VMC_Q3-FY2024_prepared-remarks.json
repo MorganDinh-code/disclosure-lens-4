@@ -1,0 +1,687 @@
+{
+ "company": "Vulcan Materials Company",
+ "ticker": "VMC",
+ "sector": "Materials",
+ "filing_type": "Prepared remarks",
+ "period": "Q3 FY2024",
+ "date": "2024-10-30",
+ "source_url": "https://assets.contentstack.io/v3/assets/bltfd7cf707acd5b8e3/bltb17ad8d4ed5a569a/69033a5a18c384c1cbd87819/VMC-3Q-2024-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "Tom Hill, Vulcan Materials\u2019 Chairman and Chief Executive Officer, said, \u201cResults and activities in the\nthird quarter evidence the consistent execution of our two-pronged strategy to generate durable growth.\nWe continue to enhance our core through expansion of our industry-leading aggregates cash gross profit\nper ton, which increased 10 percent in the third quarter and has grown by double-digits for eight\nconsecutive quarters. We also recently announced the acquisition of Wake Stone Corporation, a leading\npure-play aggregates producer, that will expand our reach in high-growth geographies in the Carolinas.\nOur Vulcan Way of Selling and Vulcan Way of Operating disciplines remain fundamental to\ncompounding profitability across our franchise and successfully integrating new operations.\u201d \n\nThird Quarter Segment Results\nAggregates\nThird quarter segment gross profit was $498 million ($8.63 per ton), and gross profit margin expanded\n40 basis points. Cash gross profit per ton improved 10 percent to $10.89 per ton, despite lower\nshipments and harsh weather conditions throughout the quarter. Improvements in unit profitability were\nwidespread across the Company\u2019s footprint.\n\nAggregates shipments decreased 10 percent as compared to the prior year\u2019s third quarter. Shipments\nacross the Southeast were impacted by significant rainfall in July, followed by numerous hurricanes and\nsevere storms in August and September. The prior year\u2019s third quarter included fewer severe weather\nevents.\n\nThe pricing environment remained positive across the footprint. Freight-adjusted selling prices\nincreased 10 percent as compared to the prior year. Freight-adjusted unit cash cost of sales was\nnegatively impacted by lower volume and challenging weather-affected operating conditions; freightadjusted cash cost of sales dollars remained flat compared to the prior year.\n\nAsphalt and Concrete\nAsphalt segment gross profit was $60 million, and cash gross profit was $72 million, a 12 percent\nimprovement over the prior year. Shipments increased slightly as compared to the prior year, and price\nimproved 6 percent. Concrete segment gross profit was $7 million, and cash gross profit was $17\nmillion. The prior year\u2019s third quarter included results from the previously divested concrete assets in\nTexas, which accounted for the majority of the year-over-year decline in cash gross profit.\n\nSelling, Administrative and General (SAG) and Other Items\nSAG expense was $129 million compared to $144 million in the prior year\u2019s third quarter. As a percent\nof total revenues, SAG expense was 6.4 percent and 20 basis points lower than the prior year\u2019s third\nquarter.\nThis year\u2019s third quarter included a pretax charge of $87 million ($84 million after-tax) resulting from\nthe write-off of goodwill for the Company\u2019s concrete assets in Northern California.\n\nFinancial Position, Liquidity and Capital Allocation\nThe Company remains well positioned for continued growth with a strong liquidity position and balance\nsheet profile. As of September 30, 2024, the ratio of total debt to trailing-twelve months Adjusted\nEBITDA was 1.7 times and below the Company\u2019s target range of 2.0 to 2.5 times. On a trailing-twelve\nmonths basis, return on invested capital improved 70 basis points over the prior year to 16.1 percent.\nCapital expenditures were $104 million in the third quarter and $402 million on a year-to-date basis.\nFor the full year, the Company expects to spend between $625 and $650 million for maintenance and\ngrowth projects. During the quarter, the Company returned $61 million to shareholders through\ndividends, a 6 percent increase versus the prior year\u2019s third quarter.\n\nThe acquisition of Wake Stone Corporation is consistent with our disciplined capital allocation priorities\nand aggregates-led strategy of continuing to expand our reach to better serve more high-growth regions\nin the United States. The acquisition is expected to provide more than 60 years of quality hard rock\nreserves. The Company expects to close the transaction during the fourth quarter of this year, subject to\nsatisfaction of customary closing conditions.\n\nOutlook\nRegarding the Company\u2019s current year outlook, Mr. Hill said, \u201cWhile significant weather disruptions\nhave impacted construction activity through the first nine months of the year, overall demand\nfundamentals continue to underpin long-term growth. The pricing environment remains positive, and\nwe continue to execute well. Given the decline in shipments to date and continued weather events so far\nin the fourth quarter, we now expect full-year Adjusted EBITDA of approximately $2 billion.\n\nMr. Hill continued, \u201cAs we look to 2025, we expect aggregates price to improve high-single digits, cost\nto benefit from our Vulcan Way of Operating disciplines and moderating inflation and, most\nimportantly, cash gross profit per ton to continue expanding at double-digit levels. A demand backdrop\nunderpinned by growth in public construction activity and an improving private demand environment\nshould lead to volume growth in 2025. Our steadfast focus to execute at the highest level \u2013 both\ncommercially and operationally \u2013 positions us well to capitalize on improving volume and grow\nearnings.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 43,
+  "n_material_neg": 1,
+  "n_positive": 18,
+  "mean_pos_negative": 0.23255813953488372,
+  "mean_pos_positive": 0.4935400516795866,
+  "placement_asymmetry": -0.2609819121447029,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.23255813953488372,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.002407125542589774,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.5833333333333334,
+  "overall_hedge": 0.007751937984496124,
+  "mean_tone": 0.13771539311534992
+ },
+ "lexicon": {
+  "words": 774,
+  "per_1000": {
+   "Negative": 11.6,
+   "Positive": 27.1,
+   "Uncertainty": 1.3,
+   "Litigious": 0.0,
+   "Strong modal": 2.6,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 9,
+   "Positive": 21,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Tom Hill, Vulcan Materials\u2019 Chairman and Chief Executive Officer, said, \u201cResults and activities in the third quarter evidence the consistent execution of our two-pronged strategy to generate durable growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "We continue to enhance our core through expansion of our industry-leading aggregates cash gross profit per ton, which increased 10 percent in the third quarter and has grown by double-digits for eight consecutive quarters.",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     66,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We also recently announced the acquisition of Wake Stone Corporation, a leading pure-play aggregates producer, that will expand our reach in high-growth geographies in the Carolinas.",
+   "d": 1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     120,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Our Vulcan Way of Selling and Vulcan Way of Operating disciplines remain fundamental to compounding profitability across our franchise and successfully integrating new operations.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     113,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     151,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Third Quarter Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Aggregates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Third quarter segment gross profit was $498 million ($8.63 per ton), and gross profit margin expanded 40 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Cash gross profit per ton improved 10 percent to $10.89 per ton, despite lower shipments and harsh weather conditions throughout the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     34,
+     [
+      "positive"
+     ]
+    ],
+    [
+     65,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     93,
+     98,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Improvements in unit profitability were widespread across the Company\u2019s footprint.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     21,
+     34,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Aggregates shipments decreased 10 percent as compared to the prior year\u2019s third quarter.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Shipments across the Southeast were impacted by significant rainfall in July, followed by numerous hurricanes and severe storms in August and September.",
+   "d": 0,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     120,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "The prior year\u2019s third quarter included fewer severe weather events.",
+   "d": 0,
+   "m": false,
+   "tone": -0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     52,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The pricing environment remained positive across the footprint.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Freight-adjusted selling prices increased 10 percent as compared to the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Freight-adjusted unit cash cost of sales was negatively impacted by lower volume and challenging weather-affected operating conditions; freightadjusted cash cost of sales dollars remained flat compared to the prior year.",
+   "d": -1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     85,
+     96,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Asphalt and Concrete.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Asphalt segment gross profit was $60 million, and cash gross profit was $72 million, a 12 percent improvement over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     109,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Shipments increased slightly as compared to the prior year, and price improved 6 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Concrete segment gross profit was $7 million, and cash gross profit was $17 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The prior year\u2019s third quarter included results from the previously divested concrete assets in.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     76,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Texas, which accounted for the majority of the year-over-year decline in cash gross profit.",
+   "d": -1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     69,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Selling, Administrative and General (SAG) and Other Items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "SAG expense was $129 million compared to $144 million in the prior year\u2019s third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "As a percent of total revenues, SAG expense was 6.4 percent and 20 basis points lower than the prior year\u2019s third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "This year\u2019s third quarter included a pretax charge of $87 million ($84 million after-tax) resulting from the write-off of goodwill for the Company\u2019s concrete assets in Northern California.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Financial Position, Liquidity and Capital Allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "The Company remains well positioned for continued growth with a strong liquidity position and balance sheet profile.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "As of September 30, 2024, the ratio of total debt to trailing-twelve months Adjusted.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "EBITDA was 1.7 times and below the Company\u2019s target range of 2.0 to 2.5 times.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "On a trailing-twelve months basis, return on invested capital improved 70 basis points over the prior year to 16.1 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Capital expenditures were $104 million in the third quarter and $402 million on a year-to-date basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "For the full year, the Company expects to spend between $625 and $650 million for maintenance and growth projects.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "During the quarter, the Company returned $61 million to shareholders through dividends, a 6 percent increase versus the prior year\u2019s third quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The acquisition of Wake Stone Corporation is consistent with our disciplined capital allocation priorities and aggregates-led strategy of continuing to expand our reach to better serve more high-growth regions in the United States.",
+   "d": 1,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     172,
+     178,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "The acquisition is expected to provide more than 60 years of quality hard rock reserves.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "The Company expects to close the transaction during the fourth quarter of this year, subject to satisfaction of customary closing conditions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0952,
+   "hits": [
+    [
+     96,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Regarding the Company\u2019s current year outlook, Mr. Hill said, \u201cWhile significant weather disruptions have impacted construction activity through the first nine months of the year, overall demand fundamentals continue to underpin long-term growth.",
+   "d": 1,
+   "m": false,
+   "tone": -0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     99,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "The pricing environment remains positive, and we continue to execute well.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Given the decline in shipments to date and continued weather events so far in the fourth quarter, we now expect full-year Adjusted EBITDA of approximately $2 billion.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.0741,
+   "hits": [
+    [
+     10,
+     17,
+     [
+      "negative"
+     ]
+    ],
+    [
+     141,
+     154,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Mr. Hill continued, \u201cAs we look to 2025, we expect aggregates price to improve high-single digits, cost to benefit from our Vulcan Way of Operating disciplines and moderating inflation and, most importantly, cash gross profit per ton to continue expanding at double-digit levels.",
+   "d": 0,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0227,
+   "hits": [
+    [
+     71,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "A demand backdrop underpinned by growth in public construction activity and an improving private demand environment should lead to volume growth in 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     79,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Our steadfast focus to execute at the highest level \u2013 both commercially and operationally \u2013 positions us well to capitalize on improving volume and grow earnings.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     38,
+     45,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     127,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
