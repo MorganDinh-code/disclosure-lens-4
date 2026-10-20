@@ -1,0 +1,613 @@
+{
+ "company": "Vulcan Materials Company",
+ "ticker": "VMC",
+ "sector": "Materials",
+ "filing_type": "Prepared remarks",
+ "period": "Q1 FY2025",
+ "date": "2025-04-30",
+ "source_url": "https://assets.contentstack.io/v3/assets/bltfd7cf707acd5b8e3/bltc5ae4840f6c5e500/69033a7b73917aa8f8557dbe/VMC-1Q2025-Earnings-Release.pdf",
+ "demo": false,
+ "source_text": "Aggregates-Led Business Delivers Strong Earnings and Margin Expansion\nPricing Gains and Unit Profitability Improvement in Each Segment\nFirst Quarter Results Reinforce Full-Year Outlook\nBirmingham, Alabama \u2013 April 30, 2025 \u2013 Vulcan Materials Company (NYSE: VMC), the\nnation\u2019s largest producer of construction aggregates, today announced results for the quarter\nended March 31, 2025. \n\nTom Hill, Vulcan Materials\u2019 Chairman and Chief Executive Officer, said, \u201cThe combination of\nour aggregates-led business and our consistent focus on our Vulcan Way of Selling and Vulcan\nWay of Operating disciplines resulted in strong earnings growth and margin expansion in the\nfirst quarter. Adjusted EBITDA increased 27 percent, and Adjusted EBITDA margin expanded\n420 basis points over the prior year. Aggregates cash gross profit per ton improved 20 percent\nwith widespread improvements across our footprint. Our commercial and operational execution\nsupport our full-year outlook to deliver another year of earnings growth in 2025.\u201d \n\nFirst Quarter Segment Results\nAggregates\nSegment gross profit increased 18 percent to $357 million ($7.48 per ton), and gross profit\nmargin expanded 320 basis points to 26.7 percent. Cash gross profit per ton increased 20 percent\nto $10.63 per ton resulting from geographically widespread pricing growth and improving\noperational efficiencies. On a trailing-twelve months basis, cash gross profit per ton was $10.99,\nmarking the ninth consecutive quarter of double-digit compounding improvement in unit\nprofitability.\n\nAggregates shipments decreased 1 percent as compared to the prior year\u2019s first quarter.\nShipments from acquisitions partially offset one less shipping day in the quarter and challenging\nweather, particularly in February.\n\nPrice increases effective at the beginning of the year resulted in another quarter of attractive\ngrowth. Freight-adjusted selling prices increased 7 percent (mix-adjusted pricing increased 8.5\npercent) as compared to the prior year. Freight-adjusted unit cash cost of sales decreased 3\npercent ($0.33 per ton) as a result of continued operational cost discipline and moderating\ninflationary pressures.\n\nAsphalt and Concrete\nAsphalt segment gross profit was $5 million, and cash gross profit was $17 million, a 24 percent\nimprovement over the prior year. Shipments increased 4 percent, and price improved 4 percent,\nresulting in 19 percent improvement in unit cash gross profit. Concrete segment gross profit was\n$3 million, and cash gross profit was $19 million. Unit cash gross profit increased 77 percent\nthrough a combination of improvement in the legacy business and the benefit of acquired\noperations. Shipments improved 15 percent, and price improved 4 percent versus the prior year.\n\nSelling, Administrative and General (SAG) and Other Items\nSAG expense of $138 million was in line with the Company\u2019s expectations for the first quarter.\nOn a trailing-twelve months basis, SAG expense as a percent of total revenues was flat compared\nto the prior year at 7.2 percent.\n\nFinancial Position, Liquidity and Capital Allocation\nCapital expenditures for maintenance and growth projects were $105 million in the first quarter.\nFor the full year, the Company expects to spend $750 to $800 million for maintenance and\ngrowth projects.\n\nDuring the quarter, the Company returned $104 million to shareholders through $66 million of\ndividends and $38 million of common stock repurchases. The Company also used $400 million\nof cash on hand to redeem its 2025 notes, resulting in a ratio of total debt to trailing-twelve\nmonths Adjusted EBITDA of 2.3 times, or 2.2 times on a net debt basis. On a trailing-twelve\nmonths basis, return on average invested capital was 16.2 percent.\nThe Company remains well positioned for continued growth with a strong liquidity position and\nbalance sheet profile. \n\nOutlook\nRegarding the Company\u2019s outlook, Mr. Hill said, \u201cOur execution in the first quarter was strong,\nand we reiterate our full-year outlook to deliver $2.35 to $2.55 billion of Adjusted EBITDA. We\ncontinue to monitor the impact on overall economic activity from the uncertainty surrounding\ntrade policy and the trajectory of interest rates. As always, we are focused on the things we can\ncontrol. Our continued execution of our strategic disciplines has and will continue to lead to\nattractive cash generation and value creation for our shareholders regardless of external\nheadwinds.\u201d ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 41,
+  "n_material_neg": 2,
+  "n_positive": 17,
+  "mean_pos_negative": 0.41463414634146345,
+  "mean_pos_positive": 0.4289813486370158,
+  "placement_asymmetry": -0.014347202295552364,
+  "distance_from_headline": 10,
+  "first_negative_pos": 0.36585365853658536,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0029061624649859945,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.0031496062992125984,
+  "mean_tone": 0.2387534075104867
+ },
+ "lexicon": {
+  "words": 635,
+  "per_1000": {
+   "Negative": 1.6,
+   "Positive": 33.1,
+   "Uncertainty": 1.6,
+   "Litigious": 0.0,
+   "Strong modal": 3.1,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 21,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Aggregates-Led Business Delivers Strong Earnings and Margin Expansion.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Pricing Gains and Unit Profitability Improvement in Each Segment.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     13,
+     [
+      "positive"
+     ]
+    ],
+    [
+     23,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     37,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "First Quarter Results Reinforce Full-Year Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Birmingham, Alabama \u2013 April 30, 2025 \u2013 Vulcan Materials Company (NYSE: VMC), the nation\u2019s largest producer of construction aggregates, today announced results for the quarter ended March 31, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Tom Hill, Vulcan Materials\u2019 Chairman and Chief Executive Officer, said, \u201cThe combination of our aggregates-led business and our consistent focus on our Vulcan Way of Selling and Vulcan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Way of Operating disciplines resulted in strong earnings growth and margin expansion in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     47,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Adjusted EBITDA increased 27 percent, and Adjusted EBITDA margin expanded 420 basis points over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Aggregates cash gross profit per ton improved 20 percent with widespread improvements across our footprint.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     73,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Our commercial and operational execution support our full-year outlook to deliver another year of earnings growth in 2025.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "First Quarter Segment Results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Aggregates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Segment gross profit increased 18 percent to $357 million ($7.48 per ton), and gross profit margin expanded 320 basis points to 26.7 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Cash gross profit per ton increased 20 percent to $10.63 per ton resulting from geographically widespread pricing growth and improving operational efficiencies.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     125,
+     134,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "On a trailing-twelve months basis, cash gross profit per ton was $10.99, marking the ninth consecutive quarter of double-digit compounding improvement in unit profitability.",
+   "d": 1,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     150,
+     [
+      "positive"
+     ]
+    ],
+    [
+     159,
+     172,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Aggregates shipments decreased 1 percent as compared to the prior year\u2019s first quarter.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Shipments from acquisitions partially offset one less shipping day in the quarter and challenging weather, particularly in February.",
+   "d": 0,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     97,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Price increases effective at the beginning of the year resulted in another quarter of attractive growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Freight-adjusted selling prices increased 7 percent (mix-adjusted pricing increased 8.5 percent) as compared to the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Freight-adjusted unit cash cost of sales decreased 3 percent ($0.33 per ton) as a result of continued operational cost discipline and moderating inflationary pressures.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Asphalt and Concrete.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Asphalt segment gross profit was $5 million, and cash gross profit was $17 million, a 24 percent improvement over the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Shipments increased 4 percent, and price improved 4 percent, resulting in 19 percent improvement in unit cash gross profit.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     49,
+     [
+      "positive"
+     ]
+    ],
+    [
+     85,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Concrete segment gross profit was.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "$3 million, and cash gross profit was $19 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Unit cash gross profit increased 77 percent through a combination of improvement in the legacy business and the benefit of acquired operations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     80,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Shipments improved 15 percent, and price improved 4 percent versus the prior year.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     41,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Selling, Administrative and General (SAG) and Other Items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "SAG expense of $138 million was in line with the Company\u2019s expectations for the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "On a trailing-twelve months basis, SAG expense as a percent of total revenues was flat compared to the prior year at 7.2 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Financial Position, Liquidity and Capital Allocation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Capital expenditures for maintenance and growth projects were $105 million in the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "For the full year, the Company expects to spend $750 to $800 million for maintenance and growth projects.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "During the quarter, the Company returned $104 million to shareholders through $66 million of dividends and $38 million of common stock repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "The Company also used $400 million of cash on hand to redeem its 2025 notes, resulting in a ratio of total debt to trailing-twelve months Adjusted EBITDA of 2.3 times, or 2.2 times on a net debt basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "On a trailing-twelve months basis, return on average invested capital was 16.2 percent.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "The Company remains well positioned for continued growth with a strong liquidity position and balance sheet profile.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Regarding the Company\u2019s outlook, Mr. Hill said, \u201cOur execution in the first quarter was strong, and we reiterate our full-year outlook to deliver $2.35 to $2.55 billion of Adjusted EBITDA.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "We continue to monitor the impact on overall economic activity from the uncertainty surrounding trade policy and the trajectory of interest rates.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     72,
+     83,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "As always, we are focused on the things we can control.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     9,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Our continued execution of our strategic disciplines has and will continue to lead to attractive cash generation and value creation for our shareholders regardless of external headwinds.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     65,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     86,
+     96,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
