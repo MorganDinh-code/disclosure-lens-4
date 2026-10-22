@@ -1,0 +1,816 @@
+{
+ "company": "LyondellBasell Industries",
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-31",
+ "source_url": "https://investors.lyondellbasell.com/news/news-details/2025/LyondellBasell-reports-third-quarter-2025-earnings/default.aspx",
+ "demo": false,
+ "source_text": "Net (loss) income: $(890) million, $330 million excluding identified items1\nDiluted (loss) earnings per share: $(2.77) per share; $1.01 per share excluding identified items\nEBITDA: $(480) million, $835 million excluding identified items\nNon-cash asset write-downs: $1,202 million\nCash from operating activities: $983 million\nStrong cash conversion2 of 135% during 3Q25\nReturned $443 million to shareholders during 3Q25 through dividends\nContinued to navigate the cycle with operational and financial discipline:\nCash Improvement Plan remains on track to deliver target of $600 million3 for 2025\nOperational improvements from higher rates for Hyperzone PE and Channelview PO/TBA exceeding benchmark for nameplate operating rate\nAdvanced Polymers Solutions portfolio transformation and increased customer satisfaction driving business improvement\nEuropean asset sale moving forward with regulatory approvals and execution of purchase agreement\n\n\u201cLYB continues to navigate a challenging market environment while remaining focused on delivering long-term value,\u201d said Peter Vanacker, LyondellBasell chief executive officer. \u201cOur Cash Improvement Plan is on track to achieve our $600 million target in 2025 and a minimum of $1.1 billion by the end of 2026, by reducing fixed costs, managing working capital and optimizing capital investment to strengthen free cash flow. We are prioritizing our investment-grade balance sheet while investing in safe and reliable operations. Our strategy is resilient and we remain confident in our ability to create long-term value for investors.\u201d\n\nTHIRD QUARTER 2025 RESULTS\nThe company reported a net loss for the third quarter 2025 of $890 million, or $2.77 per diluted share. During the quarter, the company recognized $1.2 billion of identified items, net of tax. These items, which impacted third-quarter earnings by $3.78 per share, included non-cash asset write-downs, costs incurred for transactions, the Cash Improvement Plan and discontinued operations. Third quarter 2025 EBITDA was $(480) million, or $835 million excluding identified items.\n\nIn the Olefins and Polyolefins Americas segment, improved profitability was supported by increased olefins margins and higher sales volumes following the successful completion of turnarounds at the company's facility in Channelview, Texas. Polyethylene spreads decreased as monomer costs rose. LYB sales volumes improved on higher domestic demand for polyethylene supported by the company's strong North American market position, along with higher export flows to key global markets. Polypropylene demand remained weak. In Europe, improved operations yielded higher monomer volumes while polymer prices were pressured by increased competition from imports.\n\nIn the Intermediates and Derivatives segment, oxyfuels results benefited from increased octane blend premiums, lower butane raw material prices and modestly higher sales volumes, partially offset by declining styrene margins as global supply normalized. In September, LYB started a two-month turnaround at its La Porte, Texas acetyls unit that will position the asset for improved productivity and reliability.\n\nLyondellBasell generated $983 million in cash from operating activities with 135% cash conversion2 during the third quarter. LYB continued to balance capital allocation between capital expenditures of $406 million and $443 million of shareholder returns through dividends. Cash increased and at the end of the quarter, LYB held $1.8 billion in cash and cash equivalents and maintained $6.5 billion in available liquidity.\n\nSTRATEGY HIGHLIGHTS\nLYB continues to balance capital allocation between investment in the business and shareholder returns while prioritizing safe and reliable operations. LYB is executing on its priorities and the Cash Improvement Plan remains on track to deliver on a $600 million target for 20253 and a minimum of $1.1 billion by the end of 2026. Capital expenditures will be reduced to $1.2 billion in 2026 by optimizing maintenance spending while supporting the ongoing construction of the company's first chemical recycling plant, MoReTec-1, in Germany. The company took another step in its portfolio transformation with regulatory approvals and the purchase agreement for the sale of four European assets. The company's focus on operational and commercial excellence continues to drive results with the Channelview PO/TBA facility exceeding nameplate operating rates, the Hyperzone polyethylene plant delivering improved performance and the Advanced Polymer Solutions segment leveraging a 75% increase in customer satisfaction relative to 2023 to drive improved business performance.\n\nOUTLOOK\nIn the fourth quarter, year-end seasonality and lower operating rates are expected to impact results across most businesses. In North America, higher natural gas and feedstock costs are likely to pressure integrated polyolefins margins. In Europe, weak industrial and consumer demand is expected to persist. Global capacity rationalizations and anti-involution measures in China are supporting a more constructive mid-term outlook for the industry. Industry downtime supported oxyfuels margins during October, but seasonally higher costs for feedstocks and lower octane values are expected to pressure oxyfuels profitability for the remainder of the quarter. In Advanced Polymer Solutions, pricing pressures persist, but cost reduction initiatives are expected to offset some of the impact.\n\nIn November, LYB will idle its larger cracker in Wesseling, Germany and one of the propylene oxide/styrene monomer units in Channelview, Texas. Each asset will be down for about 40 days. The downtime will allow for maintenance activities while aligning production with global demand and reducing working capital. The company expects fourth-quarter operating rates of 80% for North American olefins and polyolefins (O&P) assets, 60% for European O&P assets and 75% for Intermediates & Derivatives (I&D) assets.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 46,
+  "n_material_neg": 4,
+  "n_positive": 9,
+  "mean_pos_negative": 0.20108695652173914,
+  "mean_pos_positive": 0.5314009661835749,
+  "placement_asymmetry": -0.3303140096618358,
+  "distance_from_headline": -11,
+  "first_negative_pos": 0.021739130434782608,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.495343137254902,
+  "overall_hedge": 0.0024242424242424242,
+  "mean_tone": 0.03608405063050439
+ },
+ "lexicon": {
+  "words": 825,
+  "per_1000": {
+   "Negative": 17.0,
+   "Positive": 30.3,
+   "Uncertainty": 0.0,
+   "Litigious": 2.4,
+   "Strong modal": 6.1,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 14,
+   "Positive": 25,
+   "Uncertainty": 0,
+   "Litigious": 2,
+   "Strong modal": 5,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Net (loss) income: $(890) million, $330 million excluding identified items1.",
+   "d": -1,
+   "m": true,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     9,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Diluted (loss) earnings per share: $(2.77) per share; $1.01 per share excluding identified items.",
+   "d": -1,
+   "m": true,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "EBITDA: $(480) million, $835 million excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Non-cash asset write-downs: $1,202 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Cash from operating activities: $983 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Strong cash conversion2 of 135% during 3Q25.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Returned $443 million to shareholders during 3Q25 through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Continued to navigate the cycle with operational and financial discipline: Cash Improvement Plan remains on track to deliver target of $600 million3 for 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     91,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Operational improvements from higher rates for Hyperzone PE and Channelview PO/TBA exceeding benchmark for nameplate operating rate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     24,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Advanced Polymers Solutions portfolio transformation and increased customer satisfaction driving business improvement.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     88,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "European asset sale moving forward with regulatory approvals and execution of purchase agreement",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     50,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cLYB continues to navigate a challenging market environment while remaining focused on delivering long-term value,\u201d said Peter Vanacker, LyondellBasell chief executive officer. \u201cOur Cash Improvement Plan is on track to achieve our $600 million target in 2025 and a minimum of $1.1 billion by the end of 2026, by reducing fixed costs, managing working capital and optimizing capital investment to strengthen free cash flow.",
+   "d": 1,
+   "m": false,
+   "tone": 0.328,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     40,
+     [
+      "negative"
+     ]
+    ],
+    [
+     187,
+     198,
+     [
+      "positive"
+     ]
+    ],
+    [
+     219,
+     226,
+     [
+      "positive"
+     ]
+    ],
+    [
+     396,
+     406,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We are prioritizing our investment-grade balance sheet while investing in safe and reliable operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Our strategy is resilient and we remain confident in our ability to create long-term value for investors.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     49,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "THIRD QUARTER 2025 RESULTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The company reported a net loss for the third quarter 2025 of $890 million, or $2.77 per diluted share.",
+   "d": -1,
+   "m": true,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     27,
+     31,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "During the quarter, the company recognized $1.2 billion of identified items, net of tax.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "These items, which impacted third-quarter earnings by $3.78 per share, included non-cash asset write-downs, costs incurred for transactions, the Cash Improvement Plan and discontinued operations.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     150,
+     161,
+     [
+      "positive"
+     ]
+    ],
+    [
+     171,
+     183,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Third quarter 2025 EBITDA was $(480) million, or $835 million excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "In the Olefins and Polyolefins Americas segment, improved profitability was supported by increased olefins margins and higher sales volumes following the successful completion of turnarounds at the company's facility in Channelview, Texas.",
+   "d": 1,
+   "m": false,
+   "tone": 0.938,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     57,
+     [
+      "positive"
+     ]
+    ],
+    [
+     58,
+     71,
+     [
+      "positive"
+     ]
+    ],
+    [
+     154,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Polyethylene spreads decreased as monomer costs rose.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "LYB sales volumes improved on higher domestic demand for polyethylene supported by the company's strong North American market position, along with higher export flows to key global markets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     97,
+     103,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Polypropylene demand remained weak.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     34,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "In Europe, improved operations yielded higher monomer volumes while polymer prices were pressured by increased competition from imports.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "In the Intermediates and Derivatives segment, oxyfuels results benefited from increased octane blend premiums, lower butane raw material prices and modestly higher sales volumes, partially offset by declining styrene margins as global supply normalized.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     63,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     199,
+     208,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "In September, LYB started a two-month turnaround at its La Porte, Texas acetyls unit that will position the asset for improved productivity and reliability.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     90,
+     94,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     118,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "LyondellBasell generated $983 million in cash from operating activities with 135% cash conversion2 during the third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "LYB continued to balance capital allocation between capital expenditures of $406 million and $443 million of shareholder returns through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Cash increased and at the end of the quarter, LYB held $1.8 billion in cash and cash equivalents and maintained $6.5 billion in available liquidity.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "STRATEGY HIGHLIGHTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "LYB continues to balance capital allocation between investment in the business and shareholder returns while prioritizing safe and reliable operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "LYB is executing on its priorities and the Cash Improvement Plan remains on track to deliver on a $600 million target for 20253 and a minimum of $1.1 billion by the end of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Capital expenditures will be reduced to $1.2 billion in 2026 by optimizing maintenance spending while supporting the ongoing construction of the company's first chemical recycling plant, MoReTec-1, in Germany.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     25,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "The company took another step in its portfolio transformation with regulatory approvals and the purchase agreement for the sale of four European assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     67,
+     77,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "The company's focus on operational and commercial excellence continues to drive results with the Channelview PO/TBA facility exceeding nameplate operating rates, the Hyperzone polyethylene plant delivering improved performance and the Advanced Polymer Solutions segment leveraging a 75% increase in customer satisfaction relative to 2023 to drive improved business performance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     206,
+     214,
+     [
+      "positive"
+     ]
+    ],
+    [
+     308,
+     320,
+     [
+      "positive"
+     ]
+    ],
+    [
+     347,
+     355,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "In the fourth quarter, year-end seasonality and lower operating rates are expected to impact results across most businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "In North America, higher natural gas and feedstock costs are likely to pressure integrated polyolefins margins.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "In Europe, weak industrial and consumer demand is expected to persist.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     15,
+     [
+      "negative"
+     ]
+    ],
+    [
+     62,
+     69,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Global capacity rationalizations and anti-involution measures in China are supporting a more constructive mid-term outlook for the industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     32,
+     [
+      "negative"
+     ]
+    ],
+    [
+     93,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Industry downtime supported oxyfuels margins during October, but seasonally higher costs for feedstocks and lower octane values are expected to pressure oxyfuels profitability for the remainder of the quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     17,
+     [
+      "negative"
+     ]
+    ],
+    [
+     162,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "In Advanced Polymer Solutions, pricing pressures persist, but cost reduction initiatives are expected to offset some of the impact.",
+   "d": 1,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     56,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "In November, LYB will idle its larger cracker in Wesseling, Germany and one of the propylene oxide/styrene monomer units in Channelview, Texas.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     17,
+     21,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     22,
+     26,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "Each asset will be down for about 40 days.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     15,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "The downtime will allow for maintenance activities while aligning production with global demand and reducing working capital.",
+   "d": -1,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "negative"
+     ]
+    ],
+    [
+     13,
+     17,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "The company expects fourth-quarter operating rates of 80% for North American olefins and polyolefins (O&P) assets, 60% for European O&P assets and 75% for Intermediates & Derivatives (I&D) assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
+  }
+ ]
+}
