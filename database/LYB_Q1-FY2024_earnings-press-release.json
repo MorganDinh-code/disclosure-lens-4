@@ -1,0 +1,471 @@
+{
+ "company": "LyondellBasell Industries",
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-26",
+ "source_url": "https://www.lyondellbasell.com/en/who-we-are/updates-events/corporate--financial-news/lyondellbasell-reports-first-quarter-2024-earnings/",
+ "demo": false,
+ "source_text": "First Quarter 2024 Highlights\n\nNet Income: $473 million, $501 million excluding identified items(a)\nDiluted earnings per share: $1.44 per share; $1.53 per share excluding identified items\nEBITDA: $1.0 billion, $1.1 billion excluding identified items\nCash used by operating activities: $114 million\nCash provided by operating activities of $4.3 billion over last 12 months resulting in 93% cash conversion(b)\nReturned $408 million in dividends to shareholders\n\nLyondellBasell Industries (NYSE: LYB) today announced net income for the first quarter 2024 of $473 million, or $1.44 per diluted share.  During the quarter, the company recognized identified items of $28 million, net of tax.  These items, which impacted first quarter earnings by $0.09 per share, were related to costs incurred from plans to exit the refining business.  First quarter 2024 EBITDA was $1.0 billion, or $1.1 billion excluding identified items. \n\nIn North America, lower costs for natural gas-based feedstocks and energy benefited olefins and polyolefins margins while regional demand for polyethylene improved.  The company's North American volumes were constrained by downtime in olefins, polyolefins, propylene oxide, oxyfuels and acetyls.  In Europe, logistics disruptions in the Red Sea restricted competitive imports and led to increased volumes from LYB's local assets for olefins, polyethylene, polypropylene and propylene oxide and derivatives.  Globally, tepid demand for durable goods continued to challenge volumes and margins for polypropylene and propylene oxide.\n\nThe company remains committed to its balanced and disciplined capital allocation strategy.  In the first quarter, LYB used $114 million of cash for operating activities, invested $483 million in capital expenditures for the businesses and returned $408 million to shareholders through dividends.  The use of cash by operating activities during the quarter was due to a build in working capital driven by expected seasonality as well as higher volumes and prices in several businesses.  During the first quarter, LYB successfully issued $750 million of bonds to refinance our 2024 maturity at a lower interest rate.  At the end of the quarter, the company held $2.3 billion in cash and short-term investments and $6.5 billion in available liquidity.\n\nLYB is methodically building a profitable Circular & Low Carbon Solutions (CLCS) business as one of the key pillars of our three-pillar corporate strategy.  Since 2019, sales volumes of the company's recycled and renewable-based polymers have grown at a compound annual growth rate of 55 percent.  LYB produced and marketed over 120 thousand tons of recycled and renewable-based polymers in 2023(c).   \n\n\"LyondellBasell remains focused on unlocking significant value through our strategy while managing challenging market conditions.  Our team continues to grow our CLCS business, with LYB building capabilities across the value chain, from upstream plastic waste sourcing to providing recycled and renewable-based polymers that meet the increasing demand from our customers,\" said Peter Vanacker, LyondellBasell Chief Executive Officer. \n\nOUTLOOK\n\nIn the second quarter, the company expects seasonal demand improvements across most businesses.  Low costs for natural gas and NGLs should continue to benefit margins from LYB's North American and Middle East production relative to higher oil-based costs in most other regions.  With the start of the summer driving season, oxyfuels and refining margins are expected to increase with higher gasoline crack spreads and lower butane costs.  During the second quarter, LYB expects to operate its assets in line with market demand with average operating rates of 85% for global olefins and polyolefins assets and 80% for the Intermediates & Derivatives assets.  The company continues to monitor targeted stimulus efforts and remains watchful for demand improvements in China.\n\n\"One year after launching our new strategy, the LYB team continues to be highly focused on execution, accountability and delivering results.  Sales volumes for recycled and renewable-based polymers are rapidly growing through our comprehensive approach to building a leading CLCS business. We will extend this growth with continued development of our integrated hubs in Cologne and Houston,\" said Vanacker.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 34,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.7132352941176471,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.006089284903003044,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.003278688524590164,
+  "mean_tone": 0.04397070817188362
+ },
+ "lexicon": {
+  "words": 610,
+  "per_1000": {
+   "Negative": 6.6,
+   "Positive": 11.5,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 1.6,
+   "Weak modal": 0.0,
+   "Constraining": 4.9
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 7,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First Quarter 2024 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net Income: $473 million, $501 million excluding identified items(a).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted earnings per share: $1.44 per share; $1.53 per share excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "EBITDA: $1.0 billion, $1.1 billion excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Cash used by operating activities: $114 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Cash provided by operating activities of $4.3 billion over last 12 months resulting in 93% cash conversion(b).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Returned $408 million in dividends to shareholders",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "LyondellBasell Industries (NYSE: LYB) today announced net income for the first quarter 2024 of $473 million, or $1.44 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "During the quarter, the company recognized identified items of $28 million, net of tax.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "These items, which impacted first quarter earnings by $0.09 per share, were related to costs incurred from plans to exit the refining business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "First quarter 2024 EBITDA was $1.0 billion, or $1.1 billion excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "In North America, lower costs for natural gas-based feedstocks and energy benefited olefins and polyolefins margins while regional demand for polyethylene improved.",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     155,
+     163,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The company's North American volumes were constrained by downtime in olefins, polyolefins, propylene oxide, oxyfuels and acetyls.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     53,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     57,
+     65,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "In Europe, logistics disruptions in the Red Sea restricted competitive imports and led to increased volumes from LYB's local assets for olefins, polyethylene, polypropylene and propylene oxide and derivatives.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     32,
+     [
+      "negative"
+     ]
+    ],
+    [
+     48,
+     58,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Globally, tepid demand for durable goods continued to challenge volumes and margins for polypropylene and propylene oxide.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     63,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "The company remains committed to its balanced and disciplined capital allocation strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     29,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "In the first quarter, LYB used $114 million of cash for operating activities, invested $483 million in capital expenditures for the businesses and returned $408 million to shareholders through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "The use of cash by operating activities during the quarter was due to a build in working capital driven by expected seasonality as well as higher volumes and prices in several businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "During the first quarter, LYB successfully issued $750 million of bonds to refinance our 2024 maturity at a lower interest rate.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "At the end of the quarter, the company held $2.3 billion in cash and short-term investments and $6.5 billion in available liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "LYB is methodically building a profitable Circular & Low Carbon Solutions (CLCS) business as one of the key pillars of our three-pillar corporate strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Since 2019, sales volumes of the company's recycled and renewable-based polymers have grown at a compound annual growth rate of 55 percent.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "LYB produced and marketed over 120 thousand tons of recycled and renewable-based polymers in 2023(c).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "\"LyondellBasell remains focused on unlocking significant value through our strategy while managing challenging market conditions.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     110,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Our team continues to grow our CLCS business, with LYB building capabilities across the value chain, from upstream plastic waste sourcing to providing recycled and renewable-based polymers that meet the increasing demand from our customers,\" said Peter Vanacker, LyondellBasell Chief Executive Officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "OUTLOOK",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "In the second quarter, the company expects seasonal demand improvements across most businesses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0769,
+   "hits": [
+    [
+     59,
+     71,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Low costs for natural gas and NGLs should continue to benefit margins from LYB's North American and Middle East production relative to higher oil-based costs in most other regions.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "With the start of the summer driving season, oxyfuels and refining margins are expected to increase with higher gasoline crack spreads and lower butane costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "During the second quarter, LYB expects to operate its assets in line with market demand with average operating rates of 85% for global olefins and polyolefins assets and 80% for the Intermediates & Derivatives assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The company continues to monitor targeted stimulus efforts and remains watchful for demand improvements in China.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     91,
+     103,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "\"One year after launching our new strategy, the LYB team continues to be highly focused on execution, accountability and delivering results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Sales volumes for recycled and renewable-based polymers are rapidly growing through our comprehensive approach to building a leading CLCS business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     125,
+     132,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "We will extend this growth with continued development of our integrated hubs in Cologne and Houston,\" said Vanacker.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     7,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
