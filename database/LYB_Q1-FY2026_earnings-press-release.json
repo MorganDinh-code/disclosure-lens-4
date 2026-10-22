@@ -1,0 +1,847 @@
+{
+ "company": "LyondellBasell Industries",
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-01",
+ "source_url": "https://investors.lyondellbasell.com/news/news-details/2026/LyondellBasell-reports-first-quarter-2026-earnings/default.aspx",
+ "demo": false,
+ "source_text": "et income: $125 million, $163 million excluding identified items1\nDiluted earnings per share: $0.38 per share; $0.49 per share excluding identified items\nEBITDA: $568 million, $615 million excluding identified items\nMiddle East war has steepened the global cost curve for the petrochemical industry\nLYB is leveraging cost-advantaged production to capture upside while maintaining financial resilience\nDemonstrating agility by increasing operating rates, optimizing production and capturing favorable pricing in dynamic markets with support from value-enhancing initiatives executed over the last three years\nAdvancing transformation of the LYB portfolio with the sale of four European sites to right-size and enhance the future footprint\nContinuing work to reduce fixed costs, maintaining discipline in capital spending and proactively managing levels of working capital to support cash improvement in 2026\n\u201cThe global cost curve for petrochemicals has materially steepened with the onset of war in the Middle East and is unlikely to revert to pre-war conditions anytime soon. LYB is moving quickly and decisively to increase production to help fill the gap in global supply for our essential products and improve security of supply for our customers. We are leveraging the lowest delivered cost with advantaged assets in North America and passing through higher raw material costs in Europe to profitably serve local demand,\u201d said Peter Vanacker, LYB chief executive officer. \u201cThe sequential improvement in our first quarter results was driven by operational discipline and commercial execution. Our deliberate portfolio actions, supported by our Value Enhancement Program and reductions in fixed cost through the Cash Improvement Plan, increase our capability to capture long-term value. We remain focused on cash generation while prioritizing safe and reliable operations that allow us to expand our earnings potential in 2026 and beyond.\u201d\n\nFIRST QUARTER 2026 RESULTS\nThe company reported net income for the first quarter 2026 of $125 million, or $0.38 per diluted share. During the quarter, the company recognized $38 million of identified items, net of tax. These items, which impacted first quarter earnings by $0.11 per share, included non-cash asset write-downs, costs incurred for transactions and discontinued operations. First quarter 2026 EBITDA was $568 million, or $615 million excluding identified items.\n\nIn the Olefins and Polyolefins - Americas segment, EBITDA doubled relative to the prior quarter as lower feedstock costs and accelerating product prices benefited integrated polyethylene margins to more than offset the negative impact from winter storm Fern at the start of the year. Tightening market conditions associated with the war in the Middle East supported higher polyethylene prices in both domestic and export markets. Polypropylene margins declined as prices lagged higher monomer costs during the early weeks of the war. In Europe, a combination of reduced imports and improved seasonal demand drove higher prices and volumes that were partially offset by higher naphtha costs.\n\nIn the Intermediates and Derivatives segment, propylene oxide and derivatives margins strengthened with improved pricing and increased demand. A delayed restart of the La Porte acetyls assets impacted first quarter profitability. In oxyfuels, margins compressed due to lower gasoline cracks and octane premiums while volumes were impacted by an outage at the Bayport PO/TBA site that began in March.\n\nLYB used $269 million in cash from operating activities during the first quarter. After achieving a very low working capital balance at the end of 2025, the increased use of cash in the first quarter reflects a relatively modest, but typical, first quarter working capital build and the effects of serving increased global demand at higher prices and volumes. Capital allocation was balanced between capital expenditures of $269 million and $224 million of shareholder returns through dividends. At the end of the quarter, LYB held $2.6 billion in cash and cash equivalents and maintained $7.3 billion in available liquidity.\n\nSTRATEGY HIGHLIGHTS\nLYB reached an important milestone in its portfolio transformation with the completion of the sale of four European assets. The company is now better positioned with increased resilience and greater flexibility to capture market upside by leveraging a greater proportion of its portfolio's low-cost production.\n\nAgainst this backdrop, the company's three-pillar strategy remains unchanged with continued focus on the Cash Improvement Plan and active portfolio management to reduce fixed costs, maintain discipline in capital investments and drive the optimization of working capital to benefit cash generation. With this strong foundation, LYB is proactively managing its response to rapidly shifting global markets by aligning production with feedstock optimization and commercial execution to maximize value through the lowest delivered cost.\n\nOUTLOOK\nIn the second quarter, market conditions are expected to support significant sequential improvement across almost all businesses, reflecting tighter supply dynamics and favorable pricing trends resulting from the disruption in the Middle East. In North America, further margin expansion is anticipated, driven by increased export demand and crude-linked pricing dynamics. In Europe, the completion of the European asset sale is expected to improve average margins while reducing cost. Reduced exports from the Middle East and Asia to Europe are leading to increased polymer spreads, which are expected to more than offset lower volumes associated with the divestiture. Reductions in operating rates and shutdowns associated with the war could accelerate capacity rationalizations to support a more constructive supply and demand balance for the global industry. In oxyfuels, higher margins from widening spreads should partially offset lower volumes associated with unplanned downtime at the Bayport PO/TBA site. Intermediate chemicals results are expected to improve with stronger methanol and acetyls margins.\n\nThe company is aligning second quarter operations to capture value and match demand by maximizing rates for North American olefins and polyolefins (O&P) assets and raising rates for European O&P assets to 80% while the Intermediates & Derivatives segment is expected to keep rates at 75%. Ongoing geopolitical uncertainty is likely to continue to drive supply dislocations and price volatility. With cost-advantaged assets and operating leverage, LYB is well-positioned to profit from the steeper global cost curve for petrochemicals.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 44,
+  "n_material_neg": 0,
+  "n_positive": 11,
+  "mean_pos_positive": 0.6301652892561984,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.006398512376773247,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 0.9030788177339901,
+  "overall_hedge": 0.007261410788381743,
+  "mean_tone": 0.11064605044348128
+ },
+ "lexicon": {
+  "words": 964,
+  "per_1000": {
+   "Negative": 16.6,
+   "Positive": 32.2,
+   "Uncertainty": 6.2,
+   "Litigious": 0.0,
+   "Strong modal": 2.1,
+   "Weak modal": 2.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 16,
+   "Positive": 31,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 2,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "et income: $125 million, $163 million excluding identified items1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Diluted earnings per share: $0.38 per share; $0.49 per share excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "EBITDA: $568 million, $615 million excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Middle East war has steepened the global cost curve for the petrochemical industry.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "LYB is leveraging cost-advantaged production to capture upside while maintaining financial resilience.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     33,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Demonstrating agility by increasing operating rates, optimizing production and capturing favorable pricing in dynamic markets with support from value-enhancing initiatives executed over the last three years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     89,
+     98,
+     [
+      "positive"
+     ]
+    ],
+    [
+     150,
+     159,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Advancing transformation of the LYB portfolio with the sale of four European sites to right-size and enhance the future footprint.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     108,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Continuing work to reduce fixed costs, maintaining discipline in capital spending and proactively managing levels of working capital to support cash improvement in 2026. \u201cThe global cost curve for petrochemicals has materially steepened with the onset of war in the Middle East and is unlikely to revert to pre-war conditions anytime soon.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     97,
+     [
+      "positive"
+     ]
+    ],
+    [
+     149,
+     160,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "LYB is moving quickly and decisively to increase production to help fill the gap in global supply for our essential products and improve security of supply for our customers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     129,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "We are leveraging the lowest delivered cost with advantaged assets in North America and passing through higher raw material costs in Europe to profitably serve local demand,\u201d said Peter Vanacker, LYB chief executive officer. \u201cThe sequential improvement in our first quarter results was driven by operational discipline and commercial execution.",
+   "d": -1,
+   "m": false,
+   "tone": 0.6,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     28,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     49,
+     59,
+     [
+      "positive"
+     ]
+    ],
+    [
+     143,
+     153,
+     [
+      "positive"
+     ]
+    ],
+    [
+     241,
+     252,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Our deliberate portfolio actions, supported by our Value Enhancement Program and reductions in fixed cost through the Cash Improvement Plan, increase our capability to capture long-term value.",
+   "d": -1,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     14,
+     [
+      "negative"
+     ]
+    ],
+    [
+     57,
+     68,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "We remain focused on cash generation while prioritizing safe and reliable operations that allow us to expand our earnings potential in 2026 and beyond.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "FIRST QUARTER 2026 RESULTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "The company reported net income for the first quarter 2026 of $125 million, or $0.38 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "During the quarter, the company recognized $38 million of identified items, net of tax.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "These items, which impacted first quarter earnings by $0.11 per share, included non-cash asset write-downs, costs incurred for transactions and discontinued operations.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     144,
+     156,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "First quarter 2026 EBITDA was $568 million, or $615 million excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "In the Olefins and Polyolefins - Americas segment, EBITDA doubled relative to the prior quarter as lower feedstock costs and accelerating product prices benefited integrated polyethylene margins to more than offset the negative impact from winter storm Fern at the start of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     153,
+     162,
+     [
+      "positive"
+     ]
+    ],
+    [
+     219,
+     227,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Tightening market conditions associated with the war in the Middle East supported higher polyethylene prices in both domestic and export markets.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     10,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Polypropylene margins declined as prices lagged higher monomer costs during the early weeks of the war.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     30,
+     [
+      "negative"
+     ]
+    ],
+    [
+     41,
+     47,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "In Europe, a combination of reduced imports and improved seasonal demand drove higher prices and volumes that were partially offset by higher naphtha costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "In the Intermediates and Derivatives segment, propylene oxide and derivatives margins strengthened with improved pricing and increased demand.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     98,
+     [
+      "positive"
+     ]
+    ],
+    [
+     104,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "A delayed restart of the La Porte acetyls assets impacted first quarter profitability.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     2,
+     9,
+     [
+      "negative"
+     ]
+    ],
+    [
+     72,
+     85,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "In oxyfuels, margins compressed due to lower gasoline cracks and octane premiums while volumes were impacted by an outage at the Bayport PO/TBA site that began in March.",
+   "d": -1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     115,
+     121,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "LYB used $269 million in cash from operating activities during the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "After achieving a very low working capital balance at the end of 2025, the increased use of cash in the first quarter reflects a relatively modest, but typical, first quarter working capital build and the effects of serving increased global demand at higher prices and volumes.",
+   "d": 1,
+   "m": false,
+   "tone": 0.222,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Capital allocation was balanced between capital expenditures of $269 million and $224 million of shareholder returns through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "At the end of the quarter, LYB held $2.6 billion in cash and cash equivalents and maintained $7.3 billion in available liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "STRATEGY HIGHLIGHTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "LYB reached an important milestone in its portfolio transformation with the completion of the sale of four European assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The company is now better positioned with increased resilience and greater flexibility to capture market upside by leveraging a greater proportion of its portfolio's low-cost production.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     25,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Against this backdrop, the company's three-pillar strategy remains unchanged with continued focus on the Cash Improvement Plan and active portfolio management to reduce fixed costs, maintain discipline in capital investments and drive the optimization of working capital to benefit cash generation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "negative"
+     ]
+    ],
+    [
+     110,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "With this strong foundation, LYB is proactively managing its response to rapidly shifting global markets by aligning production with feedstock optimization and commercial execution to maximize value through the lowest delivered cost.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     36,
+     47,
+     [
+      "positive"
+     ]
+    ],
+    [
+     211,
+     217,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "In the second quarter, market conditions are expected to support significant sequential improvement across almost all businesses, reflecting tighter supply dynamics and favorable pricing trends resulting from the disruption in the Middle East.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     88,
+     99,
+     [
+      "positive"
+     ]
+    ],
+    [
+     107,
+     113,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     169,
+     178,
+     [
+      "positive"
+     ]
+    ],
+    [
+     213,
+     223,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "In North America, further margin expansion is anticipated, driven by increased export demand and crude-linked pricing dynamics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     46,
+     57,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "In Europe, the completion of the European asset sale is expected to improve average margins while reducing cost.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Reduced exports from the Middle East and Asia to Europe are leading to increased polymer spreads, which are expected to more than offset lower volumes associated with the divestiture.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     171,
+     182,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "Reductions in operating rates and shutdowns associated with the war could accelerate capacity rationalizations to support a more constructive supply and demand balance for the global industry.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     34,
+     43,
+     [
+      "negative"
+     ]
+    ],
+    [
+     68,
+     73,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     94,
+     110,
+     [
+      "negative"
+     ]
+    ],
+    [
+     129,
+     141,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "In oxyfuels, higher margins from widening spreads should partially offset lower volumes associated with unplanned downtime at the Bayport PO/TBA site.",
+   "d": 0,
+   "m": false,
+   "tone": -0.909,
+   "h": 0.0455,
+   "hits": [
+    [
+     104,
+     113,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     114,
+     122,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Intermediate chemicals results are expected to improve with stronger methanol and acetyls margins.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     54,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "The company is aligning second quarter operations to capture value and match demand by maximizing rates for North American olefins and polyolefins (O&P) assets and raising rates for European O&P assets to 80% while the Intermediates & Derivatives segment is expected to keep rates at 75%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Ongoing geopolitical uncertainty is likely to continue to drive supply dislocations and price volatility.",
+   "d": 0,
+   "m": false,
+   "tone": -0.714,
+   "h": 0.2143,
+   "hits": [
+    [
+     21,
+     32,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     94,
+     104,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "With cost-advantaged assets and operating leverage, LYB is well-positioned to profit from the steeper global cost curve for petrochemicals.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
