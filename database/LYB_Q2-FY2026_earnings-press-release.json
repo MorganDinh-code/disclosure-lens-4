@@ -1,0 +1,863 @@
+{
+ "company": "LyondellBasell Industries",
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-31",
+ "source_url": "https://investors.lyondellbasell.com/news/news-details/2026/LyondellBasell-reports-second-quarter-2026-earnings/default.aspx",
+ "demo": false,
+ "source_text": "Net income: $0.6 billion, $1.4 billion excluding identified items1\nDiluted earnings per share: $1.71 per share; $4.30 per share excluding identified items\nEBITDA: $1.3 billion, $2.1 billion excluding identified items\nStrengthened the portfolio through the divestiture of select European assets, structurally improving the cost position and aligning the company's European footprint to its strategy\nContinued to deliver meaningful fixed-cost reductions and lower capital expenditures through the Cash Improvement Plan\nCapitalized on improved market conditions through disciplined commercial execution\n\n\u201cIn a dynamic macroeconomic environment, we delivered exceptional results through deliberate commercial actions, the strength of our advantaged portfolio and improved market conditions supporting margin expansion,\u201d said Peter Vanacker, LYB chief executive officer. \u201cWe responded quickly to the global supply disruption by increasing operating rates to serve our customers, demonstrating the flexibility and resilience of our global asset base and supply chain. We also took decisive actions with the divestment of select European assets and continued progress on our Cash Improvement Plan. These actions are repositioning LYB with a structurally lower cost base providing improved margins and enhanced cash generation. We continue to prioritize safety, reliability, cost discipline and capital allocation to deliver sustainable value for our shareholders.\u201d\n\nSECOND QUARTER 2026 RESULTS\nThe company reported net income for the second quarter 2026 of $559 million, or $1.71 per diluted share. During the quarter, the company recognized $842 million of identified items, net of tax. These items, which impacted second quarter earnings by $2.59 per diluted share, included the loss on sale from the divestiture of select European assets and a write down related to an Olefins & Polyolefins (O&P) \u2013 Americas joint venture. Second quarter 2026 EBITDA was $1.3 billion, or $2.1 billion excluding identified items.\n\nIn the second quarter, geopolitical instability resulted in dynamic and supply-constrained market conditions across all business segments. In the O&P \u2013 Americas segment, results substantially improved relative to the prior quarter on expanding polymer margins and favorable co-product pricing due to tighter global market supply. The company operated its advantaged North American assets at approximately 90% utilization capitalizing on favorable market conditions. O&P \u2013 Europe, Asia and International also benefited from improved polymer spreads driven by supply chain disruptions and stronger joint venture contributions.\n\nIntermediates and Derivatives (I&D) delivered higher earnings driven by improving oxyfuels, methanol and PO derivatives margins partially offset by the Bayport PO/TBA unplanned outage during the quarter. Bayport was successfully restarted in June, exiting the quarter at full operating rates and positioning the business for improved volume performance in the second half of the year.\n\nLYB generated $752 million in cash from operating activities during the second quarter. Working capital was a use of cash during the quarter given higher prices and increased operating rates to capture favorable market opportunities caused by global supply disruptions. The second quarter included a $310 million cash contribution in connection with the completion of the European asset divestiture, as expected. Capital allocation was balanced between capital expenditures of $270 million and $224 million of shareholder returns through dividends. At the end of the quarter, LYB held $2.6 billion in cash and cash equivalents and $7.1 billion in available liquidity.\n\nSTRATEGY HIGHLIGHTS\nLYB reached an important milestone in its portfolio transformation with the completion of the divestiture of four European assets during the second quarter. This demonstrates the company's continued progress to Grow and Upgrade the Core as part of its three-pillar strategy. The company is now better positioned with increased resilience and greater flexibility to navigate the cycle and capture market upside by increasing the proportion of its assets connected to advantaged feedstocks.\n\nLYB remains focused on strengthening its balance sheet through disciplined and balanced capital allocation and strong cash generation. The company is on target to deliver $500 million incremental cash through its Cash Improvement Plan by the end of 2026, driven primarily by fixed-cost reductions and lower capital expenditures.\n\nOUTLOOK\nAs shown in recent weeks, conditions in the Middle East remain fluid, and we expect this to continue to be a source of volatility for energy and petrochemical value chains. The pace, timing and magnitude at which conflict-impacted supply will return to the market remains uncertain with the recovery period likely extending into 2027. While we do not anticipate material demand deterioration in our key end markets, uncertainty on the near-term price outlook could temporarily impact normal buying patterns.\n\nThe restart of Bayport PO/TBA should provide volume uplift in the I&D segment, while planned downtime at the Clinton facility will impact polyolefins volumes in the second half of the year. To align with global demand and the company's planned maintenance, LYB expects third quarter operating rates of 85% for North American O&P assets, 70% for European O&P assets and 85% for I&D assets.\n\nLYB remains focused on commercial and operational agility in this dynamic market while continuing to execute the Cash Improvement Plan. The company's capital allocation priorities remain unchanged: safely operate and maintain assets, strengthen the balance sheet though disciplined deleveraging including the scheduled note maturity repayment in September, maintain an attractive dividend and invest selectively in opportunities that enhance long-term shareholder value.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 40,
+  "n_material_neg": 1,
+  "n_positive": 11,
+  "mean_pos_negative": 0.35,
+  "mean_pos_positive": 0.42954545454545456,
+  "placement_asymmetry": -0.07954545454545459,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.35,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.008067978135088921,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0.3333333333333333,
+  "mean_tone_gap_on_negatives": 0.8305035805035805,
+  "overall_hedge": 0.013157894736842105,
+  "mean_tone": 0.19257457794321312
+ },
+ "lexicon": {
+  "words": 836,
+  "per_1000": {
+   "Negative": 20.3,
+   "Positive": 41.9,
+   "Uncertainty": 9.6,
+   "Litigious": 0.0,
+   "Strong modal": 2.4,
+   "Weak modal": 2.4,
+   "Constraining": 1.2
+  },
+  "counts": {
+   "Negative": 17,
+   "Positive": 35,
+   "Uncertainty": 8,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Net income: $0.6 billion, $1.4 billion excluding identified items1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Diluted earnings per share: $1.71 per share; $4.30 per share excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "EBITDA: $1.3 billion, $2.1 billion excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Strengthened the portfolio through the divestiture of select European assets, structurally improving the cost position and aligning the company's European footprint to its strategy.",
+   "d": -1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     39,
+     50,
+     [
+      "negative"
+     ]
+    ],
+    [
+     91,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Continued to deliver meaningful fixed-cost reductions and lower capital expenditures through the Cash Improvement Plan.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     102,
+     113,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Capitalized on improved market conditions through disciplined commercial execution",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     23,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cIn a dynamic macroeconomic environment, we delivered exceptional results through deliberate commercial actions, the strength of our advantaged portfolio and improved market conditions supporting margin expansion,\u201d said Peter Vanacker, LYB chief executive officer. \u201cWe responded quickly to the global supply disruption by increasing operating rates to serve our customers, demonstrating the flexibility and resilience of our global asset base and supply chain.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     65,
+     [
+      "positive"
+     ]
+    ],
+    [
+     82,
+     92,
+     [
+      "negative"
+     ]
+    ],
+    [
+     117,
+     125,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     143,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     166,
+     [
+      "positive"
+     ]
+    ],
+    [
+     308,
+     318,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We also took decisive actions with the divestment of select European assets and continued progress on our Cash Improvement Plan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     39,
+     49,
+     [
+      "negative"
+     ]
+    ],
+    [
+     90,
+     98,
+     [
+      "positive"
+     ]
+    ],
+    [
+     111,
+     122,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "These actions are repositioning LYB with a structurally lower cost base providing improved margins and enhanced cash generation.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     90,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "We continue to prioritize safety, reliability, cost discipline and capital allocation to deliver sustainable value for our shareholders.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "SECOND QUARTER 2026 RESULTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The company reported net income for the second quarter 2026 of $559 million, or $1.71 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "During the quarter, the company recognized $842 million of identified items, net of tax.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "These items, which impacted second quarter earnings by $2.59 per diluted share, included the loss on sale from the divestiture of select European assets and a write down related to an Olefins & Polyolefins (O&P) \u2013 Americas joint venture.",
+   "d": -1,
+   "m": true,
+   "tone": -0.541,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     97,
+     [
+      "negative"
+     ]
+    ],
+    [
+     115,
+     126,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Second quarter 2026 EBITDA was $1.3 billion, or $2.1 billion excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "In the second quarter, geopolitical instability resulted in dynamic and supply-constrained market conditions across all business segments.",
+   "d": 0,
+   "m": false,
+   "tone": -0.556,
+   "h": 0.0556,
+   "hits": [
+    [
+     36,
+     47,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     79,
+     90,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "In the O&P \u2013 Americas segment, results substantially improved relative to the prior quarter on expanding polymer margins and favorable co-product pricing due to tighter global market supply.",
+   "d": 1,
+   "m": false,
+   "tone": 0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     61,
+     [
+      "positive"
+     ]
+    ],
+    [
+     125,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The company operated its advantaged North American assets at approximately 90% utilization capitalizing on favorable market conditions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     25,
+     35,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     74,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     107,
+     116,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "O&P \u2013 Europe, Asia and International also benefited from improved polymer spreads driven by supply chain disruptions and stronger joint venture contributions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     51,
+     [
+      "positive"
+     ]
+    ],
+    [
+     57,
+     65,
+     [
+      "positive"
+     ]
+    ],
+    [
+     105,
+     116,
+     [
+      "negative"
+     ]
+    ],
+    [
+     121,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Intermediates and Derivatives (I&D) delivered higher earnings driven by improving oxyfuels, methanol and PO derivatives margins partially offset by the Bayport PO/TBA unplanned outage during the quarter.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0345,
+   "hits": [
+    [
+     72,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     167,
+     176,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     177,
+     183,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Bayport was successfully restarted in June, exiting the quarter at full operating rates and positioning the business for improved volume performance in the second half of the year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     121,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "LYB generated $752 million in cash from operating activities during the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Working capital was a use of cash during the quarter given higher prices and increased operating rates to capture favorable market opportunities caused by global supply disruptions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     114,
+     123,
+     [
+      "positive"
+     ]
+    ],
+    [
+     131,
+     144,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     180,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The second quarter included a $310 million cash contribution in connection with the completion of the European asset divestiture, as expected.",
+   "d": 0,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     117,
+     128,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Capital allocation was balanced between capital expenditures of $270 million and $224 million of shareholder returns through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "At the end of the quarter, LYB held $2.6 billion in cash and cash equivalents and $7.1 billion in available liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "STRATEGY HIGHLIGHTS.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "LYB reached an important milestone in its portfolio transformation with the completion of the divestiture of four European assets during the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     94,
+     105,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "This demonstrates the company's continued progress to Grow and Upgrade the Core as part of its three-pillar strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "The company is now better positioned with increased resilience and greater flexibility to navigate the cycle and capture market upside by increasing the proportion of its assets connected to advantaged feedstocks.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     191,
+     201,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "LYB remains focused on strengthening its balance sheet through disciplined and balanced capital allocation and strong cash generation.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     36,
+     [
+      "positive"
+     ]
+    ],
+    [
+     111,
+     117,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "The company is on target to deliver $500 million incremental cash through its Cash Improvement Plan by the end of 2026, driven primarily by fixed-cost reductions and lower capital expenditures.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "As shown in recent weeks, conditions in the Middle East remain fluid, and we expect this to continue to be a source of volatility for energy and petrochemical value chains.",
+   "d": 0,
+   "m": false,
+   "tone": -0.333,
+   "h": 0.0667,
+   "hits": [
+    [
+     119,
+     129,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "The pace, timing and magnitude at which conflict-impacted supply will return to the market remains uncertain with the recovery period likely extending into 2027.",
+   "d": 0,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0833,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "negative"
+     ]
+    ],
+    [
+     65,
+     69,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     99,
+     108,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "While we do not anticipate material demand deterioration in our key end markets, uncertainty on the near-term price outlook could temporarily impact normal buying patterns.",
+   "d": -1,
+   "m": false,
+   "tone": -0.385,
+   "h": 0.1154,
+   "hits": [
+    [
+     16,
+     26,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     43,
+     56,
+     [
+      "negative"
+     ]
+    ],
+    [
+     81,
+     92,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     124,
+     129,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "The restart of Bayport PO/TBA should provide volume uplift in the I&D segment, while planned downtime at the Clinton facility will impact polyolefins volumes in the second half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": -0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     101,
+     [
+      "negative"
+     ]
+    ],
+    [
+     126,
+     130,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "To align with global demand and the company's planned maintenance, LYB expects third quarter operating rates of 85% for North American O&P assets, 70% for European O&P assets and 85% for I&D assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "LYB remains focused on commercial and operational agility in this dynamic market while continuing to execute the Cash Improvement Plan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "The company's capital allocation priorities remain unchanged: safely operate and maintain assets, strengthen the balance sheet though disciplined deleveraging including the scheduled note maturity repayment in September, maintain an attractive dividend and invest selectively in opportunities that enhance long-term shareholder value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     98,
+     108,
+     [
+      "positive"
+     ]
+    ],
+    [
+     233,
+     243,
+     [
+      "positive"
+     ]
+    ],
+    [
+     279,
+     292,
+     [
+      "positive"
+     ]
+    ],
+    [
+     298,
+     305,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
