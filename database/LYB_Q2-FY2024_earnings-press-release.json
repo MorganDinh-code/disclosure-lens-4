@@ -1,0 +1,625 @@
+{
+ "company": "LyondellBasell Industries",
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-08-02",
+ "source_url": "https://www.lyondellbasell.com/en/who-we-are/updates-events/corporate--financial-news/lyondellbasell-reports-second-quarter-2024-earnings/",
+ "demo": false,
+ "source_text": "Second Quarter 2024 Highlights\n\nNet income: $924 million, $734 million excluding identified items(a)\nDiluted earnings per share: $2.82 per share; $2.24 per share excluding identified items\nEBITDA: $1.6 billion, $1.4 billion excluding identified items\nCash from operating activities: $1.3 billion\nIncreased quarterly dividend by 7% to $1.34 per share\nReturned $513 million to shareholders through dividends and share repurchases\nTaking additional actions to grow and upgrade our core businesses\nCompleted divestment of Ethylene Oxide and Derivatives (EO&D) business\nCompleted acquisition of 35% share in NATPET integrated polypropylene joint venture in Saudi Arabia\nAnnounced strategic review of European assets\n\nLyondellBasell Industries (NYSE: LYB) (the \"company\") today announced net income for the second quarter 2024 of $924 million, or $2.82 per diluted share.  During the quarter, the company recognized identified items of $190 million, net of tax.  These items, which benefited second quarter earnings by $0.58 per share, were related to the gain on the sale of the EO&D business, partially offset by costs incurred from plans to exit the refining business.  Second quarter 2024 EBITDA was $1.6 billion, or $1.4 billion excluding identified items. \n\nSecond quarter volumes benefited from increased production and improving seasonal demand.  In North America, olefins and polyolefins volumes increased while favorable ethane and natural gas costs continued to provide support for integrated margins.  In Europe, integrated polyethylene margins expanded with increased utilization of advantaged LPG feedstocks.  The company's Intermediates and Derivatives segment delivered record quarterly oxyfuels volumes driven by production from LYB's newest PO/TBA asset.  Intermediate chemical margins and volumes improved, largely due to higher production from LYB's acetyls assets. Refining margins fell sequentially due to lower crack spreads.\n\nIn the second quarter, the company's strong cash conversion(b) resulted in $1.3 billion in cash from operating activities.  LYB remains committed to its balanced and disciplined capital allocation strategy.  The company invested $484 million in capital expenditures and returned $513 million to shareholders through dividends and share repurchases.  LYB maintained a robust investment-grade balance sheet with $2.9 billion in cash and short-term investments and $7.0 billion in available liquidity.\n\nLYB continues to take actions to grow and upgrade its core businesses.  In the second quarter, the company divested the EO&D business for $700 million, while investing approximately $500 million to acquire a 35% stake in the feedstock-advantaged NATPET joint venture in Saudi Arabia.  NATPET is continuing to progress toward a final investment decision to more than double the polymer capacity of the joint venture.  Additionally, LYB announced a strategic review of some of its European assets to position the company for a more sustainable and circular future by strengthening profitability and competitive advantage in the region.\n\n\"Increased production from LYB's assets, higher integrated margins and rising seasonal demand drove sequential improvements in second quarter profitability.  Underlying business results increased by nearly 30 percent over the first quarter.  We continue to make significant strides on our ambitions to grow and upgrade our core businesses as part of our three-pillar strategy to unlock value.  In the second quarter, we completed the divestiture of a non-core asset, increased our cost-advantaged footprint in the Middle East and announced our work underway to reposition our European businesses for future success,\" said Peter Vanacker, LyondellBasell chief executive officer.\n\nOUTLOOK\nIn the third quarter, the company expects margins to continue to benefit from low costs for natural gas and natural gas liquids utilized in LYB's North American and Middle East production relative to higher oil-based costs in most other regions.  With the summer driving season underway, oxyfuels margins are expected to remain above historical levels with high octane premiums.  During the third quarter, LYB expects to operate its assets in line with market demand with average operating rates of 85% for North American olefins and polyolefins (O&P) assets, 80% for European O&P assets and 75% for Intermediates & Derivatives assets. \n\n\"We are confident that our actions to grow and upgrade our core businesses will deliver lasting benefits for LYB.  June year-to-date market demand for polyethylene and polypropylene produced in North America is up by more than 10% and 5%, respectively.  A decade of North American polyolefin capacity additions have been absorbed due to growing market demand and we expect minimal capacity to be added in the region over the next several years.  The LYB team continues to be laser-focused on operating safely and delivering results. We are reshaping our portfolio to serve our customer's needs for more sustainable products while continuing to deliver leading returns for our shareholders,\" said Vanacker.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 42,
+  "n_material_neg": 0,
+  "n_positive": 9,
+  "mean_pos_positive": 0.5132275132275133,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0054346164721706365,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 1.173160173160173,
+  "overall_hedge": 0.006868131868131868,
+  "mean_tone": 0.15703639336158132
+ },
+ "lexicon": {
+  "words": 728,
+  "per_1000": {
+   "Negative": 4.1,
+   "Positive": 26.1,
+   "Uncertainty": 2.7,
+   "Litigious": 0.0,
+   "Strong modal": 1.4,
+   "Weak modal": 1.4,
+   "Constraining": 1.4
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 19,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Second Quarter 2024 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net income: $924 million, $734 million excluding identified items(a).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted earnings per share: $2.82 per share; $2.24 per share excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "EBITDA: $1.6 billion, $1.4 billion excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Cash from operating activities: $1.3 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Increased quarterly dividend by 7% to $1.34 per share.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Returned $513 million to shareholders through dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Taking additional actions to grow and upgrade our core businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Completed divestment of Ethylene Oxide and Derivatives (EO&D) business.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Completed acquisition of 35% share in NATPET integrated polypropylene joint venture in Saudi Arabia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Announced strategic review of European assets",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "LyondellBasell Industries (NYSE: LYB) (the \"company\") today announced net income for the second quarter 2024 of $924 million, or $2.82 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "During the quarter, the company recognized identified items of $190 million, net of tax.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "These items, which benefited second quarter earnings by $0.58 per share, were related to the gain on the sale of the EO&D business, partially offset by costs incurred from plans to exit the refining business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     28,
+     [
+      "positive"
+     ]
+    ],
+    [
+     93,
+     97,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Second quarter 2024 EBITDA was $1.6 billion, or $1.4 billion excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Second quarter volumes benefited from increased production and improving seasonal demand.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     23,
+     32,
+     [
+      "positive"
+     ]
+    ],
+    [
+     63,
+     72,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "In North America, olefins and polyolefins volumes increased while favorable ethane and natural gas costs continued to provide support for integrated margins.",
+   "d": -1,
+   "m": false,
+   "tone": 0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     66,
+     75,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "In Europe, integrated polyethylene margins expanded with increased utilization of advantaged LPG feedstocks.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     82,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The company's Intermediates and Derivatives segment delivered record quarterly oxyfuels volumes driven by production from LYB's newest PO/TBA asset.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Intermediate chemical margins and volumes improved, largely due to higher production from LYB's acetyls assets.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     50,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Refining margins fell sequentially due to lower crack spreads.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "In the second quarter, the company's strong cash conversion(b) resulted in $1.3 billion in cash from operating activities.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "LYB remains committed to its balanced and disciplined capital allocation strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     21,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The company invested $484 million in capital expenditures and returned $513 million to shareholders through dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "LYB maintained a robust investment-grade balance sheet with $2.9 billion in cash and short-term investments and $7.0 billion in available liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "LYB continues to take actions to grow and upgrade its core businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "In the second quarter, the company divested the EO&D business for $700 million, while investing approximately $500 million to acquire a 35% stake in the feedstock-advantaged NATPET joint venture in Saudi Arabia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "negative"
+     ]
+    ],
+    [
+     96,
+     109,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     163,
+     173,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "NATPET is continuing to progress toward a final investment decision to more than double the polymer capacity of the joint venture.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Additionally, LYB announced a strategic review of some of its European assets to position the company for a more sustainable and circular future by strengthening profitability and competitive advantage in the region.",
+   "d": 0,
+   "m": false,
+   "tone": 0.938,
+   "h": 0.0,
+   "hits": [
+    [
+     148,
+     161,
+     [
+      "positive"
+     ]
+    ],
+    [
+     162,
+     175,
+     [
+      "positive"
+     ]
+    ],
+    [
+     192,
+     201,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "\"Increased production from LYB's assets, higher integrated margins and rising seasonal demand drove sequential improvements in second quarter profitability.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     123,
+     [
+      "positive"
+     ]
+    ],
+    [
+     142,
+     155,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "Underlying business results increased by nearly 30 percent over the first quarter.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     41,
+     47,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "We continue to make significant strides on our ambitions to grow and upgrade our core businesses as part of our three-pillar strategy to unlock value.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "In the second quarter, we completed the divestiture of a non-core asset, increased our cost-advantaged footprint in the Middle East and announced our work underway to reposition our European businesses for future success,\" said Peter Vanacker, LyondellBasell chief executive officer.",
+   "d": -1,
+   "m": false,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     51,
+     [
+      "negative"
+     ]
+    ],
+    [
+     92,
+     102,
+     [
+      "positive"
+     ]
+    ],
+    [
+     213,
+     220,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "In the third quarter, the company expects margins to continue to benefit from low costs for natural gas and natural gas liquids utilized in LYB's North American and Middle East production relative to higher oil-based costs in most other regions.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0244,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "With the summer driving season underway, oxyfuels margins are expected to remain above historical levels with high octane premiums.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "During the third quarter, LYB expects to operate its assets in line with market demand with average operating rates of 85% for North American olefins and polyolefins (O&P) assets, 80% for European O&P assets and 75% for Intermediates & Derivatives assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0256,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "\"We are confident that our actions to grow and upgrade our core businesses will deliver lasting benefits for LYB.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     17,
+     [
+      "positive"
+     ]
+    ],
+    [
+     75,
+     79,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "June year-to-date market demand for polyethylene and polypropylene produced in North America is up by more than 10% and 5%, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "A decade of North American polyolefin capacity additions have been absorbed due to growing market demand and we expect minimal capacity to be added in the region over the next several years.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The LYB team continues to be laser-focused on operating safely and delivering results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "We are reshaping our portfolio to serve our customer's needs for more sustainable products while continuing to deliver leading returns for our shareholders,\" said Vanacker.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     119,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
