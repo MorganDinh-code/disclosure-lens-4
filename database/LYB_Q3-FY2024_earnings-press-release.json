@@ -1,0 +1,553 @@
+{
+ "company": "LyondellBasell Industries",
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-01",
+ "source_url": "https://investors.lyondellbasell.com/news/news-details/2024/LyondellBasell-Reports-Third-Quarter-2024-Earnings/default.aspx",
+ "demo": false,
+ "source_text": "Third Quarter 2024 Highlights\n\nNet income: $573 million, $617 million excluding identified items(a)\nDiluted earnings per share: $1.75 per share; $1.88 per share excluding identified items\nEBITDA: $1.2 billion\nCash from operating activities: $670 million\nReturned $479 million to shareholders through dividends and share repurchases\nCreating long-term value through progress toward LYB's sustainability targets:\nStarted construction of MoReTec-1 catalytic advanced recycling facility in Germany\nExceeded 2030 renewable electricity target\n\nLyondellBasell Industries (NYSE: LYB) (the \"company\") today announced net income for the third quarter 2024 of $573 million, or $1.75 per diluted share. During the quarter, the company recognized identified items of $44 million, net of tax. These items, which impacted third quarter earnings by $0.13 per share, were related to costs incurred from plans to exit the refining business. Third quarter 2024 EBITDA was $1.2 billion.\n\nIn North America, integrated polyethylene margins increased, driven by favorable ethane and natural gas costs coupled with higher polyethylene prices. September year-to-date market demand across the North American polyethylene and polypropylene industry is up by more than 7% and 4%, respectively, relative to 2023. The company's third quarter volumes benefited from high cracker operating rates that captured improved margins on merchant ethylene sales. In the company's Olefins and Polyolefins Europe, Asia, and International segment, integrated polyethylene margins expanded due to lower feedstock costs and stable polyolefins prices. Oxyfuels and refining margins fell sequentially due to lower crude oil prices and gasoline crack spreads.  \n\nLyondellBasell generated $670 million in cash from operating activities in the third quarter and achieved approximately 80% cash conversion(b) over the past twelve months. The company continues to take a disciplined approach to capital allocation, with $368 million invested in capital expenditures and $479 million returned to shareholders through dividends and share repurchases. At the end of the quarter, the company held $2.6 billion in cash and short-term investments and $7.3 billion in available liquidity, supporting a robust investment-grade balance sheet.\n\nLYB continues to make progress toward building a profitable Circular and Low Carbon Solutions business which is one of the three pillars of its long-term strategy. In the third quarter, the company began construction on the first commercial-scale plant to utilize its proprietary and differentiated advanced catalytic recycling technology, MoReTec-1, in Wesseling, Germany. The facility is expected to begin operations in 2026 and designed to achieve high plastic-to-plastic yields, supporting the company's goal of producing and marketing at least 2 million metric tons of recycled and renewable polymers annually by 2030(c). Additionally, electrification of the MoReTec-1 unit enables it to operate using renewable electricity to reduce greenhouse gas (GHG) emissions. In September, LYB exceeded its goal to procure half of the company's electricity from renewable sources by 2030 with the addition of a new power purchase agreement in the Netherlands.\n\n\u201cThis quarter we broke ground on our new MoReTec-1 facility in Germany, marking a significant milestone in our journey toward a more sustainable future. Our investment demonstrates the significant work underway at LYB to lead our industry's transition toward a circular economy. We are building a competitive advantage for delivering sustainable, low-carbon solutions to meet increasing demand while strengthening our position in the global market,\u201d said Peter Vanacker, LyondellBasell chief executive officer.\n\nOUTLOOK\nIn the fourth quarter, the company expects year-end seasonality to result in softer demand across most businesses. Sequentially higher natural gas and ethane feedstock costs are expected to moderate North American integrated polyolefins margins during the fourth quarter. Oxyfuels and refining margins are expected to continue to decline with low gasoline crack spreads and the conclusion of the summer driving season.\n\nTo align with global demand and the company's planned maintenance, LYB expects fourth quarter operating rates of 85% for North American olefins and polyolefins (O&P) assets, 60% for European O&P assets and 75% for Intermediates & Derivatives (I&D) assets. Easing interest rates are expected to improve demand for durable goods during 2025, benefiting the company's polypropylene and I&D businesses.\n\n\u201cDespite challenging global macroeconomic conditions, our strong North American operations allowed us to capitalize on favorable ethylene margins in the region. The company's focus on operational and commercial excellence allows us to capture opportunities and meet customer needs while making progress on our long-term strategy to drive sustainable value,\u201d said Vanacker.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.5515873015873016,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0018083182640144665,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.855072463768116,
+  "overall_hedge": 0.0043541364296081275,
+  "mean_tone": 0.19478236860570383
+ },
+ "lexicon": {
+  "words": 689,
+  "per_1000": {
+   "Negative": 4.4,
+   "Positive": 29.0,
+   "Uncertainty": 1.5,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 20,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Third Quarter 2024 Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net income: $573 million, $617 million excluding identified items(a).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Diluted earnings per share: $1.75 per share; $1.88 per share excluding identified items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "EBITDA: $1.2 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Cash from operating activities: $670 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Returned $479 million to shareholders through dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Creating long-term value through progress toward LYB's sustainability targets: Started construction of MoReTec-1 catalytic advanced recycling facility in Germany.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Exceeded 2030 renewable electricity target",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "LyondellBasell Industries (NYSE: LYB) (the \"company\") today announced net income for the third quarter 2024 of $573 million, or $1.75 per diluted share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "During the quarter, the company recognized identified items of $44 million, net of tax.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "These items, which impacted third quarter earnings by $0.13 per share, were related to costs incurred from plans to exit the refining business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Third quarter 2024 EBITDA was $1.2 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "In North America, integrated polyethylene margins increased, driven by favorable ethane and natural gas costs coupled with higher polyethylene prices.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     80,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "September year-to-date market demand across the North American polyethylene and polypropylene industry is up by more than 7% and 4%, respectively, relative to 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "The company's third quarter volumes benefited from high cracker operating rates that captured improved margins on merchant ethylene sales.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "In the company's Olefins and Polyolefins Europe, Asia, and International segment, integrated polyethylene margins expanded due to lower feedstock costs and stable polyolefins prices.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     156,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Oxyfuels and refining margins fell sequentially due to lower crude oil prices and gasoline crack spreads.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "LyondellBasell generated $670 million in cash from operating activities in the third quarter and achieved approximately 80% cash conversion(b) over the past twelve months.",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0435,
+   "hits": [
+    [
+     97,
+     105,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     119,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The company continues to take a disciplined approach to capital allocation, with $368 million invested in capital expenditures and $479 million returned to shareholders through dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "At the end of the quarter, the company held $2.6 billion in cash and short-term investments and $7.3 billion in available liquidity, supporting a robust investment-grade balance sheet.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "LYB continues to make progress toward building a profitable Circular and Low Carbon Solutions business which is one of the three pillars of its long-term strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     30,
+     [
+      "positive"
+     ]
+    ],
+    [
+     49,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "In the third quarter, the company began construction on the first commercial-scale plant to utilize its proprietary and differentiated advanced catalytic recycling technology, MoReTec-1, in Wesseling, Germany.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "The facility is expected to begin operations in 2026 and designed to achieve high plastic-to-plastic yields, supporting the company's goal of producing and marketing at least 2 million metric tons of recycled and renewable polymers annually by 2030(c).",
+   "d": 0,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Additionally, electrification of the MoReTec-1 unit enables it to operate using renewable electricity to reduce greenhouse gas (GHG) emissions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "In September, LYB exceeded its goal to procure half of the company's electricity from renewable sources by 2030 with the addition of a new power purchase agreement in the Netherlands.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "\u201cThis quarter we broke ground on our new MoReTec-1 facility in Germany, marking a significant milestone in our journey toward a more sustainable future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Our investment demonstrates the significant work underway at LYB to lead our industry's transition toward a circular economy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "We are building a competitive advantage for delivering sustainable, low-carbon solutions to meet increasing demand while strengthening our position in the global market,\u201d said Peter Vanacker, LyondellBasell chief executive officer.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     39,
+     [
+      "positive"
+     ]
+    ],
+    [
+     121,
+     134,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "OUTLOOK.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "In the fourth quarter, the company expects year-end seasonality to result in softer demand across most businesses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Sequentially higher natural gas and ethane feedstock costs are expected to moderate North American integrated polyolefins margins during the fourth quarter.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Oxyfuels and refining margins are expected to continue to decline with low gasoline crack spreads and the conclusion of the summer driving season.",
+   "d": -1,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     65,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "To align with global demand and the company's planned maintenance, LYB expects fourth quarter operating rates of 85% for North American olefins and polyolefins (O&P) assets, 60% for European O&P assets and 75% for Intermediates & Derivatives (I&D) assets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0263,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Easing interest rates are expected to improve demand for durable goods during 2025, benefiting the company's polypropylene and I&D businesses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "negative"
+     ]
+    ],
+    [
+     38,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "\u201cDespite challenging global macroeconomic conditions, our strong North American operations allowed us to capitalize on favorable ethylene margins in the region.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     1,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     9,
+     20,
+     [
+      "negative"
+     ]
+    ],
+    [
+     58,
+     64,
+     [
+      "positive"
+     ]
+    ],
+    [
+     119,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "The company's focus on operational and commercial excellence allows us to capture opportunities and meet customer needs while making progress on our long-term strategy to drive sustainable value,\u201d said Vanacker.",
+   "d": 0,
+   "m": false,
+   "tone": 0.968,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     82,
+     95,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     141,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
