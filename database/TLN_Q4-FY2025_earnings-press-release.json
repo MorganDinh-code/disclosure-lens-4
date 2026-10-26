@@ -1,0 +1,482 @@
+{
+ "company": "Talen Energy",
+ "ticker": "TLN",
+ "sector": "Utilities",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-26",
+ "source_url": "https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-reports-fourth-quarter-and-full-year-2025-results",
+ "demo": false,
+ "source_text": "Earnings Release Highlights\n\nFull year GAAP Net Loss Attributable to Stockholders of $(219) million.\nFull year Adjusted EBITDA of $1,035 million and Adjusted Free Cash Flow of $524 million.\nCompleted the Freedom and Guernsey acquisitions in November 2025 which have increased the Company\u2019s generating capacity by approximately 2.8 gigawatts (\u201cGW\u201d) and provides efficient baseload generation and cash flow diversification.\nReaffirming 2026 Adjusted EBITDA and Adjusted Free Cash Flow guidance ranges of $1,750 million - $2,050 million and $980 million - $1,180 million, respectively.\nSigned definitive agreement to acquire the Waterford Energy Center (\u201cWaterford\u201d) and Darby Generating Station (\u201cDarby\u201d) each in Ohio and the Lawrenceburg Power Plant (\u201cLawrenceburg\u201d) in Indiana (collectively, the \u201cCornerstone Acquisition\u201d) from Energy Capital Partners (\u201cECP\u201d). The Cornerstone Acquisition will add baseload generation and enhance Talen\u2019s presence in the western PJM market.\n\nHOUSTON, Feb. 26, 2026 (GLOBE NEWSWIRE) -- Talen Energy Corporation (\u201cTalen,\u201d the \u201cCompany,\u201d \u201cwe,\u201d or \u201cour\u201d) (NASDAQ: TLN), a leading independent power producer, today reported its fourth quarter and full year 2025 financial and operating results.\n\n\u201cIn the last year, we expanded the Amazon PPA to 1,920 megawatts (\u201cMW\u201d), announced, financed, and closed on the accretive Freedom and Guernsey acquisitions, and announced the Cornerstone Acquisition which is expected to further diversify our baseload generation cash flows. Talen joined the Russell 1000, Russell 3000, and S&P 400 indices, as well as increased and extended our Share Repurchase Program to $2 billion through year end 2028. Today we are reporting Talen\u2019s full year results, earning $1,035 million of Adjusted EBITDA and $524 million of Adjusted Free Cash Flow. We are reaffirming our 2026 guidance,\u201d said Talen Chief Executive Officer Mac McFarland.\n\nMcFarland added, \u201cWe are well positioned to continue executing our Talen Flywheel strategy in 2026 and remain focused on creating additional value through free cash flow per share growth.\u201d\n\n\nFreedom and Guernsey Acquisitions\n\nOn November 25, 2025, Talen consummated the Freedom and Guernsey acquisitions, which increases the Company\u2019s generating capacity by approximately 2.8 GW and provides efficient baseload generation and cash flow diversification. The Company paid an aggregate $3.8 billion in cash which was funded from the proceeds from new debt issuances.\n\nCornerstone Acquisition\n\nOn January 15, 2026, Talen entered into a definitive merger agreement (the \u201cCornerstone Merger Agreement\u201d) with affiliates of ECP to purchase (i) the 875 MW Waterford and 456 MW Darby assets, both located in Ohio, and the 1,120 MW Lawrenceburg asset located in Indiana, for an aggregate purchase price of $3.45 billion (subject to working capital and other customary adjustments) which consists of approximately of $2.55 billion in cash and 2,400,000 shares of Talen\u2019s common stock, valued at $900 million at the time of entry into the Cornerstone Merger Agreement. The Company expects to issue new debt to fund the cash portion of the purchase price. The Cornerstone Acquisition will substantially expand Talen\u2019s presence in the western PJM market and add additional efficient baseload generation assets to its fleet.\n\nThe transaction is expected to close early in the second half of 2026 and is subject to the satisfaction of customary closing conditions, including the expiration or termination of the waiting period pursuant to the Hart-Scott-Rodino Act of 1976, and regulatory approvals from the Federal Energy Regulatory Commission, Indiana Utility Regulatory Commission and other regulatory agencies.\n\nBalance Sheet and Liquidity\n\nTalen is committed to net leverage targets below 3.5x net debt-to-Adjusted EBITDA and has the ability to achieve less than 3.5x net leverage by year-end 2026 inclusive of the Cornerstone Acquisition (approximately $2.6 billion of debt). As of February 20, 2026, Talen had ample total available liquidity of approximately $2.1 billion, comprised of $1.2 billion of unrestricted cash and $900 million of available capacity under the revolving credit facility.\n\nUpdate on Hedging Activities\n\nAs of December 31, 2025, including the impact of the Nuclear PTC, we had hedged approximately 90% of our expected generation volumes for 2026 and approximately 40% for 2027. Talen\u2019s hedging program is a key component of our comprehensive risk policy and supports the objective of increasing cash flow stability while maintaining upside optionality.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 1,
+  "n_positive": 4,
+  "mean_pos_negative": 0.07407407407407407,
+  "mean_pos_positive": 0.5,
+  "placement_asymmetry": -0.42592592592592593,
+  "distance_from_headline": 0,
+  "first_negative_pos": 0.07407407407407407,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.01954341058457281,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.0,
+  "overall_hedge": 0.01740506329113924,
+  "mean_tone": 0.062009557741471204
+ },
+ "lexicon": {
+  "words": 632,
+  "per_1000": {
+   "Negative": 3.2,
+   "Positive": 12.7,
+   "Uncertainty": 12.7,
+   "Litigious": 6.3,
+   "Strong modal": 3.2,
+   "Weak modal": 0.0,
+   "Constraining": 1.6
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 8,
+   "Uncertainty": 8,
+   "Litigious": 4,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Earnings Release Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Full year GAAP Net Loss Attributable to Stockholders of $(219) million.",
+   "d": -1,
+   "m": true,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     23,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Full year Adjusted EBITDA of $1,035 million and Adjusted Free Cash Flow of $524 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Completed the Freedom and Guernsey acquisitions in November 2025 which have increased the Company\u2019s generating capacity by approximately 2.8 gigawatts (\u201cGW\u201d) and provides efficient baseload generation and cash flow diversification.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0345,
+   "hits": [
+    [
+     123,
+     136,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     171,
+     180,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Reaffirming 2026 Adjusted EBITDA and Adjusted Free Cash Flow guidance ranges of $1,750 million - $2,050 million and $980 million - $1,180 million, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Signed definitive agreement to acquire the Waterford Energy Center (\u201cWaterford\u201d) and Darby Generating Station (\u201cDarby\u201d) each in Ohio and the Lawrenceburg Power Plant (\u201cLawrenceburg\u201d) in Indiana (collectively, the \u201cCornerstone Acquisition\u201d) from Energy Capital Partners (\u201cECP\u201d).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "The Cornerstone Acquisition will add baseload generation and enhance Talen\u2019s presence in the western PJM market.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     61,
+     68,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "HOUSTON, Feb. 26, 2026 (GLOBE NEWSWIRE) -- Talen Energy Corporation (\u201cTalen,\u201d the \u201cCompany,\u201d \u201cwe,\u201d or \u201cour\u201d) (NASDAQ: TLN), a leading independent power producer, today reported its fourth quarter and full year 2025 financial and operating results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     126,
+     133,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\u201cIn the last year, we expanded the Amazon PPA to 1,920 megawatts (\u201cMW\u201d), announced, financed, and closed on the accretive Freedom and Guernsey acquisitions, and announced the Cornerstone Acquisition which is expected to further diversify our baseload generation cash flows.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Talen joined the Russell 1000, Russell 3000, and S&P 400 indices, as well as increased and extended our Share Repurchase Program to $2 billion through year end 2028.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Today we are reporting Talen\u2019s full year results, earning $1,035 million of Adjusted EBITDA and $524 million of Adjusted Free Cash Flow.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "We are reaffirming our 2026 guidance,\u201d said Talen Chief Executive Officer Mac McFarland.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "McFarland added, \u201cWe are well positioned to continue executing our Talen Flywheel strategy in 2026 and remain focused on creating additional value through free cash flow per share growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Freedom and Guernsey Acquisitions",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "On November 25, 2025, Talen consummated the Freedom and Guernsey acquisitions, which increases the Company\u2019s generating capacity by approximately 2.8 GW and provides efficient baseload generation and cash flow diversification.",
+   "d": 0,
+   "m": false,
+   "tone": 0.357,
+   "h": 0.0357,
+   "hits": [
+    [
+     132,
+     145,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     166,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "The Company paid an aggregate $3.8 billion in cash which was funded from the proceeds from new debt issuances.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Cornerstone Acquisition",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "On January 15, 2026, Talen entered into a definitive merger agreement (the \u201cCornerstone Merger Agreement\u201d) with affiliates of ECP to purchase (i) the 875 MW Waterford and 456 MW Darby assets, both located in Ohio, and the 1,120 MW Lawrenceburg asset located in Indiana, for an aggregate purchase price of $3.45 billion (subject to working capital and other customary adjustments) which consists of approximately of $2.55 billion in cash and 2,400,000 shares of Talen\u2019s common stock, valued at $900 million at the time of entry into the Cornerstone Merger Agreement.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0244,
+   "hits": [
+    [
+     398,
+     411,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The Company expects to issue new debt to fund the cash portion of the purchase price.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "The Cornerstone Acquisition will substantially expand Talen\u2019s presence in the western PJM market and add additional efficient baseload generation assets to its fleet.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     116,
+     125,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The transaction is expected to close early in the second half of 2026 and is subject to the satisfaction of customary closing conditions, including the expiration or termination of the waiting period pursuant to the Hart-Scott-Rodino Act of 1976, and regulatory approvals from the Federal Energy Regulatory Commission, Indiana Utility Regulatory Commission and other regulatory agencies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0179,
+   "hits": [
+    [
+     92,
+     104,
+     [
+      "positive"
+     ]
+    ],
+    [
+     166,
+     177,
+     [
+      "negative"
+     ]
+    ],
+    [
+     251,
+     261,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     296,
+     306,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     335,
+     345,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     367,
+     377,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Balance Sheet and Liquidity",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Talen is committed to net leverage targets below 3.5x net debt-to-Adjusted EBITDA and has the ability to achieve less than 3.5x net leverage by year-end 2026 inclusive of the Cornerstone Acquisition (approximately $2.6 billion of debt).",
+   "d": 0,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.027,
+   "hits": [
+    [
+     9,
+     18,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     105,
+     112,
+     [
+      "positive"
+     ]
+    ],
+    [
+     200,
+     213,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "As of February 20, 2026, Talen had ample total available liquidity of approximately $2.1 billion, comprised of $1.2 billion of unrestricted cash and $900 million of available capacity under the revolving credit facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     70,
+     83,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Update on Hedging Activities",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "As of December 31, 2025, including the impact of the Nuclear PTC, we had hedged approximately 90% of our expected generation volumes for 2026 and approximately 40% for 2027.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.087,
+   "hits": [
+    [
+     80,
+     93,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     146,
+     159,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Talen\u2019s hedging program is a key component of our comprehensive risk policy and supports the objective of increasing cash flow stability while maintaining upside optionality.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0385,
+   "hits": [
+    [
+     64,
+     68,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     127,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
