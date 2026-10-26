@@ -1,0 +1,1008 @@
+{
+ "company": "Eastman Chemicals",
+ "ticker": "EMN",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-24",
+ "source_url": "https://investors.eastman.com/news/news-details/2025/Eastman-Announces-First-Quarter-2025-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "KINGSPORT, Tenn.--(BUSINESS WIRE)-- Eastman Chemical Company (NYSE:EMN) announced its first-quarter 2025 financial results.\n\nStrong first-quarter financial results with adjusted EPS in line with our guidance in January and up 19% year over year\nDelivered year-over-year adjusted EBIT margin improvement of 170 basis points underpinned by continued innovation, commercial excellence, and operating leverage in a tough environment\nRecorded best-ever uptime and production quantities at the Kingsport methanolysis facility\nIncreased focus on cost discipline, prioritizing cash generation as we navigate the economic impacts of tariffs\n\n\u201cLeveraging our innovation-driven growth model, we delivered a strong quarter in line with expectations,\u201d said Mark Costa, Board Chair and CEO. \u201cAgainst the backdrop of a highly volatile and uncertain macroeconomic environment, our teams drove sequential volume/mix improvements across most segments, partially offset by expected destocking in Fibers. We focused on innovation and commercial excellence in defending the value of our products as well as controlling costs. We recorded our best-ever quarter of uptime and production quantities at the Kingsport methanolysis facility and remain on track for the production targets and cost benefits detailed earlier this year. Although our solid first-quarter results positioned us to be in line with our original guidance, late in the quarter, the reality of a global trade dispute increased significantly. We began taking action to optimally navigate the next several quarters. Our first-quarter results, coupled with our bias for action, give me great confidence in our ability to deliver strong cash flow and resilient earnings going forward.\u201d\n\nCorporate Results 1Q 2025 versus 1Q 2024\n\nSales revenue decreased 1 percent as 1 percent lower sales volume/mix and an unfavorable foreign currency exchange impact were partially offset by 1 percent higher selling prices.\n\nSales volume/mix was primarily driven by customer inventory destocking in acetate tow products, mostly offset by higher sales volume/mix in Additives & Functional Products and Chemical Intermediates. Higher selling prices were due to cost-pass-through contracts.\n\nEBIT increased primarily due to the Kingsport methanolysis facility running well and improved price-cost across the specialties and Chemical Intermediates. These factors were partially offset by lower sales volume/mix for Fibers and an unfavorable foreign currency exchange impact. Adjusted EBIT margins increased 170 basis points.\n\nSegment Results 1Q 2025 versus 1Q 2024\n\nAdvanced Materials \u2013 Sales revenue decreased 4 percent due to 2 percent lower selling prices, 1 percent lower sales volume/mix, and an unfavorable foreign currency exchange impact.\n\nLower selling prices were reflected across the segment. Lower sales volume/mix was due to weakness in the automotive and building and construction end markets. The lower sales volume/mix was partially offset by growth in specialty plastics.\n\nEBIT increased primarily due to improved product mix and continued cost discipline, partially offset by an unfavorable foreign currency exchange impact.\n\nAdditives & Functional Products \u2013 Sales revenue increased by 4 percent due to 3 percent higher selling prices and 2 percent higher sales volume/mix, partially offset by an unfavorable foreign currency exchange impact.\n\nHigher selling prices were driven by cost-pass-through contracts. Higher sales volume/mix was primarily due to coatings additives and specialty fluids.\n\nEBIT increased due to favorable price-cost, higher sales volume/mix, and improved asset utilization.\n\nFibers \u2013 Sales revenue decreased by 13 percent due to 12 percent lower sales volume/mix and 1 percent lower selling prices.\n\nLower sales volume/mix was driven by continued customer inventory destocking in acetate tow and the impact of a discontinued product.\n\nEBIT declined primarily due to lower sales volume/mix.\n\nChemical Intermediates \u2013 Sales revenue increased by 4 percent due to 3 percent higher selling prices and 2 percent higher sales volume/mix, partially offset by an unfavorable foreign currency exchange impact.\n\nHigher selling prices and higher sales volume/mix were driven by more favorable market conditions for some olefin-based products compared to the prior-year period.\n\nEBIT increased due to higher olefin and derivative spreads, partially offset by unfavorable product mix.\n\nCash Flow\n\nIn first-quarter 2025, cash used in operating activities was $167 million versus $16 million in first quarter 2024. The primary driver was an increased use of cash for working capital due to inventory that was built for a higher-than-usual planned shutdown season in second quarter 2025. The company returned $96 million to stockholders through dividends. See Table 5. Priorities for uses of available cash for 2025 include capital expenditures, payment of the quarterly dividend, and share repurchases.\n\n2025 Outlook\n\nCommenting on the outlook for full-year 2025, Costa said: \u201cWe are proud to have delivered a solid first quarter in a challenging, uncertain environment. Since the end of the first quarter, the macroeconomic uncertainty that defined the last several years has only increased, and future end-market demand is unclear given the magnitude and scope of tariffs. In this context, we are focused on controllable actions, including an increased priority on cash generation in preparation for a potential recession. We are also increasing our cost reduction target to approximately $75 million net of inflation and reducing capital expenditures to around $550 million. With an innovative portfolio of specialty products, a diverse set of end markets, and a solid balance sheet, we are well positioned to navigate issues associated with escalating tariffs impacting global trade. In this context, we expect to generate strong operating cash flow of approximately $1.2 billion for full-year 2025 consistent with our track record of delivering cash in varied macro environments. With a broad range of outcomes for the global economy and limited visibility, the company is moving to quarterly adjusted earnings per share guidance. In the second quarter, order patterns for April remain stable with March, and we expect a modest sequential volume increase across our markets, but due to trade uncertainty, not as much as typical. Second quarter also includes headwinds associated with tariffs between the U.S. and China and higher planned maintenance costs. Taking these factors together, second-quarter adjusted EPS is expected to be in the range of $1.70 to $1.90.\u201d\n\nThe second-quarter 2025 projected adjusted diluted EPS excludes any non-core, unusual, or nonrecurring items. Our financial results forecasts do not include non-core items (such as mark-to-market pension and other postretirement benefit gain or loss, and asset impairments and restructuring charges) or any unusual or non-recurring items because we are unable to predict with reasonable certainty the financial impact of such items. These items are uncertain and depend on various factors, and we are unable to reconcile projected adjusted diluted EPS excluding non-core and any unusual or non-recurring items to reported GAAP diluted EPS without unreasonable efforts.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 54,
+  "n_material_neg": 4,
+  "n_positive": 17,
+  "mean_pos_negative": 0.5324074074074074,
+  "mean_pos_positive": 0.420479302832244,
+  "placement_asymmetry": 0.11192810457516345,
+  "distance_from_headline": 11,
+  "first_negative_pos": 0.24074074074074073,
+  "hedge_near_negative": 0.014563106796116505,
+  "hedge_near_positive": 0.008015993950976165,
+  "hedging_asymmetry": 1.8167562107931796,
+  "framing_ratio": 0.15384615384615385,
+  "mean_tone_gap_on_negatives": 0.806195919663412,
+  "overall_hedge": 0.01585820895522388,
+  "mean_tone": -0.022304158821615887
+ },
+ "lexicon": {
+  "words": 1072,
+  "per_1000": {
+   "Negative": 22.4,
+   "Positive": 19.6,
+   "Uncertainty": 14.0,
+   "Litigious": 1.9,
+   "Strong modal": 1.9,
+   "Weak modal": 3.7,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 24,
+   "Positive": 21,
+   "Uncertainty": 15,
+   "Litigious": 2,
+   "Strong modal": 2,
+   "Weak modal": 4,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "KINGSPORT, Tenn.--(BUSINESS WIRE)-- Eastman Chemical Company (NYSE:EMN) announced its first-quarter 2025 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Strong first-quarter financial results with adjusted EPS in line with our guidance in January and up 19% year over year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Delivered year-over-year adjusted EBIT margin improvement of 170 basis points underpinned by continued innovation, commercial excellence, and operating leverage in a tough environment.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     57,
+     [
+      "positive"
+     ]
+    ],
+    [
+     103,
+     113,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     136,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Recorded best-ever uptime and production quantities at the Kingsport methanolysis facility.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Increased focus on cost discipline, prioritizing cash generation as we navigate the economic impacts of tariffs",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201cLeveraging our innovation-driven growth model, we delivered a strong quarter in line with expectations,\u201d said Mark Costa, Board Chair and CEO. \u201cAgainst the backdrop of a highly volatile and uncertain macroeconomic environment, our teams drove sequential volume/mix improvements across most segments, partially offset by expected destocking in Fibers.",
+   "d": 1,
+   "m": false,
+   "tone": 0.2,
+   "h": 0.04,
+   "hits": [
+    [
+     16,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     63,
+     69,
+     [
+      "positive"
+     ]
+    ],
+    [
+     145,
+     152,
+     [
+      "negative"
+     ]
+    ],
+    [
+     178,
+     186,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     191,
+     200,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     266,
+     278,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "We focused on innovation and commercial excellence in defending the value of our products as well as controlling costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     40,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     54,
+     63,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We recorded our best-ever quarter of uptime and production quantities at the Kingsport methanolysis facility and remain on track for the production targets and cost benefits detailed earlier this year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     20,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Although our solid first-quarter results positioned us to be in line with our original guidance, late in the quarter, the reality of a global trade dispute increased significantly.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     148,
+     155,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "We began taking action to optimally navigate the next several quarters.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Our first-quarter results, coupled with our bias for action, give me great confidence in our ability to deliver strong cash flow and resilient earnings going forward.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     118,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Corporate Results 1Q 2025 versus 1Q 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Sales revenue decreased 1 percent as 1 percent lower sales volume/mix and an unfavorable foreign currency exchange impact were partially offset by 1 percent higher selling prices.",
+   "d": -1,
+   "m": true,
+   "tone": -0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     88,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Sales volume/mix was primarily driven by customer inventory destocking in acetate tow products, mostly offset by higher sales volume/mix in Additives & Functional Products and Chemical Intermediates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Higher selling prices were due to cost-pass-through contracts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     52,
+     61,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "EBIT increased primarily due to the Kingsport methanolysis facility running well and improved price-cost across the specialties and Chemical Intermediates.",
+   "d": -1,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     93,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "These factors were partially offset by lower sales volume/mix for Fibers and an unfavorable foreign currency exchange impact.",
+   "d": -1,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Adjusted EBIT margins increased 170 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Segment Results 1Q 2025 versus 1Q 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Advanced Materials \u2013 Sales revenue decreased 4 percent due to 2 percent lower selling prices, 1 percent lower sales volume/mix, and an unfavorable foreign currency exchange impact.",
+   "d": -1,
+   "m": true,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     135,
+     146,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Lower selling prices were reflected across the segment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Lower sales volume/mix was due to weakness in the automotive and building and construction end markets.",
+   "d": -1,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     42,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "The lower sales volume/mix was partially offset by growth in specialty plastics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "EBIT increased primarily due to improved product mix and continued cost discipline, partially offset by an unfavorable foreign currency exchange impact.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     107,
+     118,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "Additives & Functional Products \u2013 Sales revenue increased by 4 percent due to 3 percent higher selling prices and 2 percent higher sales volume/mix, partially offset by an unfavorable foreign currency exchange impact.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     172,
+     183,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Higher selling prices were driven by cost-pass-through contracts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     64,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Higher sales volume/mix was primarily due to coatings additives and specialty fluids.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "EBIT increased due to favorable price-cost, higher sales volume/mix, and improved asset utilization.",
+   "d": -1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     73,
+     81,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Fibers \u2013 Sales revenue decreased by 13 percent due to 12 percent lower sales volume/mix and 1 percent lower selling prices.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Lower sales volume/mix was driven by continued customer inventory destocking in acetate tow and the impact of a discontinued product.",
+   "d": -1,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     124,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "EBIT declined primarily due to lower sales volume/mix.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     13,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Chemical Intermediates \u2013 Sales revenue increased by 4 percent due to 3 percent higher selling prices and 2 percent higher sales volume/mix, partially offset by an unfavorable foreign currency exchange impact.",
+   "d": 1,
+   "m": false,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     163,
+     174,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Higher selling prices and higher sales volume/mix were driven by more favorable market conditions for some olefin-based products compared to the prior-year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     70,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "EBIT increased due to higher olefin and derivative spreads, partially offset by unfavorable product mix.",
+   "d": 1,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "In first-quarter 2025, cash used in operating activities was $167 million versus $16 million in first quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The primary driver was an increased use of cash for working capital due to inventory that was built for a higher-than-usual planned shutdown season in second quarter 2025.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     132,
+     140,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "The company returned $96 million to stockholders through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "See Table 5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "Priorities for uses of available cash for 2025 include capital expenditures, payment of the quarterly dividend, and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Commenting on the outlook for full-year 2025, Costa said: \u201cWe are proud to have delivered a solid first quarter in a challenging, uncertain environment.",
+   "d": 0,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0417,
+   "hits": [
+    [
+     117,
+     128,
+     [
+      "negative"
+     ]
+    ],
+    [
+     130,
+     139,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Since the end of the first quarter, the macroeconomic uncertainty that defined the last several years has only increased, and future end-market demand is unclear given the magnitude and scope of tariffs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0606,
+   "hits": [
+    [
+     54,
+     65,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     154,
+     161,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "In this context, we are focused on controllable actions, including an increased priority on cash generation in preparation for a potential recession.",
+   "d": 1,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     148,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "We are also increasing our cost reduction target to approximately $75 million net of inflation and reducing capital expenditures to around $550 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     52,
+     65,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "With an innovative portfolio of specialty products, a diverse set of end markets, and a solid balance sheet, we are well positioned to navigate issues associated with escalating tariffs impacting global trade.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     18,
+     [
+      "positive"
+     ]
+    ],
+    [
+     167,
+     177,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "In this context, we expect to generate strong operating cash flow of approximately $1.2 billion for full-year 2025 consistent with our track record of delivering cash in varied macro environments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.1034,
+   "hits": [
+    [
+     39,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     69,
+     82,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     170,
+     176,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "With a broad range of outcomes for the global economy and limited visibility, the company is moving to quarterly adjusted earnings per share guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "In the second quarter, order patterns for April remain stable with March, and we expect a modest sequential volume increase across our markets, but due to trade uncertainty, not as much as typical.",
+   "d": 0,
+   "m": false,
+   "tone": 0.303,
+   "h": 0.0606,
+   "hits": [
+    [
+     55,
+     61,
+     [
+      "positive"
+     ]
+    ],
+    [
+     161,
+     172,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "Second quarter also includes headwinds associated with tariffs between the U.S. and China and higher planned maintenance costs.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "Taking these factors together, second-quarter adjusted EPS is expected to be in the range of $1.70 to $1.90.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "The second-quarter 2025 projected adjusted diluted EPS excludes any non-core, unusual, or nonrecurring items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     78,
+     85,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "Our financial results forecasts do not include non-core items (such as mark-to-market pension and other postretirement benefit gain or loss, and asset impairments and restructuring charges) or any unusual or non-recurring items because we are unable to predict with reasonable certainty the financial impact of such items.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0392,
+   "hits": [
+    [
+     127,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     135,
+     139,
+     [
+      "negative"
+     ]
+    ],
+    [
+     151,
+     162,
+     [
+      "negative",
+      "constraining"
+     ]
+    ],
+    [
+     167,
+     180,
+     [
+      "negative"
+     ]
+    ],
+    [
+     197,
+     204,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     243,
+     249,
+     [
+      "negative"
+     ]
+    ],
+    [
+     253,
+     260,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 54,
+   "t": "These items are uncertain and depend on various factors, and we are unable to reconcile projected adjusted diluted EPS excluding non-core and any unusual or non-recurring items to reported GAAP diluted EPS without unreasonable efforts.",
+   "d": 0,
+   "m": false,
+   "tone": -0.541,
+   "h": 0.0811,
+   "hits": [
+    [
+     16,
+     25,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     30,
+     36,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     68,
+     74,
+     [
+      "negative"
+     ]
+    ],
+    [
+     146,
+     153,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     214,
+     226,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
