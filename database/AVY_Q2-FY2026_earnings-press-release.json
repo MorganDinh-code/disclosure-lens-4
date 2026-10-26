@@ -1,0 +1,694 @@
+{
+ "company": "Avery Dennison",
+ "ticker": "AVY",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-06-30",
+ "source_url": "https://investors.averydennison.com/news/news-details/2026/Avery-Dennison-Announces-Second-Quarter-2026-Results/default.aspx",
+ "demo": false,
+ "source_text": "Delivered strong sales, earnings, and cash flow growth\n\n2Q26 Reported EPS of $2.67\nAdjusted EPS (non-GAAP) of $2.89, up 19.4%\n2Q26 Net sales of $2.5 billion, up 10.9%\nSales change ex. currency (non-GAAP) up 8.9%\nOrganic sales change (non-GAAP) up 7.6%\nFY26 Reported EPS guidance of $9.40 to $9.70\nFY26 Adjusted EPS guidance of $10.00 to $10.30\nMENTOR, Ohio--(BUSINESS WIRE)-- Avery Dennison Corporation (NYSE:AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its second quarter ended June 30, 2026. Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules. Unless otherwise indicated, comparisons are to the same period in the prior year.\n\n\u201cWe delivered very strong second quarter results, marked by stronger-than-anticipated sales growth, solid margin expansion and adjusted EPS of $2.89, reflecting the strength of our portfolio and our team\u2019s execution excellence,\u201d said Deon Stander, president and CEO.\n\n\u201cOur focus on innovation and service-led differentiation continues to deliver for our customers, driving strong organic sales growth across both our high-value categories and base businesses. We continue to leverage our productivity playbook to expand margins and improve earnings growth while returning capital to shareholders.\n\n\u201cI am proud of our global team. Their agility and operational excellence continue to deliver strong performance, as we build on this momentum for the remainder of 2026 and beyond.\u201d\n\nSecond Quarter 2026 Results by Segment\n\nMaterials Group\n\nReported sales increased 15.9% to $1.8 billion.\nSales were up 11.5% ex. currency.\nSales up 9.7% on an organic basis\nVolume/mix growth of high single digits and price up low single digits\nHigh-value categories up mid-single digits\nBase categories up low double digits\nReported operating margin of 15.6%\nAdjusted operating margin (non-GAAP) of 15.8%, up 20 basis points\nAdjusted EBITDA margin (non-GAAP) of 18.0%, up 20 basis points, as volume, productivity and the net benefit of pricing and raw material costs, including raw material re-engineering, were partially offset by mix and higher employee-related costs.\nSolutions Group\n\nReported sales decreased 0.5% to $667 million.\nSales were up 2.6% ex. currency.\nSales up 2.6% on an organic basis\nHigh-value categories up low single digits\nBase categories up low single digits\nOverall apparel categories up high single digits\nReported operating margin of 8.9%\nAdjusted operating margin of 11.5%, up 150 basis points\nAdjusted EBITDA margin of 18.6%, up 150 basis points, as productivity was partially offset by higher employee-related costs.\nOther\n\nCapital Deployment and Balance Sheet\n\nThe company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy.\n\nDuring the first half of 2026, the company returned $347 million in cash to shareholders through a combination of share repurchases and dividends. The company repurchased 1.2 million shares, with payments for share purchases totaling $198 million. Net of dilution from long-term incentive awards, the company\u2019s share count at the end of the second quarter was down 2.1 million compared to the same time last year.\n\nThe company\u2019s balance sheet remains strong. Net debt to adjusted EBITDA (non-GAAP) was 2.3x at the end of the second quarter.\n\nIncome Taxes\n\nThe company\u2019s reported effective tax rate was 27.8% and 28.8% for the three and six months ended June 30, 2026, respectively. The adjusted tax rate (non-GAAP) was 27.4% and 26.8% for the three and six months ended June 30, 2026, respectively.\n\nCost Reduction Actions\n\nIn the first half of the year, the company realized approximately $34 million in pre-tax savings from restructuring actions and incurred approximately $34 million in pre-tax restructuring charges.\n\nGuidance\n\nIn its supplemental presentation materials, \u201cSecond Quarter 2026 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its financial results. Based on the factors listed and other assumptions, the company expects full year 2026 reported EPS of $9.40 to $9.70.\n\nExcluding an estimated $0.60 per share impact of other items and restructuring charges, the company expects full year 2026 adjusted EPS of $10.00 to $10.30.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 53,
+  "n_material_neg": 3,
+  "n_positive": 16,
+  "mean_pos_negative": 0.8176100628930818,
+  "mean_pos_positive": 0.3466981132075472,
+  "placement_asymmetry": 0.4709119496855346,
+  "distance_from_headline": 26,
+  "first_negative_pos": 0.5283018867924528,
+  "hedge_near_negative": 0.047149122807017545,
+  "hedge_near_positive": 0.004112160852713178,
+  "hedging_asymmetry": 11.465777846678554,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6031746031746031,
+  "overall_hedge": 0.012658227848101266,
+  "mean_tone": 0.08099150105108396
+ },
+ "lexicon": {
+  "words": 632,
+  "per_1000": {
+   "Negative": 4.7,
+   "Positive": 19.0,
+   "Uncertainty": 9.5,
+   "Litigious": 0.0,
+   "Strong modal": 1.6,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 12,
+   "Uncertainty": 6,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Delivered strong sales, earnings, and cash flow growth",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "2Q26 Reported EPS of $2.67.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Adjusted EPS (non-GAAP) of $2.89, up 19.4% 2Q26 Net sales of $2.5 billion, up 10.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Sales change ex. currency (non-GAAP) up 8.9%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Organic sales change (non-GAAP) up 7.6%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "FY26 Reported EPS guidance of $9.40 to $9.70.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "FY26 Adjusted EPS guidance of $10.00 to $10.30.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "MENTOR, Ohio--(BUSINESS WIRE)-- Avery Dennison Corporation (NYSE:AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     73,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     168,
+     179,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Unless otherwise indicated, comparisons are to the same period in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\u201cWe delivered very strong second quarter results, marked by stronger-than-anticipated sales growth, solid margin expansion and adjusted EPS of $2.89, reflecting the strength of our portfolio and our team\u2019s execution excellence,\u201d said Deon Stander, president and CEO.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0256,
+   "hits": [
+    [
+     19,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     60,
+     68,
+     [
+      "positive"
+     ]
+    ],
+    [
+     74,
+     85,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     165,
+     173,
+     [
+      "positive"
+     ]
+    ],
+    [
+     216,
+     226,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cOur focus on innovation and service-led differentiation continues to deliver for our customers, driving strong organic sales growth across both our high-value categories and base businesses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     24,
+     [
+      "positive"
+     ]
+    ],
+    [
+     105,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We continue to leverage our productivity playbook to expand margins and improve earnings growth while returning capital to shareholders.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "\u201cI am proud of our global team.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Their agility and operational excellence continue to deliver strong performance, as we build on this momentum for the remainder of 2026 and beyond.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     30,
+     40,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Second Quarter 2026 Results by Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Materials Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Reported sales increased 15.9% to $1.8 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Sales were up 11.5% ex. currency.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Sales up 9.7% on an organic basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Volume/mix growth of high single digits and price up low single digits.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "High-value categories up mid-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Base categories up low double digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Reported operating margin of 15.6%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Adjusted operating margin (non-GAAP) of 15.8%, up 20 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Adjusted EBITDA margin (non-GAAP) of 18.0%, up 20 basis points, as volume, productivity and the net benefit of pricing and raw material costs, including raw material re-engineering, were partially offset by mix and higher employee-related costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Solutions Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Reported sales decreased 0.5% to $667 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Sales were up 2.6% ex. currency.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Sales up 2.6% on an organic basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "High-value categories up low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Base categories up low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Overall apparel categories up high single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Reported operating margin of 8.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Adjusted operating margin of 11.5%, up 150 basis points.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Adjusted EBITDA margin of 18.6%, up 150 basis points, as productivity was partially offset by higher employee-related costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Capital Deployment and Balance Sheet",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "The company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "During the first half of 2026, the company returned $347 million in cash to shareholders through a combination of share repurchases and dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The company repurchased 1.2 million shares, with payments for share purchases totaling $198 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "Net of dilution from long-term incentive awards, the company\u2019s share count at the end of the second quarter was down 2.1 million compared to the same time last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "The company\u2019s balance sheet remains strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "Net debt to adjusted EBITDA (non-GAAP) was 2.3x at the end of the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "Income Taxes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "The company\u2019s reported effective tax rate was 27.8% and 28.8% for the three and six months ended June 30, 2026, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "The adjusted tax rate (non-GAAP) was 27.4% and 26.8% for the three and six months ended June 30, 2026, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "Cost Reduction Actions",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "In the first half of the year, the company realized approximately $34 million in pre-tax savings from restructuring actions and incurred approximately $34 million in pre-tax restructuring charges.",
+   "d": -1,
+   "m": true,
+   "tone": -0.714,
+   "h": 0.0714,
+   "hits": [
+    [
+     52,
+     65,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     102,
+     115,
+     [
+      "negative"
+     ]
+    ],
+    [
+     137,
+     150,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     174,
+     187,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 51,
+   "t": "In its supplemental presentation materials, \u201cSecond Quarter 2026 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     144,
+     152,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     153,
+     157,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "Based on the factors listed and other assumptions, the company expects full year 2026 reported EPS of $9.40 to $9.70.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1176,
+   "hits": [
+    [
+     38,
+     49,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "Excluding an estimated $0.60 per share impact of other items and restructuring charges, the company expects full year 2026 adjusted EPS of $10.00 to $10.30.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     65,
+     78,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
