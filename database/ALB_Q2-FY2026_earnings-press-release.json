@@ -1,0 +1,609 @@
+{
+ "company": "Albermarle",
+ "ticker": "ALB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-08-05",
+ "source_url": "http://investors.albemarle.com/news-and-events/news/news-details/2026/Albemarle-Reports-Second-Quarter-2026-Results/default.aspx",
+ "demo": false,
+ "source_text": "CHARLOTTE, N.C., Aug. 5, 2026 /PRNewswire/ -- Albemarle Corporation (NYSE: ALB), a global leader in providing essential elements for mobility, energy, connectivity and health, today announced its results for the second quarter ended June 30, 2026.\n\nSecond Quarter 2026 and Recent Highlights\n(Unless otherwise stated, all percentage changes represent year-over-year comparisons and do not exclude the prior-period results of Ketjen's refining catalyst solutions business in which the company sold a 51% stake on March 2, 2026)\n\nNet sales of $1.7 billion, up 31% due to higher pricing in Energy Storage (+73%) and higher pricing and volumes in Specialties (price +11%, volume +8%).\nNet income of $480 million, or $3.52 per diluted share attributable to common shareholders.  \nAdjusted EBITDA(a) of $858 million; up 155% due primarily to higher pricing in Energy Storage, increased pricing and volumes in Specialties and ongoing cost and productivity improvements. Adjusted EBITDA expanded in both Energy Storage (+229%) and Specialties (+61%).\nCash from operating activities of $710 million and free cash flow of $638 million(a). Operating cash flow conversion of 83%(a), primarily driven by timing of an increased dividend from the Talison joint venture and non-recurring working capital benefits.\nDelivered $100 million in year-to-date run-rate cost and productivity improvements, tracking towards the high end of our full-year target of $100 to $150 million.\nImproving full-year 2026 outlook considerations including:\nIncreasing full-year Specialties net sales outlook to $1.4 to $1.6 billion and adjusted EBITDA outlook to $275 to $325 million, due to stronger-than-expected pricing and volume performance year to date.\nExpect minimal impact to Energy Storage sales volume related to the fire at Talison CGP3 which occurred on June 9, in part due to better-than-planned output from the Wodgina mine.\nReducing full-year capital expenditure forecast to approximately $500 million due to ongoing capital efficiency improvements.\n(a) See Non-GAAP Reconciliations for further details.\n\n\"Albemarle delivered another quarter of strong results, reflecting improved pricing, continued strength in Specialties, disciplined cost and productivity execution, and strong cash generation,\" said Kent Masters, Chairman and CEO. \"We continue to see resilient demand fundamentals across our core markets, including energy storage, electric vehicles, and semiconductors. We are advancing our highest value organic growth opportunities while maintaining a disciplined approach to capital allocation and execution.\"\n\nNet sales for the second quarter of 2026 were $1.7 billion compared to $1.3 billion for the prior-year quarter, up 31%, driven primarily by higher prices in both Energy Storage and Specialties and volume growth in Specialties. Adjusted EBITDA of $858 million increased by $522 million from the prior-year quarter, primarily due to higher net sales and ongoing cost and productivity improvements.\n\nNet income attributable to Albemarle of $480 million increased year over year by $457 million. The effective income tax rate for the second quarter of 2026 was 21.3% or 19.1% on an adjusted basis.\n\nEnergy Storage net sales for the second quarter of 2026 were $1.3 billion, an increase of $559 million, or 78%, due to higher pricing. Adjusted EBITDA of $723 million increased $504 million, or 229%, primarily due to higher lithium pricing partially offset by higher CORFO commissions.\n\nSpecialties net sales for the second quarter of 2026 were $423 million, an increase of $72 million, or 20%, primarily due to higher volumes (+8%) and pricing (+11%). Adjusted EBITDA of $118 million increased $45 million, or 61%, primarily due to higher volumes and favorable pricing in bromine and derivatives, along with continued productivity improvements and proactive management of cost escalations driven by the conflict in the Middle East. \n\n2026 Outlook Considerations\n\nTotal Corporate Outlook Considerations\nThe table below reflects expected outcomes for the total company based on recently observed lithium market price scenarios. Outlook ranges for each scenario are based on variation in sales volume and product mix. Energy Storage production volumes are expected to increase year over year. Sales volumes are expected to be in the range of 225 to 235 kilotons lithium carbonate equivalent, as increased Wodgina volumes partially offset a delay in the Talison CGP3 ramp due to a fire that occurred on June 9. All three scenarios assume flat market pricing flowing through Energy Storage's current contract book which includes approximately 40% of salts volume (or one-third of total volumes) on long-term agreements. Scenarios also assume that spodumene pricing averages 10% of the lithium carbonate equivalent (LCE) price, while other costs are assumed to be constant.\n\nSpecialties Outlook Considerations\nSpecialties net sales and adjusted EBITDA outlook is improved primarily due to strong year to date performance driven by volume growth in bromine specialties and cost and productivity improvements. Our outlook continues to reflect modest volume growth in key end markets led by semiconductors, oil and gas, flame retardants and pharmaceuticals partially offset by expected softness in automotive and petrochemicals. Second-half outlook assumes stabilization in the bromine market and continued uncertainties including the situation in the Middle East. Operations at the Jordan Bromine Company (JBC) joint venture are in line with expectations as it continues to navigate geopolitical tensions in the region.\n\nOther Corporate Outlook Considerations\nAlbemarle expects its full-year 2026 capital expenditures to be approximately $500 million, down 15% compared to 2025 due to ongoing capital efficiency improvements.\n\nFollowing the sale of a controlling stake in Ketjen's refining catalyst solutions business, announced on March 2, 2026, the refining catalyst business earnings are now classified as equity income and included in Corporate, as are the results of the retained Performance Catalyst Solutions (PCS) business. The adjusted EBITDA and equity income contributions from these are expected to be immaterial post transaction.\n\nInterest and financing expense is expected to be between $120 and $140 million for 2026 following the debt reduction actions completed in the first quarter of 2026.\n\nCash Flow and Capital Deployment\nCash from operations of $1.1 billion in the first half of 2026 increased $518 million compared to the prior-year period. Capital expenditures of $170 million in the first six months of 2026 decreased by $132 million versus the prior-year period.\n\nBalance Sheet and Liquidity\nAs of June 30, 2026, Albemarle had estimated liquidity of approximately $3.2 billion, including $1.6 billion of cash and cash equivalents, $1.5 billion available under our revolver and $78 million available under other credit lines. Total debt was $1.9 billion, representing a net debt to adjusted EBITDA ratio (as defined in our credit agreement) of approximately 0.5(a).\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 37,
+  "n_material_neg": 2,
+  "n_positive": 13,
+  "mean_pos_negative": 0.6351351351351352,
+  "mean_pos_positive": 0.3991683991683992,
+  "placement_asymmetry": 0.235966735966736,
+  "distance_from_headline": 11,
+  "first_negative_pos": 0.35135135135135137,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.003945421666940655,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0.5,
+  "mean_tone_gap_on_negatives": 1.263157894736842,
+  "overall_hedge": 0.014322916666666666,
+  "mean_tone": 0.14031136399557453
+ },
+ "lexicon": {
+  "words": 768,
+  "per_1000": {
+   "Negative": 2.6,
+   "Positive": 22.1,
+   "Uncertainty": 13.0,
+   "Litigious": 1.3,
+   "Strong modal": 1.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 17,
+   "Uncertainty": 10,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CHARLOTTE, N.C., Aug. 5, 2026 /PRNewswire/ -- Albemarle Corporation (NYSE: ALB), a global leader in providing essential elements for mobility, energy, connectivity and health, today announced its results for the second quarter ended June 30, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Second Quarter 2026 and Recent Highlights (Unless otherwise stated, all percentage changes represent year-over-year comparisons and do not exclude the prior-period results of Ketjen's refining catalyst solutions business in which the company sold a 51% stake on March 2, 2026)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "\"Albemarle delivered another quarter of strong results, reflecting improved pricing, continued strength in Specialties, disciplined cost and productivity execution, and strong cash generation,\" said Kent Masters, Chairman and CEO.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     67,
+     75,
+     [
+      "positive"
+     ]
+    ],
+    [
+     95,
+     103,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "\"We continue to see resilient demand fundamentals across our core markets, including energy storage, electric vehicles, and semiconductors.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "We are advancing our highest value organic growth opportunities while maintaining a disciplined approach to capital allocation and execution.\"",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     21,
+     28,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     50,
+     63,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Net sales for the second quarter of 2026 were $1.7 billion compared to $1.3 billion for the prior-year quarter, up 31%, driven primarily by higher prices in both Energy Storage and Specialties and volume growth in Specialties.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Adjusted EBITDA of $858 million increased by $522 million from the prior-year quarter, primarily due to higher net sales and ongoing cost and productivity improvements.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     155,
+     167,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Net income attributable to Albemarle of $480 million increased year over year by $457 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The effective income tax rate for the second quarter of 2026 was 21.3% or 19.1% on an adjusted basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Energy Storage net sales for the second quarter of 2026 were $1.3 billion, an increase of $559 million, or 78%, due to higher pricing.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Adjusted EBITDA of $723 million increased $504 million, or 229%, primarily due to higher lithium pricing partially offset by higher CORFO commissions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Specialties net sales for the second quarter of 2026 were $423 million, an increase of $72 million, or 20%, primarily due to higher volumes (+8%) and pricing (+11%).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Adjusted EBITDA of $118 million increased $45 million, or 61%, primarily due to higher volumes and favorable pricing in bromine and derivatives, along with continued productivity improvements and proactive management of cost escalations driven by the conflict in the Middle East.",
+   "d": -1,
+   "m": true,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     108,
+     [
+      "positive"
+     ]
+    ],
+    [
+     179,
+     191,
+     [
+      "positive"
+     ]
+    ],
+    [
+     196,
+     205,
+     [
+      "positive"
+     ]
+    ],
+    [
+     251,
+     259,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "2026 Outlook Considerations",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Total Corporate Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "The table below reflects expected outcomes for the total company based on recently observed lithium market price scenarios.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Outlook ranges for each scenario are based on variation in sales volume and product mix.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     46,
+     55,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Energy Storage production volumes are expected to increase year over year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Sales volumes are expected to be in the range of 225 to 235 kilotons lithium carbonate equivalent, as increased Wodgina volumes partially offset a delay in the Talison CGP3 ramp due to a fire that occurred on June 9.",
+   "d": 1,
+   "m": false,
+   "tone": -0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     147,
+     152,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "All three scenarios assume flat market pricing flowing through Energy Storage's current contract book which includes approximately 40% of salts volume (or one-third of total volumes) on long-term agreements.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     20,
+     26,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     96,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     117,
+     130,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Scenarios also assume that spodumene pricing averages 10% of the lithium carbonate equivalent (LCE) price, while other costs are assumed to be constant.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     15,
+     21,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     129,
+     136,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Specialties Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Specialties net sales and adjusted EBITDA outlook is improved primarily due to strong year to date performance driven by volume growth in bromine specialties and cost and productivity improvements.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     61,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     184,
+     196,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Our outlook continues to reflect modest volume growth in key end markets led by semiconductors, oil and gas, flame retardants and pharmaceuticals partially offset by expected softness in automotive and petrochemicals.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Second-half outlook assumes stabilization in the bromine market and continued uncertainties including the situation in the Middle East.",
+   "d": 0,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.1053,
+   "hits": [
+    [
+     20,
+     27,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     28,
+     41,
+     [
+      "positive"
+     ]
+    ],
+    [
+     78,
+     91,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Operations at the Jordan Bromine Company (JBC) joint venture are in line with expectations as it continues to navigate geopolitical tensions in the region.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Other Corporate Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Albemarle expects its full-year 2026 capital expenditures to be approximately $500 million, down 15% compared to 2025 due to ongoing capital efficiency improvements.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.1,
+   "hits": [
+    [
+     64,
+     77,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     141,
+     151,
+     [
+      "positive"
+     ]
+    ],
+    [
+     152,
+     164,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Following the sale of a controlling stake in Ketjen's refining catalyst solutions business, announced on March 2, 2026, the refining catalyst business earnings are now classified as equity income and included in Corporate, as are the results of the retained Performance Catalyst Solutions (PCS) business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The adjusted EBITDA and equity income contributions from these are expected to be immaterial post transaction.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Interest and financing expense is expected to be between $120 and $140 million for 2026 following the debt reduction actions completed in the first quarter of 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Cash Flow and Capital Deployment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Cash from operations of $1.1 billion in the first half of 2026 increased $518 million compared to the prior-year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Capital expenditures of $170 million in the first six months of 2026 decreased by $132 million versus the prior-year period.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Balance Sheet and Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "As of June 30, 2026, Albemarle had estimated liquidity of approximately $3.2 billion, including $1.6 billion of cash and cash equivalents, $1.5 billion available under our revolver and $78 million available under other credit lines.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     58,
+     71,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "Total debt was $1.9 billion, representing a net debt to adjusted EBITDA ratio (as defined in our credit agreement) of approximately 0.5(a).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     118,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
