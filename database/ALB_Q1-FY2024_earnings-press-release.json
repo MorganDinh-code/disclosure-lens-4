@@ -1,0 +1,670 @@
+{
+ "company": "Albermarle",
+ "ticker": "ALB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-01",
+ "source_url": "https://investors.albemarle.com/news-and-events/news/news-details/2024/Albemarle-Reports-First-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "First-Quarter 2024 and Recent Highlights\n(Unless otherwise stated, all percentage changes represent year-over-year comparisons)\n\nNet sales of $1.4 billion, driven by Energy Storage volume growth as projects ramp\nNet income of $2 million, or ($0.08)(a) per diluted share attributable to common shareholders\nAdjusted diluted EPS attributable to common shareholders of $0.26\nAdjusted EBITDA(b) of $291 million\nOn track to deliver more than $280 million target in productivity benefits in 2024; in Q1, delivered over $90 million in productivity and restructuring cost savings\nConducted successful bidding events for spodumene concentrate and lithium carbonate, designed to promote price transparency and discovery\nAchieved 50% operating rate milestone at Kemerton I; commissioning at Meishan and ramp of the Salar Yield Improvement Project continue to progress well\nReaffirmed FY 2024 corporate outlook considerations, including ranges based on lithium market price scenarios\n(a)\n\nAfter mandatory convertible preferred stock dividends\n\n(b)\n\nBeginning in 2024, Adjusted EBITDA definition includes Albemarle's share of the pre-tax earnings of the Talison joint venture\n\n\"In the first quarter, our team demonstrated agility in dynamic market conditions by continuing to deliver solid volumetric growth, ramping new conversion facilities, and executing cost reduction and productivity improvements,\" said Kent Masters, Albemarle's chairman and CEO. \"We have strengthened our competitive position, enhanced our financial flexibility, and started to increase lithium market price transparency. Our actions best position us to serve our core end-markets today and for the future.\" Masters added, \"We remain focused on disciplined capital allocation to deliver profitable organic growth and value for all stakeholders.\"\n\n2024 Total Corporate Outlook Considerations\nThe company maintains its prior full-year outlook, which is based on three lithium market price scenarios.\n\n2024 Other Corporate Outlook Considerations\nFollowing the company's public offering of depository shares representing an interest in its mandatory convertible preferred stock, interest and financing expenses are expected to be at the low end of the previous range of $180 to $220 million. The change in weighted-average common shares outstanding (diluted) reflects the recently issued shares of mandatory convertible preferred stock on an as-converted basis. The change to the adjusted effective tax rate range is related to geographic income mix and is dependent on the assumption of lithium market price. All other corporate outlook considerations are unchanged.\n\nNet sales for the first quarter of 2024 were $1.4 billion compared to $2.6 billion for the prior-year quarter, a year-over-year decline of 47% that was driven primarily by lower pricing in Energy Storage. Net income attributable to Albemarle of $2 million decreased by $1.2 billion and adjusted EBITDA of $291 million declined by $1.5 billion from the prior-year quarter. The decline in earnings was primarily due to lower lithium market pricing, as well as additional margin compression due to inventory timing and reduced equity earnings at the Talison joint venture, which more than offset favorable volumes.\n\nThe effective income tax rate for the first quarter of 2024 was 2.2% compared to 23.9% in the same period of 2023. On an adjusted basis, the effective income tax rates were (12.4)% and 23.6% for the first quarter of 2024 and 2023, respectively, with the decrease primarily due to changes in the geographic income mix. \n\nEnergy Storage net sales for the first quarter of 2024 were $801 million, a decrease of $1.1 billion, or 59%, due to lower pricing (-89%), which more than offset higher volumes (+31%) related to the ramp of lithium projects, including the La Negra III/IV expansion in Chile and the processing plant in Qinzhou, China, and sales of chemical-grade spodumene. Adjusted EBITDA of $198 million decreased $1.4 billion, driven by lower lithium market pricing, as well as margin compression due to inventory timing and reduced equity earnings at the Talison joint venture, which more than offset favorable volumes.\n\nSpecialties net sales for the first quarter of 2024 were $316 million, a decrease of $103 million, or 25%, primarily due to lower prices (-19%) and lower volumes (-6%). Adjusted EBITDA of $45 million decreased $117 million. Both volumes and prices were impacted by weaker demand, particularly for consumer electronics.\n\nKetjen net sales of $244 million for the first quarter of 2024 were up 12% compared to the previous year due to higher volumes (+10%) and higher prices (+2%), primarily from clean fuel technologies. Adjusted EBITDA of $22 million increased $7 million largely due to higher sales and lower input costs.\n\nCash Flow and Capital Deployment\nCash from operations of $98 million for the first quarter of 2024 decreased $623 million versus the prior year period. The year-over-year decrease was driven by lower adjusted EBITDA and reduced dividends received from equity investments, partially offset by lower investment in working capital. Capital expenditures of $579 million increased by $164 million versus the prior-year period due to the timing of project spend.\n\nOn March 8, 2024, Albemarle completed a $2.3 billion public mandatory convertible preferred stock offering to fortify the balance sheet, enhance financial flexibility, and fund in-flight growth investments. Albemarle's capital allocation priorities continue to focus on investing in its organic opportunities to drive profitable growth, maintaining its investment grade credit rating, and funding its dividends.\n\nBalance Sheet and Liquidity\nAs of March 31, 2024, Albemarle had estimated liquidity of approximately $3.7 billion, including $2.1 billion of cash and equivalents, $1.5 billion available under its revolver and $124 million available under other credit lines. Total debt was $3.5 billion, representing a debt covenant net debt to adjusted EBITDA of approximately 0.9 times.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 43,
+  "n_material_neg": 9,
+  "n_positive": 8,
+  "mean_pos_negative": 0.6563307493540051,
+  "mean_pos_positive": 0.622093023255814,
+  "placement_asymmetry": 0.0342377260981912,
+  "distance_from_headline": 4,
+  "first_negative_pos": 0.13953488372093023,
+  "hedge_near_negative": 0.005050505050505051,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0.08333333333333333,
+  "mean_tone_gap_on_negatives": 0.886581815929642,
+  "overall_hedge": 0.004711425206124852,
+  "mean_tone": 0.07681410360884577
+ },
+ "lexicon": {
+  "words": 849,
+  "per_1000": {
+   "Negative": 5.9,
+   "Positive": 18.8,
+   "Uncertainty": 4.7,
+   "Litigious": 0.0,
+   "Strong modal": 1.2,
+   "Weak modal": 0.0,
+   "Constraining": 7.1
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 16,
+   "Uncertainty": 4,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 6
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First-Quarter 2024 and Recent Highlights (Unless otherwise stated, all percentage changes represent year-over-year comparisons)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Net sales of $1.4 billion, driven by Energy Storage volume growth as projects ramp.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Net income of $2 million, or ($0.08)(a) per diluted share attributable to common shareholders.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Adjusted diluted EPS attributable to common shareholders of $0.26.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Adjusted EBITDA(b) of $291 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "On track to deliver more than $280 million target in productivity benefits in 2024; in Q1, delivered over $90 million in productivity and restructuring cost savings.",
+   "d": -1,
+   "m": true,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     138,
+     151,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Conducted successful bidding events for spodumene concentrate and lithium carbonate, designed to promote price transparency and discovery.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     111,
+     123,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Achieved 50% operating rate milestone at Kemerton I; commissioning at Meishan and ramp of the Salar Yield Improvement Project continue to progress well.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     106,
+     117,
+     [
+      "positive"
+     ]
+    ],
+    [
+     138,
+     146,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Reaffirmed FY 2024 corporate outlook considerations, including ranges based on lithium market price scenarios (a)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "After mandatory convertible preferred stock dividends",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     6,
+     15,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "(b)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Beginning in 2024, Adjusted EBITDA definition includes Albemarle's share of the pre-tax earnings of the Talison joint venture",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "\"In the first quarter, our team demonstrated agility in dynamic market conditions by continuing to deliver solid volumetric growth, ramping new conversion facilities, and executing cost reduction and productivity improvements,\" said Kent Masters, Albemarle's chairman and CEO.",
+   "d": 1,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     213,
+     225,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "\"We have strengthened our competitive position, enhanced our financial flexibility, and started to increase lithium market price transparency.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     48,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     129,
+     141,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Our actions best position us to serve our core end-markets today and for the future.\" Masters added, \"We remain focused on disciplined capital allocation to deliver profitable organic growth and value for all stakeholders.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     16,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     165,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "2024 Total Corporate Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "The company maintains its prior full-year outlook, which is based on three lithium market price scenarios.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "2024 Other Corporate Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Following the company's public offering of depository shares representing an interest in its mandatory convertible preferred stock, interest and financing expenses are expected to be at the low end of the previous range of $180 to $220 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     102,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "The change in weighted-average common shares outstanding (diluted) reflects the recently issued shares of mandatory convertible preferred stock on an as-converted basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     115,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The change to the adjusted effective tax rate range is related to geographic income mix and is dependent on the assumption of lithium market price.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.08,
+   "hits": [
+    [
+     95,
+     104,
+     [
+      "uncertainty",
+      "constraining"
+     ]
+    ],
+    [
+     112,
+     122,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "All other corporate outlook considerations are unchanged.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Net sales for the first quarter of 2024 were $1.4 billion compared to $2.6 billion for the prior-year quarter, a year-over-year decline of 47% that was driven primarily by lower pricing in Energy Storage.",
+   "d": 0,
+   "m": false,
+   "tone": -0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     128,
+     135,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Net income attributable to Albemarle of $2 million decreased by $1.2 billion and adjusted EBITDA of $291 million declined by $1.5 billion from the prior-year quarter.",
+   "d": -1,
+   "m": true,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     121,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The decline in earnings was primarily due to lower lithium market pricing, as well as additional margin compression due to inventory timing and reduced equity earnings at the Talison joint venture, which more than offset favorable volumes.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     11,
+     [
+      "negative"
+     ]
+    ],
+    [
+     221,
+     230,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The effective income tax rate for the first quarter of 2024 was 2.2% compared to 23.9% in the same period of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "On an adjusted basis, the effective income tax rates were (12.4)% and 23.6% for the first quarter of 2024 and 2023, respectively, with the decrease primarily due to changes in the geographic income mix.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Energy Storage net sales for the first quarter of 2024 were $801 million, a decrease of $1.1 billion, or 59%, due to lower pricing (-89%), which more than offset higher volumes (+31%) related to the ramp of lithium projects, including the La Negra III/IV expansion in Chile and the processing plant in Qinzhou, China, and sales of chemical-grade spodumene.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Adjusted EBITDA of $198 million decreased $1.4 billion, driven by lower lithium market pricing, as well as margin compression due to inventory timing and reduced equity earnings at the Talison joint venture, which more than offset favorable volumes.",
+   "d": -1,
+   "m": true,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     231,
+     240,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Specialties net sales for the first quarter of 2024 were $316 million, a decrease of $103 million, or 25%, primarily due to lower prices (-19%) and lower volumes (-6%).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Adjusted EBITDA of $45 million decreased $117 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Both volumes and prices were impacted by weaker demand, particularly for consumer electronics.",
+   "d": -1,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     47,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Ketjen net sales of $244 million for the first quarter of 2024 were up 12% compared to the previous year due to higher volumes (+10%) and higher prices (+2%), primarily from clean fuel technologies.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Adjusted EBITDA of $22 million increased $7 million largely due to higher sales and lower input costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Cash Flow and Capital Deployment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Cash from operations of $98 million for the first quarter of 2024 decreased $623 million versus the prior year period.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The year-over-year decrease was driven by lower adjusted EBITDA and reduced dividends received from equity investments, partially offset by lower investment in working capital.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Capital expenditures of $579 million increased by $164 million versus the prior-year period due to the timing of project spend.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "On March 8, 2024, Albemarle completed a $2.3 billion public mandatory convertible preferred stock offering to fortify the balance sheet, enhance financial flexibility, and fund in-flight growth investments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     60,
+     69,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     137,
+     144,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Albemarle's capital allocation priorities continue to focus on investing in its organic opportunities to drive profitable growth, maintaining its investment grade credit rating, and funding its dividends.",
+   "d": 1,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     88,
+     101,
+     [
+      "positive"
+     ]
+    ],
+    [
+     111,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Balance Sheet and Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "As of March 31, 2024, Albemarle had estimated liquidity of approximately $3.7 billion, including $2.1 billion of cash and equivalents, $1.5 billion available under its revolver and $124 million available under other credit lines.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "Total debt was $3.5 billion, representing a debt covenant net debt to adjusted EBITDA of approximately 0.9 times.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     49,
+     57,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     89,
+     102,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
