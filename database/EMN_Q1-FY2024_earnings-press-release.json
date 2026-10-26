@@ -1,0 +1,795 @@
+{
+ "company": "Eastman Chemicals",
+ "ticker": "EMN",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-25",
+ "source_url": "https://investors.eastman.com/news/news-details/2024/Eastman-Announces-First-Quarter-2024-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "KINGSPORT, Tenn.--(BUSINESS WIRE)-- Eastman Chemical Company (NYSE:EMN) announced its first-quarter 2024 financial results.\n\nDelivered strong sequential increase in sales volume/mix and earnings driven by reconnection to primary demand for many of our specialty products in Advanced Materials and Additives & Functional Products.\nAchieved on spec production and revenue generation at our Kingsport methanolysis facility.\nPathway to ~$75 million of incremental EBITDA in 2024 vs. 2023 from Kingsport methanolysis facility.\nSelected by U.S. Department of Energy to receive up to $375 million investment for our second U.S. molecular recycling project in Longview, Texas.\n\n\u201cWe delivered strong sequential earnings growth in the first quarter, above the high-end of our initial expectations,\u201d said Mark Costa, Board Chair and CEO. \u201cIn the first quarter, we were encouraged to see continued evidence that inventory destocking is complete across most of our key end markets including consumer durables, building and construction, and personal care. Sales volume/mix improved 4 percent sequentially as demand for our products appears to be reconnecting to primary end-market demand. We are also incredibly proud to have achieved on spec production and revenue generation at our Kingsport methanolysis facility. Achieving this milestone is a direct result of years of commitment and dedication from hundreds of Eastman employees and the support of their families. For their dedication, I am extraordinarily grateful. We have started 2024 with strong momentum. Demand in our base business is recovering, and we have solidified our position as a world leader in the circular economy. I am confident in our ability to deliver earnings growth and strong cash flow going forward.\u201d\n\nSegment Results 1Q 2024 versus 1Q 2023\n\nAdvanced Materials \u2013 Sales revenue increased 1 percent due to 4 percent higher sales volume/mix partially offset by 3 percent lower selling prices.\n\nHigher sales volume/mix in specialty plastics was the result of reduced levels of customer inventory destocking and a shift towards reconnecting with primary end-market demand, particularly in consumer durables. This growth was partially offset by continued customer inventory destocking in the medical end market and a lower sales volume/mix in performance films due to strong demand in China in the prior-year period.\n\nEBIT increased primarily due to improved price-cost and higher sales volume/mix.\n\nAdditives & Functional Products \u2013 Sales revenue decreased 9 percent due to 8 percent lower selling prices and 1 percent lower sales volume/mix.\n\nLower selling prices were primarily due to cost-pass-through contracts in care additives and functional amines. Sales volume/mix decreased slightly as growth in coatings additives and care additives was more than offset by lower sales volume/mix in specialty fluids due to the timing of the fulfillment of heat transfer fluid projects and continued customer inventory destocking in the agriculture end market.\n\nEBIT decreased due to lower sales volume/mix and higher manufacturing costs, including planned maintenance shutdowns, partially offset by favorable price-cost due to lower variable costs more than offsetting lower selling prices.\n\nFibers \u2013 Sales revenue increased 9 percent due to 7 percent higher sales volume/mix and 2 percent higher selling prices.\n\nSales volume/mix increased primarily due to a double-digit percent increase in textiles driven by continued strong adoption of Naia\u2122 sustainable textile products as customers prioritize sustainability in addition to functionality.\n\nEBIT increased due to higher sales volume/mix and improved price-cost.\n\nChemical Intermediates \u2013 Sales revenue decreased 11 percent due to 13 percent lower selling prices, partially offset by 2 percent higher sales volume/mix.\n\nLower selling prices across the segment were due to weak market conditions and lower variable costs. Sales volume/mix increased slightly driven by growth in the plasticizers product line due to reduced levels of customer inventory destocking and a shift towards reconnecting with primary end-market demand in building and construction.\n\nEBIT decreased due to lower spreads.\n\nCash Flow\n\nIn first quarter 2024, cash used in operating activities was $16 million. The company returned $95 million to stockholders through dividends. See Table 5. Priorities for uses of available cash for 2024 include organic growth investments, payment of the quarterly dividend, bolt-on acquisitions, and share repurchases.\n\n2024 Outlook\n\nCommenting on the outlook for full-year 2024, Costa said: \u201cWe delivered strong first-quarter results that were above our expectations, reflecting both better than expected sales volume/mix and continued pricing discipline. We are encouraged to see continued evidence that customer inventory destocking is behind us across most of our key end markets. Looking forward to the remainder of the year, primary demand in key markets and geographies remains uncertain. However, we continue to benefit from our innovation-driven growth model that enables growth above our end markets. We also expect to benefit from revenue and earnings generated by our Kingsport methanolysis facility, mostly in the second half of the year. We expect continued pricing discipline and improving asset utilization throughout the year. Taking these drivers together, we continue to expect 2024 EPS to be between $7.25 and $8.00 and for 2024 cash from operations to be approximately $1.4 billion.\u201d\n\nThe full-year 2024 projected adjusted diluted EPS and Earnings Before Interest, Taxes, Depreciation, and Amortization (\u201cEBITDA\u201d) exclude any non-core, unusual, or nonrecurring items. Our financial results forecasts do not include non-core items (such as mark-to-market pension and other postretirement benefit gain or loss, and asset impairments and restructuring charges) or any unusual or non-recurring items because we are unable to predict with reasonable certainty the financial impact of such items. These items are uncertain and depend on various factors, and we are unable to reconcile projected adjusted diluted EPS and EBITDA excluding non-core and any unusual or non-recurring items to reported GAAP diluted EPS or net earnings without unreasonable efforts.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 45,
+  "n_material_neg": 3,
+  "n_positive": 14,
+  "mean_pos_negative": 0.6592592592592592,
+  "mean_pos_positive": 0.4523809523809524,
+  "placement_asymmetry": 0.20687830687830683,
+  "distance_from_headline": 17,
+  "first_negative_pos": 0.4222222222222222,
+  "hedge_near_negative": 0.024038461538461536,
+  "hedge_near_positive": 0.007780941598534109,
+  "hedging_asymmetry": 3.089402642861407,
+  "framing_ratio": 0.16666666666666666,
+  "mean_tone_gap_on_negatives": 1.0301659125188536,
+  "overall_hedge": 0.015102481121898598,
+  "mean_tone": 0.19759069348185393
+ },
+ "lexicon": {
+  "words": 927,
+  "per_1000": {
+   "Negative": 8.6,
+   "Positive": 24.8,
+   "Uncertainty": 11.9,
+   "Litigious": 1.1,
+   "Strong modal": 0.0,
+   "Weak modal": 4.3,
+   "Constraining": 3.2
+  },
+  "counts": {
+   "Negative": 8,
+   "Positive": 23,
+   "Uncertainty": 11,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 4,
+   "Constraining": 3
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "KINGSPORT, Tenn.--(BUSINESS WIRE)-- Eastman Chemical Company (NYSE:EMN) announced its first-quarter 2024 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Delivered strong sequential increase in sales volume/mix and earnings driven by reconnection to primary demand for many of our specialty products in Advanced Materials and Additives & Functional Products.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Achieved on spec production and revenue generation at our Kingsport methanolysis facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Pathway to ~$75 million of incremental EBITDA in 2024 vs. 2023 from Kingsport methanolysis facility.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Selected by U.S. Department of Energy to receive up to $375 million investment for our second U.S. molecular recycling project in Longview, Texas.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "\u201cWe delivered strong sequential earnings growth in the first quarter, above the high-end of our initial expectations,\u201d said Mark Costa, Board Chair and CEO. \u201cIn the first quarter, we were encouraged to see continued evidence that inventory destocking is complete across most of our key end markets including consumer durables, building and construction, and personal care.",
+   "d": 1,
+   "m": false,
+   "tone": 0.351,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     188,
+     198,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Sales volume/mix improved 4 percent sequentially as demand for our products appears to be reconnecting to primary end-market demand.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.05,
+   "hits": [
+    [
+     17,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     76,
+     83,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We are also incredibly proud to have achieved on spec production and revenue generation at our Kingsport methanolysis facility.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     37,
+     45,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Achieving this milestone is a direct result of years of commitment and dedication from hundreds of Eastman employees and the support of their families.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ],
+    [
+     56,
+     66,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "For their dedication, I am extraordinarily grateful.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "We have started 2024 with strong momentum.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     26,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Demand in our base business is recovering, and we have solidified our position as a world leader in the circular economy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "I am confident in our ability to deliver earnings growth and strong cash flow going forward.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Segment Results 1Q 2024 versus 1Q 2023",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Advanced Materials \u2013 Sales revenue increased 1 percent due to 4 percent higher sales volume/mix partially offset by 3 percent lower selling prices.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Higher sales volume/mix in specialty plastics was the result of reduced levels of customer inventory destocking and a shift towards reconnecting with primary end-market demand, particularly in consumer durables.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "This growth was partially offset by continued customer inventory destocking in the medical end market and a lower sales volume/mix in performance films due to strong demand in China in the prior-year period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     159,
+     165,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "EBIT increased primarily due to improved price-cost and higher sales volume/mix.",
+   "d": -1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Additives & Functional Products \u2013 Sales revenue decreased 9 percent due to 8 percent lower selling prices and 1 percent lower sales volume/mix.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Lower selling prices were primarily due to cost-pass-through contracts in care additives and functional amines.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     70,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Sales volume/mix decreased slightly as growth in coatings additives and care additives was more than offset by lower sales volume/mix in specialty fluids due to the timing of the fulfillment of heat transfer fluid projects and continued customer inventory destocking in the agriculture end market.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "EBIT decreased due to lower sales volume/mix and higher manufacturing costs, including planned maintenance shutdowns, partially offset by favorable price-cost due to lower variable costs more than offsetting lower selling prices.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     107,
+     116,
+     [
+      "negative"
+     ]
+    ],
+    [
+     138,
+     147,
+     [
+      "positive"
+     ]
+    ],
+    [
+     172,
+     180,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Fibers \u2013 Sales revenue increased 9 percent due to 7 percent higher sales volume/mix and 2 percent higher selling prices.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Sales volume/mix increased primarily due to a double-digit percent increase in textiles driven by continued strong adoption of Naia\u2122 sustainable textile products as customers prioritize sustainability in addition to functionality.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     108,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "EBIT increased due to higher sales volume/mix and improved price-cost.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     58,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Chemical Intermediates \u2013 Sales revenue decreased 11 percent due to 13 percent lower selling prices, partially offset by 2 percent higher sales volume/mix.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Lower selling prices across the segment were due to weak market conditions and lower variable costs.",
+   "d": 1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0625,
+   "hits": [
+    [
+     52,
+     56,
+     [
+      "negative"
+     ]
+    ],
+    [
+     85,
+     93,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Sales volume/mix increased slightly driven by growth in the plasticizers product line due to reduced levels of customer inventory destocking and a shift towards reconnecting with primary end-market demand in building and construction.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "EBIT decreased due to lower spreads.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "In first quarter 2024, cash used in operating activities was $16 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The company returned $95 million to stockholders through dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "See Table 5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Priorities for uses of available cash for 2024 include organic growth investments, payment of the quarterly dividend, bolt-on acquisitions, and share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "2024 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Commenting on the outlook for full-year 2024, Costa said: \u201cWe delivered strong first-quarter results that were above our expectations, reflecting both better than expected sales volume/mix and continued pricing discipline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     78,
+     [
+      "positive"
+     ]
+    ],
+    [
+     151,
+     157,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "We are encouraged to see continued evidence that customer inventory destocking is behind us across most of our key end markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "Looking forward to the remainder of the year, primary demand in key markets and geographies remains uncertain.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     100,
+     109,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "However, we continue to benefit from our innovation-driven growth model that enables growth above our end markets.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     51,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     84,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "We also expect to benefit from revenue and earnings generated by our Kingsport methanolysis facility, mostly in the second half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "We expect continued pricing discipline and improving asset utilization throughout the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0833,
+   "hits": [
+    [
+     43,
+     52,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Taking these drivers together, we continue to expect 2024 EPS to be between $7.25 and $8.00 and for 2024 cash from operations to be approximately $1.4 billion.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0909,
+   "hits": [
+    [
+     132,
+     145,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "The full-year 2024 projected adjusted diluted EPS and Earnings Before Interest, Taxes, Depreciation, and Amortization (\u201cEBITDA\u201d) exclude any non-core, unusual, or nonrecurring items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     151,
+     158,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "Our financial results forecasts do not include non-core items (such as mark-to-market pension and other postretirement benefit gain or loss, and asset impairments and restructuring charges) or any unusual or non-recurring items because we are unable to predict with reasonable certainty the financial impact of such items.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0392,
+   "hits": [
+    [
+     127,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     135,
+     139,
+     [
+      "negative"
+     ]
+    ],
+    [
+     151,
+     162,
+     [
+      "negative",
+      "constraining"
+     ]
+    ],
+    [
+     167,
+     180,
+     [
+      "negative"
+     ]
+    ],
+    [
+     197,
+     204,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     243,
+     249,
+     [
+      "negative"
+     ]
+    ],
+    [
+     253,
+     260,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "These items are uncertain and depend on various factors, and we are unable to reconcile projected adjusted diluted EPS and EBITDA excluding non-core and any unusual or non-recurring items to reported GAAP diluted EPS or net earnings without unreasonable efforts.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0714,
+   "hits": [
+    [
+     16,
+     25,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     30,
+     36,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     68,
+     74,
+     [
+      "negative"
+     ]
+    ],
+    [
+     157,
+     164,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     241,
+     253,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
