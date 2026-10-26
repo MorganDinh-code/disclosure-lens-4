@@ -1,0 +1,709 @@
+{
+ "company": "Avery Dennison",
+ "ticker": "AVY",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-07-23",
+ "source_url": "https://investors.averydennison.com/news/news-details/2024/Avery-Dennison-Announces-Second-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "Highlights:\n\n2Q24 Reported EPS of $2.18, up 76%\n2Q24 Adjusted EPS (non-GAAP) of $2.42, up 26%\n2Q24 Net sales of $2.2 billion, up 7%\nSales change ex. currency (non-GAAP) up 8%\nOrganic sales change (non-GAAP) up 7%\nFY24 EPS guidance\nRevising Reported EPS guidance of $8.75 to $8.95 (previously $8.60 to $9.10)\nRaising Adjusted EPS guidance of $9.30 to $9.50 (previously $9.00 to $9.50)\nMENTOR, Ohio--(BUSINESS WIRE)--Jul. 23, 2024-- Avery Dennison Corporation (NYSE:AVY) today announced preliminary, unaudited results for its second quarter ended June 29, 2024. Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules. Unless otherwise indicated, comparisons are to the same period in the prior year.\n\n\u201cWe delivered a strong second quarter, with significant earnings growth, driven by higher volume and productivity gains,\u201d said Deon Stander, president and CEO. \u201cBoth our Materials and Solutions Groups delivered strong top- and bottom-line growth.\n\n\u201cIn Intelligent Labels, we are targeting to deliver another year of significant growth, as apparel volumes normalize and new categories adopt our solutions that help address key industry challenges.\n\n\u201cWe have raised our full-year outlook for adjusted earnings per share. We continue to remain confident that the consistent execution of our strategies will enable us to meet our long-term goals for superior value creation for all our stakeholders,\u201d added Stander.\n\n\u201cOnce again, I want to thank our entire team for their continued resilience, focus on excellence and commitment to addressing the unique challenges at hand.\u201d\n\nSecond Quarter 2024 Results by Segment\n\nMaterials Group\n\nReported sales increased 5% to $1.5 billion. Sales were up 6% ex. currency and on an organic basis.\nLabel Materials sales were up mid-to-high single-digits on an organic basis.\nVolume/mix was up low double-digits, which was partially offset by deflation-related price reductions.\nGraphics and Reflectives were up low single-digits organically.\nPerformance Tapes and Medical were down low single-digits organically.\nReported operating margin was 14.4%. Adjusted EBITDA margin (non-GAAP) was 17.9%, up 220 basis points driven by higher volume/mix and benefits from productivity, partially offset by higher employee-related costs.\nSolutions Group\n\nReported sales increased 12% to $689 million. Sales were up 14% ex. currency and 11% on an organic basis.\nSales in high-value categories were up low double-digits ex. currency.\nSales were up mid-to-high teens ex. currency in base solutions.\nReported operating margin was 9.3%. Adjusted EBITDA margin was 16.8%, up 100 basis points, driven by higher volume and benefits from productivity, partially offset by higher employee-related costs and investments.\nMargin was up 70 basis points sequentially; the company expects margin to continue to improve in the second half of 2024.\nOther\n\nBalance Sheet and Capital Deployment\n\nDuring the first half of 2024, the company returned $177 million in cash to shareholders through a combination of dividends and share repurchases. The company repurchased 0.2 million shares at an aggregate cost of $41 million in the first half of the year. Net of dilution from long-term incentive awards, the company\u2019s share count was unchanged compared to the same time last year. On April 25, 2024, the company increased its quarterly dividend to $0.88 per share, representing an increase of approximately 9% over the previous dividend rate.\n\nThe company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy. The company\u2019s balance sheet remains strong. Net debt to adjusted EBITDA (non-GAAP) was 2.2x at the end of the second quarter.\n\nIncome Taxes\n\nThe company\u2019s reported effective tax rate was 25.8% in the second quarter. The adjusted tax rate (non-GAAP) for the quarter was 26.0%.\n\nCost Reduction Actions\n\nIn the first half of the year, the company realized approximately $36 million in pre-tax savings from restructuring, net of transition costs, and incurred approximately $13 million in pre-tax restructuring charges.\n\nGuidance\n\nIn its supplemental presentation materials, \u201cSecond Quarter 2024 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its 2024 financial results. Based on the factors listed and other assumptions, the company has revised its guidance range for 2024 reported earnings per share from $8.60 to $9.10 to $8.75 to $8.95.\n\nExcluding an estimated $0.55 per share impact of restructuring charges and other items, the company raised its guidance range for 2024 for adjusted earnings per share from $9.00 to $9.50 to $9.30 to $9.50.\n\nFor more details on the company\u2019s results, see the summary tables accompanying this news release, as well as the supplemental presentation materials, \u201cSecond Quarter 2024 Financial Review and Analysis,\u201d posted on the company\u2019s website at www.investors.averydennison.com, and furnished to the SEC on Form 8-K.\n\nThroughout this release and the supplemental presentation materials, amounts on a per share basis reflect fully diluted shares outstanding.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 53,
+  "n_material_neg": 2,
+  "n_positive": 17,
+  "mean_pos_negative": 0.9245283018867925,
+  "mean_pos_positive": 0.4195338512763596,
+  "placement_asymmetry": 0.5049944506104329,
+  "distance_from_headline": 45,
+  "first_negative_pos": 0.8867924528301887,
+  "hedge_near_negative": 0.03857142857142857,
+  "hedge_near_positive": 0.0062426517995979825,
+  "hedging_asymmetry": 6.178692935254295,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4988479262672811,
+  "overall_hedge": 0.010582010582010581,
+  "mean_tone": 0.03736338348336895
+ },
+ "lexicon": {
+  "words": 756,
+  "per_1000": {
+   "Negative": 6.6,
+   "Positive": 11.9,
+   "Uncertainty": 9.3,
+   "Litigious": 0.0,
+   "Strong modal": 2.6,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 9,
+   "Uncertainty": 7,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "2Q24 Reported EPS of $2.18, up 76% 2Q24 Adjusted EPS (non-GAAP) of $2.42, up 26% 2Q24 Net sales of $2.2 billion, up 7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Sales change ex. currency (non-GAAP) up 8%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Organic sales change (non-GAAP) up 7%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "FY24 EPS guidance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Revising Reported EPS guidance of $8.75 to $8.95 (previously $8.60 to $9.10).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Raising Adjusted EPS guidance of $9.30 to $9.50 (previously $9.00 to $9.50).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "MENTOR, Ohio--(BUSINESS WIRE)--Jul. 23, 2024-- Avery Dennison Corporation (NYSE:AVY) today announced preliminary, unaudited results for its second quarter ended June 29, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     101,
+     112,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Unless otherwise indicated, comparisons are to the same period in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\u201cWe delivered a strong second quarter, with significant earnings growth, driven by higher volume and productivity gains,\u201d said Deon Stander, president and CEO. \u201cBoth our Materials and Solutions Groups delivered strong top- and bottom-line growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     16,
+     22,
+     [
+      "positive"
+     ]
+    ],
+    [
+     114,
+     119,
+     [
+      "positive"
+     ]
+    ],
+    [
+     211,
+     217,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cIn Intelligent Labels, we are targeting to deliver another year of significant growth, as apparel volumes normalize and new categories adopt our solutions that help address key industry challenges.",
+   "d": 1,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     187,
+     197,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "\u201cWe have raised our full-year outlook for adjusted earnings per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "We continue to remain confident that the consistent execution of our strategies will enable us to meet our long-term goals for superior value creation for all our stakeholders,\u201d added Stander.",
+   "d": 0,
+   "m": false,
+   "tone": 0.968,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     84,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     85,
+     91,
+     [
+      "positive"
+     ]
+    ],
+    [
+     127,
+     135,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "\u201cOnce again, I want to thank our entire team for their continued resilience, focus on excellence and commitment to addressing the unique challenges at hand.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     96,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     111,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     137,
+     147,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Second Quarter 2024 Results by Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Materials Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Reported sales increased 5% to $1.5 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Sales were up 6% ex. currency and on an organic basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Label Materials sales were up mid-to-high single-digits on an organic basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Volume/mix was up low double-digits, which was partially offset by deflation-related price reductions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Graphics and Reflectives were up low single-digits organically.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Performance Tapes and Medical were down low single-digits organically.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Reported operating margin was 14.4%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Adjusted EBITDA margin (non-GAAP) was 17.9%, up 220 basis points driven by higher volume/mix and benefits from productivity, partially offset by higher employee-related costs.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Solutions Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Reported sales increased 12% to $689 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Sales were up 14% ex. currency and 11% on an organic basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Sales in high-value categories were up low double-digits ex. currency.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Sales were up mid-to-high teens ex. currency in base solutions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Reported operating margin was 9.3%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Adjusted EBITDA margin was 16.8%, up 100 basis points, driven by higher volume and benefits from productivity, partially offset by higher employee-related costs and investments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Margin was up 70 basis points sequentially; the company expects margin to continue to improve in the second half of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0526,
+   "hits": [
+    [
+     86,
+     93,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Balance Sheet and Capital Deployment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "During the first half of 2024, the company returned $177 million in cash to shareholders through a combination of dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The company repurchased 0.2 million shares at an aggregate cost of $41 million in the first half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Net of dilution from long-term incentive awards, the company\u2019s share count was unchanged compared to the same time last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "On April 25, 2024, the company increased its quarterly dividend to $0.88 per share, representing an increase of approximately 9% over the previous dividend rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     112,
+     125,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "The company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The company\u2019s balance sheet remains strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Net debt to adjusted EBITDA (non-GAAP) was 2.2x at the end of the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Income Taxes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "The company\u2019s reported effective tax rate was 25.8% in the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The adjusted tax rate (non-GAAP) for the quarter was 26.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Cost Reduction Actions",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "In the first half of the year, the company realized approximately $36 million in pre-tax savings from restructuring, net of transition costs, and incurred approximately $13 million in pre-tax restructuring charges.",
+   "d": -1,
+   "m": true,
+   "tone": -0.645,
+   "h": 0.0645,
+   "hits": [
+    [
+     52,
+     65,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     102,
+     115,
+     [
+      "negative"
+     ]
+    ],
+    [
+     155,
+     168,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     192,
+     205,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "In its supplemental presentation materials, \u201cSecond Quarter 2024 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its 2024 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     144,
+     152,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     153,
+     157,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "Based on the factors listed and other assumptions, the company has revised its guidance range for 2024 reported earnings per share from $8.60 to $9.10 to $8.75 to $8.95.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     38,
+     49,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     67,
+     74,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "Excluding an estimated $0.55 per share impact of restructuring charges and other items, the company raised its guidance range for 2024 for adjusted earnings per share from $9.00 to $9.50 to $9.30 to $9.50.",
+   "d": -1,
+   "m": true,
+   "tone": -0.357,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     62,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "For more details on the company\u2019s results, see the summary tables accompanying this news release, as well as the supplemental presentation materials, \u201cSecond Quarter 2024 Financial Review and Analysis,\u201d posted on the company\u2019s website at www.investors.averydennison.com, and furnished to the SEC on Form 8-K.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "Throughout this release and the supplemental presentation materials, amounts on a per share basis reflect fully diluted shares outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
