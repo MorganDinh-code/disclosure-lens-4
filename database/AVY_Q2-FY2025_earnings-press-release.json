@@ -1,0 +1,681 @@
+{
+ "company": "Avery Dennison",
+ "ticker": "AVY",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-06-22",
+ "source_url": "https://investors.averydennison.com/news/news-details/2025/Avery-Dennison-Announces-Second-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "Highlights:\n\n2Q25 Reported EPS of $2.41\nAdjusted EPS (non-GAAP) of $2.42, up 5% sequentially and comparable to prior year\n2Q25 Net sales of $2.2 billion, down 0.7%\nOrganic sales change (non-GAAP) down 1.0%\n3Q25 Reported EPS guidance of $2.14 to $2.30\n3Q25 Adjusted EPS guidance of $2.24 to $2.40\n \n\nMENTOR, Ohio--(BUSINESS WIRE)-- Avery Dennison Corporation (NYSE: AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its second quarter ended June 28, 2025. Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules. Unless otherwise indicated, comparisons are to the same period in the prior year.\n\n\u201cWe delivered a solid second quarter, with earnings above expectations in a dynamic environment, reflecting the strength of our overall portfolio,\u201d said Deon Stander, president and CEO.\n\n\u201cWhile trade policy changes led to lower sourcing demand for apparel and general retail categories in the quarter, growth in our high-value categories and productivity in the base business offset the impact from tariffs.\n\n\u201cThe broader impact of trade policy changes is unclear. We are prepared for various scenarios and will continue to leverage our proven playbook to safeguard earnings, while driving key initiatives to deliver strong profitable growth over the cycle,\u201d added Stander.\n\n\u201cOnce again, I extend my gratitude to our agile, engaged, and talented team for their unwavering focus on excellence and dedication to addressing the current challenges at hand.\u201d\n\nSecond Quarter 2025 Results by Segment\n\nMaterials Group\n\nReported sales increased 0.2% to $1.6 billion.\nSales down 1.0% on organic basis\nHigh-value categories, including Intelligent Labels, up low single digits in total; base categories down low single digits\nLabel Materials down low single digits\nGraphics and Reflectives up high single digits; Performance Tapes and Medical up low single digits\nReported operating margin of 16.1%\nAdjusted operating margin (non-GAAP) of 15.6%, down 20 basis points\nAdjusted EBITDA margin (non-GAAP) of 17.8%, down 10 basis points, as the benefits from productivity and higher volume/mix were offset by the net impact of pricing and raw material inputs costs.\nSolutions Group\n\nReported sales decreased 2.6% to $670 million.\nSales down 0.8% on organic basis\nSales in high-value categories, including Intelligent Labels, up low single digits\nHigh-value categories, excluding the estimated indirect impact of tariffs, up high single digits\nIntelligent Labels comparable to prior year; Vestcom up approximately 10%; Embelex down high single digits\nSales in base categories down mid-single digits\nOverall apparel categories down mid-single digits\nReported operating margin of 8.9%\nAdjusted operating margin of 10.0%, down 10 basis points\nAdjusted EBITDA margin of 17.1%, up 30 basis points, as benefits from productivity were partially offset by lower volume in apparel and growth investments.\nOther\n\nBalance Sheet and Capital Deployment\n\nDuring the first half of 2025, the company returned $503 million in cash to shareholders through a combination of share repurchases and dividends. The company repurchased 2.0 million shares at an aggregate cost of $360 million in the first half of the year. Net of dilution from long-term incentive awards, the company\u2019s share count was down 2.8 million compared to the same time last year. In the second quarter, the company increased its quarterly dividend to $0.94 per share, representing an increase of approximately 7% over the previous dividend rate.\n\nThe company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy. The company\u2019s balance sheet remains strong. Net debt to adjusted EBITDA (non-GAAP) was 2.3x at the end of the second quarter.\n\nIncome Taxes\n\nThe company\u2019s reported effective tax rate was 26.0% for the second quarter. The adjusted tax rate (non-GAAP) for the quarter was also 26.0%.\n\nCost Reduction Actions\n\nIn the first half of the year, the company realized approximately $30 million in pre-tax savings from restructuring, net of transition costs, and incurred approximately $13 million in pre-tax restructuring charges.\n\nGuidance\n\nIn its supplemental presentation materials, \u201cSecond Quarter 2025 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its financial results. Based on the factors listed and other assumptions, the company expects third quarter 2025 reported earnings per share of $2.14 to $2.30.\n\nExcluding an estimated ~$0.10 per share impact of restructuring charges and other items, the company expects third quarter 2025 adjusted earnings per share of $2.24 to $2.40.\n\nFor more details on the company\u2019s results, see the summary tables accompanying this news release, as well as the supplemental presentation materials, \u201cSecond Quarter 2025 Financial Review and Analysis,\u201d posted on the company\u2019s website at www.investors.averydennison.com, and furnished to the SEC on Form 8-K.\n\nThroughout this release and the supplemental presentation materials, amounts on a per share basis reflect fully diluted shares outstanding.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 53,
+  "n_material_neg": 9,
+  "n_positive": 5,
+  "mean_pos_negative": 0.5073375262054507,
+  "mean_pos_positive": 0.5433962264150943,
+  "placement_asymmetry": -0.036058700209643635,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.07547169811320754,
+  "hedge_near_negative": 0.011736411736411736,
+  "hedge_near_positive": 0.0150046685340803,
+  "hedging_asymmetry": 0.7821840055816408,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.8920056100981767,
+  "overall_hedge": 0.013192612137203167,
+  "mean_tone": 0.023941907452982105
+ },
+ "lexicon": {
+  "words": 758,
+  "per_1000": {
+   "Negative": 5.3,
+   "Positive": 7.9,
+   "Uncertainty": 10.6,
+   "Litigious": 0.0,
+   "Strong modal": 2.6,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 6,
+   "Uncertainty": 8,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Highlights:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "2Q25 Reported EPS of $2.41.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Adjusted EPS (non-GAAP) of $2.42, up 5% sequentially and comparable to prior year 2Q25 Net sales of $2.2 billion, down 0.7%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Organic sales change (non-GAAP) down 1.0% 3Q25 Reported EPS guidance of $2.14 to $2.30 3Q25 Adjusted EPS guidance of $2.24 to $2.40",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "MENTOR, Ohio--(BUSINESS WIRE)-- Avery Dennison Corporation (NYSE: AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its second quarter ended June 28, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     74,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     180,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Unless otherwise indicated, comparisons are to the same period in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "\u201cWe delivered a solid second quarter, with earnings above expectations in a dynamic environment, reflecting the strength of our overall portfolio,\u201d said Deon Stander, president and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     112,
+     120,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\u201cWhile trade policy changes led to lower sourcing demand for apparel and general retail categories in the quarter, growth in our high-value categories and productivity in the base business offset the impact from tariffs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\u201cThe broader impact of trade policy changes is unclear.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1111,
+   "hits": [
+    [
+     47,
+     54,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "We are prepared for various scenarios and will continue to leverage our proven playbook to safeguard earnings, while driving key initiatives to deliver strong profitable growth over the cycle,\u201d added Stander.",
+   "d": 1,
+   "m": false,
+   "tone": 0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     46,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     152,
+     158,
+     [
+      "positive"
+     ]
+    ],
+    [
+     159,
+     169,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "\u201cOnce again, I extend my gratitude to our agile, engaged, and talented team for their unwavering focus on excellence and dedication to addressing the current challenges at hand.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     116,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     168,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Second Quarter 2025 Results by Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Materials Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Reported sales increased 0.2% to $1.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Sales down 1.0% on organic basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "High-value categories, including Intelligent Labels, up low single digits in total; base categories down low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Label Materials down low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Graphics and Reflectives up high single digits; Performance Tapes and Medical up low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Reported operating margin of 16.1%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Adjusted operating margin (non-GAAP) of 15.6%, down 20 basis points.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Adjusted EBITDA margin (non-GAAP) of 17.8%, down 10 basis points, as the benefits from productivity and higher volume/mix were offset by the net impact of pricing and raw material inputs costs.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Solutions Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Reported sales decreased 2.6% to $670 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Sales down 0.8% on organic basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Sales in high-value categories, including Intelligent Labels, up low single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "High-value categories, excluding the estimated indirect impact of tariffs, up high single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Intelligent Labels comparable to prior year; Vestcom up approximately 10%; Embelex down high single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     56,
+     69,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Sales in base categories down mid-single digits.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Overall apparel categories down mid-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Reported operating margin of 8.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Adjusted operating margin of 10.0%, down 10 basis points.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Adjusted EBITDA margin of 17.1%, up 30 basis points, as benefits from productivity were partially offset by lower volume in apparel and growth investments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Balance Sheet and Capital Deployment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "During the first half of 2025, the company returned $503 million in cash to shareholders through a combination of share repurchases and dividends.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "The company repurchased 2.0 million shares at an aggregate cost of $360 million in the first half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Net of dilution from long-term incentive awards, the company\u2019s share count was down 2.8 million compared to the same time last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "In the second quarter, the company increased its quarterly dividend to $0.94 per share, representing an increase of approximately 7% over the previous dividend rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     116,
+     129,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "The company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "The company\u2019s balance sheet remains strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Net debt to adjusted EBITDA (non-GAAP) was 2.3x at the end of the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Income Taxes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "The company\u2019s reported effective tax rate was 26.0% for the second quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "The adjusted tax rate (non-GAAP) for the quarter was also 26.0%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Cost Reduction Actions",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "In the first half of the year, the company realized approximately $30 million in pre-tax savings from restructuring, net of transition costs, and incurred approximately $13 million in pre-tax restructuring charges.",
+   "d": -1,
+   "m": true,
+   "tone": -0.645,
+   "h": 0.0645,
+   "hits": [
+    [
+     52,
+     65,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     102,
+     115,
+     [
+      "negative"
+     ]
+    ],
+    [
+     155,
+     168,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     192,
+     205,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "In its supplemental presentation materials, \u201cSecond Quarter 2025 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     144,
+     152,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     153,
+     157,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "Based on the factors listed and other assumptions, the company expects third quarter 2025 reported earnings per share of $2.14 to $2.30.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1053,
+   "hits": [
+    [
+     38,
+     49,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "Excluding an estimated ~$0.10 per share impact of restructuring charges and other items, the company expects third quarter 2025 adjusted earnings per share of $2.24 to $2.40.",
+   "d": -1,
+   "m": true,
+   "tone": -0.435,
+   "h": 0.0435,
+   "hits": [
+    [
+     50,
+     63,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 52,
+   "t": "For more details on the company\u2019s results, see the summary tables accompanying this news release, as well as the supplemental presentation materials, \u201cSecond Quarter 2025 Financial Review and Analysis,\u201d posted on the company\u2019s website at www.investors.averydennison.com, and furnished to the SEC on Form 8-K.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 53,
+   "t": "Throughout this release and the supplemental presentation materials, amounts on a per share basis reflect fully diluted shares outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
