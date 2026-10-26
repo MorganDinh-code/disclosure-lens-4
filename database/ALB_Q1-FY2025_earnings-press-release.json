@@ -1,0 +1,562 @@
+{
+ "company": "Albermarle",
+ "ticker": "ALB",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-04-30",
+ "source_url": "https://investors.albemarle.com/news-and-events/news/news-details/2025/Albemarle-Reports-First-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "First-Quarter 2025 and Recent Highlights\n(Unless otherwise stated, all percentage changes represent year-over-year comparisons)\n\nNet sales of $1.1 billion, with double-digit volume growth in Specialties (+11%) and record Energy Storage lithium salt production from the company's integrated conversion network\nNet income of $41 million, or ($0.00) per diluted share attributable to common shareholders; adjusted diluted loss per share attributable to common shareholders of ($0.18)\nAdjusted EBITDA of $267 million; year-over-year gains in Specialties (+30%) and Ketjen (+76%)\nCash from operations of $545 million, which included a $350 million customer prepayment; excluding the prepayment, operating cash flow conversion(a) was 73%; line of sight to breakeven free cash flow assuming current lithium market pricing\nThrough April, achieved approximately 90% run-rate against midpoint $350 million cost and productivity improvement target; identified opportunities to reach high-end of the $300 to $400 million range\nMaintaining full-year 2025 outlook considerations, including ranges based on recently observed lithium market price scenarios; ranges include the anticipated direct impact of tariffs announced as of April 29, 2025\n(a)   Defined as Operating Cash Flow divided by Adj. EBITDA, which is a non-GAAP measure. See Non-GAAP Reconciliations for further details.\n\n\"Our business continues to perform in line with our outlook considerations, including first-quarter adjusted EBITDA of $267 million with strong year-over-year improvements in Specialties and Ketjen,\" said Kent Masters, Chairman and CEO. \"We continue to focus on what we can control - taking decisive actions to reduce costs, optimize our lithium conversion network and increase efficiencies to preserve our long-term competitive position. While the full economic impact of the recently announced tariffs and other global trade actions is unclear, we benefit from our global footprint and the current exemptions for critical minerals; as a result, we are maintaining our full year 2025 outlook considerations.\"\n\nNet sales for the first quarter of 2025 were $1.1 billion compared to $1.4 billion for the prior-year quarter, a decline of 21% driven primarily by lower pricing in Energy Storage, partially offset by higher volumes in Specialties (+11%). Adjusted EBITDA of $267 million declined by $24 million from the prior-year quarter as lower net sales were mostly offset by lower average input costs and on-going cost reduction efforts. Net income attributable to Albemarle of $41 million increased year-over-year by $39 million.\n\nThe effective income tax rate for the first quarter of 2025 was 21.0% compared to 2.2% in the same period of 2024. On an adjusted basis, the effective income tax rates were (42.8)% and (12.4)% for the first quarters of 2025 and 2024, respectively, with the decrease primarily due to changes in geographic income mix and the impact of tax valuation allowances in Australia and China. \n\nEnergy Storage net sales for the first quarter of 2025 were $525 million, a decrease of $276 million, or 35%, due to lower pricing (-34%). Volumes were flat as record production at our integrated conversion network offset reduced tolling volumes. Adjusted EBITDA of $186 million decreased $12 million, as lower net sales were mostly offset by lower average input costs and on-going cost reduction efforts.\n\nSpecialties net sales for the first quarter of 2025 were $321 million, an increase of $5 million, or 2%, primarily due to higher volumes (+11%), which more than offset lower prices (-8%). Adjusted EBITDA of $59 million increased $13 million versus the year-ago quarter due to higher sales volumes and decreased manufacturing costs related to productivity initiatives. \n\nKetjen net sales for the first quarter of 2025 were $231 million, down 5% compared to the prior-year quarter as higher prices (+4%) were more than offset by lower volumes (-8%), primarily due to the timing of sales, offset by favorable pricing due to product mix. Adjusted EBITDA of $39 million increased $17 million, driven by favorable product mix and higher equity income from joint ventures.\n\n2025 Outlook Considerations\n\nTotal Corporate Outlook Considerations are Unchanged\nThe table below reflects expected outcomes for the total company based on recently observed lithium market price scenarios, unchanged from the prior quarter. Ranges include the anticipated direct impact of announced tariffs as of April 29, 2025. Ranges are based on variation in sales volume and mix, including a projected increase in Energy Storage volumes of 0% to 10% in 2025 compared to 2024. All three scenarios assume flat market pricing flowing through Energy Storage's current contract book. Scenarios also assume spodumene pricing averages 10% of the lithium carbonate equivalent (LCE) price, while other costs are assumed to be constant.\n\nSpecialties and Ketjen Outlook Considerations\nSpecialties outlook reflects modest volume growth in key end markets led by pharma, automotive, and oilfield, partially offset by weakness in building and construction.\n\nKetjen outlook assumes favorable product revenue mix, lower input costs and the continuation of its turnaround plan execution.\n\nOther Corporate Outlook Considerations\nAlbemarle expects its 2025 capital expenditures to be in the range of $700 million to $800 million, down more than 50% from $1.7 billion in 2024. This level of spending reflects a prioritization on sustaining existing assets and resources, with the remainder allocated to select growth projects and high-return, quick payback improvements.\n\nCash Flow and Capital Deployment\nCash from operations of $545 million increased $447 million compared to the prior-year period. A customer prepayment received in January and improved working capital more than offset lower adjusted EBITDA and reduced dividends received from equity investments. Capital expenditures of $183 million decreased by $397 million versus the prior-year period, reflecting the impact of decisions that stopped or slowed spending and the completion of capacity expansions in Energy Storage and Specialties.\n\nBalance Sheet and Liquidity\nAs of March 31, 2025, Albemarle had estimated liquidity of approximately $3.1 billion, including $1.5 billion of cash and cash equivalents, $1.5 billion available under its revolver and $106 million available under other credit lines. Total debt was $3.5 billion, representing a debt covenant net debt to adjusted EBITDA ratio of approximately 2.4 times.\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 36,
+  "n_material_neg": 7,
+  "n_positive": 10,
+  "mean_pos_negative": 0.5119047619047619,
+  "mean_pos_positive": 0.5138888888888888,
+  "placement_asymmetry": -0.001984126984126977,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.25,
+  "hedge_near_negative": 0.006211180124223602,
+  "hedge_near_positive": 0.012347098520615106,
+  "hedging_asymmetry": 0.5030477495464396,
+  "framing_ratio": 0.25,
+  "mean_tone_gap_on_negatives": 1.0083521550912855,
+  "overall_hedge": 0.01335113484646195,
+  "mean_tone": 0.039837585109679455
+ },
+ "lexicon": {
+  "words": 749,
+  "per_1000": {
+   "Negative": 6.7,
+   "Positive": 10.7,
+   "Uncertainty": 12.0,
+   "Litigious": 1.3,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.3
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 8,
+   "Uncertainty": 9,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "First-Quarter 2025 and Recent Highlights (Unless otherwise stated, all percentage changes represent year-over-year comparisons)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "\"Our business continues to perform in line with our outlook considerations, including first-quarter adjusted EBITDA of $267 million with strong year-over-year improvements in Specialties and Ketjen,\" said Kent Masters, Chairman and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     137,
+     143,
+     [
+      "positive"
+     ]
+    ],
+    [
+     159,
+     171,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "\"We continue to focus on what we can control - taking decisive actions to reduce costs, optimize our lithium conversion network and increase efficiencies to preserve our long-term competitive position.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     141,
+     153,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "While the full economic impact of the recently announced tariffs and other global trade actions is unclear, we benefit from our global footprint and the current exemptions for critical minerals; as a result, we are maintaining our full year 2025 outlook considerations.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0244,
+   "hits": [
+    [
+     99,
+     106,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Net sales for the first quarter of 2025 were $1.1 billion compared to $1.4 billion for the prior-year quarter, a decline of 21% driven primarily by lower pricing in Energy Storage, partially offset by higher volumes in Specialties (+11%).",
+   "d": 0,
+   "m": false,
+   "tone": -0.286,
+   "h": 0.0,
+   "hits": [
+    [
+     113,
+     120,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Adjusted EBITDA of $267 million declined by $24 million from the prior-year quarter as lower net sales were mostly offset by lower average input costs and on-going cost reduction efforts.",
+   "d": 1,
+   "m": false,
+   "tone": -0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Net income attributable to Albemarle of $41 million increased year-over-year by $39 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "The effective income tax rate for the first quarter of 2025 was 21.0% compared to 2.2% in the same period of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "On an adjusted basis, the effective income tax rates were (42.8)% and (12.4)% for the first quarters of 2025 and 2024, respectively, with the decrease primarily due to changes in geographic income mix and the impact of tax valuation allowances in Australia and China.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Energy Storage net sales for the first quarter of 2025 were $525 million, a decrease of $276 million, or 35%, due to lower pricing (-34%).",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Volumes were flat as record production at our integrated conversion network offset reduced tolling volumes.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA of $186 million decreased $12 million, as lower net sales were mostly offset by lower average input costs and on-going cost reduction efforts.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Specialties net sales for the first quarter of 2025 were $321 million, an increase of $5 million, or 2%, primarily due to higher volumes (+11%), which more than offset lower prices (-8%).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Adjusted EBITDA of $59 million increased $13 million versus the year-ago quarter due to higher sales volumes and decreased manufacturing costs related to productivity initiatives.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Ketjen net sales for the first quarter of 2025 were $231 million, down 5% compared to the prior-year quarter as higher prices (+4%) were more than offset by lower volumes (-8%), primarily due to the timing of sales, offset by favorable pricing due to product mix.",
+   "d": -1,
+   "m": true,
+   "tone": 0.238,
+   "h": 0.0,
+   "hits": [
+    [
+     226,
+     235,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Adjusted EBITDA of $39 million increased $17 million, driven by favorable product mix and higher equity income from joint ventures.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     73,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "2025 Outlook Considerations",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Total Corporate Outlook Considerations are Unchanged.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "The table below reflects expected outcomes for the total company based on recently observed lithium market price scenarios, unchanged from the prior quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Ranges include the anticipated direct impact of announced tariffs as of April 29, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0833,
+   "hits": [
+    [
+     19,
+     30,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Ranges are based on variation in sales volume and mix, including a projected increase in Energy Storage volumes of 0% to 10% in 2025 compared to 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     20,
+     29,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "All three scenarios assume flat market pricing flowing through Energy Storage's current contract book.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     20,
+     26,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     88,
+     96,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Scenarios also assume spodumene pricing averages 10% of the lithium carbonate equivalent (LCE) price, while other costs are assumed to be constant.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0952,
+   "hits": [
+    [
+     15,
+     21,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     124,
+     131,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Specialties and Ketjen Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Specialties outlook reflects modest volume growth in key end markets led by pharma, automotive, and oilfield, partially offset by weakness in building and construction.",
+   "d": 1,
+   "m": false,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     130,
+     138,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "Ketjen outlook assumes favorable product revenue mix, lower input costs and the continuation of its turnaround plan execution.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0556,
+   "hits": [
+    [
+     15,
+     22,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     23,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Other Corporate Outlook Considerations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Albemarle expects its 2025 capital expenditures to be in the range of $700 million to $800 million, down more than 50% from $1.7 billion in 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "This level of spending reflects a prioritization on sustaining existing assets and resources, with the remainder allocated to select growth projects and high-return, quick payback improvements.",
+   "d": 1,
+   "m": false,
+   "tone": 0.37,
+   "h": 0.0,
+   "hits": [
+    [
+     180,
+     192,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Cash Flow and Capital Deployment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Cash from operations of $545 million increased $447 million compared to the prior-year period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "A customer prepayment received in January and improved working capital more than offset lower adjusted EBITDA and reduced dividends received from equity investments.",
+   "d": -1,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "Capital expenditures of $183 million decreased by $397 million versus the prior-year period, reflecting the impact of decisions that stopped or slowed spending and the completion of capacity expansions in Energy Storage and Specialties.",
+   "d": -1,
+   "m": true,
+   "tone": -0.606,
+   "h": 0.0,
+   "hits": [
+    [
+     133,
+     140,
+     [
+      "negative"
+     ]
+    ],
+    [
+     144,
+     150,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "Balance Sheet and Liquidity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "As of March 31, 2025, Albemarle had estimated liquidity of approximately $3.1 billion, including $1.5 billion of cash and cash equivalents, $1.5 billion available under its revolver and $106 million available under other credit lines.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     59,
+     72,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "Total debt was $3.5 billion, representing a debt covenant net debt to adjusted EBITDA ratio of approximately 2.4 times.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     49,
+     57,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     95,
+     108,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
