@@ -1,0 +1,692 @@
+{
+ "company": "Avery Dennison",
+ "ticker": "AVY",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-28",
+ "source_url": "https://investors.averydennison.com/news/news-details/2026/Avery-Dennison-Announces-First-Quarter-2026-Results/default.aspx",
+ "demo": false,
+ "source_text": "Delivered strong earnings growth and free cash flow in dynamic quarter\n\n1Q26 Reported EPS of $2.18\nAdjusted EPS (non-GAAP) of $2.47, up 7.4%\n1Q26 Net sales of $2.3 billion, up 7.0%\nSales change ex. currency (non-GAAP) up 2.3%\nSales on an organic basis (non-GAAP) up 1.1%\n2Q26 Reported EPS guidance of $2.21 to $2.31\n2Q26 Adjusted EPS guidance of $2.43 to $2.53\nMENTOR, Ohio--(BUSINESS WIRE)-- Avery Dennison Corporation (NYSE:AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its first quarter ended March 31, 2026. Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules. Unless otherwise indicated, comparisons are to the same period in the prior year.\n\n\u201cWe delivered strong first quarter results, with adjusted EPS of $2.47, once again reflecting the strength and resilience of our overall portfolio to deliver growth in a dynamic environment,\u201d said Deon Stander, president and CEO.\n\n\u201cWe are executing a clear strategy to drive earnings growth. This is underpinned by our proven playbook focused on innovation, commercial excellence, and service-led differentiation to gain share with rigorous productivity, procurement, and cost management. This playbook allows us to deliver value for our customers, while offsetting inflationary pressures and maintaining supply continuity.\n\n\u201cI want to again extend my gratitude to our entire team. Our success reflects our team's agility and their dedication ensures that we continue to execute our strategic priorities and deliver results in 2026 and beyond.\u201d\n\nFirst Quarter 2026 Results by Segment\n\nMaterials Group\n\nReported sales increased 11.4% to $1.6 billion. Sales were up 3.6% ex. currency.\nSales up 1.9% on an organic basis\nMid-single digit volume/mix growth partially offset by deflation-related price reductions\nBase categories up mid-single digits; high-value categories down low-single digits\nGraphics and Reflectives down mid-single digits; Performance Materials down low-single digits\nReported operating margin of 14.9%\nAdjusted operating margin (non-GAAP) of 15.4%, down 20 basis points\nAdjusted EBITDA margin (non-GAAP) of 17.8%, up 10 basis points, as productivity and the net benefit of pricing and raw material costs, including raw material re-engineering, were partially offset by mix and higher employee-related costs\nSolutions Group\n\nReported sales decreased 2.8% to $649 million. Sales were down 0.9% ex. currency.\nSales down 0.9% on an organic basis\nSales in high-value categories up low-single digits\nEmbelex and Vestcom up mid-single digits\nIntelligent Labels down low-single digits\nSales in base categories down mid-single digits\nOverall apparel categories comparable to prior year\nReported operating margin of 7.5%\nAdjusted operating margin of 9.0%, down 120 basis points\nAdjusted EBITDA margin of 16.4%, down 80 basis points, as productivity and the net benefit of pricing and raw material costs were more than offset by higher employee-related costs and investments\nOther\n\nCapital Deployment and Balance Sheet\n\nThe company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy.\n\nDuring the first quarter of 2026, the company returned $133 million in cash to shareholders through a combination of dividends and share repurchases. The company repurchased 0.3 million shares, with payments for share purchases totaling $61 million. Net of dilution from long-term incentive awards, the company\u2019s share count at the end of the quarter was down 1.9 million compared to the same time last year.\n\nThe company\u2019s balance sheet remains strong. Net debt to adjusted EBITDA (non-GAAP) was 2.4x at the end of the first quarter.\n\nIncome Taxes\n\nThe company\u2019s reported effective tax rate was 30.1% in the first quarter. The adjusted tax rate (non-GAAP) for the quarter was 26.2%.\n\nCost Reduction Actions\n\nIn the first quarter, the company realized approximately $17 million in pre-tax savings from restructuring actions and incurred approximately $16 million in pre-tax restructuring charges.\n\nGuidance\n\nIn its supplemental presentation materials, \u201cFirst Quarter 2026 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its financial results. Based on the factors listed and other assumptions, the company expects second quarter 2026 reported earnings per share of $2.21 to $2.31.\n\nExcluding an estimated ~$0.22 per share impact of other items and restructuring charges, the company expects second quarter 2026 adjusted earnings per share of $2.43 to $2.53.\n\nFor more details on the company\u2019s results, see the summary tables accompanying this news release, as well as the supplemental presentation materials, \u201cFirst Quarter 2026 Financial Review and Analysis,\u201d posted on the company\u2019s website at www.investors.averydennison.com, and furnished to the SEC on Form 8-K.\n\nThroughout this release and the supplemental presentation materials, amounts on a per share basis reflect fully diluted shares outstanding.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 56,
+  "n_material_neg": 8,
+  "n_positive": 11,
+  "mean_pos_negative": 0.6361607142857143,
+  "mean_pos_positive": 0.26785714285714285,
+  "placement_asymmetry": 0.36830357142857145,
+  "distance_from_headline": 22,
+  "first_negative_pos": 0.42857142857142855,
+  "hedge_near_negative": 0.01278735632183908,
+  "hedge_near_positive": 0.006379585326953748,
+  "hedging_asymmetry": 2.0044181034482755,
+  "framing_ratio": 0.1,
+  "mean_tone_gap_on_negatives": 0.9765217391304348,
+  "overall_hedge": 0.009446693657219974,
+  "mean_tone": 0.05379542133058757
+ },
+ "lexicon": {
+  "words": 741,
+  "per_1000": {
+   "Negative": 4.0,
+   "Positive": 12.1,
+   "Uncertainty": 6.7,
+   "Litigious": 0.0,
+   "Strong modal": 1.3,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 9,
+   "Uncertainty": 5,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Delivered strong earnings growth and free cash flow in dynamic quarter",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "1Q26 Reported EPS of $2.18.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Adjusted EPS (non-GAAP) of $2.47, up 7.4% 1Q26 Net sales of $2.3 billion, up 7.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Sales change ex. currency (non-GAAP) up 2.3%.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Sales on an organic basis (non-GAAP) up 1.1% 2Q26 Reported EPS guidance of $2.21 to $2.31 2Q26 Adjusted EPS guidance of $2.43 to $2.53.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "MENTOR, Ohio--(BUSINESS WIRE)-- Avery Dennison Corporation (NYSE:AVY), a leading global materials science and digital identification solutions company, today announced preliminary, unaudited results for its first quarter ended March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     73,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     168,
+     179,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Non-GAAP financial measures referenced in this release are reconciled from GAAP in the attached financial schedules.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Unless otherwise indicated, comparisons are to the same period in the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\u201cWe delivered strong first quarter results, with adjusted EPS of $2.47, once again reflecting the strength and resilience of our overall portfolio to deliver growth in a dynamic environment,\u201d said Deon Stander, president and CEO.",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     98,
+     106,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "\u201cWe are executing a clear strategy to drive earnings growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "This is underpinned by our proven playbook focused on innovation, commercial excellence, and service-led differentiation to gain share with rigorous productivity, procurement, and cost management.",
+   "d": -1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     54,
+     64,
+     [
+      "positive"
+     ]
+    ],
+    [
+     77,
+     87,
+     [
+      "positive"
+     ]
+    ],
+    [
+     124,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "This playbook allows us to deliver value for our customers, while offsetting inflationary pressures and maintaining supply continuity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "\u201cI want to again extend my gratitude to our entire team.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Our success reflects our team's agility and their dedication ensures that we continue to execute our strategic priorities and deliver results in 2026 and beyond.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     11,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "First Quarter 2026 Results by Segment",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Materials Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Reported sales increased 11.4% to $1.6 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Sales were up 3.6% ex. currency.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Sales up 1.9% on an organic basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Mid-single digit volume/mix growth partially offset by deflation-related price reductions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Base categories up mid-single digits; high-value categories down low-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Graphics and Reflectives down mid-single digits; Performance Materials down low-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Reported operating margin of 14.9%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Adjusted operating margin (non-GAAP) of 15.4%, down 20 basis points.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Adjusted EBITDA margin (non-GAAP) of 17.8%, up 10 basis points, as productivity and the net benefit of pricing and raw material costs, including raw material re-engineering, were partially offset by mix and higher employee-related costs.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Solutions Group",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Reported sales decreased 2.8% to $649 million.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Sales were down 0.9% ex. currency.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Sales down 0.9% on an organic basis.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Sales in high-value categories up low-single digits.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Embelex and Vestcom up mid-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Intelligent Labels down low-single digits.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "Sales in base categories down mid-single digits.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Overall apparel categories comparable to prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Reported operating margin of 7.5%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "Adjusted operating margin of 9.0%, down 120 basis points.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Adjusted EBITDA margin of 16.4%, down 80 basis points, as productivity and the net benefit of pricing and raw material costs were more than offset by higher employee-related costs and investments.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 38,
+   "t": "Other",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 39,
+   "t": "Capital Deployment and Balance Sheet",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "The company continues to deploy capital in a disciplined manner, executing its long-term capital allocation strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "During the first quarter of 2026, the company returned $133 million in cash to shareholders through a combination of dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 42,
+   "t": "The company repurchased 0.3 million shares, with payments for share purchases totaling $61 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 43,
+   "t": "Net of dilution from long-term incentive awards, the company\u2019s share count at the end of the quarter was down 1.9 million compared to the same time last year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "The company\u2019s balance sheet remains strong.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 45,
+   "t": "Net debt to adjusted EBITDA (non-GAAP) was 2.4x at the end of the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 46,
+   "t": "Income Taxes",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 47,
+   "t": "The company\u2019s reported effective tax rate was 30.1% in the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 48,
+   "t": "The adjusted tax rate (non-GAAP) for the quarter was 26.2%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 49,
+   "t": "Cost Reduction Actions",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 50,
+   "t": "In the first quarter, the company realized approximately $17 million in pre-tax savings from restructuring actions and incurred approximately $16 million in pre-tax restructuring charges.",
+   "d": -1,
+   "m": true,
+   "tone": -0.8,
+   "h": 0.08,
+   "hits": [
+    [
+     43,
+     56,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     93,
+     106,
+     [
+      "negative"
+     ]
+    ],
+    [
+     128,
+     141,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     165,
+     178,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 51,
+   "t": "Guidance",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 52,
+   "t": "In its supplemental presentation materials, \u201cFirst Quarter 2026 Financial Review and Analysis,\u201d the company provides a list of factors that it believes will contribute to its financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     143,
+     151,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     152,
+     156,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 53,
+   "t": "Based on the factors listed and other assumptions, the company expects second quarter 2026 reported earnings per share of $2.21 to $2.31.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1053,
+   "hits": [
+    [
+     38,
+     49,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 54,
+   "t": "Excluding an estimated ~$0.22 per share impact of other items and restructuring charges, the company expects second quarter 2026 adjusted earnings per share of $2.43 to $2.53.",
+   "d": -1,
+   "m": true,
+   "tone": -0.435,
+   "h": 0.0435,
+   "hits": [
+    [
+     66,
+     79,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 55,
+   "t": "For more details on the company\u2019s results, see the summary tables accompanying this news release, as well as the supplemental presentation materials, \u201cFirst Quarter 2026 Financial Review and Analysis,\u201d posted on the company\u2019s website at www.investors.averydennison.com, and furnished to the SEC on Form 8-K.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 56,
+   "t": "Throughout this release and the supplemental presentation materials, amounts on a per share basis reflect fully diluted shares outstanding.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
