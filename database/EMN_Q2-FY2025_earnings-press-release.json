@@ -1,0 +1,984 @@
+{
+ "company": "Eastman Chemicals",
+ "ticker": "EMN",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-31",
+ "source_url": "https://investors.eastman.com/news/news-details/2025/Eastman-Announces-Second-Quarter-2025-Financial-Results/default.aspx",
+ "demo": false,
+ "source_text": "KINGSPORT, Tenn.--(BUSINESS WIRE)-- Eastman Chemical Company (NYSE:EMN) announced its second-quarter 2025 financial results.\n\nContinued commercial excellence by our teams keeping price-cost in specialties stable and defending market share\nStrong results in Additives & Functional Products driven by mix improvement and leverage to stable end markets and solid results in Advanced Materials despite significant challenges in key end markets\nCircular platform continues making progress, with methanolysis plant setting new production records, strong customer engagement with new business pipeline building, and developing capital-efficient options for the second facility\nWe continue to navigate the economic impact of the increased level of tariffs and related uncertainty and are adjusting our global supply chain\nIncreasing focus on cost reduction and cash generation as challenging global macroenvironment persists\n\n\u201cThe second quarter presented significant challenges, and I am proud of the way our team fought to deliver resilient earnings in our specialty businesses,\u201d said Mark Costa, Board Chair and CEO. \u201cAs expected, the macroeconomic backdrop showed little signs of seasonal improvements across our end markets. In this context, we worked hard to mitigate tariff impacts on our global business through supply chain and commercial excellence. The second quarter also had an approximately $20 million impact in Chemical Intermediates due to an unplanned outage, compounding what continues to be tougher conditions for commodity markets. The Kingsport methanolysis facility continues to operate well, and we remain on track to produce greater than 2.5 times more recycled content than 2024. Moving forward, we will continue to focus on cash generation with a disciplined approach to managing our cost structure, reducing working capital, and allocating capital.\u201d\n\nSegment Results 2Q 2025 versus 2Q 2024\n\nAdvanced Materials \u2013 Sales revenue decreased 2 percent due to lower sales volume/mix.\n\nLower sales volume/mix was due to ongoing weak primary demand in key end markets, including building and construction and automotive OEM production. The lower sales volume/mix was partially offset by growth in specialty plastics.\n\nEBIT decreased primarily due to lower sales volume/mix and higher planned maintenance expense.\n\nAdditives & Functional Products \u2013 Sales revenue increased 7 percent due to 4 percent higher selling prices, 2 percent higher sales volume/mix, and a favorable foreign currency exchange impact.\n\nHigher selling prices were driven by cost-pass-through contracts. Higher sales volume/mix was primarily due to care chemicals serving stable end markets and heat transfer fluid project fulfillments.\n\nEBIT increased due to higher sales volume/mix and favorable price-cost.\n\nFibers \u2013 Sales revenue decreased 17 percent primarily due to 16 percent lower sales volume/mix.\n\nLower sales volume/mix was driven by lower acetate tow volume due to customer inventory destocking and industry capacity share adjustments and lower textiles sales into China due to the global trade dispute.\n\nEBIT declined primarily due to lower sales volume/mix.\n\nChemical Intermediates \u2013 Sales revenue decreased 10 percent due to 5 percent lower sales volume/mix partially due to an unplanned outage and 5 percent lower selling prices due to unfavorable commodity market fundamentals.\n\nEBIT decreased due to lower spreads, an unplanned outage including less volume to sell, and increased planned maintenance costs. The total impact of the unplanned outage reduced EBIT by approximately $20 million. Spreads declined due to a combination of lower prices and higher raw material and energy costs.\n\nCash Flow\n\nIn second-quarter 2025, cash provided by operating activities was $233 million compared to $367 million in second-quarter 2024. The company returned $145 million to stockholders through dividends and share repurchases. See Table 5. Priorities for uses of available cash include capital expenditures, payment of the quarterly dividend, net debt reduction, and share repurchases.\n\n2025 Outlook\n\nCommenting on the outlook for full-year 2025, Costa said: \u201cAs we have entered the second half of the year, we are encountering a global macroeconomic environment that remains challenging. Customer caution is intensifying due to a changing tariff landscape and weak underlying demand. With this, we are taking decisive actions to control costs, manage working capital, and drive our circular economy platform forward in a disciplined manner. Considering the wide range of potential outcomes due to increased tariff levels and related uncertainty, the company is maintaining its approach of providing quarterly adjusted earnings per share guidance. We are expecting a decline in volume due to trade dispute impacts and normal seasonality. In this context, we are increasing our focus on generating cash. We are executing plans to reduce inventory by greater than $200 million below current levels. This reduction of inventory will come with a $75 million to $100 million asset utilization headwind to earnings in the back half of the year, with around $50 million in the third quarter. Partially offsetting these headwinds is an expected increase in Chemical Intermediates earnings after an unplanned outage in the second quarter. We also expect to benefit from the continued ramp-up of our cost-reduction initiatives and increased revenue from our Kingsport methanolysis facility. When putting these factors together, we project third-quarter adjusted earnings per share to be around $1.25. We expect to generate full-year operating cash flow of ~$1 billion as declines in cash earnings will be partially offset by a release of working capital. We are in a solid financial position in an industry that is going on four years of significant challenges. The actions we are taking today are expected to position the company to be a strong relative performer, now and in the coming years.\u201d\n\nThe third-quarter 2025 projected adjusted diluted EPS excludes any non-core, unusual, or nonrecurring items. Our financial results forecasts do not include non-core items (such as mark-to-market pension and other postretirement benefit gain or loss, and asset impairments and restructuring charges) or any unusual or non-recurring items because we are unable to predict with reasonable certainty the financial impact of such items. These items are uncertain and depend on various factors, and we are unable to reconcile projected adjusted diluted EPS excluding non-core and any unusual or non-recurring items to reported GAAP diluted EPS without unreasonable efforts.",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 50,
+  "n_material_neg": 5,
+  "n_positive": 9,
+  "mean_pos_negative": 0.608,
+  "mean_pos_positive": 0.4177777777777778,
+  "placement_asymmetry": 0.19022222222222218,
+  "distance_from_headline": 11,
+  "first_negative_pos": 0.26,
+  "hedge_near_negative": 0.0218257256856213,
+  "hedge_near_positive": 0.008481609092738667,
+  "hedging_asymmetry": 2.573300118760117,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.43571818534930873,
+  "overall_hedge": 0.017346938775510204,
+  "mean_tone": -0.14426176494841697
+ },
+ "lexicon": {
+  "words": 980,
+  "per_1000": {
+   "Negative": 33.7,
+   "Positive": 16.3,
+   "Uncertainty": 15.3,
+   "Litigious": 1.0,
+   "Strong modal": 3.1,
+   "Weak modal": 2.0,
+   "Constraining": 2.0
+  },
+  "counts": {
+   "Negative": 33,
+   "Positive": 16,
+   "Uncertainty": 15,
+   "Litigious": 1,
+   "Strong modal": 3,
+   "Weak modal": 2,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "KINGSPORT, Tenn.--(BUSINESS WIRE)-- Eastman Chemical Company (NYSE:EMN) announced its second-quarter 2025 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Continued commercial excellence by our teams keeping price-cost in specialties stable and defending market share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     31,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     85,
+     [
+      "positive"
+     ]
+    ],
+    [
+     90,
+     99,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Strong results in Additives & Functional Products driven by mix improvement and leverage to stable end markets and solid results in Advanced Materials despite significant challenges in key end markets.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     64,
+     75,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     98,
+     [
+      "positive"
+     ]
+    ],
+    [
+     151,
+     158,
+     [
+      "positive"
+     ]
+    ],
+    [
+     171,
+     181,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Circular platform continues making progress, with methanolysis plant setting new production records, strong customer engagement with new business pipeline building, and developing capital-efficient options for the second facility.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     107,
+     [
+      "positive"
+     ]
+    ],
+    [
+     188,
+     197,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "We continue to navigate the economic impact of the increased level of tariffs and related uncertainty and are adjusting our global supply chain.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": [
+    [
+     90,
+     101,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Increasing focus on cost reduction and cash generation as challenging global macroenvironment persists",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     58,
+     69,
+     [
+      "negative"
+     ]
+    ],
+    [
+     94,
+     102,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cThe second quarter presented significant challenges, and I am proud of the way our team fought to deliver resilient earnings in our specialty businesses,\u201d said Mark Costa, Board Chair and CEO. \u201cAs expected, the macroeconomic backdrop showed little signs of seasonal improvements across our end markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     52,
+     [
+      "negative"
+     ]
+    ],
+    [
+     267,
+     279,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "In this context, we worked hard to mitigate tariff impacts on our global business through supply chain and commercial excellence.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "The second quarter also had an approximately $20 million impact in Chemical Intermediates due to an unplanned outage, compounding what continues to be tougher conditions for commodity markets.",
+   "d": 0,
+   "m": false,
+   "tone": -0.741,
+   "h": 0.0741,
+   "hits": [
+    [
+     31,
+     44,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     100,
+     109,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     110,
+     116,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "The Kingsport methanolysis facility continues to operate well, and we remain on track to produce greater than 2.5 times more recycled content than 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Moving forward, we will continue to focus on cash generation with a disciplined approach to managing our cost structure, reducing working capital, and allocating capital.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     23,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Segment Results 2Q 2025 versus 2Q 2024",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Advanced Materials \u2013 Sales revenue decreased 2 percent due to lower sales volume/mix.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Lower sales volume/mix was due to ongoing weak primary demand in key end markets, including building and construction and automotive OEM production.",
+   "d": -1,
+   "m": false,
+   "tone": -0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     42,
+     46,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "The lower sales volume/mix was partially offset by growth in specialty plastics.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "EBIT decreased primarily due to lower sales volume/mix and higher planned maintenance expense.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Additives & Functional Products \u2013 Sales revenue increased 7 percent due to 4 percent higher selling prices, 2 percent higher sales volume/mix, and a favorable foreign currency exchange impact.",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     149,
+     158,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Higher selling prices were driven by cost-pass-through contracts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     64,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Higher sales volume/mix was primarily due to care chemicals serving stable end markets and heat transfer fluid project fulfillments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "EBIT increased due to higher sales volume/mix and favorable price-cost.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     59,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Fibers \u2013 Sales revenue decreased 17 percent primarily due to 16 percent lower sales volume/mix.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Lower sales volume/mix was driven by lower acetate tow volume due to customer inventory destocking and industry capacity share adjustments and lower textiles sales into China due to the global trade dispute.",
+   "d": -1,
+   "m": false,
+   "tone": -0.303,
+   "h": 0.0,
+   "hits": [
+    [
+     199,
+     206,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "EBIT declined primarily due to lower sales volume/mix.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     13,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Chemical Intermediates \u2013 Sales revenue decreased 10 percent due to 5 percent lower sales volume/mix partially due to an unplanned outage and 5 percent lower selling prices due to unfavorable commodity market fundamentals.",
+   "d": -1,
+   "m": true,
+   "tone": -1.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     120,
+     129,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     130,
+     136,
+     [
+      "negative"
+     ]
+    ],
+    [
+     179,
+     190,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "EBIT decreased due to lower spreads, an unplanned outage including less volume to sell, and increased planned maintenance costs.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0526,
+   "hits": [
+    [
+     40,
+     49,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     50,
+     56,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "The total impact of the unplanned outage reduced EBIT by approximately $20 million.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.1667,
+   "hits": [
+    [
+     24,
+     33,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     34,
+     40,
+     [
+      "negative"
+     ]
+    ],
+    [
+     57,
+     70,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Spreads declined due to a combination of lower prices and higher raw material and energy costs.",
+   "d": -1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     16,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Cash Flow",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "In second-quarter 2025, cash provided by operating activities was $233 million compared to $367 million in second-quarter 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "The company returned $145 million to stockholders through dividends and share repurchases.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "See Table 5.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "Priorities for uses of available cash include capital expenditures, payment of the quarterly dividend, net debt reduction, and share repurchases.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 33,
+   "t": "2025 Outlook",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Commenting on the outlook for full-year 2025, Costa said: \u201cAs we have entered the second half of the year, we are encountering a global macroeconomic environment that remains challenging.",
+   "d": 0,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     175,
+     186,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "Customer caution is intensifying due to a changing tariff landscape and weak underlying demand.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     16,
+     [
+      "negative"
+     ]
+    ],
+    [
+     72,
+     76,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 36,
+   "t": "With this, we are taking decisive actions to control costs, manage working capital, and drive our circular economy platform forward in a disciplined manner.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 37,
+   "t": "Considering the wide range of potential outcomes due to increased tariff levels and related uncertainty, the company is maintaining its approach of providing quarterly adjusted earnings per share guidance.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     92,
+     103,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "We are expecting a decline in volume due to trade dispute impacts and normal seasonality.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "negative"
+     ]
+    ],
+    [
+     50,
+     57,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "In this context, we are increasing our focus on generating cash.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 40,
+   "t": "We are executing plans to reduce inventory by greater than $200 million below current levels.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 41,
+   "t": "This reduction of inventory will come with a $75 million to $100 million asset utilization headwind to earnings in the back half of the year, with around $50 million in the third quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "Partially offsetting these headwinds is an expected increase in Chemical Intermediates earnings after an unplanned outage in the second quarter.",
+   "d": -1,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.05,
+   "hits": [
+    [
+     105,
+     114,
+     [
+      "negative",
+      "uncertainty"
+     ]
+    ],
+    [
+     115,
+     121,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "We also expect to benefit from the continued ramp-up of our cost-reduction initiatives and increased revenue from our Kingsport methanolysis facility.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0435,
+   "hits": []
+  },
+  {
+   "i": 44,
+   "t": "When putting these factors together, we project third-quarter adjusted earnings per share to be around $1.25.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 45,
+   "t": "We expect to generate full-year operating cash flow of ~$1 billion as declines in cash earnings will be partially offset by a release of working capital.",
+   "d": -1,
+   "m": true,
+   "tone": -0.385,
+   "h": 0.0385,
+   "hits": [
+    [
+     70,
+     78,
+     [
+      "negative"
+     ]
+    ],
+    [
+     96,
+     100,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 46,
+   "t": "We are in a solid financial position in an industry that is going on four years of significant challenges.",
+   "d": 0,
+   "m": false,
+   "tone": -0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     95,
+     105,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 47,
+   "t": "The actions we are taking today are expected to position the company to be a strong relative performer, now and in the coming years.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     77,
+     83,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 48,
+   "t": "The third-quarter 2025 projected adjusted diluted EPS excludes any non-core, unusual, or nonrecurring items.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": [
+    [
+     77,
+     84,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 49,
+   "t": "Our financial results forecasts do not include non-core items (such as mark-to-market pension and other postretirement benefit gain or loss, and asset impairments and restructuring charges) or any unusual or non-recurring items because we are unable to predict with reasonable certainty the financial impact of such items.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0392,
+   "hits": [
+    [
+     127,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     135,
+     139,
+     [
+      "negative"
+     ]
+    ],
+    [
+     151,
+     162,
+     [
+      "negative",
+      "constraining"
+     ]
+    ],
+    [
+     167,
+     180,
+     [
+      "negative"
+     ]
+    ],
+    [
+     197,
+     204,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     243,
+     249,
+     [
+      "negative"
+     ]
+    ],
+    [
+     253,
+     260,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 50,
+   "t": "These items are uncertain and depend on various factors, and we are unable to reconcile projected adjusted diluted EPS excluding non-core and any unusual or non-recurring items to reported GAAP diluted EPS without unreasonable efforts.",
+   "d": 0,
+   "m": false,
+   "tone": -0.541,
+   "h": 0.0811,
+   "hits": [
+    [
+     16,
+     25,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     30,
+     36,
+     [
+      "uncertainty",
+      "weak_modal",
+      "constraining"
+     ]
+    ],
+    [
+     68,
+     74,
+     [
+      "negative"
+     ]
+    ],
+    [
+     146,
+     153,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     214,
+     226,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
