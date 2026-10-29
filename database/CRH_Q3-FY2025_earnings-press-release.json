@@ -1,0 +1,439 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-11-05",
+ "source_url": "https://www.crh.com/media/press-releases/2025/crh-reports-third-quarter-2025-results/",
+ "demo": false,
+ "source_text": "Reaffirming FY25 Net income and raising FY25 Adjusted EBITDA* guidance midpoint; another record year for CRH\nRecord Q3; further expansion in Net income margin (+50bps) and Adjusted EBITDA* margin (+100bps)\nContinued performance delivery through Our Growth Algorithm and the CRH Winning Way\nSuperior Strategy and Leading Performance driving 9% Net income and 10% Adjusted EBITDA* growth in Q3\nFavorable underlying demand, positive pricing momentum and contributions from acquisitions\n$3.5bn invested in 27 value-accretive acquisitions year-to-date with attractive pipeline of opportunities\nDeclaring quarterly dividend of $0.37 per share (+6% YoY)\n2026 outlook positive across key end-markets; underpinned by unmatched scale and connected portfolio\n\nNEW YORK (Nov. 5, 2025) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported third quarter 2025 financial results. Total revenues of $11.1 billion (Q3 2024: $10.5 billion) were 5% ahead of the prior year period driven by positive demand, strong commercial execution and contributions from acquisitions. Net income of $1.5 billion (Q3 2024: $1.4 billion) was 9% ahead of the prior year, reflecting a strong underlying operating performance. Adjusted EBITDA* of $2.7 billion (Q3 2024: $2.5 billion) increased by 10% as a result of continued pricing momentum, good contributions from acquisitions and further operational efficiencies. CRH\u2019s net income margin of 13.7% was ahead of Q3 2024 (13.2%), while Adjusted EBITDA margin* of 24.3% (Q3 2024: 23.3%) was also ahead of the comparable prior year period.\n\nDuring the quarter, CRH completed nine acquisitions for a total consideration of $2.5 billion, enabled by CRH\u2019s unmatched scale, connected portfolio, and proven growth capabilities. As part of its ongoing share buyback program and reflecting the financial strength of CRH, the Company returned $1.1 billion of cash to shareholders year-to-date and is commencing an additional $0.3 billion tranche to be completed no later than February 17, 2026.\n\n \n\nJim Mintern, Chief Executive Officer, stated \u201cCRH delivered a strong third quarter performance driven by favorable underlying demand, positive pricing momentum and further contributions from acquisitions. We are pleased to reaffirm Net income and raise our Adjusted EBITDA* guidance for 2025, representing another record year for CRH. Our superior strategy, connected portfolio and leading performance continues to deliver higher sales, profits and margins. Backed by our robust balance sheet and strong cash generation, we have invested $4.7 billion in growth investments year-to-date while returning approximately $1.8 billion to our shareholders through dividends and share buybacks. We have completed 27 acquisitions year-to-date, including the acquisition of Eco Material Technologies, and continue to see an active pipeline of value-accretive opportunities supported by infrastructure megatrends across our key growth platforms. Looking ahead to 2026, we expect favorable market dynamics and the continued execution of our strategy to underpin another year of growth and shareholder value creation.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 20,
+  "n_material_neg": 0,
+  "n_positive": 11,
+  "mean_pos_positive": 0.5636363636363636,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.005984379893141414,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004694835680751174,
+  "mean_tone": 0.6101980321113953
+ },
+ "lexicon": {
+  "words": 426,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 63.4,
+   "Uncertainty": 2.3,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 27,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Reaffirming FY25 Net income and raising FY25 Adjusted EBITDA* guidance midpoint; another record year for CRH.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Record Q3; further expansion in Net income margin (+50bps) and Adjusted EBITDA* margin (+100bps).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Continued performance delivery through Our Growth Algorithm and the CRH Winning Way.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Superior Strategy and Leading Performance driving 9% Net income and 10% Adjusted EBITDA* growth in Q3.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ],
+    [
+     22,
+     29,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Favorable underlying demand, positive pricing momentum and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     9,
+     [
+      "positive"
+     ]
+    ],
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "$3.5bn invested in 27 value-accretive acquisitions year-to-date with attractive pipeline of opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     79,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Declaring quarterly dividend of $0.37 per share (+6% YoY) 2026 outlook positive across key end-markets; underpinned by unmatched scale and connected portfolio",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     71,
+     79,
+     [
+      "positive"
+     ]
+    ],
+    [
+     119,
+     128,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "NEW YORK (Nov. 5, 2025) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported third quarter 2025 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Total revenues of $11.1 billion (Q3 2024: $10.5 billion) were 5% ahead of the prior year period driven by positive demand, strong commercial execution and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     114,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Net income of $1.5 billion (Q3 2024: $1.4 billion) was 9% ahead of the prior year, reflecting a strong underlying operating performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     96,
+     102,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Adjusted EBITDA* of $2.7 billion (Q3 2024: $2.5 billion) increased by 10% as a result of continued pricing momentum, good contributions from acquisitions and further operational efficiencies.",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     117,
+     121,
+     [
+      "positive"
+     ]
+    ],
+    [
+     178,
+     190,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "CRH\u2019s net income margin of 13.7% was ahead of Q3 2024 (13.2%), while Adjusted EBITDA margin* of 24.3% (Q3 2024: 23.3%) was also ahead of the comparable prior year period.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "During the quarter, CRH completed nine acquisitions for a total consideration of $2.5 billion, enabled by CRH\u2019s unmatched scale, connected portfolio, and proven growth capabilities.",
+   "d": 1,
+   "m": false,
+   "tone": 0.8,
+   "h": 0.0,
+   "hits": [
+    [
+     95,
+     102,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "As part of its ongoing share buyback program and reflecting the financial strength of CRH, the Company returned $1.1 billion of cash to shareholders year-to-date and is commencing an additional $0.3 billion tranche to be completed no later than February 17, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Jim Mintern, Chief Executive Officer, stated \u201cCRH delivered a strong third quarter performance driven by favorable underlying demand, positive pricing momentum and further contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     68,
+     [
+      "positive"
+     ]
+    ],
+    [
+     105,
+     114,
+     [
+      "positive"
+     ]
+    ],
+    [
+     134,
+     142,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We are pleased to reaffirm Net income and raise our Adjusted EBITDA* guidance for 2025, representing another record year for CRH.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Our superior strategy, connected portfolio and leading performance continues to deliver higher sales, profits and margins.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     12,
+     [
+      "positive"
+     ]
+    ],
+    [
+     47,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Backed by our robust balance sheet and strong cash generation, we have invested $4.7 billion in growth investments year-to-date while returning approximately $1.8 billion to our shareholders through dividends and share buybacks.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0312,
+   "hits": [
+    [
+     39,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     144,
+     157,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We have completed 27 acquisitions year-to-date, including the acquisition of Eco Material Technologies, and continue to see an active pipeline of value-accretive opportunities supported by infrastructure megatrends across our key growth platforms.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     162,
+     175,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Looking ahead to 2026, we expect favorable market dynamics and the continued execution of our strategy to underpin another year of growth and shareholder value creation.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.04,
+   "hits": [
+    [
+     33,
+     42,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
