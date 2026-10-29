@@ -1,0 +1,417 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-30",
+ "source_url": "https://www.crh.com/media/press-releases/2026/crh-reports-second-quarter-2026-results/",
+ "demo": false,
+ "source_text": "Strong quarter driven by good commercial management, favorable underlying demand and contributions from acquisitions\nIncreases in revenues, profits and margins reflecting continued execution of the CRH Winning Way\nActive portfolio management; continuing to build a higher-growth connected portfolio\n$1.4bn invested in 17 value-accretive acquisitions year-to-date; $8.5bn agreement to acquire Arcosa1\nReinforcing CRH\u2019s position as the leading aggregates & critical infrastructure player in North America\nOutlook positive; expecting another year of growth underpinned by our superior strategy and connected portfolio\nReaffirming FY26 guidance for Net income ($3.9bn-$4.1bn), Adj. EBITDA* ($8.1bn-$8.5bn) and Diluted EPS ($5.60-$6.05)\nNEW YORK (Jul. 30, 2026) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported second quarter 2026 financial results. Total revenues of $10.8 billion (Q2 2025: $10.2 billion) were 6% ahead of the prior year driven by positive pricing momentum, good underlying demand, and contributions from acquisitions. Net income of $1.5 billion (Q2 2025: $1.3 billion) was 13% higher than the prior year, driven by strong operating performance and gains on divestitures during the period. Adjusted EBITDA* of $2.6 billion (Q2 2025: $2.5 billion) increased by 7% over the prior year, reflecting disciplined commercial execution, strong performance improvement initiatives and contributions from acquisitions. CRH\u2019s net income margin of 14.0% (Q2 2025: 13.1%) and Adjusted EBITDA margin* of 24.4% (Q2 2025: 24.1%) were both ahead of the prior year.\n\nJim Mintern, Chief Executive Officer, stated \u201cWe delivered a strong Q2 performance driven by good commercial execution, favorable underlying demand and further contributions from acquisitions. Our unmatched scale, connected portfolio and leading performance supported higher profits and margin expansion against an inflationary cost backdrop. We remain focused on active portfolio management, completing three non-core divestitures, while reallocating capital into higher-growth, connected businesses. Backed by our robust balance sheet and financial capacity, we agreed the $8.5 billion acquisition of Arcosa, which will reinforce our position as the leading aggregates and critical infrastructure player in North America. Notwithstanding current geopolitical and macroeconomic uncertainties, we remain encouraged by the underlying demand across our key markets and are pleased to reaffirm our guidance for 2026 Net income, Adjusted EBITDA* and Diluted EPS, leaving us well positioned to deliver another year of growth and value creation.\u201d\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 18,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.5763888888888888,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0016233766233766235,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0028735632183908046,
+  "mean_tone": 0.436151141743247
+ },
+ "lexicon": {
+  "words": 348,
+  "per_1000": {
+   "Negative": 8.6,
+   "Positive": 63.2,
+   "Uncertainty": 2.9,
+   "Litigious": 2.9,
+   "Strong modal": 2.9,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 22,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Strong quarter driven by good commercial management, favorable underlying demand and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     25,
+     29,
+     [
+      "positive"
+     ]
+    ],
+    [
+     53,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Increases in revenues, profits and margins reflecting continued execution of the CRH Winning Way.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     85,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Active portfolio management; continuing to build a higher-growth connected portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$1.4bn invested in 17 value-accretive acquisitions year-to-date; $8.5bn agreement to acquire Arcosa1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Reinforcing CRH\u2019s position as the leading aggregates & critical infrastructure player in North America.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Outlook positive; expecting another year of growth underpinned by our superior strategy and connected portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     70,
+     78,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Reaffirming FY26 guidance for Net income ($3.9bn-$4.1bn), Adj.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "EBITDA* ($8.1bn-$8.5bn) and Diluted EPS ($5.60-$6.05).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "NEW YORK (Jul. 30, 2026) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported second quarter 2026 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Total revenues of $10.8 billion (Q2 2025: $10.2 billion) were 6% ahead of the prior year driven by positive pricing momentum, good underlying demand, and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     99,
+     107,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     130,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Net income of $1.5 billion (Q2 2025: $1.3 billion) was 13% higher than the prior year, driven by strong operating performance and gains on divestitures during the period.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     103,
+     [
+      "positive"
+     ]
+    ],
+    [
+     130,
+     135,
+     [
+      "positive"
+     ]
+    ],
+    [
+     139,
+     151,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA* of $2.6 billion (Q2 2025: $2.5 billion) increased by 7% over the prior year, reflecting disciplined commercial execution, strong performance improvement initiatives and contributions from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     145,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     169,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "CRH\u2019s net income margin of 14.0% (Q2 2025: 13.1%) and Adjusted EBITDA margin* of 24.4% (Q2 2025: 24.1%) were both ahead of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Jim Mintern, Chief Executive Officer, stated \u201cWe delivered a strong Q2 performance driven by good commercial execution, favorable underlying demand and further contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     93,
+     97,
+     [
+      "positive"
+     ]
+    ],
+    [
+     120,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Our unmatched scale, connected portfolio and leading performance supported higher profits and margin expansion against an inflationary cost backdrop.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     13,
+     [
+      "positive"
+     ]
+    ],
+    [
+     45,
+     52,
+     [
+      "positive"
+     ]
+    ],
+    [
+     111,
+     118,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "We remain focused on active portfolio management, completing three non-core divestitures, while reallocating capital into higher-growth, connected businesses.",
+   "d": 1,
+   "m": false,
+   "tone": -0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     76,
+     88,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Backed by our robust balance sheet and financial capacity, we agreed the $8.5 billion acquisition of Arcosa, which will reinforce our position as the leading aggregates and critical infrastructure player in North America.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     115,
+     119,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     150,
+     157,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Notwithstanding current geopolitical and macroeconomic uncertainties, we remain encouraged by the underlying demand across our key markets and are pleased to reaffirm our guidance for 2026 Net income, Adjusted EBITDA* and Diluted EPS, leaving us well positioned to deliver another year of growth and value creation.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.444,
+   "h": 0.0222,
+   "hits": [
+    [
+     0,
+     15,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     55,
+     68,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     80,
+     90,
+     [
+      "positive"
+     ]
+    ],
+    [
+     147,
+     154,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
