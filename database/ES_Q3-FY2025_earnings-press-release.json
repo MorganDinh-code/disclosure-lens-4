@@ -1,0 +1,453 @@
+{
+ "company": "Eversource Energy",
+ "ticker": "ES",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-11-04",
+ "source_url": "https://investors.eversource.com/news-releases/news-release-details/eversource-energy-reports-third-quarter-2025-results",
+ "demo": false,
+ "source_text": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Nov. 4, 2025-- Eversource Energy (NYSE: ES) today reported earnings of $367.5 million, or $0.99 per share, for the third quarter of 2025, compared with a loss of $(118.1) million, or $(0.33) per share, for the third quarter of 2024. Non-GAAP recurring earnings totaled $442.5 million1, or $1.19 per share1 in the third quarter of 2025, compared with $405.9 million1, or $1.13 per share1 in the third quarter of 2024.\n\nFor the first nine months of 2025, Eversource Energy reported earnings of $1,271.1 million, or $3.44 per share, compared with $739.1 million, or $2.08 per share, for the first nine months of 2024. Non-GAAP recurring earnings totaled $1.35 billion1, or $3.64 per share1, in the first nine months of 2025, and $1.26 billion1, or $3.56 per share1, in the first nine months of 2024.\n\n\"During the third quarter, the Eversource team once again delivered strong financial and operational results, executing well on our planned investments while also responding promptly and safely to storm events,\" said Eversource Chairman, President and CEO Joe Nolan. \"In addition to the strong outlook from our regulated pipes-and-wires utility operations, we are focused on grid modernization for the near and longer time reliability needs while continuing to focus on energy affordability for all the customers and communities we serve and on working closely and constructively with our regulators during a time of extensive regulatory change at the state and federal levels.\"\n\nAs announced on October 14, 2025, results for the third quarter and first nine months of 2025 include an aggregate net after-tax loss of $75.0 million, or $0.20 per share for both periods, related to an increase in Eversource Energy's liability for expected future obligations to Global Infrastructure Partners as part of the September 30, 2024 sale of the South Fork Wind and Revolution Wind projects, net of tax benefits associated with the tax losses on the sales of these projects. Results for the third quarter of 2024 and first nine months of 2024 include an aggregate net after-tax loss of $524.0 million, or $1.48 per share for both periods, related to Eversource Energy completing the sale of its offshore wind investments.\n\nEversource also announced on October 14 that it narrowed its earnings guidance for full year non-GAAP recurring earnings for 2025 to between $4.72 per share1 and $4.80 per share1, versus its original guidance range of $4.67 to $4.82 per share. Eversource also reaffirms its expected compound annual earnings per share growth rate within the range of 5 to 7 percent from a 2024 base of $4.57 per share1.\n\nElectric Transmission\n\nEversource Energy\u2019s transmission segment earned $185.5 million in the third quarter of 2025 and $593.0 million in the first nine months of 2025, compared with earnings of $174.9 million in the third quarter of 2024 and $540.6 million in the first nine months of 2024. Transmission segment results improved in both periods due primarily to continued investment in Eversource\u2019s electric transmission system.\n\nElectric Distribution\n\nEversource Energy\u2019s electric distribution segment earned $221.6 million in the third quarter of 2025 and $571.6 million in the first nine months of 2025, compared with earnings of $203.5 million in the third quarter of 2024 and $521.3 million in the first nine months of 2024. Improved results in both periods were due primarily to higher revenues from base distribution rate increases at Eversource\u2019s New Hampshire and Massachusetts electric businesses, and continued investments in our distribution system. The higher revenues were partially offset by higher property taxes, interest, depreciation and operations and maintenance (O&M).\n\nNatural Gas Distribution\n\nEversource Energy\u2019s natural gas distribution segment had a loss of $(16.8) million in the third quarter of 2025 and earnings of $236.9 million in the first nine months of 2025, compared with a loss of $(30.2) million in the third quarter of 2024 and earnings of $187.4 million in the first nine months of 2024. Improved results in both periods were due primarily to the base distribution rate increases at Eversource\u2019s Massachusetts gas businesses, effective November 1, 2024, to recover continued investment in our natural gas infrastructure. The higher revenues were partially offset by higher interest, depreciation and property tax expense, and additionally for the nine-month period higher O&M.\n\nWater Distribution\n\nEversource Energy\u2019s water distribution segment earned $18.9 million in the third quarter of 2025 and $36.8 million in the first nine months of 2025, compared with earnings of $23.7 million in the third quarter of 2024 and $37.1 million in the first nine months of 2024. Lower results in the third quarter were due primarily to higher O&M and depreciation expense.\n\nEversource Parent and Other Companies\n\nEversource Energy parent and other companies, excluding the net losses from offshore wind noted above, earned $33.3 million1 in the third quarter of 2025 and had losses of $(92.2) million1 in the first nine months of 2025, compared with earnings of $34.0 million1 in the third quarter of 2024 and losses of $(23.3) million1 in the first nine months of 2024. The increased loss in the first nine months was due primarily to higher interest expense due to the absence of capitalized interest as a result of the sale of our offshore wind investments, partially offset by a lower effective tax rate.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 27,
+  "n_material_neg": 5,
+  "n_positive": 6,
+  "mean_pos_negative": 0.45185185185185184,
+  "mean_pos_positive": 0.5987654320987654,
+  "placement_asymmetry": -0.1469135802469136,
+  "distance_from_headline": -2,
+  "first_negative_pos": 0.037037037037037035,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6756279839659596,
+  "overall_hedge": 0.0,
+  "mean_tone": -0.018856211447862484
+ },
+ "lexicon": {
+  "words": 801,
+  "per_1000": {
+   "Negative": 13.7,
+   "Positive": 7.5,
+   "Uncertainty": 0.0,
+   "Litigious": 3.7,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.2
+  },
+  "counts": {
+   "Negative": 11,
+   "Positive": 6,
+   "Uncertainty": 0,
+   "Litigious": 3,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Nov. 4, 2025-- Eversource Energy (NYSE: ES) today reported earnings of $367.5 million, or $0.99 per share, for the third quarter of 2025, compared with a loss of $(118.1) million, or $(0.33) per share, for the third quarter of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.27,
+   "h": 0.0,
+   "hits": [
+    [
+     197,
+     201,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Non-GAAP recurring earnings totaled $442.5 million1, or $1.19 per share1 in the third quarter of 2025, compared with $405.9 million1, or $1.13 per share1 in the third quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "For the first nine months of 2025, Eversource Energy reported earnings of $1,271.1 million, or $3.44 per share, compared with $739.1 million, or $2.08 per share, for the first nine months of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Non-GAAP recurring earnings totaled $1.35 billion1, or $3.64 per share1, in the first nine months of 2025, and $1.26 billion1, or $3.56 per share1, in the first nine months of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\"During the third quarter, the Eversource team once again delivered strong financial and operational results, executing well on our planned investments while also responding promptly and safely to storm events,\" said Eversource Chairman, President and CEO Joe Nolan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     68,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "\"In addition to the strong outlook from our regulated pipes-and-wires utility operations, we are focused on grid modernization for the near and longer time reliability needs while continuing to focus on energy affordability for all the customers and communities we serve and on working closely and constructively with our regulators during a time of extensive regulatory change at the state and federal levels.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.308,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     44,
+     53,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     298,
+     312,
+     [
+      "positive"
+     ]
+    ],
+    [
+     322,
+     332,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     360,
+     370,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "As announced on October 14, 2025, results for the third quarter and first nine months of 2025 include an aggregate net after-tax loss of $75.0 million, or $0.20 per share for both periods, related to an increase in Eversource Energy's liability for expected future obligations to Global Infrastructure Partners as part of the September 30, 2024 sale of the South Fork Wind and Revolution Wind projects, net of tax benefits associated with the tax losses on the sales of these projects.",
+   "d": -1,
+   "m": true,
+   "tone": -0.267,
+   "h": 0.0,
+   "hits": [
+    [
+     129,
+     133,
+     [
+      "negative"
+     ]
+    ],
+    [
+     265,
+     276,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     447,
+     453,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Results for the third quarter of 2024 and first nine months of 2024 include an aggregate net after-tax loss of $524.0 million, or $1.48 per share for both periods, related to Eversource Energy completing the sale of its offshore wind investments.",
+   "d": -1,
+   "m": true,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     103,
+     107,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Eversource also announced on October 14 that it narrowed its earnings guidance for full year non-GAAP recurring earnings for 2025 to between $4.72 per share1 and $4.80 per share1, versus its original guidance range of $4.67 to $4.82 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Eversource also reaffirms its expected compound annual earnings per share growth rate within the range of 5 to 7 percent from a 2024 base of $4.57 per share1.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Electric Transmission",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Eversource Energy\u2019s transmission segment earned $185.5 million in the third quarter of 2025 and $593.0 million in the first nine months of 2025, compared with earnings of $174.9 million in the third quarter of 2024 and $540.6 million in the first nine months of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Transmission segment results improved in both periods due primarily to continued investment in Eversource\u2019s electric transmission system.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Electric Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Eversource Energy\u2019s electric distribution segment earned $221.6 million in the third quarter of 2025 and $571.6 million in the first nine months of 2025, compared with earnings of $203.5 million in the third quarter of 2024 and $521.3 million in the first nine months of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Improved results in both periods were due primarily to higher revenues from base distribution rate increases at Eversource\u2019s New Hampshire and Massachusetts electric businesses, and continued investments in our distribution system.",
+   "d": 1,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "The higher revenues were partially offset by higher property taxes, interest, depreciation and operations and maintenance (O&M).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Natural Gas Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Eversource Energy\u2019s natural gas distribution segment had a loss of $(16.8) million in the third quarter of 2025 and earnings of $236.9 million in the first nine months of 2025, compared with a loss of $(30.2) million in the third quarter of 2024 and earnings of $187.4 million in the first nine months of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     63,
+     [
+      "negative"
+     ]
+    ],
+    [
+     193,
+     197,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "Improved results in both periods were due primarily to the base distribution rate increases at Eversource\u2019s Massachusetts gas businesses, effective November 1, 2024, to recover continued investment in our natural gas infrastructure.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The higher revenues were partially offset by higher interest, depreciation and property tax expense, and additionally for the nine-month period higher O&M.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Water Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Eversource Energy\u2019s water distribution segment earned $18.9 million in the third quarter of 2025 and $36.8 million in the first nine months of 2025, compared with earnings of $23.7 million in the third quarter of 2024 and $37.1 million in the first nine months of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Lower results in the third quarter were due primarily to higher O&M and depreciation expense.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Eversource Parent and Other Companies",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Eversource Energy parent and other companies, excluding the net losses from offshore wind noted above, earned $33.3 million1 in the third quarter of 2025 and had losses of $(92.2) million1 in the first nine months of 2025, compared with earnings of $34.0 million1 in the third quarter of 2024 and losses of $(23.3) million1 in the first nine months of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.566,
+   "h": 0.0,
+   "hits": [
+    [
+     64,
+     70,
+     [
+      "negative"
+     ]
+    ],
+    [
+     162,
+     168,
+     [
+      "negative"
+     ]
+    ],
+    [
+     297,
+     303,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The increased loss in the first nine months was due primarily to higher interest expense due to the absence of capitalized interest as a result of the sale of our offshore wind investments, partially offset by a lower effective tax rate.",
+   "d": -1,
+   "m": false,
+   "tone": -0.488,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     18,
+     [
+      "negative"
+     ]
+    ],
+    [
+     100,
+     107,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
