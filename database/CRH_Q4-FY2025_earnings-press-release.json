@@ -1,0 +1,319 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q4 FY2025",
+ "date": "2026-02-18",
+ "source_url": "https://www.crh.com/media/press-releases/2026/crh-reports-q4-and-fy-2025-results/",
+ "demo": false,
+ "source_text": "Strong Q4 and FY 2025; continued year\u2011over\u2011year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%)\nRecord financial performance backed by our Growth Algorithm and the CRH Winning Way\nInclusion in the S&P 500 Index, a powerful recognition of our Unmatched Scale and Market Leadership\n$4.1bn invested in 38 value-accretive acquisitions; significant financial capacity to capitalize on attractive pipeline\n$1.7bn invested in high-return, low-risk growth capex projects, driving organic growth and performance improvement\nDeclaring quarterly dividend of $0.39 per share (+5% YoY); commencing new $0.3bn quarterly share buyback\n2026 outlook positive across key end-markets; underpinned by our Superior Strategy and Connected Portfolio\nExpect further growth & value creation with FY 26 Net income of $3.9bn to $4.1bn; Adjusted EBITDA* of $8.1bn to $8.5bn\n\nNEW YORK (Feb. 18, 2026) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported fourth quarter and full year 2025 financial results. Full year 2025 Total revenues of $37.4 billion (2024: $35.6 billion) were 5% ahead of the prior year driven by favorable end-market demand, disciplined commercial execution and contributions from acquisitions. Net income of $3.8 billion (2024: $3.5 billion) was 8% ahead of the prior year, reflecting a strong underlying operating performance. Adjusted EBITDA* of $7.7 billion (2024: $6.9 billion) increased by 11% as a result of continued pricing momentum, contributions from acquisitions and disciplined cost control. CRH\u2019s net income margin of 10.1% (2024: 9.9%) and Adjusted EBITDA margin* of 20.5% (2024: 19.5%) were both ahead of the prior year.\n\nJim Mintern, Chief Executive Officer, stated \u201d2025 proved to be a year of significant progress for CRH, with double-digit Adjusted EBITDA* growth and a 12th consecutive year of margin* expansion delivering another record performance and reinforcing our position as the leading compounder of capital in our industry. Our balance sheet strength, cash generation capabilities and disciplined approach to capital allocation enabled us to deploy $5.8 billion in value-accretive growth investments across our connected portfolio while also returning $2.2 billion to shareholders through dividends and share buybacks. We enter 2026 with confidence and expect favorable end-market dynamics as well as the continued execution of our superior strategy to underpin another year of growth and value creation for our shareholders.\u201d\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 15,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.5666666666666667,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.00691274445202175,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.008771929824561403,
+  "mean_tone": 0.49755875851104536
+ },
+ "lexicon": {
+  "words": 342,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 49.7,
+   "Uncertainty": 2.9,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 17,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Strong Q4 and FY 2025; continued year\u2011over\u2011year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%).",
+   "d": 1,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Record financial performance backed by our Growth Algorithm and the CRH Winning Way.",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     72,
+     79,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Inclusion in the S&P 500 Index, a powerful recognition of our Unmatched Scale and Market Leadership.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     62,
+     71,
+     [
+      "positive"
+     ]
+    ],
+    [
+     89,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "$4.1bn invested in 38 value-accretive acquisitions; significant financial capacity to capitalize on attractive pipeline.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     100,
+     110,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "$1.7bn invested in high-return, low-risk growth capex projects, driving organic growth and performance improvement.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0625,
+   "hits": [
+    [
+     36,
+     40,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     103,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Declaring quarterly dividend of $0.39 per share (+5% YoY); commencing new $0.3bn quarterly share buyback 2026 outlook positive across key end-markets; underpinned by our Superior Strategy and Connected Portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     118,
+     126,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     178,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Expect further growth & value creation with FY 26 Net income of $3.9bn to $4.1bn; Adjusted EBITDA* of $8.1bn to $8.5bn",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "NEW YORK (Feb. 18, 2026) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported fourth quarter and full year 2025 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "Full year 2025 Total revenues of $37.4 billion (2024: $35.6 billion) were 5% ahead of the prior year driven by favorable end-market demand, disciplined commercial execution and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     111,
+     120,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Net income of $3.8 billion (2024: $3.5 billion) was 8% ahead of the prior year, reflecting a strong underlying operating performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     93,
+     99,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Adjusted EBITDA* of $7.7 billion (2024: $6.9 billion) increased by 11% as a result of continued pricing momentum, contributions from acquisitions and disciplined cost control.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "CRH\u2019s net income margin of 10.1% (2024: 9.9%) and Adjusted EBITDA margin* of 20.5% (2024: 19.5%) were both ahead of the prior year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Jim Mintern, Chief Executive Officer, stated \u201d2025 proved to be a year of significant progress for CRH, with double-digit Adjusted EBITDA* growth and a 12th consecutive year of margin* expansion delivering another record performance and reinforcing our position as the leading compounder of capital in our industry.",
+   "d": 1,
+   "m": false,
+   "tone": 0.426,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     94,
+     [
+      "positive"
+     ]
+    ],
+    [
+     269,
+     276,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Our balance sheet strength, cash generation capabilities and disciplined approach to capital allocation enabled us to deploy $5.8 billion in value-accretive growth investments across our connected portfolio while also returning $2.2 billion to shareholders through dividends and share buybacks.",
+   "d": 1,
+   "m": false,
+   "tone": 0.526,
+   "h": 0.0,
+   "hits": [
+    [
+     18,
+     26,
+     [
+      "positive"
+     ]
+    ],
+    [
+     104,
+     111,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "We enter 2026 with confidence and expect favorable end-market dynamics as well as the continued execution of our superior strategy to underpin another year of growth and value creation for our shareholders.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0312,
+   "hits": [
+    [
+     41,
+     50,
+     [
+      "positive"
+     ]
+    ],
+    [
+     113,
+     121,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
