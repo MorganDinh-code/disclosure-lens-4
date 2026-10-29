@@ -1,0 +1,387 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-30",
+ "source_url": "https://www.crh.com/media/press-releases/2026/crh-reports-first-quarter-2026-results/",
+ "demo": false,
+ "source_text": "Strong performance backed by our superior strategy, unmatched scale and connected portfolio\nTotal revenues +9% YoY; good early-season project activity, disciplined commercial execution and acquisition contributions\nActive portfolio management; reallocating capital for higher growth and continuing to build a connected portfolio\n$1.9bn of strategic divestitures1 agreed across three non-core businesses\nInvesting $0.9bn in nine value-accretive acquisitions; including Axius Water1, further strengthening high-growth platform\nDeclaring quarterly dividend of $0.39 per share (+5% YoY); further $0.3bn share buyback\nOutlook positive; expecting another year of growth and shareholder value creation\nReaffirming guidance; expect FY26 Net income of $3.9bn to $4.1bn; Adjusted EBITDA* of $8.1bn to $8.5bn\n\nNEW YORK (Apr. 30, 2026) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported first quarter 2026 financial results. Total revenues of $7.4 billion (Q1 2025: $6.8 billion) were 9% ahead of the prior year driven by positive underlying demand, disciplined commercial execution, and contributions from acquisitions. Net loss of ($0.2) billion (Q1 2025: ($0.1) billion) was higher than the prior year, driven by higher depreciation and impairment charges as well as increased interest expense, net. Adjusted EBITDA* of $0.6 billion (Q1 2025: $0.5 billion) increased by 18% over the prior year, reflecting strong operational discipline and contributions from acquisitions. CRH\u2019s net loss margin of (2.4%) was below the prior year net loss margin of (1.5%), while Adjusted EBITDA margin* of 8.0% (Q1 2025: 7.3%) was ahead of the prior year.\n\nJim Mintern, Chief Executive Officer, stated \u201cWe delivered a strong start to 2026, reflecting good momentum from early-season project activity, disciplined commercial execution and positive contributions from acquisitions. During the quarter, we continued our active portfolio management, reallocating capital into higher-growth, more connected businesses. Notwithstanding the current geopolitical and macroeconomic uncertainty, we are encouraged by the continued strength of underlying demand across our key markets. The outlook for our business remains positive and backed by our superior strategy and connected portfolio we are pleased to reaffirm our financial guidance for 2026, leaving us well positioned for another year of growth and value creation ahead.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 17,
+  "n_material_neg": 2,
+  "n_positive": 6,
+  "mean_pos_negative": 0.7058823529411764,
+  "mean_pos_positive": 0.5784313725490197,
+  "placement_asymmetry": 0.12745098039215674,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.6470588235294118,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.009736076194595374,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.245014245014245,
+  "overall_hedge": 0.006191950464396285,
+  "mean_tone": 0.29377344934620475
+ },
+ "lexicon": {
+  "words": 323,
+  "per_1000": {
+   "Negative": 15.5,
+   "Positive": 52.6,
+   "Uncertainty": 3.1,
+   "Litigious": 3.1,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 3.1
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 17,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "Strong performance backed by our superior strategy, unmatched scale and connected portfolio.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     33,
+     41,
+     [
+      "positive"
+     ]
+    ],
+    [
+     52,
+     61,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Total revenues +9% YoY; good early-season project activity, disciplined commercial execution and acquisition contributions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     28,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Active portfolio management; reallocating capital for higher growth and continuing to build a connected portfolio.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$1.9bn of strategic divestitures1 agreed across three non-core businesses.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     20,
+     32,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Investing $0.9bn in nine value-accretive acquisitions; including Axius Water1, further strengthening high-growth platform.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Declaring quarterly dividend of $0.39 per share (+5% YoY); further $0.3bn share buyback.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Outlook positive; expecting another year of growth and shareholder value creation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Reaffirming guidance; expect FY26 Net income of $3.9bn to $4.1bn; Adjusted EBITDA* of $8.1bn to $8.5bn",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "NEW YORK (Apr. 30, 2026) \u2013 CRH (NYSE: CRH), the leading provider of building materials, today reported first quarter 2026 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     48,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Total revenues of $7.4 billion (Q1 2025: $6.8 billion) were 9% ahead of the prior year driven by positive underlying demand, disciplined commercial execution, and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     97,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Net loss of ($0.2) billion (Q1 2025: ($0.1) billion) was higher than the prior year, driven by higher depreciation and impairment charges as well as increased interest expense, net.",
+   "d": -1,
+   "m": true,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     4,
+     8,
+     [
+      "negative"
+     ]
+    ],
+    [
+     119,
+     129,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Adjusted EBITDA* of $0.6 billion (Q1 2025: $0.5 billion) increased by 18% over the prior year, reflecting strong operational discipline and contributions from acquisitions.",
+   "d": 1,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     112,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "CRH\u2019s net loss margin of (2.4%) was below the prior year net loss margin of (1.5%), while Adjusted EBITDA margin* of 8.0% (Q1 2025: 7.3%) was ahead of the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     14,
+     [
+      "negative"
+     ]
+    ],
+    [
+     61,
+     65,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Jim Mintern, Chief Executive Officer, stated \u201cWe delivered a strong start to 2026, reflecting good momentum from early-season project activity, disciplined commercial execution and positive contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     61,
+     67,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     98,
+     [
+      "positive"
+     ]
+    ],
+    [
+     181,
+     189,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "During the quarter, we continued our active portfolio management, reallocating capital into higher-growth, more connected businesses.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Notwithstanding the current geopolitical and macroeconomic uncertainty, we are encouraged by the continued strength of underlying demand across our key markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0476,
+   "hits": [
+    [
+     0,
+     15,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     59,
+     70,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     79,
+     89,
+     [
+      "positive"
+     ]
+    ],
+    [
+     107,
+     115,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "The outlook for our business remains positive and backed by our superior strategy and connected portfolio we are pleased to reaffirm our financial guidance for 2026, leaving us well positioned for another year of growth and value creation ahead.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.789,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     45,
+     [
+      "positive"
+     ]
+    ],
+    [
+     64,
+     72,
+     [
+      "positive"
+     ]
+    ],
+    [
+     113,
+     120,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
