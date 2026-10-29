@@ -1,0 +1,382 @@
+{
+ "company": "Eversource Energy",
+ "ticker": "ES",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-31",
+ "source_url": "https://investors.eversource.com/news-releases/news-release-details/eversource-energy-reports-second-quarter-2025-results",
+ "demo": false,
+ "source_text": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Jul. 31, 2025-- Eversource Energy (NYSE: ES) today reported earnings of $352.7 million, or $0.96 per share, for the second quarter of 2025, compared with earnings of $335.3 million, or $0.95 per share, for the second quarter of 2024. For the first half of 2025, Eversource Energy reported earnings of $903.5 million, or $2.45 per share, compared with earnings of $857.2 million, or $2.43 per share, for the first half of 2024.\n\n\u201cEversource delivered solid operational and financial results in the second quarter, reflecting the dedication and expertise of our talented workforce,\u201d said Joe Nolan, Chairman, President, and Chief Executive Officer. \u201cOur employees demonstrated exceptional commitment to our customers, responding quickly to a series of weather events across our service territory. We strengthened our financial foundation by boosting cash flow from operations and enhancing our balance sheet. Importantly, we continued to prioritize customer affordability while progressing constructive regulatory outcomes that support our long-term investment strategy.\u201d\n\nThe company reaffirms its 2025 earnings projection of between $4.67 per share and $4.82 per share. It also reaffirms its compound annual earnings per share growth rate within the range of 5 to 7 percent from a 2024 base of $4.57 per share1.\n\nElectric Transmission\n\nEversource Energy\u2019s transmission segment earned $208.0 million in the second quarter of 2025 and $407.5 million in the first half of 2025, compared with earnings of $189.0 million in the second quarter of 2024 and $365.7 million in the first half of 2024. Transmission segment results improved in both periods due primarily to continued investment in Eversource\u2019s electric transmission system.\n\nElectric Distribution\n\nEversource Energy\u2019s electric distribution segment earned $161.5 million in the second quarter of 2025 and $350.0 million in the first half of 2025, compared with earnings of $149.7 million in the second quarter of 2024 and $317.9 million in the first half of 2024. Improved results in both periods were due primarily to higher revenues from base distribution rate increases at Eversource's New Hampshire and Massachusetts electric businesses, and continued investments in our distribution system. The higher revenues were partially offset by higher property taxes, interest and depreciation.\n\nNatural Gas Distribution\n\nEversource Energy\u2019s natural gas distribution segment earned $35.3 million in the second quarter of 2025 and $253.7 million in the first half of 2025, compared with earnings of $27.1 million in the second quarter of 2024 and $217.6 million in the first half of 2024. Improved results in both periods were due primarily to the base distribution rate increases at Eversource's Massachusetts gas businesses, effective November 1, 2024, to recover continued investment in our natural gas infrastructure. The higher revenues were partially offset by higher operations and maintenance, interest, depreciation and property tax expense.\n\nWater Distribution\n\nEversource Energy\u2019s water distribution segment earned $14.4 million in the second quarter of 2025 and $17.9 million in the first half of 2025, compared with earnings of $8.0 million in the second quarter of 2024 and $13.4 million in the first half of 2024. Improved results in both periods were due primarily to higher revenues and lower interest expense.\n\nEversource Parent and Other Companies\n\nEversource Energy parent and other companies had losses of $66.5 million in the second quarter of 2025 and $125.6 million in the first half of 2025, compared with losses of $38.5 million in the second quarter of 2024 and $57.4 million in the first half of 2024. The increased loss in both periods was due primarily to higher interest expense due to the absence of capitalized interest as a result of the sale of our offshore wind projects.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 24,
+  "n_material_neg": 1,
+  "n_positive": 7,
+  "mean_pos_negative": 0.9583333333333334,
+  "mean_pos_positive": 0.5952380952380952,
+  "placement_asymmetry": 0.36309523809523814,
+  "distance_from_headline": 20,
+  "first_negative_pos": 0.9583333333333334,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4210090984284533,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.12184316792611724
+ },
+ "lexicon": {
+  "words": 539,
+  "per_1000": {
+   "Negative": 7.4,
+   "Positive": 16.7,
+   "Uncertainty": 0.0,
+   "Litigious": 1.9,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 9,
+   "Uncertainty": 0,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Jul. 31, 2025-- Eversource Energy (NYSE: ES) today reported earnings of $352.7 million, or $0.96 per share, for the second quarter of 2025, compared with earnings of $335.3 million, or $0.95 per share, for the second quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "For the first half of 2025, Eversource Energy reported earnings of $903.5 million, or $2.45 per share, compared with earnings of $857.2 million, or $2.43 per share, for the first half of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "\u201cEversource delivered solid operational and financial results in the second quarter, reflecting the dedication and expertise of our talented workforce,\u201d said Joe Nolan, Chairman, President, and Chief Executive Officer. \u201cOur employees demonstrated exceptional commitment to our customers, responding quickly to a series of weather events across our service territory.",
+   "d": 0,
+   "m": false,
+   "tone": 0.204,
+   "h": 0.0,
+   "hits": [
+    [
+     247,
+     258,
+     [
+      "positive"
+     ]
+    ],
+    [
+     259,
+     269,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "We strengthened our financial foundation by boosting cash flow from operations and enhancing our balance sheet.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     3,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     83,
+     92,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Importantly, we continued to prioritize customer affordability while progressing constructive regulatory outcomes that support our long-term investment strategy.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     80,
+     [
+      "positive"
+     ]
+    ],
+    [
+     81,
+     93,
+     [
+      "positive"
+     ]
+    ],
+    [
+     94,
+     104,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "The company reaffirms its 2025 earnings projection of between $4.67 per share and $4.82 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "It also reaffirms its compound annual earnings per share growth rate within the range of 5 to 7 percent from a 2024 base of $4.57 per share1.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Electric Transmission",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Eversource Energy\u2019s transmission segment earned $208.0 million in the second quarter of 2025 and $407.5 million in the first half of 2025, compared with earnings of $189.0 million in the second quarter of 2024 and $365.7 million in the first half of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Transmission segment results improved in both periods due primarily to continued investment in Eversource\u2019s electric transmission system.",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Electric Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Eversource Energy\u2019s electric distribution segment earned $161.5 million in the second quarter of 2025 and $350.0 million in the first half of 2025, compared with earnings of $149.7 million in the second quarter of 2024 and $317.9 million in the first half of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Improved results in both periods were due primarily to higher revenues from base distribution rate increases at Eversource's New Hampshire and Massachusetts electric businesses, and continued investments in our distribution system.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "The higher revenues were partially offset by higher property taxes, interest and depreciation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Natural Gas Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Eversource Energy\u2019s natural gas distribution segment earned $35.3 million in the second quarter of 2025 and $253.7 million in the first half of 2025, compared with earnings of $27.1 million in the second quarter of 2024 and $217.6 million in the first half of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Improved results in both periods were due primarily to the base distribution rate increases at Eversource's Massachusetts gas businesses, effective November 1, 2024, to recover continued investment in our natural gas infrastructure.",
+   "d": 1,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "The higher revenues were partially offset by higher operations and maintenance, interest, depreciation and property tax expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Water Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Eversource Energy\u2019s water distribution segment earned $14.4 million in the second quarter of 2025 and $17.9 million in the first half of 2025, compared with earnings of $8.0 million in the second quarter of 2024 and $13.4 million in the first half of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Improved results in both periods were due primarily to higher revenues and lower interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Eversource Parent and Other Companies",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Eversource Energy parent and other companies had losses of $66.5 million in the second quarter of 2025 and $125.6 million in the first half of 2025, compared with losses of $38.5 million in the second quarter of 2024 and $57.4 million in the first half of 2024.",
+   "d": -1,
+   "m": true,
+   "tone": -0.513,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     163,
+     169,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "The increased loss in both periods was due primarily to higher interest expense due to the absence of capitalized interest as a result of the sale of our offshore wind projects.",
+   "d": -1,
+   "m": false,
+   "tone": -0.645,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     18,
+     [
+      "negative"
+     ]
+    ],
+    [
+     91,
+     98,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
