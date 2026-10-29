@@ -1,0 +1,463 @@
+{
+ "company": "Eversource Energy",
+ "ticker": "ES",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2026",
+ "date": "2026-07-30",
+ "source_url": "https://investors.eversource.com/news-releases/news-release-details/eversource-energy-reports-second-quarter-2026-results",
+ "demo": false,
+ "source_text": "HARTFORD, Conn. and BOSTON, July 30, 2026 (GLOBE NEWSWIRE) -- Eversource Energy (\u201cEversource\u201d or the \u201cCompany\u201d) (NYSE: ES) today reported GAAP earnings of $53.7 million, or $0.14 per share, for the second quarter of 2026, compared with GAAP and non-GAAP earnings of $352.7 million, or $0.96 per share, for the second quarter of 2025. Non-GAAP recurring earnings totaled $329.1 million1, or $0.87 per share1, in the second quarter of 2026.\n\nFor the first half of 2026, Eversource reported GAAP earnings of $660.5 million, or $1.75 per share, compared with GAAP and non-GAAP earnings of $903.5 million, or $2.45 per share, for the first half of 2025. Non-GAAP recurring earnings totaled $979.8 million1, or $2.60 per share1, in the first half of 2026.\n\nGAAP results for the second quarter and first half of 2026 include a non-cash, after-tax charge of $111.4 million, or $0.30 per share, related to the sale of Aquarion Water Company on June 30, 2026 and an after-tax charge of $164.0 million, or $0.43 per share, related to an increase in Eversource's offshore wind contingent liability for expected future payments to Global Infrastructure Partners as part of the September 30, 2024 sale of the South Fork Wind and Revolution Wind projects. GAAP results for the first half of 2026 include an after-tax charge of $43.9 million, or $0.12 per share, related to estimated refunds associated with the Federal Energy Regulatory Commission (FERC) decision of March 19, 2026, that reduced the return on equity (ROE) rate for New England transmission owners from 10.57% to 9.57%.\n\n\u201cDuring the second quarter, we completed our strategic divestiture of Aquarion Water, further strengthening our balance sheet and positioning Eversource for continued success as a pure-play regulated electric and natural gas delivery company. This focused strategy has already created new opportunities, including our preliminary selection by ISO-NE to develop critical transmission infrastructure that will bring power from northern Maine to southern New England. We are very pleased that the incumbent utilities have been selected for this important project,\u201d said Joe Nolan, Chairman, President and CEO. \u201cAs we enter the second half of the year, our priorities remain clear: operating safely and efficiently, delivering reliable service to our customers, executing on our strategic investments and maintaining the financial strength that supports long-term value creation,\u201d said Nolan.\n\nThe Company reaffirms its revised earnings guidance for 2026 non-GAAP recurring earnings of between $4.57 per share1 and $4.72 per share1, which includes the impact of the prospective reduction to the transmission ROE rate resulting from the March 2026 FERC order and the absence of Aquarion earnings in the second half of the year. It also reaffirms its cumulative long-term earnings per share growth rate within the range of 5 to 7 percent through 2030, using the adjusted 2026 non-GAAP earnings guidance midpoint of $4.65 per share1 as the base year. Eversource expects annual earnings growth towards the upper half of its long-term guidance by 2028.\n\nElectric Transmission\nEversource Energy\u2019s transmission segment, excluding the FERC ROE refund charge noted above, earned $183.7 million in the second quarter of 2026 and $408.0 million1 in the first half of 2026, compared with earnings of $208.0 million in the second quarter of 2025 and $407.5 million in the first half of 2025. Transmission segment results in both periods reflect the impact from the reduction to the allowed ROE mentioned above, as well as higher interest expense, partially offset by continued investment in Eversource\u2019s electric transmission system.\n\nElectric Distribution\n\nEversource Energy\u2019s electric distribution segment earned $170.4 million in the second quarter of 2026 and $373.1 million in the first half of 2026, compared with earnings of $161.5 million in the second quarter of 2025 and $350.0 million in the first half of 2025. Improved results in both periods were due primarily to higher revenues from base distribution rate increases at Eversource\u2019s Massachusetts and New Hampshire electric businesses, and continued investments in the Company\u2019s distribution system. The higher revenues were partially offset by higher interest expense, depreciation, and property taxes.\n\nNatural Gas Distribution\n\nEversource Energy\u2019s natural gas distribution segment earned $29.7 million in the second quarter of 2026 and $325.1 million in the first half of 2026, compared with earnings of $35.3 million in the second quarter of 2025 and $253.7 million in the first half of 2025. Improved results in the first half were due primarily to base distribution rate increases at all of Eversource\u2019s gas businesses, effective November 1, 2025, to recover continued investment in the Company\u2019s natural gas infrastructure, partially offset by higher Operations and Maintenance (O&M), depreciation, property and income taxes, and interest expense. Lower results in the quarter were due primarily to the absence of a benefit in 2025 from previously expensed costs allowed for recovery.\n\nWater Distribution\n\nEversource Energy\u2019s water distribution segment, excluding the charge related to the sale of Aquarion noted above, earned $11.6 million1 in the second quarter of 2026 and $17.9 million1 in the first half of 2026, compared with earnings of $14.4 million in the second quarter of 2025 and $17.9 million in the first half of 2025. Lower results in the second quarter were due primarily to higher O&M and depreciation expense, partially offset by higher revenues.\n\nEversource Parent and Other Companies\n\nEversource Energy parent and other companies, excluding the increase in the offshore wind contingent liability noted above, had a loss of $66.3 million1 in the second quarter of 2026 and $144.3 million1 in the first half of 2026, compared with a loss of $66.5 million in the second quarter of 2025 and $125.6 million in the first half of 2025. Results in both periods were driven by higher interest expense and a higher effective tax rate.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 29,
+  "n_material_neg": 2,
+  "n_positive": 4,
+  "mean_pos_negative": 0.5689655172413793,
+  "mean_pos_positive": 0.5431034482758621,
+  "placement_asymmetry": 0.025862068965517238,
+  "distance_from_headline": 2,
+  "first_negative_pos": 0.1724137931034483,
+  "hedge_near_negative": 0.010525785656728445,
+  "hedge_near_positive": 0.009901960784313726,
+  "hedging_asymmetry": 1.0630001356300014,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9038461538461539,
+  "overall_hedge": 0.0056753688989784334,
+  "mean_tone": 0.018891226769261187
+ },
+ "lexicon": {
+  "words": 881,
+  "per_1000": {
+   "Negative": 5.7,
+   "Positive": 9.1,
+   "Uncertainty": 4.5,
+   "Litigious": 2.3,
+   "Strong modal": 1.1,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 8,
+   "Uncertainty": 4,
+   "Litigious": 2,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HARTFORD, Conn. and BOSTON, July 30, 2026 (GLOBE NEWSWIRE) -- Eversource Energy (\u201cEversource\u201d or the \u201cCompany\u201d) (NYSE: ES) today reported GAAP earnings of $53.7 million, or $0.14 per share, for the second quarter of 2026, compared with GAAP and non-GAAP earnings of $352.7 million, or $0.96 per share, for the second quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Non-GAAP recurring earnings totaled $329.1 million1, or $0.87 per share1, in the second quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "For the first half of 2026, Eversource reported GAAP earnings of $660.5 million, or $1.75 per share, compared with GAAP and non-GAAP earnings of $903.5 million, or $2.45 per share, for the first half of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Non-GAAP recurring earnings totaled $979.8 million1, or $2.60 per share1, in the first half of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "GAAP results for the second quarter and first half of 2026 include a non-cash, after-tax charge of $111.4 million, or $0.30 per share, related to the sale of Aquarion Water Company on June 30, 2026 and an after-tax charge of $164.0 million, or $0.43 per share, related to an increase in Eversource's offshore wind contingent liability for expected future payments to Global Infrastructure Partners as part of the September 30, 2024 sale of the South Fork Wind and Revolution Wind projects.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0133,
+   "hits": [
+    [
+     314,
+     324,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "GAAP results for the first half of 2026 include an after-tax charge of $43.9 million, or $0.12 per share, related to estimated refunds associated with the Federal Energy Regulatory Commission (FERC) decision of March 19, 2026, that reduced the return on equity (ROE) rate for New England transmission owners from 10.57% to 9.57%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     170,
+     180,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "\u201cDuring the second quarter, we completed our strategic divestiture of Aquarion Water, further strengthening our balance sheet and positioning Eversource for continued success as a pure-play regulated electric and natural gas delivery company.",
+   "d": 0,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     66,
+     [
+      "negative"
+     ]
+    ],
+    [
+     94,
+     107,
+     [
+      "positive"
+     ]
+    ],
+    [
+     167,
+     174,
+     [
+      "positive"
+     ]
+    ],
+    [
+     190,
+     199,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "This focused strategy has already created new opportunities, including our preliminary selection by ISO-NE to develop critical transmission infrastructure that will bring power from northern Maine to southern New England.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     46,
+     59,
+     [
+      "positive"
+     ]
+    ],
+    [
+     75,
+     86,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     160,
+     164,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "We are very pleased that the incumbent utilities have been selected for this important project,\u201d said Joe Nolan, Chairman, President and CEO. \u201cAs we enter the second half of the year, our priorities remain clear: operating safely and efficiently, delivering reliable service to our customers, executing on our strategic investments and maintaining the financial strength that supports long-term value creation,\u201d said Nolan.",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     12,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     234,
+     245,
+     [
+      "positive"
+     ]
+    ],
+    [
+     362,
+     370,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "The Company reaffirms its revised earnings guidance for 2026 non-GAAP recurring earnings of between $4.57 per share1 and $4.72 per share1, which includes the impact of the prospective reduction to the transmission ROE rate resulting from the March 2026 FERC order and the absence of Aquarion earnings in the second half of the year.",
+   "d": 0,
+   "m": false,
+   "tone": -0.196,
+   "h": 0.0196,
+   "hits": [
+    [
+     26,
+     33,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     272,
+     279,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "It also reaffirms its cumulative long-term earnings per share growth rate within the range of 5 to 7 percent through 2030, using the adjusted 2026 non-GAAP earnings guidance midpoint of $4.65 per share1 as the base year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Eversource expects annual earnings growth towards the upper half of its long-term guidance by 2028.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Electric Transmission.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Eversource Energy\u2019s transmission segment, excluding the FERC ROE refund charge noted above, earned $183.7 million in the second quarter of 2026 and $408.0 million1 in the first half of 2026, compared with earnings of $208.0 million in the second quarter of 2025 and $407.5 million in the first half of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Transmission segment results in both periods reflect the impact from the reduction to the allowed ROE mentioned above, as well as higher interest expense, partially offset by continued investment in Eversource\u2019s electric transmission system.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Electric Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Eversource Energy\u2019s electric distribution segment earned $170.4 million in the second quarter of 2026 and $373.1 million in the first half of 2026, compared with earnings of $161.5 million in the second quarter of 2025 and $350.0 million in the first half of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Improved results in both periods were due primarily to higher revenues from base distribution rate increases at Eversource\u2019s Massachusetts and New Hampshire electric businesses, and continued investments in the Company\u2019s distribution system.",
+   "d": 1,
+   "m": false,
+   "tone": 0.294,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "The higher revenues were partially offset by higher interest expense, depreciation, and property taxes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Natural Gas Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Eversource Energy\u2019s natural gas distribution segment earned $29.7 million in the second quarter of 2026 and $325.1 million in the first half of 2026, compared with earnings of $35.3 million in the second quarter of 2025 and $253.7 million in the first half of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Improved results in the first half were due primarily to base distribution rate increases at all of Eversource\u2019s gas businesses, effective November 1, 2025, to recover continued investment in the Company\u2019s natural gas infrastructure, partially offset by higher Operations and Maintenance (O&M), depreciation, property and income taxes, and interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.196,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "Lower results in the quarter were due primarily to the absence of a benefit in 2025 from previously expensed costs allowed for recovery.",
+   "d": 0,
+   "m": false,
+   "tone": -0.455,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     62,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Water Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Eversource Energy\u2019s water distribution segment, excluding the charge related to the sale of Aquarion noted above, earned $11.6 million1 in the second quarter of 2026 and $17.9 million1 in the first half of 2026, compared with earnings of $14.4 million in the second quarter of 2025 and $17.9 million in the first half of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Lower results in the second quarter were due primarily to higher O&M and depreciation expense, partially offset by higher revenues.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Eversource Parent and Other Companies",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Eversource Energy parent and other companies, excluding the increase in the offshore wind contingent liability noted above, had a loss of $66.3 million1 in the second quarter of 2026 and $144.3 million1 in the first half of 2026, compared with a loss of $66.5 million in the second quarter of 2025 and $125.6 million in the first half of 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -0.385,
+   "h": 0.0192,
+   "hits": [
+    [
+     90,
+     100,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     130,
+     134,
+     [
+      "negative"
+     ]
+    ],
+    [
+     246,
+     250,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Results in both periods were driven by higher interest expense and a higher effective tax rate.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
