@@ -1,0 +1,299 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-08-06",
+ "source_url": "https://www.crh.com/media/press-releases/2025/crh-q2-2025-results/",
+ "demo": false,
+ "source_text": "CRH (NYSE: CRH), a leading provider of building materials solutions, today reported second quarter 2025 financial results.\n\nStrong performance backed by favorable underlying demand, positive pricing and acquisition contributions\nProven strategy and connected portfolio driving further growth and value creation\n$1.0bn invested in 19 acquisitions YTD; strong pipeline of M&A opportunities\n$2.1bn acquisition of Eco Material Technologies agreed; accelerating cementitious growth strategy\nOngoing share buyback; $0.8bn completed YTD; commencing new $0.3bn quarterly tranche\nDeclaring quarterly dividend of $0.37 per share (+6% YoY)\nContinue to expect positive activity across our key end-use markets in 2025\nFY25 guidance: Net income of $3.8bn-$3.9bn; Adjusted EBITDA* of $7.5bn-$7.7bn\n \n\nJim Mintern, Chief Executive Officer, said:\n\n\u201cOur strong second quarter performance was driven by favorable underlying demand, disciplined commercial management and further contributions from acquisitions. CRH\u2019s proven strategy continued to drive higher sales, profits and Adjusted EBITDA margins*, while our robust balance sheet and financial capacity enabled us to allocate approximately $3 billion to growth investments and capital returns year-to-date. We completed 19 acquisitions year-to-date and continue to see an active pipeline of opportunities to further strengthen our market-leading positions in attractive growth markets. Underlying demand in our key end-use markets remains positive and we are pleased to raise our guidance for 2025.\u201d\n\n \n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.5892857142857143,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.006097560975609756,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.009523809523809525,
+  "mean_tone": 0.4806145431145431
+ },
+ "lexicon": {
+  "words": 210,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 76.2,
+   "Uncertainty": 4.8,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 16,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CRH (NYSE: CRH), a leading provider of building materials solutions, today reported second quarter 2025 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Strong performance backed by favorable underlying demand, positive pricing and acquisition contributions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     29,
+     38,
+     [
+      "positive"
+     ]
+    ],
+    [
+     58,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Proven strategy and connected portfolio driving further growth and value creation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "$1.0bn invested in 19 acquisitions YTD; strong pipeline of M&A opportunities.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     46,
+     [
+      "positive"
+     ]
+    ],
+    [
+     63,
+     76,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "$2.1bn acquisition of Eco Material Technologies agreed; accelerating cementitious growth strategy.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Ongoing share buyback; $0.8bn completed YTD; commencing new $0.3bn quarterly tranche.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Declaring quarterly dividend of $0.37 per share (+6% YoY).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Continue to expect positive activity across our key end-use markets in 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0833,
+   "hits": [
+    [
+     19,
+     27,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "FY25 guidance: Net income of $3.8bn-$3.9bn; Adjusted EBITDA* of $7.5bn-$7.7bn",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Jim Mintern, Chief Executive Officer, said:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\u201cOur strong second quarter performance was driven by favorable underlying demand, disciplined commercial management and further contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     11,
+     [
+      "positive"
+     ]
+    ],
+    [
+     53,
+     62,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "CRH\u2019s proven strategy continued to drive higher sales, profits and Adjusted EBITDA margins*, while our robust balance sheet and financial capacity enabled us to allocate approximately $3 billion to growth investments and capital returns year-to-date.",
+   "d": 1,
+   "m": false,
+   "tone": 0.27,
+   "h": 0.027,
+   "hits": [
+    [
+     147,
+     154,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     183,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We completed 19 acquisitions year-to-date and continue to see an active pipeline of opportunities to further strengthen our market-leading positions in attractive growth markets.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     84,
+     97,
+     [
+      "positive"
+     ]
+    ],
+    [
+     109,
+     119,
+     [
+      "positive"
+     ]
+    ],
+    [
+     131,
+     138,
+     [
+      "positive"
+     ]
+    ],
+    [
+     152,
+     162,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Underlying demand in our key end-use markets remains positive and we are pleased to raise our guidance for 2025.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     53,
+     61,
+     [
+      "positive"
+     ]
+    ],
+    [
+     73,
+     80,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
