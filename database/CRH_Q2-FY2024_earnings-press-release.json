@@ -1,0 +1,270 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-08-08",
+ "source_url": "https://www.crh.com/media/press-releases/2024/crh-q2-2024-results/",
+ "demo": false,
+ "source_text": "CRH plc issues Q2 2024 Results for the three months ended June 30, 2024.\n\nDifferentiated strategy continuing to deliver robust financial performance\nCarefully constructed portfolio & operating footprint mitigated impact of adverse weather\nFurther profit growth & strong margin expansion driven by positive pricing & cost management\nSignificant portfolio activity YTD; $3.7bn invested in value-accretive M&A\nIntegration of materials acquisition in Texas progressing well; increasing run-rate synergy target to $65m\nAcquisition of majority stake in Adbri completed on July 1\nOngoing share buyback; $0.9bn YTD; commencing new $0.3bn quarterly tranche\nDeclaring quarterly dividend $0.35 (+5% annualized)\nOutlook positive with favorable underlying demand across key markets\nRaising FY24 guidance; Net Income $3.70bn \u2013 $3.85bn; Adjusted EBITDA* $6.82bn \u2013 $7.02bn\nAlbert Manifold, Chief Executive, said:\n\n\u201cWe are pleased to report another period of further profit growth and margin expansion for CRH. The execution of our differentiated solutions strategy continues to deliver robust financial performance, while the strength of our balance sheet and relentless focus on the disciplined allocation of our capital enables us to capitalize on the opportunities we see for further growth and value creation. Reflecting the strength of our financial performance, the positive underlying momentum in our business as well as the positive contribution from recent portfolio activity, we are raising our guidance and remain well positioned to deliver another record year in 2024.\u201d\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 0,
+  "n_positive": 4,
+  "mean_pos_positive": 0.7678571428571428,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.26625457875457875
+ },
+ "lexicon": {
+  "words": 215,
+  "per_1000": {
+   "Negative": 4.7,
+   "Positive": 55.8,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 12,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CRH plc issues Q2 2024 Results for the three months ended June 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Differentiated strategy continuing to deliver robust financial performance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Carefully constructed portfolio & operating footprint mitigated impact of adverse weather.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     81,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Further profit growth & strong margin expansion driven by positive pricing & cost management.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     30,
+     [
+      "positive"
+     ]
+    ],
+    [
+     58,
+     66,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Significant portfolio activity YTD; $3.7bn invested in value-accretive M&A.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Integration of materials acquisition in Texas progressing well; increasing run-rate synergy target to $65m.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     57,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Acquisition of majority stake in Adbri completed on July 1.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Ongoing share buyback; $0.9bn YTD; commencing new $0.3bn quarterly tranche.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Declaring quarterly dividend $0.35 (+5% annualized).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Outlook positive with favorable underlying demand across key markets.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     16,
+     [
+      "positive"
+     ]
+    ],
+    [
+     22,
+     31,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Raising FY24 guidance; Net Income $3.70bn \u2013 $3.85bn; Adjusted EBITDA* $6.82bn \u2013 $7.02bn. Albert Manifold, Chief Executive, said:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "\u201cWe are pleased to report another period of further profit growth and margin expansion for CRH.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The execution of our differentiated solutions strategy continues to deliver robust financial performance, while the strength of our balance sheet and relentless focus on the disciplined allocation of our capital enables us to capitalize on the opportunities we see for further growth and value creation.",
+   "d": 1,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     116,
+     124,
+     [
+      "positive"
+     ]
+    ],
+    [
+     212,
+     219,
+     [
+      "positive"
+     ]
+    ],
+    [
+     244,
+     257,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Reflecting the strength of our financial performance, the positive underlying momentum in our business as well as the positive contribution from recent portfolio activity, we are raising our guidance and remain well positioned to deliver another record year in 2024.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     15,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     58,
+     66,
+     [
+      "positive"
+     ]
+    ],
+    [
+     118,
+     126,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
