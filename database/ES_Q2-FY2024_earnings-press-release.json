@@ -1,0 +1,368 @@
+{
+ "company": "Eversource Energy",
+ "ticker": "ES",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2024",
+ "date": "2024-07-31",
+ "source_url": "https://investors.eversource.com/news-releases/news-release-details/eversource-energy-reports-second-quarter-2024-results",
+ "demo": false,
+ "source_text": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Eversource Energy (NYSE: ES) today reported GAAP earnings of $335.3 million, or $0.95 per share, for the second quarter of 2024, compared with earnings of $15.4 million, or $0.04 per share, for the second quarter of 2023. For the first half of 2024, Eversource Energy reported GAAP earnings of $857.2 million, or $2.43 per share, compared with earnings of $506.6 million, or $1.45 per share, for the first half of 2023.\n\nResults in 2023 include after-tax charges of $337.2 million, or $0.96 per share in the second quarter of 2023, and $337.7 million, or $0.96 per share, in the first half of 2023, primarily related to an impairment of Eversource Energy\u2019s offshore wind investment. Excluding these charges, Eversource Energy earned $352.6 million1, or $1.00 per share1, in the second quarter of 2023 and $844.3 million1, or $2.41 per share1, in the first half of 2023.\n\nThe company reaffirms its 2024 non-GAAP recurring earnings projection of between $4.50 per share and $4.67 per share. It also reaffirms its long-term earnings per share growth rate within the range of 5 to 7 percent from a 2023 base of $4.34 per share1.\n\n\u201cEversource once again delivered solid financial results for the second quarter and top-tier service reliability and storm response for customers, while positioning our company well for the future of clean energy,\u201d said Joe Nolan, Eversource Energy Chairman, President and Chief Executive Officer. \u201cWe commissioned our first-in-the-nation networked geothermal pilot project and the first round of our Cape Cod Solution transmission project, which will bolster reliability while enabling the interconnection of more renewable energy. We look forward to continuing to advance our Electric Sector Modernization Plan in Massachusetts, and to working with Connecticut and New Hampshire to enable and encourage a low-carbon future.\u201d\n\n\u201cWe are very pleased to have closed on the sale of the Sunrise Wind Project to \u00d8rsted and that we expect to close the sale of the Revolution and South Fork Wind Projects to Global Infrastructure Partners later this quarter. Closing these transactions delivers on our commitment to exit the offshore wind business and focus our resources on regulated growth opportunities to meet customer demand.\u201d\n\nElectric Transmission\n\nEversource Energy\u2019s transmission segment earned $189.0 million in the second quarter of 2024 and $365.7 million in the first half of 2024, compared with earnings of $161.0 million in the second quarter of 2023 and $316.1 million in the first half of 2023. Transmission segment results improved in both periods due primarily to a higher level of investment in Eversource\u2019s electric transmission system, as well as the impact from the annual rate reconciliation filing.\n\nElectric Distribution\n\nEversource Energy\u2019s electric distribution segment earned $149.7 million in the second quarter of 2024 and $317.9 million in the first half of 2024, compared with earnings of $165.5 million in the second quarter of 2023 and $331.0 million in the first half of 2023. Lower results in both periods were due primarily to higher non-tracked operations and maintenance expense (O&M) driven by higher storm restoration costs of $16.2 million pre-tax ($12.2 million after tax), the absence of the prior year benefit related to a favorable regulatory decision in New Hampshire, as well as higher interest, depreciation and property tax expense, partially offset by higher revenues from the January 1, 2024 base distribution rate increase for Eversource's Massachusetts electric business and from continued investments in our distribution system.\n\nNatural Gas Distribution\n\nEversource Energy\u2019s natural gas distribution segment earned $27.1 million in the second quarter of 2024 and $217.6 million in the first half of 2024, compared with earnings of $11.7 million in the second quarter of 2023 and $181.9 million in the first half of 2023. Improved results in both periods were due primarily to higher revenues associated with investments in our natural gas infrastructure and a base distribution rate increase at NSTAR Gas, as well as lower non-tracked O&M, partially offset by higher depreciation and interest expense.\n\nWater Distribution\n\nEversource Energy\u2019s water distribution segment earned $8.0 million in the second quarter of 2024 and $13.4 million in the first half of 2024, compared with earnings of $9.3 million in the second quarter of 2023 and $10.8 million in the first half of 2023. Lower earnings in the second quarter were due primarily to higher non-tracked O&M and interest expense. Higher earnings in the first half were due primarily to lower depreciation and higher revenues from our two water company acquisitions in the prior year, partially offset by higher interest and non-tracked O&M.\n\nEversource Parent and Other Companies\n\nEversource Energy parent and other companies, excluding the charges noted above, had a loss of $38.5 million in the second quarter of 2024 and $57.4 million in the first half of 2024, compared with earnings of $5.1 million1 in the second quarter of 2023 and $4.5 million1 in the first half of 2023. Lower results in both periods were primarily the result of higher interest expense.\n\n",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 24,
+  "n_material_neg": 3,
+  "n_positive": 4,
+  "mean_pos_negative": 0.5555555555555556,
+  "mean_pos_positive": 0.5625,
+  "placement_asymmetry": -0.00694444444444442,
+  "distance_from_headline": 0,
+  "first_negative_pos": 0.125,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0037313432835820895,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9029239766081871,
+  "overall_hedge": 0.0014265335235378032,
+  "mean_tone": 0.03562900306321359
+ },
+ "lexicon": {
+  "words": 701,
+  "per_1000": {
+   "Negative": 4.3,
+   "Positive": 8.6,
+   "Uncertainty": 0.0,
+   "Litigious": 2.9,
+   "Strong modal": 1.4,
+   "Weak modal": 0.0,
+   "Constraining": 2.9
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 6,
+   "Uncertainty": 0,
+   "Litigious": 2,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Eversource Energy (NYSE: ES) today reported GAAP earnings of $335.3 million, or $0.95 per share, for the second quarter of 2024, compared with earnings of $15.4 million, or $0.04 per share, for the second quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "For the first half of 2024, Eversource Energy reported GAAP earnings of $857.2 million, or $2.43 per share, compared with earnings of $506.6 million, or $1.45 per share, for the first half of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Results in 2023 include after-tax charges of $337.2 million, or $0.96 per share in the second quarter of 2023, and $337.7 million, or $0.96 per share, in the first half of 2023, primarily related to an impairment of Eversource Energy\u2019s offshore wind investment.",
+   "d": -1,
+   "m": true,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     202,
+     212,
+     [
+      "negative",
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Excluding these charges, Eversource Energy earned $352.6 million1, or $1.00 per share1, in the second quarter of 2023 and $844.3 million1, or $2.41 per share1, in the first half of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "The company reaffirms its 2024 non-GAAP recurring earnings projection of between $4.50 per share and $4.67 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "It also reaffirms its long-term earnings per share growth rate within the range of 5 to 7 percent from a 2023 base of $4.34 per share1.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "\u201cEversource once again delivered solid financial results for the second quarter and top-tier service reliability and storm response for customers, while positioning our company well for the future of clean energy,\u201d said Joe Nolan, Eversource Energy Chairman, President and Chief Executive Officer. \u201cWe commissioned our first-in-the-nation networked geothermal pilot project and the first round of our Cape Cod Solution transmission project, which will bolster reliability while enabling the interconnection of more renewable energy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.13,
+   "h": 0.0,
+   "hits": [
+    [
+     447,
+     451,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     478,
+     486,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "We look forward to continuing to advance our Electric Sector Modernization Plan in Massachusetts, and to working with Connecticut and New Hampshire to enable and encourage a low-carbon future.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.333,
+   "h": 0.0,
+   "hits": [
+    [
+     151,
+     157,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "t": "\u201cWe are very pleased to have closed on the sale of the Sunrise Wind Project to \u00d8rsted and that we expect to close the sale of the Revolution and South Fork Wind Projects to Global Infrastructure Partners later this quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.25,
+   "h": 0.025,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Closing these transactions delivers on our commitment to exit the offshore wind business and focus our resources on regulated growth opportunities to meet customer demand.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     53,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     116,
+     125,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     133,
+     146,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Electric Transmission",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Electric Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Eversource Energy\u2019s electric distribution segment earned $149.7 million in the second quarter of 2024 and $317.9 million in the first half of 2024, compared with earnings of $165.5 million in the second quarter of 2023 and $331.0 million in the first half of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Lower results in both periods were due primarily to higher non-tracked operations and maintenance expense (O&M) driven by higher storm restoration costs of $16.2 million pre-tax ($12.2 million after tax), the absence of the prior year benefit related to a favorable regulatory decision in New Hampshire, as well as higher interest, depreciation and property tax expense, partially offset by higher revenues from the January 1, 2024 base distribution rate increase for Eversource's Massachusetts electric business and from continued investments in our distribution system.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     209,
+     216,
+     [
+      "negative"
+     ]
+    ],
+    [
+     256,
+     265,
+     [
+      "positive"
+     ]
+    ],
+    [
+     266,
+     276,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 15,
+   "t": "Natural Gas Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Eversource Energy\u2019s natural gas distribution segment earned $27.1 million in the second quarter of 2024 and $217.6 million in the first half of 2024, compared with earnings of $11.7 million in the second quarter of 2023 and $181.9 million in the first half of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Improved results in both periods were due primarily to higher revenues associated with investments in our natural gas infrastructure and a base distribution rate increase at NSTAR Gas, as well as lower non-tracked O&M, partially offset by higher depreciation and interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Water Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Eversource Energy\u2019s water distribution segment earned $8.0 million in the second quarter of 2024 and $13.4 million in the first half of 2024, compared with earnings of $9.3 million in the second quarter of 2023 and $10.8 million in the first half of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Lower earnings in the second quarter were due primarily to higher non-tracked O&M and interest expense.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Higher earnings in the first half were due primarily to lower depreciation and higher revenues from our two water company acquisitions in the prior year, partially offset by higher interest and non-tracked O&M.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Eversource Parent and Other Companies",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Eversource Energy parent and other companies, excluding the charges noted above, had a loss of $38.5 million in the second quarter of 2024 and $57.4 million in the first half of 2024, compared with earnings of $5.1 million1 in the second quarter of 2023 and $4.5 million1 in the first half of 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.222,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Lower results in both periods were primarily the result of higher interest expense.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  }
+ ]
+}
