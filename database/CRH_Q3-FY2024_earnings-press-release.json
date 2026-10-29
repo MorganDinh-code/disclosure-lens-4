@@ -1,0 +1,318 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2024",
+ "date": "2024-11-07",
+ "source_url": "https://www.crh.com/media/press-releases/2024/crh-q3-2024-results/",
+ "demo": false,
+ "source_text": "CRH plc issues Q3 2024 Results for the three months ended September 30, 2024.\n\nRobust performance underpinned by differentiated solutions strategy\nStrong double-digit growth in Adjusted EBITDA* & EPS despite adverse weather\nFurther margin expansion driven by positive pricing, cost management & operational efficiency\nSignificant portfolio activity YTD; $4.6bn invested in value-accretive M&A; $1.2bn divested\nIntegration of materials acquisitions in Texas & Australia progressing well\nOngoing share buyback; $1.2bn YTD; commencing new $0.3bn quarterly tranche\nDeclaring quarterly dividend of $0.35 per share (+5% annualized)\nReaffirming FY24 guidance midpoint; Net Income $3.78bn-$3.85bn; Adjusted EBITDA* $6.87bn-$6.97bn\nOutlook positive with favorable dynamics across key markets expected to continue into 2025\nAlbert Manifold, Chief Executive, said:\n\n\u201cOur third quarter results represent another strong performance with further growth in sales, profits and margins. Despite contending with adverse weather in the quarter, our differentiated solutions strategy continues to deliver industry-leading performance, while the strength of our balance sheet combined with our disciplined approach to capital allocation leaves us well positioned to capitalize on the growth and value creation opportunities that lie ahead. We are pleased to reaffirm our guidance midpoint for 2024 and looking ahead to 2025, we expect favorable underlying demand, positive pricing momentum and another year of progress for CRH.\u201d",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 13,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.6666666666666667,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.003584229390681004,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.004975124378109453,
+  "mean_tone": 0.36940577737281033
+ },
+ "lexicon": {
+  "words": 201,
+  "per_1000": {
+   "Negative": 24.9,
+   "Positive": 79.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 16,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CRH plc issues Q3 2024 Results for the three months ended September 30, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Robust performance underpinned by differentiated solutions strategy.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Strong double-digit growth in Adjusted EBITDA* & EPS despite adverse weather.",
+   "d": 1,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     6,
+     [
+      "positive"
+     ]
+    ],
+    [
+     53,
+     60,
+     [
+      "positive"
+     ]
+    ],
+    [
+     61,
+     68,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Further margin expansion driven by positive pricing, cost management & operational efficiency.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     35,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     83,
+     93,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "Significant portfolio activity YTD; $4.6bn invested in value-accretive M&A; $1.2bn divested.",
+   "d": 0,
+   "m": false,
+   "tone": -0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     83,
+     91,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Integration of materials acquisitions in Texas & Australia progressing well.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     70,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Ongoing share buyback; $1.2bn YTD; commencing new $0.3bn quarterly tranche.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Declaring quarterly dividend of $0.35 per share (+5% annualized).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Reaffirming FY24 guidance midpoint; Net Income $3.78bn-$3.85bn; Adjusted EBITDA* $6.87bn-$6.97bn. Outlook positive with favorable dynamics across key markets expected to continue into 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     106,
+     114,
+     [
+      "positive"
+     ]
+    ],
+    [
+     120,
+     129,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Albert Manifold, Chief Executive, said:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\u201cOur third quarter results represent another strong performance with further growth in sales, profits and margins.",
+   "d": 1,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     51,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Despite contending with adverse weather in the quarter, our differentiated solutions strategy continues to deliver industry-leading performance, while the strength of our balance sheet combined with our disciplined approach to capital allocation leaves us well positioned to capitalize on the growth and value creation opportunities that lie ahead.",
+   "d": 1,
+   "m": false,
+   "tone": 0.204,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     7,
+     [
+      "positive"
+     ]
+    ],
+    [
+     8,
+     18,
+     [
+      "negative"
+     ]
+    ],
+    [
+     24,
+     31,
+     [
+      "negative"
+     ]
+    ],
+    [
+     124,
+     131,
+     [
+      "positive"
+     ]
+    ],
+    [
+     155,
+     163,
+     [
+      "positive"
+     ]
+    ],
+    [
+     319,
+     332,
+     [
+      "positive"
+     ]
+    ],
+    [
+     338,
+     341,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We are pleased to reaffirm our guidance midpoint for 2024 and looking ahead to 2025, we expect favorable underlying demand, positive pricing momentum and another year of progress for CRH.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     7,
+     14,
+     [
+      "positive"
+     ]
+    ],
+    [
+     95,
+     104,
+     [
+      "positive"
+     ]
+    ],
+    [
+     124,
+     132,
+     [
+      "positive"
+     ]
+    ],
+    [
+     170,
+     178,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
