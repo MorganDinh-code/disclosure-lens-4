@@ -1,0 +1,585 @@
+{
+ "company": "Eversource Energy",
+ "ticker": "ES",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-05-06",
+ "source_url": "https://investors.eversource.com/news-releases/news-release-details/eversource-energy-reports-first-quarter-2026-results",
+ "demo": false,
+ "source_text": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--May 6, 2026-- Eversource Energy (NYSE: ES) today reported GAAP earnings of $606.8 million, or $1.61 per share, for the first quarter of 2026, compared with GAAP and non-GAAP earnings of $550.8 million, or $1.50 per share, for the first quarter of 2025. Non-GAAP recurring earnings totaled $650.7 million1, or $1.73 per share1, in the first quarter of 2026.\n\nAlso today, the Eversource Energy Board of Trustees approved a common dividend of $0.7875 per share, payable June 30, 2026, to shareholders of record as of May 18, 2026.\n\nGAAP results for the first quarter of 2026 include an after-tax charge of $43.9 million, or $0.12 per share, related to the Federal Energy Regulatory Commission (FERC) decision of March 19, 2026 that reduced the return on equity (ROE) rate for New England transmission owners from 10.57% to 9.57%. The order required refunds for the 15-month first complaint period beginning October 1, 2011 to December 31, 2012 and retroactively from October 16, 2014 forward with interest. The first quarter after-tax charge represents an estimated loss reflecting refunds associated with this 15-month complaint period, including interest. Eversource has taken several legal actions, including filing a rehearing request at FERC, an extension of the refund timing, and a motion for stay of the order. The Company also submitted a Section 205 filing with FERC, which is a formal request to change the ROE rate prospectively, proposing a replacement ROE of 11.39% based on current market data and using the same methodology that FERC used to derive the 9.57% rate based on market data from October 2012 to March 2013. The new ROE rate of 11.39% is expected to be effective later this year on a subject to refund basis.\n\n\u201cEversource Energy's first quarter performance was highlighted by our team's strong response to a historic Nor'easter that brought blizzard conditions, record snowfall, and a significant number of power outages to our service area,\u201d said Joe Nolan, Chairman, President and CEO. \u201cAlso, in the quarter, we were very disappointed with FERC\u2019s arbitrary and flawed ROE reduction, especially at a time when New England needs significant transmission investments to bring incremental generation in the region that would lower costs for customers. Eversource will continue to vigorously pursue all actions against punitive decisions imposed by our regulators that jeopardize our ability to complete this critical work for customers,\u201d said Nolan.\n\nAs announced on March 31, 2026, following the FERC order that reduced transmission base ROE by 100 basis points and taking into account earnings impacts of the potential Aquarion sale after securing the Connecticut Public Utility Regulatory Authority's final approval of change of control, the Company revised its earnings guidance for 2026 non-GAAP recurring earnings to between $4.57 per share1 and $4.72 per share1, versus its original guidance range of $4.80 to $4.95 per share. The Company also reaffirmed its compound annual earnings per share growth rate within the range of 5 to 7 percent through 2030, using the adjusted 2026 non-GAAP earnings guidance midpoint of $4.65 per share1 as the base year. Eversource expects annual earnings growth towards the upper half of its long-term guidance by 2028.\n\nElectric Transmission\n\nEversource Energy\u2019s transmission segment, excluding the FERC ROE refund charge noted above, earned $224.3 million1 in the first quarter of 2026, compared with earnings of $199.4 million in the first quarter of 2025. Transmission segment results improved due primarily to continued investment in Eversource\u2019s electric transmission system and higher non-refundable revenues, partially offset by higher interest expense.\n\nElectric Distribution\n\nEversource Energy\u2019s electric distribution segment earned $202.8 million in the first quarter of 2026, compared with earnings of $188.4 million in the first quarter of 2025. Improved results were due primarily to higher revenues from base distribution rate increases at Eversource\u2019s Massachusetts and New Hampshire electric businesses, and continued investments in our distribution system. The higher revenues were partially offset by higher interest expense, depreciation, operations and maintenance (O&M) and property taxes.\n\nNatural Gas Distribution\n\nEversource Energy\u2019s natural gas distribution segment earned $295.3 million in the first quarter of 2026, compared with earnings of $218.4 million in the first quarter of 2025. Improved results were due primarily to the base distribution rate increases at all of Eversource\u2019s gas businesses, effective November 1, 2025, to recover continued investment in our natural gas infrastructure. The higher revenues were partially offset by higher O&M, depreciation, property and income taxes, and interest expense.\n\nWater Distribution\n\nEversource Energy\u2019s water distribution segment earned $6.4 million in the first quarter of 2026, compared with earnings of $3.6 million in the first quarter of 2025. Improved results were due primarily to higher revenues, partially offset by higher depreciation expense.\n\nEversource Parent and Other Companies\nEversource Energy parent and other companies had a loss of $78.1 million in the first quarter of 2026, compared with a loss of $59.0 million in the first quarter of 2025. The increased loss was due primarily to a higher effective tax rate and higher interest expense.\n\nEversource Energy has approximately 376 million common shares outstanding and operates New England\u2019s largest energy delivery system. It serves approximately 4.6 million electric, natural gas and water customers in Connecticut, Massachusetts and New Hampshire.\n\n\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 33,
+  "n_material_neg": 2,
+  "n_positive": 9,
+  "mean_pos_negative": 0.5454545454545454,
+  "mean_pos_positive": 0.5185185185185185,
+  "placement_asymmetry": 0.026936026936026924,
+  "distance_from_headline": 3,
+  "first_negative_pos": 0.18181818181818182,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0058277657474816655,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.21141975308641978,
+  "overall_hedge": 0.007416563658838072,
+  "mean_tone": -0.06979924077625227
+ },
+ "lexicon": {
+  "words": 809,
+  "per_1000": {
+   "Negative": 14.8,
+   "Positive": 6.2,
+   "Uncertainty": 7.4,
+   "Litigious": 6.2,
+   "Strong modal": 1.2,
+   "Weak modal": 2.5,
+   "Constraining": 2.5
+  },
+  "counts": {
+   "Negative": 12,
+   "Positive": 5,
+   "Uncertainty": 6,
+   "Litigious": 5,
+   "Strong modal": 1,
+   "Weak modal": 2,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--May 6, 2026-- Eversource Energy (NYSE: ES) today reported GAAP earnings of $606.8 million, or $1.61 per share, for the first quarter of 2026, compared with GAAP and non-GAAP earnings of $550.8 million, or $1.50 per share, for the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     43,
+     46,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Non-GAAP recurring earnings totaled $650.7 million1, or $1.73 per share1, in the first quarter of 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Also today, the Eversource Energy Board of Trustees approved a common dividend of $0.7875 per share, payable June 30, 2026, to shareholders of record as of May 18, 2026.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     156,
+     159,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "GAAP results for the first quarter of 2026 include an after-tax charge of $43.9 million, or $0.12 per share, related to the Federal Energy Regulatory Commission (FERC) decision of March 19, 2026 that reduced the return on equity (ROE) rate for New England transmission owners from 10.57% to 9.57%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     139,
+     149,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "The order required refunds for the 15-month first complaint period beginning October 1, 2011 to December 31, 2012 and retroactively from October 16, 2014 forward with interest.",
+   "d": 0,
+   "m": false,
+   "tone": -0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     18,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     50,
+     59,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "The first quarter after-tax charge represents an estimated loss reflecting refunds associated with this 15-month complaint period, including interest.",
+   "d": -1,
+   "m": true,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     59,
+     63,
+     [
+      "negative"
+     ]
+    ],
+    [
+     113,
+     122,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Eversource has taken several legal actions, including filing a rehearing request at FERC, an extension of the refund timing, and a motion for stay of the order.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     34,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     63,
+     72,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "The Company also submitted a Section 205 filing with FERC, which is a formal request to change the ROE rate prospectively, proposing a replacement ROE of 11.39% based on current market data and using the same methodology that FERC used to derive the 9.57% rate based on market data from October 2012 to March 2013.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "The new ROE rate of 11.39% is expected to be effective later this year on a subject to refund basis.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0526,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "\u201cEversource Energy's first quarter performance was highlighted by our team's strong response to a historic Nor'easter that brought blizzard conditions, record snowfall, and a significant number of power outages to our service area,\u201d said Joe Nolan, Chairman, President and CEO. \u201cAlso, in the quarter, we were very disappointed with FERC\u2019s arbitrary and flawed ROE reduction, especially at a time when New England needs significant transmission investments to bring incremental generation in the region that would lower costs for customers.",
+   "d": 1,
+   "m": false,
+   "tone": -0.25,
+   "h": 0.0125,
+   "hits": [
+    [
+     77,
+     83,
+     [
+      "positive"
+     ]
+    ],
+    [
+     203,
+     210,
+     [
+      "negative"
+     ]
+    ],
+    [
+     314,
+     326,
+     [
+      "negative"
+     ]
+    ],
+    [
+     339,
+     348,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     353,
+     359,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Eversource will continue to vigorously pursue all actions against punitive decisions imposed by our regulators that jeopardize our ability to complete this critical work for customers,\u201d said Nolan.",
+   "d": 0,
+   "m": false,
+   "tone": -1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     15,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     58,
+     65,
+     [
+      "negative"
+     ]
+    ],
+    [
+     66,
+     74,
+     [
+      "negative"
+     ]
+    ],
+    [
+     85,
+     92,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     100,
+     110,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     116,
+     126,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "As announced on March 31, 2026, following the FERC order that reduced transmission base ROE by 100 basis points and taking into account earnings impacts of the potential Aquarion sale after securing the Connecticut Public Utility Regulatory Authority's final approval of change of control, the Company revised its earnings guidance for 2026 non-GAAP recurring earnings to between $4.57 per share1 and $4.72 per share1, versus its original guidance range of $4.80 to $4.95 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0147,
+   "hits": [
+    [
+     230,
+     240,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     302,
+     309,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "The Company also reaffirmed its compound annual earnings per share growth rate within the range of 5 to 7 percent through 2030, using the adjusted 2026 non-GAAP earnings guidance midpoint of $4.65 per share1 as the base year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Eversource expects annual earnings growth towards the upper half of its long-term guidance by 2028.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Electric Transmission",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Eversource Energy\u2019s transmission segment, excluding the FERC ROE refund charge noted above, earned $224.3 million1 in the first quarter of 2026, compared with earnings of $199.4 million in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Transmission segment results improved due primarily to continued investment in Eversource\u2019s electric transmission system and higher non-refundable revenues, partially offset by higher interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.385,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "Electric Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Eversource Energy\u2019s electric distribution segment earned $202.8 million in the first quarter of 2026, compared with earnings of $188.4 million in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Improved results were due primarily to higher revenues from base distribution rate increases at Eversource\u2019s Massachusetts and New Hampshire electric businesses, and continued investments in our distribution system.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "The higher revenues were partially offset by higher interest expense, depreciation, operations and maintenance (O&M) and property taxes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Natural Gas Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Eversource Energy\u2019s natural gas distribution segment earned $295.3 million in the first quarter of 2026, compared with earnings of $218.4 million in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Improved results were due primarily to the base distribution rate increases at all of Eversource\u2019s gas businesses, effective November 1, 2025, to recover continued investment in our natural gas infrastructure.",
+   "d": 1,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "The higher revenues were partially offset by higher O&M, depreciation, property and income taxes, and interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Water Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "Eversource Energy\u2019s water distribution segment earned $6.4 million in the first quarter of 2026, compared with earnings of $3.6 million in the first quarter of 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 28,
+   "t": "Improved results were due primarily to higher revenues, partially offset by higher depreciation expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "Eversource Parent and Other Companies.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "Eversource Energy parent and other companies had a loss of $78.1 million in the first quarter of 2026, compared with a loss of $59.0 million in the first quarter of 2025.",
+   "d": -1,
+   "m": true,
+   "tone": -0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     119,
+     123,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "The increased loss was due primarily to a higher effective tax rate and higher interest expense.",
+   "d": -1,
+   "m": false,
+   "tone": -0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     18,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "Eversource Energy has approximately 376 million common shares outstanding and operates New England\u2019s largest energy delivery system.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     22,
+     35,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "It serves approximately 4.6 million electric, natural gas and water customers in Connecticut, Massachusetts and New Hampshire.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": [
+    [
+     10,
+     23,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
