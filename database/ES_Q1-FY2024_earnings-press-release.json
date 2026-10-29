@@ -1,0 +1,320 @@
+{
+ "company": "Eversource Energy",
+ "ticker": "ES",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-01",
+ "source_url": "https://investors.eversource.com/news-releases/news-release-details/eversource-energy-reports-first-quarter-2024-results",
+ "demo": false,
+ "source_text": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Eversource Energy (NYSE: ES) today reported earnings of $521.8 million, or $1.49 per share, for the first quarter of 2024, compared with earnings of $491.2 million, or $1.41 per share, for the first quarter of 2023.\n\nAlso today, the Eversource Energy Board of Trustees approved a common dividend of $0.715 per share, payable June 28, 2024, to shareholders of record as of May 16, 2024.\n\nThe company reaffirms its 2024 non-GAAP earnings projection of between $4.50 per share and $4.67 per share. It also reaffirmed its compound annual earnings per share growth rate within the range of 5 to 7 percent from a 2023 base of $4.34 per share1, and its $23.1 billion of forecasted capital investments.\n\n\u201cOur financial performance was strong in the first quarter, thanks to the hard work of our 10,000 employees. Our dedicated team also responded effectively to a series of ice, snow, and wind events across our three states, once again showing their commitment to serving our customers and communities,\u201d said Joe Nolan, Eversource Energy Chairman, President, and Chief Executive Officer. \u201cIn other news, we were proud to make history during the first quarter, when Eversource and \u00d8rsted\u2019s South Fork Wind farm became the first operational commercial-scale offshore wind facility in the U.S. We also continue to make solid progress toward closing the previously announced sales of Eversource's ownership in offshore wind projects.\u201d\n\nElectric Transmission\n\nEversource Energy\u2019s transmission segment earned $176.7 million in the first quarter of 2024, compared with earnings of $155.1 million in the first quarter of 2023. Transmission segment results improved due to a higher level of investment in Eversource\u2019s electric transmission system needed to address system capacity growth and deliver clean energy resources for the region.\n\nElectric Distribution\n\nEversource Energy\u2019s electric distribution segment earned $168.1 million in the first quarter of 2024, compared with earnings of $165.5 million in the first quarter of 2023. Improved results were due primarily to higher revenues from a base distribution rate increase for Eversource's Massachusetts electric business and from higher revenues associated with infrastructure investments in our distribution system, partially offset by higher interest, depreciation, non-tracked operations and maintenance (O&M) and property tax expense.\n\nNatural Gas Distribution\n\nEversource Energy\u2019s natural gas distribution segment earned $190.6 million in the first quarter of 2024, compared with earnings of $170.3 million in the first quarter of 2023. Improved results were due primarily to higher revenues associated with investments in our natural gas infrastructure and a base distribution rate increase at NSTAR Gas, as well as lower non-tracked O&M, partially offset by higher depreciation and interest expense.\n\nWater Distribution\n\nEversource Energy\u2019s water distribution segment earned $5.4 million in the first quarter of 2024, compared with earnings of $1.5 million in the first quarter of 2023. Higher earnings were due primarily to lower depreciation and higher revenues from our two water company acquisitions in the prior year, partially offset by higher interest expense and non-tracked O&M.\n\nEversource Parent and Other Companies\n\nEversource Energy parent and other companies had a loss of $(19.0) million in the first quarter of 2024, compared with a loss of $(1.2) million in the first quarter of 2023. Lower results were primarily the result of higher interest expense and the absence of the prior year net benefit from the disposition of Eversource's interest in a clean energy fund, partially offset by a lower effective tax rate.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 1,
+  "n_positive": 5,
+  "mean_pos_negative": 0.9523809523809523,
+  "mean_pos_positive": 0.39999999999999997,
+  "placement_asymmetry": 0.5523809523809524,
+  "distance_from_headline": 18,
+  "first_negative_pos": 0.9523809523809523,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.2592592592592593,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.02206284489646404
+ },
+ "lexicon": {
+  "words": 540,
+  "per_1000": {
+   "Negative": 5.6,
+   "Positive": 9.3,
+   "Uncertainty": 1.9,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 1.9,
+   "Constraining": 1.9
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 5,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 1,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "HARTFORD, Conn. & BOSTON--(BUSINESS WIRE)--Eversource Energy (NYSE: ES) today reported earnings of $521.8 million, or $1.49 per share, for the first quarter of 2024, compared with earnings of $491.2 million, or $1.41 per share, for the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Also today, the Eversource Energy Board of Trustees approved a common dividend of $0.715 per share, payable June 28, 2024, to shareholders of record as of May 16, 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     155,
+     158,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "The company reaffirms its 2024 non-GAAP earnings projection of between $4.50 per share and $4.67 per share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "It also reaffirmed its compound annual earnings per share growth rate within the range of 5 to 7 percent from a 2023 base of $4.34 per share1, and its $23.1 billion of forecasted capital investments.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "\u201cOur financial performance was strong in the first quarter, thanks to the hard work of our 10,000 employees.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     31,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Our dedicated team also responded effectively to a series of ice, snow, and wind events across our three states, once again showing their commitment to serving our customers and communities,\u201d said Joe Nolan, Eversource Energy Chairman, President, and Chief Executive Officer. \u201cIn other news, we were proud to make history during the first quarter, when Eversource and \u00d8rsted\u2019s South Fork Wind farm became the first operational commercial-scale offshore wind facility in the U.S. We also continue to make solid progress toward closing the previously announced sales of Eversource's ownership in offshore wind projects.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.104,
+   "h": 0.0,
+   "hits": [
+    [
+     138,
+     148,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     510,
+     518,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Electric Transmission",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Eversource Energy\u2019s transmission segment earned $176.7 million in the first quarter of 2024, compared with earnings of $155.1 million in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Transmission segment results improved due to a higher level of investment in Eversource\u2019s electric transmission system needed to address system capacity growth and deliver clean energy resources for the region.",
+   "d": 1,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     29,
+     37,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Electric Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Eversource Energy\u2019s electric distribution segment earned $168.1 million in the first quarter of 2024, compared with earnings of $165.5 million in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Improved results were due primarily to higher revenues from a base distribution rate increase for Eversource's Massachusetts electric business and from higher revenues associated with infrastructure investments in our distribution system, partially offset by higher interest, depreciation, non-tracked operations and maintenance (O&M) and property tax expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Natural Gas Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Eversource Energy\u2019s natural gas distribution segment earned $190.6 million in the first quarter of 2024, compared with earnings of $170.3 million in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Improved results were due primarily to higher revenues associated with investments in our natural gas infrastructure and a base distribution rate increase at NSTAR Gas, as well as lower non-tracked O&M, partially offset by higher depreciation and interest expense.",
+   "d": 1,
+   "m": false,
+   "tone": 0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     8,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Water Distribution",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Eversource Energy\u2019s water distribution segment earned $5.4 million in the first quarter of 2024, compared with earnings of $1.5 million in the first quarter of 2023.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Higher earnings were due primarily to lower depreciation and higher revenues from our two water company acquisitions in the prior year, partially offset by higher interest expense and non-tracked O&M.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Eversource Parent and Other Companies",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Eversource Energy parent and other companies had a loss of $(19.0) million in the first quarter of 2024, compared with a loss of $(1.2) million in the first quarter of 2023.",
+   "d": -1,
+   "m": true,
+   "tone": -0.741,
+   "h": 0.0,
+   "hits": [
+    [
+     51,
+     55,
+     [
+      "negative"
+     ]
+    ],
+    [
+     121,
+     125,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Lower results were primarily the result of higher interest expense and the absence of the prior year net benefit from the disposition of Eversource's interest in a clean energy fund, partially offset by a lower effective tax rate.",
+   "d": 0,
+   "m": false,
+   "tone": -0.263,
+   "h": 0.0,
+   "hits": [
+    [
+     75,
+     82,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
