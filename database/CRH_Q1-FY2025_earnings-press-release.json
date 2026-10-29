@@ -1,0 +1,274 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2025",
+ "date": "2025-05-05",
+ "source_url": "https://www.crh.com/media/press-releases/2025/crh-q1-2025-results/",
+ "demo": false,
+ "source_text": "CRH (NYSE: CRH), a leading provider of building materials solutions, today reported first quarter 2025 financial results.\n\nGood start to the year despite unfavorable weather in the seasonally least significant quarter\nPerformance driven by differentiated strategy, positive pricing and contributions from acquisitions\nCompleted eight value-accretive bolt-on acquisitions for $0.6bn\nOngoing share buyback; $0.5bn completed YTD; commencing new $0.3bn quarterly tranche\nDeclaring quarterly dividend of $0.37 per share (+6% y/y)\nUnderlying demand across key markets remains positive\nReaffirming guidance; expect FY25 Net income of $3.7bn-$4.1bn; Adjusted EBITDA of $7.3bn-$7.7bn\n \n\nJim Mintern, Chief Executive Officer, said:\n\n\u201cThe strength of our first quarter performance reflects the benefits of our differentiated strategy, good commercial management and contributions from acquisitions. Although the first quarter is typically the seasonally least significant period for our business, we are encouraged by the continued strength of underlying demand across our key markets. Our relentless focus on financial control and discipline enabled us to maintain our strong balance sheet in the first quarter. Notwithstanding the current macroeconomic uncertainty, the outlook for our business remains positive and we are pleased to reaffirm our financial guidance for 2025, leaving us well positioned for another year of growth and value creation ahead.\u201d\n\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 12,
+  "n_material_neg": 0,
+  "n_positive": 1,
+  "mean_pos_positive": 1.0,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.01818181818181818,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.015,
+  "mean_tone": 0.5405393217893217
+ },
+ "lexicon": {
+  "words": 200,
+  "per_1000": {
+   "Negative": 5.0,
+   "Positive": 65.0,
+   "Uncertainty": 5.0,
+   "Litigious": 5.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 13,
+   "Uncertainty": 1,
+   "Litigious": 1,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CRH (NYSE: CRH), a leading provider of building materials solutions, today reported first quarter 2025 financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     19,
+     26,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "Good start to the year despite unfavorable weather in the seasonally least significant quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     0,
+     4,
+     [
+      "positive"
+     ]
+    ],
+    [
+     23,
+     30,
+     [
+      "positive"
+     ]
+    ],
+    [
+     31,
+     42,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Performance driven by differentiated strategy, positive pricing and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     47,
+     55,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Completed eight value-accretive bolt-on acquisitions for $0.6bn. Ongoing share buyback; $0.5bn completed YTD; commencing new $0.3bn quarterly tranche.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Declaring quarterly dividend of $0.37 per share (+6% y/y).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Underlying demand across key markets remains positive.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     45,
+     53,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Reaffirming guidance; expect FY25 Net income of $3.7bn-$4.1bn; Adjusted EBITDA of $7.3bn-$7.7bn",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Jim Mintern, Chief Executive Officer, said:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "\u201cThe strength of our first quarter performance reflects the benefits of our differentiated strategy, good commercial management and contributions from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     13,
+     [
+      "positive"
+     ]
+    ],
+    [
+     101,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Although the first quarter is typically the seasonally least significant period for our business, we are encouraged by the continued strength of underlying demand across our key markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.714,
+   "h": 0.0357,
+   "hits": [
+    [
+     105,
+     115,
+     [
+      "positive"
+     ]
+    ],
+    [
+     133,
+     141,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Our relentless focus on financial control and discipline enabled us to maintain our strong balance sheet in the first quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     64,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     90,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Notwithstanding the current macroeconomic uncertainty, the outlook for our business remains positive and we are pleased to reaffirm our financial guidance for 2025, leaving us well positioned for another year of growth and value creation ahead.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0286,
+   "hits": [
+    [
+     0,
+     15,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     42,
+     53,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     92,
+     100,
+     [
+      "positive"
+     ]
+    ],
+    [
+     112,
+     119,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
