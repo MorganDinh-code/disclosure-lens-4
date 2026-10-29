@@ -1,0 +1,262 @@
+{
+ "company": "CRH plc",
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-05-10",
+ "source_url": "https://www.crh.com/media/press-releases/2024/crh-q1-2024-results/",
+ "demo": false,
+ "source_text": "CRH plc issues Q1 2024 Results for the three months ended 31 March 2024.\n\nSolid start to the year in the seasonally least significant quarter\nPerformance driven by positive pricing, early-season activity & benign weather in key markets\nIntegrated solutions strategy delivering further growth in key financial metrics\n$2.1bn materials acquisition in Texas complete; $60m run-rate synergies identified\nSeven other strategic bolt-on acquisitions completed in the first three months for $0.1bn\n$0.7bn agreement to acquire majority stake in Adbri in Australia\nProceeds from divestitures of $0.7bn primarily related to the initial phases of the Lime disposal\nOngoing share buyback; $0.6bn completed to date in 2024; commencing new $0.3bn quarterly tranche\nDeclaring new quarterly dividend of $0.35 (+5% annualized) payable on June 26\nReaffirming FY24 guidance; Net income $3.55bn to $3.80bn; Adjusted EBITDA* $6.55bn to $6.85bn\nAlbert Manifold, Chief Executive, said:\n\n\u201cWe are pleased to report a good first quarter performance in what is the seasonally least significant period for our business. That performance was supported by positive pricing momentum, early-season project activity, favorable weather in certain regions and the contribution from acquisitions. We believe the strength of our balance sheet together with our relentless focus on the efficient allocation of our capital enables us to capitalize on the opportunities we see for further growth and value creation in 2024 and beyond. Given this backdrop, we are pleased to reaffirm our previous guidance for 2024.\u201d\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 14,
+  "n_material_neg": 0,
+  "n_positive": 2,
+  "mean_pos_positive": 0.6071428571428572,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.006944444444444444,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0043859649122807015,
+  "mean_tone": 0.27124066409780695
+ },
+ "lexicon": {
+  "words": 228,
+  "per_1000": {
+   "Negative": 4.4,
+   "Positive": 43.9,
+   "Uncertainty": 4.4,
+   "Litigious": 0.0,
+   "Strong modal": 0.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 10,
+   "Uncertainty": 1,
+   "Litigious": 0,
+   "Strong modal": 0,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "CRH plc issues Q1 2024 Results for the three months ended 31 March 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Solid start to the year in the seasonally least significant quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Performance driven by positive pricing, early-season activity & benign weather in key markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.769,
+   "h": 0.0,
+   "hits": [
+    [
+     22,
+     30,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Integrated solutions strategy delivering further growth in key financial metrics.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "$2.1bn materials acquisition in Texas complete; $60m run-rate synergies identified.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Seven other strategic bolt-on acquisitions completed in the first three months for $0.1bn. $0.7bn agreement to acquire majority stake in Adbri in Australia.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Proceeds from divestitures of $0.7bn primarily related to the initial phases of the Lime disposal.",
+   "d": 0,
+   "m": false,
+   "tone": -0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     26,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "t": "Ongoing share buyback; $0.6bn completed to date in 2024; commencing new $0.3bn quarterly tranche.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Declaring new quarterly dividend of $0.35 (+5% annualized) payable on June 26.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Reaffirming FY24 guidance; Net income $3.55bn to $3.80bn; Adjusted EBITDA* $6.55bn to $6.85bn. Albert Manifold, Chief Executive, said:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "\u201cWe are pleased to report a good first quarter performance in what is the seasonally least significant period for our business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.952,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     28,
+     32,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "That performance was supported by positive pricing momentum, early-season project activity, favorable weather in certain regions and the contribution from acquisitions.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     34,
+     42,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     101,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "We believe the strength of our balance sheet together with our relentless focus on the efficient allocation of our capital enables us to capitalize on the opportunities we see for further growth and value creation in 2024 and beyond.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0263,
+   "hits": [
+    [
+     3,
+     10,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     15,
+     23,
+     [
+      "positive"
+     ]
+    ],
+    [
+     87,
+     96,
+     [
+      "positive"
+     ]
+    ],
+    [
+     123,
+     130,
+     [
+      "positive"
+     ]
+    ],
+    [
+     155,
+     168,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Given this backdrop, we are pleased to reaffirm our previous guidance for 2024.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     35,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
