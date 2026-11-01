@@ -1,0 +1,461 @@
+{
+ "company": "Spotify Technology S.A.",
+ "ticker": "SPOT",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2026",
+ "date": "2026-10-22",
+ "source_url": "https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/",
+ "demo": false,
+ "source_text": "In Q3 2026, we grew to 306 million Premium Subscribers, with growth across every region, and reached 788 million Monthly Active Users, while our Gross Margin and Operating Income came in ahead of expectations. We continued to add value for listeners, artists, creators, and authors by expanding Audiobooks to more than 180 markets by year end, bringing the Spotify Partner Program to 35 more markets, and launching Creator Memberships.\n\nAlex Norstr\u00f6m, Co-CEO, said: \u201cThis was a quarter where we did what we said. We\u2019ve built a strong business that keeps compounding, we invest when we see a path for growth, our costs are moderating, and there is more runway ahead\u2026Spotify not only enjoys industry-leading engagement, but we also have the most passionate and engaged music, podcast and book fans in the world on our platform. That\u2019s why we continue to grow and take share. Every time we expand what\u2019s on Spotify, we bring in new listeners and give existing ones more reasons to come back, almost every day.\u201d\n\nGustav S\u00f6derstr\u00f6m, Co-CEO, said: \u201cSpotify is in one of the few categories that actually stands to thrive in the agentic age. This is because agents excel at replacing and taking care of things people would rather not do. People love getting rid of chores. But entertainment is the opposite. Nobody asks an agent to \u201csummarize a song\u201d for them. The whole point of getting rid of those chores is to free up even more time for the things that you actually enjoy.\u201d\n\nQ3 2026 Earnings Results:\nPremium Subscribers grew 9% Y/Y to 306 million\nMonthly Active Users (MAUs) rose by 11% Y/Y to 788 million\nTotal Revenue increased 16% Y/Y (14% Y/Y constant currency*) to \u20ac5.0 billion\nGross Margin improved by 136 bps Y/Y to 33.0%\nOperating Income reached \u20ac672 million\n\nShape Your Homepage With Taste Profile\nWith Taste Profile (Beta), you can see how Spotify understands your taste across music, podcasts, and audiobooks, and directly shape what gets recommended next on your Home feed. It\u2019s now available to Premium Subscribers ages 18 and older in the U.S.\nManaged Accounts Expand for Families On Any Plan\nManaged accounts are now available to families on Free or Premium plans, in markets including the U.S., U.K., Australia, France, Germany, and the Netherlands. Managed accounts give listeners 13 and under (or region equivalent) their own space to discover music while parents and guardians maintain control over their listening environment.\nGetting More Personal With Playlist Notes\nWith Playlist Notes, you can add your thoughts and context right inside the playlists you make, and go behind the picks on some of our biggest playlists with notes from our editors.\n\n\nAudiobooks Are Going Global\nFrom now through the end of 2026, we\u2019re expanding audiobook access from 22 markets to more than 180. That means more than 750 million people around the world will soon be able to stream or purchase books on Spotify, and authors can unlock new ways to reach readers around the world.\nConnect With Your Biggest Fans Through Spotify Memberships\nMemberships are now rolling out in 34 markets, giving eligible creators a new way to offer exclusive content and experiences to their fans on Spotify. Fans can build deeper connections with creators and new ways to show their support.\nThe Spotify Partner Program Expands to 35+ New Markets\nThe Spotify Partner Program gives eligible creators more opportunities to build successful businesses, with multiple revenue streams. This fall, we\u2019re bringing the program to more than 35 new markets, opening the door for creators in Italy, Spain, Brazil, Mexico, Colombia, and beyond.\nFresh Finds Forward: The Next Generation of Independent Artists\nOur new Fresh Finds Forward program will give approximately 10,000 emerging independent artists each year the resources, community, and support to turn early momentum into long-term growth.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 35,
+  "n_material_neg": 0,
+  "n_positive": 8,
+  "mean_pos_positive": 0.42142857142857143,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.003472222222222222,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.003189792663476874,
+  "mean_tone": 0.09559335591944287
+ },
+ "lexicon": {
+  "words": 627,
+  "per_1000": {
+   "Negative": 0.0,
+   "Positive": 14.4,
+   "Uncertainty": 3.2,
+   "Litigious": 0.0,
+   "Strong modal": 3.2,
+   "Weak modal": 1.6,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 0,
+   "Positive": 9,
+   "Uncertainty": 2,
+   "Litigious": 0,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "In Q3 2026, we grew to 306 million Premium Subscribers, with growth across every region, and reached 788 million Monthly Active Users, while our Gross Margin and Operating Income came in ahead of expectations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "We continued to add value for listeners, artists, creators, and authors by expanding Audiobooks to more than 180 markets by year end, bringing the Spotify Partner Program to 35 more markets, and launching Creator Memberships.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Alex Norstr\u00f6m, Co-CEO, said: \u201cThis was a quarter where we did what we said.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "We\u2019ve built a strong business that keeps compounding, we invest when we see a path for growth, our costs are moderating, and there is more runway ahead\u2026Spotify not only enjoys industry-leading engagement, but we also have the most passionate and engaged music, podcast and book fans in the world on our platform.",
+   "d": 1,
+   "m": false,
+   "tone": 0.182,
+   "h": 0.0,
+   "hits": [
+    [
+     14,
+     20,
+     [
+      "positive"
+     ]
+    ],
+    [
+     169,
+     175,
+     [
+      "positive"
+     ]
+    ],
+    [
+     185,
+     192,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "That\u2019s why we continue to grow and take share.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Every time we expand what\u2019s on Spotify, we bring in new listeners and give existing ones more reasons to come back, almost every day.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": [
+    [
+     116,
+     122,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Gustav S\u00f6derstr\u00f6m, Co-CEO, said: \u201cSpotify is in one of the few categories that actually stands to thrive in the agentic age.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "This is because agents excel at replacing and taking care of things people would rather not do.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "People love getting rid of chores.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "But entertainment is the opposite.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Nobody asks an agent to \u201csummarize a song\u201d for them.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "The whole point of getting rid of those chores is to free up even more time for the things that you actually enjoy.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.435,
+   "h": 0.0,
+   "hits": [
+    [
+     109,
+     114,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Q3 2026 Earnings Results: Premium Subscribers grew 9% Y/Y to 306 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Monthly Active Users (MAUs) rose by 11% Y/Y to 788 million.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Total Revenue increased 16% Y/Y (14% Y/Y constant currency*) to \u20ac5.0 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Gross Margin improved by 136 bps Y/Y to 33.0%.",
+   "d": 1,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     21,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Operating Income reached \u20ac672 million",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Shape Your Homepage With Taste Profile.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "With Taste Profile (Beta), you can see how Spotify understands your taste across music, podcasts, and audiobooks, and directly shape what gets recommended next on your Home feed.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "It\u2019s now available to Premium Subscribers ages 18 and older in the U.S. Managed Accounts Expand for Families On Any Plan.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Managed accounts are now available to families on Free or Premium plans, in markets including the U.S., U.K., Australia, France, Germany, and the Netherlands.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Managed accounts give listeners 13 and under (or region equivalent) their own space to discover music while parents and guardians maintain control over their listening environment.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Getting More Personal With Playlist Notes.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "With Playlist Notes, you can add your thoughts and context right inside the playlists you make, and go behind the picks on some of our biggest playlists with notes from our editors.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "Audiobooks Are Going Global.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "From now through the end of 2026, we\u2019re expanding audiobook access from 22 markets to more than 180.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "That means more than 750 million people around the world will soon be able to stream or purchase books on Spotify, and authors can unlock new ways to reach readers around the world.",
+   "d": 0,
+   "m": false,
+   "tone": 0.312,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     61,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     70,
+     74,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Connect With Your Biggest Fans Through Spotify Memberships.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "Memberships are now rolling out in 34 markets, giving eligible creators a new way to offer exclusive content and experiences to their fans on Spotify.",
+   "d": 0,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     91,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 30,
+   "t": "Fans can build deeper connections with creators and new ways to show their support.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "The Spotify Partner Program Expands to 35+ New Markets.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "The Spotify Partner Program gives eligible creators more opportunities to build successful businesses, with multiple revenue streams.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     70,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     90,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "This fall, we\u2019re bringing the program to more than 35 new markets, opening the door for creators in Italy, Spain, Brazil, Mexico, Colombia, and beyond.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 34,
+   "t": "Fresh Finds Forward: The Next Generation of Independent Artists.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 35,
+   "t": "Our new Fresh Finds Forward program will give approximately 10,000 emerging independent artists each year the resources, community, and support to turn early momentum into long-term growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     36,
+     40,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     46,
+     59,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  }
+ ]
+}
