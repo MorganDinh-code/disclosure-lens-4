@@ -1,0 +1,376 @@
+{
+ "company": "Meta Platforms, Inc.",
+ "ticker": "META",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2026",
+ "date": "2026-04-29",
+ "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/default.aspx",
+ "demo": false,
+ "source_text": "\"We had a milestone quarter with strong momentum across our apps and the release of our first model from Meta Superintelligence Labs,\" said Mark Zuckerberg, Meta founder and CEO. \"We're on track to deliver personal superintelligence to billions of people.\"\n\nFirst Quarter 2026 Operational and Other Financial Highlights\n\nFamily daily active people (DAP) \u2013 DAP was 3.56 billion on average for March 2026, an increase of 4% year-over-year. The slight decline in DAP on a quarter-over-quarter basis was driven by internet disruptions in Iran, as well as a restriction on access to WhatsApp in Russia.\n\nAd impressions \u2013 Ad impressions delivered across our Family of Apps increased by 19% year-over-year.\n\nAverage price per ad \u2013 Average price per ad increased by 12% year-over-year. \n\nRevenue \u2013 Revenue was $56.31 billion, an increase of 33% year-over-year. Revenue on a constant currency basis would have increased by 29% year-over-year. \n\nCosts and expenses \u2013 Total costs and expenses were $33.44 billion, an increase of 35% year-over-year. \n\nCapital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $19.84 billion. \n\nCapital return program \u2013 Dividend and dividend equivalent payments were $1.35 billion. \n\nCash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $81.18 billion as of March 31, 2026. \n\nCash flow \u2013 Cash flow from operating activities was $32.23 billion, and free cash flow was $12.39 billion.(1) \n\nHeadcount \u2013 Headcount was 77,986 as of March 31, 2026, an increase of 1% year-over-year.\n\nCFO Outlook Commentary\n\nWe expect second quarter 2026 total revenue to be in the range of $58-61 billion. Our guidance assumes foreign currency is an approximately 2% tailwind to year-over-year total revenue growth, based on current exchange rates.\n\nWe expect full year 2026 total expenses to be in the range of $162-169 billion, unchanged from our prior outlook.\n\nWe continue to expect to deliver operating income this year that is above 2025 operating income.\n\nWe anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $125-145 billion, increased from our prior range of $115-135 billion. This reflects our expectations for higher component pricing this year and, to a lesser extent, additional data center costs to support future year capacity.\n\nAbsent any changes to our tax landscape, we expect our tax rate for the remaining quarters of 2026 to be between 13-16%.\n\nLastly, we continue to monitor active legal and regulatory matters, including headwinds in the EU and the U.S. that could significantly impact our business and financial results. For example, we continue to see scrutiny on youth-related issues and have additional trials scheduled for this year in the U.S., which may ultimately result in a material loss.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 25,
+  "n_material_neg": 1,
+  "n_positive": 6,
+  "mean_pos_negative": 0.4,
+  "mean_pos_positive": 0.45999999999999996,
+  "placement_asymmetry": -0.05999999999999994,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.4,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.01811151811151811,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.6774193548387097,
+  "overall_hedge": 0.02127659574468085,
+  "mean_tone": -0.03959955506117909
+ },
+ "lexicon": {
+  "words": 423,
+  "per_1000": {
+   "Negative": 9.5,
+   "Positive": 2.4,
+   "Uncertainty": 11.8,
+   "Litigious": 4.7,
+   "Strong modal": 0.0,
+   "Weak modal": 4.7,
+   "Constraining": 2.4
+  },
+  "counts": {
+   "Negative": 4,
+   "Positive": 1,
+   "Uncertainty": 5,
+   "Litigious": 2,
+   "Strong modal": 0,
+   "Weak modal": 2,
+   "Constraining": 1
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We had a milestone quarter with strong momentum across our apps and the release of our first model from Meta Superintelligence Labs,\" said Mark Zuckerberg, Meta founder and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.345,
+   "h": 0.0,
+   "hits": [
+    [
+     33,
+     39,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"We're on track to deliver personal superintelligence to billions of people.\"",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "First Quarter 2026 Operational and Other Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Family daily active people (DAP) \u2013 DAP was 3.56 billion on average for March 2026, an increase of 4% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "The slight decline in DAP on a quarter-over-quarter basis was driven by internet disruptions in Iran, as well as a restriction on access to WhatsApp in Russia.",
+   "d": 0,
+   "m": false,
+   "tone": -0.69,
+   "h": 0.0,
+   "hits": [
+    [
+     11,
+     18,
+     [
+      "negative"
+     ]
+    ],
+    [
+     81,
+     92,
+     [
+      "negative"
+     ]
+    ],
+    [
+     115,
+     126,
+     [
+      "constraining"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "Ad impressions \u2013 Ad impressions delivered across our Family of Apps increased by 19% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Average price per ad \u2013 Average price per ad increased by 12% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Revenue \u2013 Revenue was $56.31 billion, an increase of 33% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Revenue on a constant currency basis would have increased by 29% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Costs and expenses \u2013 Total costs and expenses were $33.44 billion, an increase of 35% year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Capital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $19.84 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Capital return program \u2013 Dividend and dividend equivalent payments were $1.35 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Cash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $81.18 billion as of March 31, 2026.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Cash flow \u2013 Cash flow from operating activities was $32.23 billion, and free cash flow was $12.39 billion.(1)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Headcount \u2013 Headcount was 77,986 as of March 31, 2026, an increase of 1% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "CFO Outlook Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "We expect second quarter 2026 total revenue to be in the range of $58-61 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Our guidance assumes foreign currency is an approximately 2% tailwind to year-over-year total revenue growth, based on current exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0952,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     44,
+     57,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "We expect full year 2026 total expenses to be in the range of $162-169 billion, unchanged from our prior outlook.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "We continue to expect to deliver operating income this year that is above 2025 operating income.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0667,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $125-145 billion, increased from our prior range of $115-135 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0417,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "This reflects our expectations for higher component pricing this year and, to a lesser extent, additional data center costs to support future year capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Absent any changes to our tax landscape, we expect our tax rate for the remaining quarters of 2026 to be between 13-16%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "Lastly, we continue to monitor active legal and regulatory matters, including headwinds in the EU and the U.S. that could significantly impact our business and financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     38,
+     43,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     48,
+     58,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     116,
+     121,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "For example, we continue to see scrutiny on youth-related issues and have additional trials scheduled for this year in the U.S., which may ultimately result in a material loss.",
+   "d": -1,
+   "m": false,
+   "tone": -0.645,
+   "h": 0.0323,
+   "hits": [
+    [
+     32,
+     40,
+     [
+      "negative"
+     ]
+    ],
+    [
+     135,
+     138,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     171,
+     175,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
