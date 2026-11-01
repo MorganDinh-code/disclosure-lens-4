@@ -1,0 +1,303 @@
+{
+ "company": "The Walt Disney Company",
+ "ticker": "DIS",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q3 2025",
+ "date": "2025-08-06",
+ "source_url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-third-quarter-and-nine-months-earnings-for-fiscal-2025/",
+ "demo": false,
+ "source_text": "BURBANK, Calif.\u2013The Walt Disney Company today reported earnings for its third fiscal quarter ended June 28, 2025.\n\nFinancial Results for the Quarter:\n\nRevenues increased 2% for Q3 to $23.7 billion from $23.2 billion in Q3 fiscal 2024\nIncome before income taxes increased 4% for Q3 to $3.2 billion from $3.1 billion in Q3 fiscal 2024\nTotal segment operating income(1)increased 8% for Q3 to $4.6 billion from $4.2 billion in Q3 fiscal 2024\nDiluted earnings per share (EPS) for Q3 improved to $2.92 from $1.43 in Q3 fiscal 2024, and adjusted EPS(1)increased 16% for Q3 to $1.61 from $1.39 in Q3 fiscal 2024\nKey Points:\n\nEntertainment: Segment operating income of $1.0 billion, a $179 million decrease versus Q3 fiscal 2024\nDirect-to-Consumer revenue increased 6%, which included an adverse impact of 3 percentage points due to Disney+ Hotstar being included in the prior-year quarter\u2019s results\nDirect-to-Consumer operating income increased $365 million to $346 million\n183 million Disney+ and Hulu subscriptions, an increase of 2.6 million versus Q2 fiscal 2025\n128 million Disney+ subscribers, an increase of 1.8 million versus Q2 fiscal 2025\nLinear Networks operating income declined $269 million versus Q3 fiscal 2024 largely driven by the Star India transaction\nContent Sales/Licensing and Other declined $275 million versus Q3 fiscal 2024, reflecting the performance of titles in the quarter compared to the strong performance of Inside Out 2in the prior-year quarter\nSports: Segment operating income of $1.0 billion, an increase of $235 million versus Q3 fiscal 2024\nYear-over-year increase reflects the impact of a $314 million loss at Star India in Q3 fiscal 2024\nDomestic ESPN operating income declined 7% versus the prior-year quarter primarily due to higher programming and production costs reflecting contractual rate increases for the NBA and college sports\nDomestic advertising revenue growth of 3%\nExperiences: Segment operating income of $2.5 billion, an increase of $294 million versus Q3 fiscal 2024\nOperating income in the quarter reflects a ~$40 million benefit from timing of the Easter holiday, and a ~$30 million impact from pre-opening expenses at Disney Cruise Line\nDomestic Parks & Experiences operating income grew 22% to $1.7 billion\n(1)\tTotal segment operating income and diluted EPS excluding certain items (also referred to as adjusted EPS) are non-GAAP financial measures. The most comparable GAAP measures are income before income taxes and diluted EPS, respectively. See the discussion on pages 17 through 21 for how we define and calculate these measures and a quantitative reconciliation thereof to the most directly comparable GAAP measures.\nGuidance and Outlook:\n\nQ4 Fiscal 2025:\nTotal Disney+ and Hulu subscriptions: Increase of more than 10 million compared to Q3 fiscal 2025, with the majority of the increase coming from Hulu as a result of expanded Charter deal\nDisney+ subscribers: Modest increase in Disney+ subscribers compared to Q3 fiscal 2025\nFiscal Year 2025:\nAdjusted EPS(1)of $5.85, an increase of 18% over fiscal 2024\nEntertainment Direct-to-Consumer: Operating income of $1.3 billion\nEntertainment: Double-digit percentage segment operating income growth\nSports: 18% segment operating income growth\nExperiences: 8% segment operating income growth\nDisney Cruise Line pre-opening expense of ~$185 million, with ~$50 million in Q4 fiscal 2025\nEquity loss from India JV of ~$200 million driven by purchase accounting amortization\nMessage From Our CEO:\n\n\u201cWe are pleased with our creative success and financial performance in Q3 as we continue to execute across our strategic priorities,\u201d said Robert A. Iger, Chief Executive Officer, The Walt Disney Company. \u201cThe company is taking major steps forward in streaming with the upcoming launch of ESPN\u2019s direct-to-consumer service, our just-announced plans with the NFL, and our forthcoming integration of Hulu into Disney+, creating a truly differentiated streaming proposition that harnesses the highest-caliber brands and franchises, general entertainment, family programming, news, and industry-leading sports content. And we have more expansions underway around the world in our parks and experiences than at any other time in our history. With ambitious plans ahead for all our businesses, we\u2019re not done building, and we are excited for Disney\u2019s future.\u201d",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 21,
+  "n_material_neg": 1,
+  "n_positive": 9,
+  "mean_pos_negative": 0.7619047619047619,
+  "mean_pos_positive": 0.4021164021164021,
+  "placement_asymmetry": 0.35978835978835977,
+  "distance_from_headline": 14,
+  "first_negative_pos": 0.7619047619047619,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.16666666666666663,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.06466815581954174
+ },
+ "lexicon": {
+  "words": 328,
+  "per_1000": {
+   "Negative": 3.0,
+   "Positive": 21.3,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 3.0,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 7,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BURBANK, Calif.\u2013The Walt Disney Company today reported earnings for its third fiscal quarter ended June 28, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Financial Results for the Quarter:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Revenues increased 2% for Q3 to $23.7 billion from $23.2 billion in Q3 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Income before income taxes increased 4% for Q3 to $3.2 billion from $3.1 billion in Q3 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Total segment operating income(1)increased 8% for Q3 to $4.6 billion from $4.2 billion in Q3 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Diluted earnings per share (EPS) for Q3 improved to $2.92 from $1.43 in Q3 fiscal 2024, and adjusted EPS(1)increased 16% for Q3 to $1.61 from $1.39 in Q3 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.417,
+   "h": 0.0,
+   "hits": [
+    [
+     40,
+     48,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "Key Points:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Q4 Fiscal 2025: Total Disney+ and Hulu subscriptions: Increase of more than 10 million compared to Q3 fiscal 2025, with the majority of the increase coming from Hulu as a result of expanded Charter deal.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Disney+ subscribers: Modest increase in Disney+ subscribers compared to Q3 fiscal 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Fiscal Year 2025: Adjusted EPS(1)of $5.85, an increase of 18% over fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Entertainment Direct-to-Consumer: Operating income of $1.3 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Entertainment: Double-digit percentage segment operating income growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Sports: 18% segment operating income growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Experiences: 8% segment operating income growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Disney Cruise Line pre-opening expense of ~$185 million, with ~$50 million in Q4 fiscal 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Equity loss from India JV of ~$200 million driven by purchase accounting amortization.",
+   "d": -1,
+   "m": true,
+   "tone": -0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Message From Our CEO:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "\u201cWe are pleased with our creative success and financial performance in Q3 as we continue to execute across our strategic priorities,\u201d said Robert A.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     8,
+     15,
+     [
+      "positive"
+     ]
+    ],
+    [
+     25,
+     33,
+     [
+      "positive"
+     ]
+    ],
+    [
+     34,
+     41,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "Iger, Chief Executive Officer, The Walt Disney Company. \u201cThe company is taking major steps forward in streaming with the upcoming launch of ESPN\u2019s direct-to-consumer service, our just-announced plans with the NFL, and our forthcoming integration of Hulu into Disney+, creating a truly differentiated streaming proposition that harnesses the highest-caliber brands and franchises, general entertainment, family programming, news, and industry-leading sports content.",
+   "d": 0,
+   "m": false,
+   "tone": 0.299,
+   "h": 0.0,
+   "hits": [
+    [
+     341,
+     348,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     442,
+     449,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "And we have more expansions underway around the world in our parks and experiences than at any other time in our history.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "With ambitious plans ahead for all our businesses, we\u2019re not done building, and we are excited for Disney\u2019s future.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.476,
+   "h": 0.0,
+   "hits": [
+    [
+     87,
+     94,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
