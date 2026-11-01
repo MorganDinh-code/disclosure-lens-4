@@ -1,0 +1,548 @@
+{
+ "company": "Meta Platforms, Inc.",
+ "ticker": "META",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q2 FY2025",
+ "date": "2025-07-30",
+ "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Second-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "\"We've had a strong quarter both in terms of our business and community,\" said Mark Zuckerberg, Meta founder and CEO. \"I'm excited to build personal superintelligence for everyone in the world.\"\nSecond Quarter 2025 Operational and Other Financial Highlights\n\nFamily daily active people (DAP) \u2013 DAP was 3.48 billion on average for June 2025, an increase of 6% year-over-year.\n \nAd impressions \u2013 Ad impressions delivered across our Family of Apps increased by 11% year-over-year.\n \nAverage price per ad \u2013 Average price per ad increased by 9% year-over-year.\n \nRevenue \u2013 Revenue was $47.52 billion, which increased by 22% year-over-year on both a reported and constant currency basis.\n \nCosts and expenses \u2013 Total costs and expenses were $27.07 billion, an increase of 12% year-over-year.\n \nCapital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $17.01 billion.\n \nCapital return program \u2013 Share repurchases of our Class A common stock were $9.76 billion and total dividend and dividend equivalent payments were $1.33 billion.\n \nCash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $47.07 billion as of June 30, 2025. Cash flow from operating activities was $25.56 billion and free cash flow was $8.55 billion.(1)\n \nHeadcount \u2013 Headcount was 75,945 as of June 30, 2025, an increase of 7% year-over-year.\n\nCFO Outlook Commentary\n\nWe expect third quarter 2025 total revenue to be in the range of $47.5-50.5 billion. Our guidance assumes foreign currency is an approximately 1% tailwind to year-over-year total revenue growth, based on current exchange rates. While we are not providing an outlook for fourth quarter revenue, we would expect our year-over-year growth rate in the fourth quarter of 2025 to be slower than the third quarter as we lap a period of stronger growth in the fourth quarter of 2024.\n\nWe expect full year 2025 total expenses to be in the range of $114-118 billion, narrowed from our prior outlook of $113-118 billion and reflecting a growth rate of 20-24% year-over-year.\n\nWhile we are still very early in planning for next year, there are a few factors we expect will provide meaningful upward pressure on our 2026 total expense growth rate. The largest single driver of growth will be infrastructure costs, driven by a sharp acceleration in depreciation expense growth and higher operating costs as we continue to scale up our infrastructure fleet. Aside from infrastructure, we expect the second largest driver of growth to be employee compensation as we add technical talent in priority areas and recognize a full year of compensation expenses for employees hired throughout 2025. We expect these factors will result in a 2026 year-over-year expense growth rate that is above the 2025 expense growth rate.\n\nWe currently expect 2025 capital expenditures, including principal payments on finance leases, to be in the range of $66-72 billion, narrowed from our prior outlook of $64-72 billion and up approximately $30 billion year-over-year at the mid-point. While the infrastructure planning process remains highly dynamic, we currently expect another year of similarly significant capital expenditures dollar growth in 2026 as we continue aggressively pursuing opportunities to bring additional capacity online to meet the needs of our artificial intelligence efforts and business operations.\n\nWith the enactment of the new U.S. tax law, we anticipate a reduction in our U.S. federal cash tax for the remainder of the current year and future years. There are several alternative ways of implementing the provisions of the Act, which we are currently evaluating. While we estimate that the 2025 tax rate will be higher than our second quarter rate, we cannot quantify the magnitude at this time.\n\nIn addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in the EU that could significantly impact our business and our financial results. For example, we continue to engage with the European Commission (EC) on our Less Personalized Ads offering (LPA), which we introduced in November 2024 based on feedback from the EC in connection with the Digital Markets Act (DMA). As the EC provides further feedback on LPA, we cannot rule out that it may seek to impose further modifications to it that would result in a materially worse user and advertiser experience. This could have a significant negative impact on our European revenue, as early as later this quarter. We have appealed the EC's DMA decision but any modifications to our model may be imposed during the appeal process.\n ",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 32,
+  "n_material_neg": 1,
+  "n_positive": 11,
+  "mean_pos_negative": 0.25,
+  "mean_pos_positive": 0.4971590909090909,
+  "placement_asymmetry": -0.24715909090909088,
+  "distance_from_headline": 4,
+  "first_negative_pos": 0.25,
+  "hedge_near_negative": 0.0,
+  "hedge_near_positive": 0.024287410302814758,
+  "hedging_asymmetry": 0.0,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 1.0,
+  "overall_hedge": 0.022566995768688293,
+  "mean_tone": 0.023284313725490193
+ },
+ "lexicon": {
+  "words": 709,
+  "per_1000": {
+   "Negative": 4.2,
+   "Positive": 5.6,
+   "Uncertainty": 11.3,
+   "Litigious": 8.5,
+   "Strong modal": 5.6,
+   "Weak modal": 5.6,
+   "Constraining": 2.8
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 4,
+   "Uncertainty": 8,
+   "Litigious": 6,
+   "Strong modal": 4,
+   "Weak modal": 4,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We've had a strong quarter both in terms of our business and community,\" said Mark Zuckerberg, Meta founder and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"I'm excited to build personal superintelligence for everyone in the world.\".",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Second Quarter 2025 Operational and Other Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Family daily active people (DAP) \u2013 DAP was 3.48 billion on average for June 2025, an increase of 6% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Ad impressions \u2013 Ad impressions delivered across our Family of Apps increased by 11% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Average price per ad \u2013 Average price per ad increased by 9% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Revenue \u2013 Revenue was $47.52 billion, which increased by 22% year-over-year on both a reported and constant currency basis.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Costs and expenses \u2013 Total costs and expenses were $27.07 billion, an increase of 12% year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Capital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $17.01 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Capital return program \u2013 Share repurchases of our Class A common stock were $9.76 billion and total dividend and dividend equivalent payments were $1.33 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Cash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $47.07 billion as of June 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Cash flow from operating activities was $25.56 billion and free cash flow was $8.55 billion.(1)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Headcount \u2013 Headcount was 75,945 as of June 30, 2025, an increase of 7% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "CFO Outlook Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "We expect third quarter 2025 total revenue to be in the range of $47.5-50.5 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Our guidance assumes foreign currency is an approximately 1% tailwind to year-over-year total revenue growth, based on current exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0952,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     44,
+     57,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "While we are not providing an outlook for fourth quarter revenue, we would expect our year-over-year growth rate in the fourth quarter of 2025 to be slower than the third quarter as we lap a period of stronger growth in the fourth quarter of 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0222,
+   "hits": [
+    [
+     149,
+     155,
+     [
+      "negative"
+     ]
+    ],
+    [
+     201,
+     209,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We expect full year 2025 total expenses to be in the range of $114-118 billion, narrowed from our prior outlook of $113-118 billion and reflecting a growth rate of 20-24% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "While we are still very early in planning for next year, there are a few factors we expect will provide meaningful upward pressure on our 2026 total expense growth rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": [
+    [
+     91,
+     95,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "The largest single driver of growth will be infrastructure costs, driven by a sharp acceleration in depreciation expense growth and higher operating costs as we continue to scale up our infrastructure fleet.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     36,
+     40,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Aside from infrastructure, we expect the second largest driver of growth to be employee compensation as we add technical talent in priority areas and recognize a full year of compensation expenses for employees hired throughout 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0286,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "We expect these factors will result in a 2026 year-over-year expense growth rate that is above the 2025 expense growth rate.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     24,
+     28,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 23,
+   "t": "We currently expect 2025 capital expenditures, including principal payments on finance leases, to be in the range of $66-72 billion, narrowed from our prior outlook of $64-72 billion and up approximately $30 billion year-over-year at the mid-point.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0556,
+   "hits": [
+    [
+     190,
+     203,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "While the infrastructure planning process remains highly dynamic, we currently expect another year of similarly significant capital expenditures dollar growth in 2026 as we continue aggressively pursuing opportunities to bring additional capacity online to meet the needs of our artificial intelligence efforts and business operations.",
+   "d": 1,
+   "m": false,
+   "tone": 0.227,
+   "h": 0.0227,
+   "hits": [
+    [
+     204,
+     217,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "With the enactment of the new U.S. tax law, we anticipate a reduction in our U.S. federal cash tax for the remainder of the current year and future years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0323,
+   "hits": [
+    [
+     39,
+     42,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     47,
+     57,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "There are several alternative ways of implementing the provisions of the Act, which we are currently evaluating.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 27,
+   "t": "While we estimate that the 2025 tax rate will be higher than our second quarter rate, we cannot quantify the magnitude at this time.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     41,
+     45,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in the EU that could significantly impact our business and our financial results.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     46,
+     56,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     93,
+     98,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     103,
+     113,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     139,
+     144,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "For example, we continue to engage with the European Commission (EC) on our Less Personalized Ads offering (LPA), which we introduced in November 2024 based on feedback from the EC in connection with the Digital Markets Act (DMA).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "As the EC provides further feedback on LPA, we cannot rule out that it may seek to impose further modifications to it that would result in a materially worse user and advertiser experience.",
+   "d": 0,
+   "m": false,
+   "tone": -0.303,
+   "h": 0.0303,
+   "hits": [
+    [
+     71,
+     74,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     83,
+     89,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     152,
+     157,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 31,
+   "t": "This could have a significant negative impact on our European revenue, as early as later this quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -0.588,
+   "h": 0.0588,
+   "hits": [
+    [
+     5,
+     10,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     30,
+     38,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 32,
+   "t": "We have appealed the EC's DMA decision but any modifications to our model may be imposed during the appeal process.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     8,
+     16,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     74,
+     77,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     81,
+     88,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     100,
+     106,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  }
+ ]
+}
