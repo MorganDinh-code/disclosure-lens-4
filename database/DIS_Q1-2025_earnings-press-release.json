@@ -1,0 +1,386 @@
+{
+ "company": "The Walt Disney Company",
+ "ticker": "DIS",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q1 2025",
+ "date": "2025-02-05",
+ "source_url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-first-quarter-earnings-for-fiscal-2025/",
+ "demo": false,
+ "source_text": "BURBANK, Calif.\u2013The Walt Disney Company (NYSE: DIS) today reported earnings for its first fiscal quarter ended December 28, 2024.\n\n \n\nFinancial Results for the Quarter:\n\nRevenues increased 5% for Q1 to $24.7 billion from $23.5 billion in Q1 fiscal 2024\nIncome before income taxes increased 27% for Q1 to $3.7 billion from $2.9 billion in Q1 fiscal 2024\nDiluted earnings per share (EPS) increased 35% for Q1 to $1.40 from $1.04 in Q1 fiscal 2024\nTotal segment operating income(1) increased 31% for Q1 to $5.1 billion from $3.9 billion in Q1 fiscal 2024 and adjusted EPS(1) increased 44% for Q1 to $1.76 from $1.22 in Q1 fiscal 2024\nKey Points:\n\nEntertainment: Segment operating income increased $0.8 billion to $1.7 billion\nDirect-to-Consumer operating income increased $431 million to $293 million\nDirect-to-Consumer advertising revenue declined 2%; excluding the Disney+ Hotstar service in India(2), Direct-to-Consumer advertising revenue was up 16% vs. Q1 fiscal 2024\n178 million Disney+ and Hulu subscriptions, an increase of 0.9 million vs. Q4 fiscal 2024\n125 million Disney+ subscribers, a decrease of 0.7 million vs. Q4 fiscal 2024\nContent Sales/Licensing and Other operating income increased $536 million to $312 million driven by the performance of Moana 2\nSports: Segment operating income increased $350 million to $247 million\nDomestic ESPN advertising revenue up 15% vs. Q1 fiscal 2024\nExperiences: Segment operating income of $3.1 billion comparable to Q1 fiscal 2024, reflecting a 6 percentage-point adverse impact to year-over-year growth due to Hurricanes Milton and Helene (~$120 million impact) and pre-opening expenses (~$75 million impact in Q1 fiscal 2025) driven by the launch of the Disney Treasure\nDomestic Parks & Experiences operating income declined 5%, reflecting a 9 percentage-point adverse impact to year-over-year growth due to the hurricanes and cruise pre-opening expenses\nInternational Parks & Experiences operating income increased 28% vs. Q1 fiscal 2024\n(1)\t\tTotal segment operating income and diluted EPS excluding certain items (also referred to as adjusted EPS) are non-GAAP financial measures. The most comparable GAAP measures are income before income taxes and diluted EPS, respectively. See the discussion on pages 17 through 20 for how we define and calculate these measures and a quantitative reconciliation thereof to the most directly comparable GAAP measures.\n(2)\t\tThe Disney+ Hotstar service in India had advertising revenue of approximately $15 million in Q1 fiscal 2025 and $165 million in Q1 fiscal 2024.\n \n\nGuidance and Outlook:\n\nStar India deconsolidated in Q1(1):\nOur India business will contribute $73 million to Entertainment segment operating income in fiscal 2025, compared to $254 million in the prior year; and $9 million to Sports segment operating income, compared to a $636 million loss in the prior year\nEquity loss from the India JV of $33 million in Q1 primarily due to the impact of purchase accounting; for the full year we expect an equity loss of roughly $300 million driven by purchase accounting\nQ2 Fiscal 2025:\nEntertainment Direct-to-Consumer: Modest decline in Disney+ subscribers compared to Q1\nSports: Segment operating income adversely impacted by approximately $100 million due to college sports and one additional NFL game, and about $50 million from exiting the Venu Sports JV\nExperiences: Disney Cruise Line pre-opening expense of approximately $40 million\nFiscal Year 2025:\nHigh-single digit adjusted EPS(2) growth compared to fiscal 2024\nApproximately $15 billion in cash provided by operations\nEntertainment: Double-digit percentage segment operating income growth, with an increase in Entertainment Direct-to-Consumer operating income of approximately $875 million(3)\nSports: 13% segment operating income growth\nExperiences: 6% to 8% segment operating income growth\nDisney Cruise Line pre-opening expense of ~$200 million\nMessage From Our CEO: \u201cOur results this quarter demonstrate Disney\u2019s creative and financial strength as we advanced the strategic initiatives set in motion over the past two years,\u201d said Robert A. Iger, Chief Executive Officer, The Walt Disney Company. \u201cIn fiscal Q1 we saw outstanding box office performance from our studios, which had the top three movies of 2024; we further improved the profitability of our Entertainment DTC streaming businesses; we took an important step to advance ESPN\u2019s digital strategy by adding an ESPN tile on Disney+; and our Experiences segment demonstrated its enduring appeal as we continue investing strategically across the globe. Overall, this quarter proved to be a strong start to the fiscal year, and we remain confident in our strategy for continued growth.\u201d",
+ "boilerplate_paragraphs_removed": 1,
+ "summary": {
+  "n_sentences": 22,
+  "n_material_neg": 3,
+  "n_positive": 10,
+  "mean_pos_negative": 0.45454545454545453,
+  "mean_pos_positive": 0.5727272727272728,
+  "placement_asymmetry": -0.11818181818181822,
+  "distance_from_headline": 7,
+  "first_negative_pos": 0.4090909090909091,
+  "hedge_near_negative": 0.02937097858446173,
+  "hedge_near_positive": 0.016328463203463203,
+  "hedging_asymmetry": 1.7987595169539448,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.4845255175240828,
+  "overall_hedge": 0.014925373134328358,
+  "mean_tone": -0.006565946483138175
+ },
+ "lexicon": {
+  "words": 402,
+  "per_1000": {
+   "Negative": 12.4,
+   "Positive": 14.9,
+   "Uncertainty": 12.4,
+   "Litigious": 2.5,
+   "Strong modal": 2.5,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 5,
+   "Positive": 6,
+   "Uncertainty": 5,
+   "Litigious": 1,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "BURBANK, Calif.\u2013The Walt Disney Company (NYSE: DIS) today reported earnings for its first fiscal quarter ended December 28, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Financial Results for the Quarter:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Revenues increased 5% for Q1 to $24.7 billion from $23.5 billion in Q1 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Income before income taxes increased 27% for Q1 to $3.7 billion from $2.9 billion in Q1 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Diluted earnings per share (EPS) increased 35% for Q1 to $1.40 from $1.04 in Q1 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Total segment operating income(1) increased 31% for Q1 to $5.1 billion from $3.9 billion in Q1 fiscal 2024 and adjusted EPS(1) increased 44% for Q1 to $1.76 from $1.22 in Q1 fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Key Points:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Guidance and Outlook:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Star India deconsolidated in Q1(1): Our India business will contribute $73 million to Entertainment segment operating income in fiscal 2025, compared to $254 million in the prior year; and $9 million to Sports segment operating income, compared to a $636 million loss in the prior year.",
+   "d": -1,
+   "m": true,
+   "tone": -0.244,
+   "h": 0.0,
+   "hits": [
+    [
+     55,
+     59,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     263,
+     267,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "t": "Equity loss from the India JV of $33 million in Q1 primarily due to the impact of purchase accounting; for the full year we expect an equity loss of roughly $300 million driven by purchase accounting.",
+   "d": -1,
+   "m": true,
+   "tone": -0.588,
+   "h": 0.0588,
+   "hits": [
+    [
+     7,
+     11,
+     [
+      "negative"
+     ]
+    ],
+    [
+     141,
+     145,
+     [
+      "negative"
+     ]
+    ],
+    [
+     149,
+     156,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Q2 Fiscal 2025: Entertainment Direct-to-Consumer: Modest decline in Disney+ subscribers compared to Q1.",
+   "d": -1,
+   "m": true,
+   "tone": -0.714,
+   "h": 0.0,
+   "hits": [
+    [
+     57,
+     64,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "t": "Sports: Segment operating income adversely impacted by approximately $100 million due to college sports and one additional NFL game, and about $50 million from exiting the Venu Sports JV.",
+   "d": 0,
+   "m": false,
+   "tone": -0.37,
+   "h": 0.037,
+   "hits": [
+    [
+     33,
+     42,
+     [
+      "negative"
+     ]
+    ],
+    [
+     55,
+     68,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "t": "Experiences: Disney Cruise Line pre-opening expense of approximately $40 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1,
+   "hits": [
+    [
+     55,
+     68,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "t": "Fiscal Year 2025: High-single digit adjusted EPS(2) growth compared to fiscal 2024.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Approximately $15 billion in cash provided by operations.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.1429,
+   "hits": [
+    [
+     0,
+     13,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 16,
+   "t": "Entertainment: Double-digit percentage segment operating income growth, with an increase in Entertainment Direct-to-Consumer operating income of approximately $875 million(3).",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": [
+    [
+     145,
+     158,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 17,
+   "t": "Sports: 13% segment operating income growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Experiences: 6% to 8% segment operating income growth.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Disney Cruise Line pre-opening expense of ~$200 million.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Message From Our CEO: \u201cOur results this quarter demonstrate Disney\u2019s creative and financial strength as we advanced the strategic initiatives set in motion over the past two years,\u201d said Robert A.",
+   "d": 0,
+   "m": false,
+   "tone": 0.625,
+   "h": 0.0,
+   "hits": [
+    [
+     69,
+     77,
+     [
+      "positive"
+     ]
+    ],
+    [
+     92,
+     100,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "Iger, Chief Executive Officer, The Walt Disney Company. \u201cIn fiscal Q1 we saw outstanding box office performance from our studios, which had the top three movies of 2024; we further improved the profitability of our Entertainment DTC streaming businesses; we took an important step to advance ESPN\u2019s digital strategy by adding an ESPN tile on Disney+; and our Experiences segment demonstrated its enduring appeal as we continue investing strategically across the globe.",
+   "d": 1,
+   "m": false,
+   "tone": 0.278,
+   "h": 0.0,
+   "hits": [
+    [
+     181,
+     189,
+     [
+      "positive"
+     ]
+    ],
+    [
+     194,
+     207,
+     [
+      "positive"
+     ]
+    ],
+    [
+     405,
+     411,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Overall, this quarter proved to be a strong start to the fiscal year, and we remain confident in our strategy for continued growth.\u201d",
+   "d": 1,
+   "m": false,
+   "tone": 0.87,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     43,
+     [
+      "positive"
+     ]
+    ],
+    [
+     84,
+     93,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
