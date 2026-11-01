@@ -1,0 +1,401 @@
+{
+ "company": "Meta Platforms, Inc.",
+ "ticker": "META",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q1 FY2024",
+ "date": "2024-04-24",
+ "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2024/Meta-Reports-First-Quarter-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "\"It's been a good start to the year,\" said Mark Zuckerberg, Meta founder and CEO. \"The new version of Meta AI with Llama 3 is another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making steady progress building the metaverse as well.\"\n\n First Quarter 2024 Operational and Other Financial Highlights\n\nFamily daily active people (DAP) \u2013 DAP was 3.24 billion on average for March 2024, an increase of 7% year-over-year.\nAd impressions \u2013 Ad impressions delivered across our Family of Apps increased by 20% year-over-year.\nAverage price per ad \u2013 Average price per ad increased by 6% year-over-year.\nRevenue \u2013 Total revenue and revenue on a constant currency basis were $36.46 billion and $36.35 billion, respectively, both of which increased by 27% year-over-year.\nCosts and expenses \u2013 Total costs and expenses were $22.64 billion, an increase of 6% year-over-year.\nCapital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $6.72 billion.\nCapital return program \u2013 Share repurchases were $14.64 billion of our Class A common stock and dividends payments were $1.27 billion.\nCash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $58.12 billion as of March 31, 2024. Free cash flow was $12.53 billion.\nHeadcount \u2013 Headcount was 69,329 as of March 31, 2024, a decrease of 10% year-over-year.\n \n\nCFO Outlook Commentary\n\nWe expect second quarter 2024 total revenue to be in the range of $36.5-39 billion. Our guidance assumes foreign currency is a 1% headwind to year-over-year total revenue growth, based on current exchange rates.\n\nWe expect full-year 2024 total expenses to be in the range of $96-99 billion, updated from our prior outlook of $94-99 billion due to higher infrastructure and legal costs. For Reality Labs, we continue to expect operating losses to increase meaningfully year-over-year due to our ongoing product development efforts and our investments to further scale our ecosystem.\n\nWe anticipate our full-year 2024 capital expenditures will be in the range of $35-40 billion, increased from our prior range of $30-37 billion as we continue to accelerate our infrastructure investments to support our artificial intelligence (AI) roadmap. While we are not providing guidance for years beyond 2024, we expect capital expenditures will continue to increase next year as we invest aggressively to support our ambitious AI research and product development efforts.\n\nAbsent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.\n\nIn addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in the EU and the U.S. that could significantly impact our business and our financial results.\n\nQ1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress on our longer-term AI and Reality Labs initiatives that have the potential to transform the way people interact with our services over the coming years.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 25,
+  "n_material_neg": 2,
+  "n_positive": 6,
+  "mean_pos_negative": 0.54,
+  "mean_pos_positive": 0.4066666666666667,
+  "placement_asymmetry": 0.13333333333333336,
+  "distance_from_headline": 5,
+  "first_negative_pos": 0.36,
+  "hedge_near_negative": 0.01948051948051948,
+  "hedge_near_positive": 0.013383838383838385,
+  "hedging_asymmetry": 1.4555256064690025,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9166666666666667,
+  "overall_hedge": 0.017057569296375266,
+  "mean_tone": 0.11908496732026144
+ },
+ "lexicon": {
+  "words": 469,
+  "per_1000": {
+   "Negative": 2.1,
+   "Positive": 12.8,
+   "Uncertainty": 6.4,
+   "Litigious": 8.5,
+   "Strong modal": 4.3,
+   "Weak modal": 2.1,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 6,
+   "Uncertainty": 3,
+   "Litigious": 4,
+   "Strong modal": 2,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"It's been a good start to the year,\" said Mark Zuckerberg, Meta founder and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     17,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"The new version of Meta AI with Llama 3 is another step towards building the world's leading AI.",
+   "d": 0,
+   "m": false,
+   "tone": 0.588,
+   "h": 0.0,
+   "hits": [
+    [
+     86,
+     93,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "We're seeing healthy growth across our apps and we continue making steady progress building the metaverse as well.\"",
+   "d": 1,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     74,
+     82,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "First Quarter 2024 Operational and Other Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Family daily active people (DAP) \u2013 DAP was 3.24 billion on average for March 2024, an increase of 7% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Ad impressions \u2013 Ad impressions delivered across our Family of Apps increased by 20% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Average price per ad \u2013 Average price per ad increased by 6% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Revenue \u2013 Total revenue and revenue on a constant currency basis were $36.46 billion and $36.35 billion, respectively, both of which increased by 27% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Costs and expenses \u2013 Total costs and expenses were $22.64 billion, an increase of 6% year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Capital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $6.72 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Capital return program \u2013 Share repurchases were $14.64 billion of our Class A common stock and dividends payments were $1.27 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Cash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $58.12 billion as of March 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Free cash flow was $12.53 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Headcount \u2013 Headcount was 69,329 as of March 31, 2024, a decrease of 10% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "CFO Outlook Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "We expect second quarter 2024 total revenue to be in the range of $36.5-39 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Our guidance assumes foreign currency is a 1% headwind to year-over-year total revenue growth, based on current exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 18,
+   "t": "We expect full-year 2024 total expenses to be in the range of $96-99 billion, updated from our prior outlook of $94-99 billion due to higher infrastructure and legal costs.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.037,
+   "hits": [
+    [
+     160,
+     165,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 19,
+   "t": "For Reality Labs, we continue to expect operating losses to increase meaningfully year-over-year due to our ongoing product development efforts and our investments to further scale our ecosystem.",
+   "d": -1,
+   "m": false,
+   "tone": -0.333,
+   "h": 0.0333,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "We anticipate our full-year 2024 capital expenditures will be in the range of $35-40 billion, increased from our prior range of $30-37 billion as we continue to accelerate our infrastructure investments to support our artificial intelligence (AI) roadmap.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0278,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     54,
+     58,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 21,
+   "t": "While we are not providing guidance for years beyond 2024, we expect capital expenditures will continue to increase next year as we invest aggressively to support our ambitious AI research and product development efforts.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0303,
+   "hits": [
+    [
+     90,
+     94,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in the EU and the U.S. that could significantly impact our business and our financial results.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0294,
+   "hits": [
+    [
+     46,
+     56,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     93,
+     98,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     103,
+     113,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     152,
+     157,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 24,
+   "t": "Q1 was a good start to the year.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     9,
+     13,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "We're seeing strong momentum within our Family of Apps and are making important progress on our longer-term AI and Reality Labs initiatives that have the potential to transform the way people interact with our services over the coming years.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     19,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     88,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
