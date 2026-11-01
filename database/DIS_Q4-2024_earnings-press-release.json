@@ -1,0 +1,203 @@
+{
+ "company": "The Walt Disney Company",
+ "ticker": "DIS",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q4 2024",
+ "date": "2024-11-14",
+ "source_url": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2024/",
+ "demo": false,
+ "source_text": "Financial Results for the Quarter and Full Year:\nRevenues increased 6% for Q4 to $22.6 billion from $21.2 billion in the prior-year quarter, and 3% for the year to $91.4 billion from $88.9 billion in the prior year.\nIncome before income taxes declined 6% to $0.9 billion in Q4 from $1.0 billion in the prior-year quarter and increased 59% for the year to $7.6 billion from $4.8 billion in the prior year.\nDiluted earnings per share (EPS) for Q4 increased 79% to $0.25 from $0.14 in the prior-year quarter, and for the year more than doubled to $2.72 from $1.29 in the prior year.\nKey Points:\nWe achieved strong 23% growth in total segment operating income([1]) for Q4 and 21% for the year, and 39% growth in adjusted EPS(1) to $1.14 from $0.82 for Q4 and 32% to $4.97 from $3.76 for the year.\nEntertainment segment operating income improved significantly, to $1.1 billion, up $0.8 billion in Q4 versus the prior-year quarter.\nEntertainment DTC delivered 14% ad revenue growth in Q4, contributing to $253 million in operating income, and our combined DTC streaming businesses improved their profitability in Q4, with operating income(1) of $321 million.\nWe ended the quarter with 174 million Disney+ Core and Hulu subscriptions, and more than 120 million Disney+ Core paid subscribers, an increase of 4.4 million over the prior quarter.\nPixar\u2019s Inside Out 2 and Marvel\u2019s Deadpool & Wolverine broke numerous box office records and helped drive $316 million in operating income at Content Sales/Licensing and Other in Q4.\nSports segment operating income was $0.9 billion, a decline of $0.1 billion compared to the prior-year quarter. Domestic ESPN advertising revenue in Q4 grew 7% versus the prior-year quarter.\nThe Experiences segment had record revenue and operating income for the full year. In Q4, Experiences revenue increased $0.1 billion, or 1%, and operating income of $1.7 billion was a decline of $0.1 billion, or 6% compared to the prior-year quarter. Domestic Parks & Experiences operating income increased in Q4, on comparable attendance to the prior-year quarter, driven by higher guest spending, partially offset by higher expenses and costs related to new guest offerings driven by Disney Cruise Line. International Parks & Experiences operating income declined in Q4.\n(1)\t\t\nDiluted EPS excluding certain items (also referred to as adjusted EPS), total segment operating income and DTC streaming businesses operating income are non-GAAP financial measures. The most comparable GAAP measures are diluted EPS, income before income taxes and segment operating income for the Entertainment segment and Sports segment, respectively. See the discussion on pages 18 through 22 for how we define and calculate these measures and a quantitative reconciliation thereof to the most directly comparable GAAP measures.\n\nGuidance and Outlook:\nWe are confident in the long-term prospects for the business and believe we are well positioned for growth.\nFiscal 2025:\nHigh-single digit adjusted EPS(1) growth compared to fiscal 2024\nApproximately $15 billion in cash provided by operations\nApproximately $8 billion of capital expenditures\nTarget dividend growth that tracks our earnings growth\nTargeting $3 billion in stock repurchases\nEntertainment: Double digit percentage segment operating income growth compared to fiscal 2024, weighted to the first half of the year\nEntertainment DTC operating income increase of approximately $875 million versus fiscal 2024, which includes a comparison to an adverse impact of our India DTC business of approximately $200 million on fiscal 2024 Entertainment DTC results\nModest decline in Q1 Disney+ Core subscribers versus Q4\nQ1 Content Sales/Licensing and Other operating income relatively in-line with Q4\nSports: 13% segment operating income growth compared to fiscal 2024 on a reported basis. Adjusting for the impact of our India business on Sports\u2019 fiscal 2024 results, operating income is expected to decrease approximately 10%\nExperiences: 6% to 8% segment operating income growth compared to fiscal 2024, weighted to the second half of the year\nQ1 operating income adversely impacted by approximately $130 million due to Hurricanes Helene and Milton and approximately $90 million due to Disney Cruise Line pre-launch costs\nFiscal 2026(2):\nDouble digit adjusted EPS(1) growth\nDouble digit growth in cash provided by operations\nWhen comparing to our fiscal 2025 guide, we expect:\nEntertainment: Double digit percentage segment operating income growth; 10% operating margin for our Entertainment SVOD DTC businesses (excluding our Hulu Live DMVPD service)(1)\nSports: Low single digit percentage segment operating income growth\nExperiences: High single digit percentage segment operating income growth\nFiscal 2027:\nDouble digit adjusted EPS(1) growth\n(1)\t\nDiluted EPS excluding certain items (also referred to as adjusted EPS) is a non-GAAP financial measure. Operating margin for Entertainment SVOD DTC businesses (excluding our Hulu Live DMVPD service) is calculated as operating income divided by revenue. Operating income for Entertainment SVOD DTC businesses (excluding our Hulu Live DMVPD service) is a non-GAAP financial measure. The most comparable GAAP measures to these non-GAAP measures are diluted EPS and Entertainment segment operating income, respectively. See the discussion on pages 18 through 22 for how we define and calculate these measures and why the Company is not providing forward-looking quantitative reconciliations of diluted EPS excluding certain items and operating income (and related margin) for our Entertainment SVOD DTC businesses (excluding our Hulu Live DMVPD service) to the most comparable GAAP measures.\n\n(2)\t\nFiscal 2026 includes a 53rd week and these segment operating income growth rates exclude the expected benefit of the extra week.\n\n \n\nMessage From Our CEO:\n\u201cThis was a pivotal and successful year for The Walt Disney Company, and thanks to the significant progress we\u2019ve made, we have emerged from a period of considerable challenges and disruption well positioned for growth and optimistic about our future,\u201d said Robert A. Iger, Chief Executive Officer, The Walt Disney Company. \u201cOur solid performance in the fiscal fourth quarter reflected the success of our strategic efforts to improve quality, innovation, efficiency, and value creation. In Q4 we saw one of the best quarters in the history of our film studio, improved profitability in our streaming businesses, a record-breaking 60 Emmy Awards for the company, the continued power of live sports, and the unveiling of an impressive collection of new projects coming to our Experiences segment. As a result of our strategies and our focus on managing our businesses for both the near- and long-term, we are differentiating ourselves from traditional competitors, leveraging the deepest and broadest set of entertainment assets in the industry to drive attractive returns and further advance our goals.\u201d",
+ "boilerplate_paragraphs_removed": 2,
+ "summary": {
+  "n_sentences": 6,
+  "n_material_neg": 0,
+  "n_positive": 3,
+  "mean_pos_positive": 0.5555555555555556,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.0,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.0,
+  "mean_tone": 0.36683006535947715
+ },
+ "lexicon": {
+  "words": 198,
+  "per_1000": {
+   "Negative": 10.1,
+   "Positive": 60.6,
+   "Uncertainty": 0.0,
+   "Litigious": 0.0,
+   "Strong modal": 5.1,
+   "Weak modal": 0.0,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 2,
+   "Positive": 12,
+   "Uncertainty": 0,
+   "Litigious": 0,
+   "Strong modal": 1,
+   "Weak modal": 0,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "(2).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 2,
+   "t": "Fiscal 2026 includes a 53rd week and these segment operating income growth rates exclude the expected benefit of the extra week.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "Message From Our CEO: \u201cThis was a pivotal and successful year for The Walt Disney Company, and thanks to the significant progress we\u2019ve made, we have emerged from a period of considerable challenges and disruption well positioned for growth and optimistic about our future,\u201d said Robert A.",
+   "d": 1,
+   "m": false,
+   "tone": 0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     56,
+     [
+      "positive"
+     ]
+    ],
+    [
+     121,
+     129,
+     [
+      "positive"
+     ]
+    ],
+    [
+     188,
+     198,
+     [
+      "negative"
+     ]
+    ],
+    [
+     203,
+     213,
+     [
+      "negative"
+     ]
+    ],
+    [
+     245,
+     255,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Iger, Chief Executive Officer, The Walt Disney Company. \u201cOur solid performance in the fiscal fourth quarter reflected the success of our strategic efforts to improve quality, innovation, efficiency, and value creation.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     122,
+     129,
+     [
+      "positive"
+     ]
+    ],
+    [
+     158,
+     165,
+     [
+      "positive"
+     ]
+    ],
+    [
+     175,
+     185,
+     [
+      "positive"
+     ]
+    ],
+    [
+     187,
+     197,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "t": "In Q4 we saw one of the best quarters in the history of our film studio, improved profitability in our streaming businesses, a record-breaking 60 Emmy Awards for the company, the continued power of live sports, and the unveiling of an impressive collection of new projects coming to our Experiences segment.",
+   "d": 1,
+   "m": false,
+   "tone": 0.784,
+   "h": 0.0,
+   "hits": [
+    [
+     24,
+     28,
+     [
+      "positive",
+      "strong_modal"
+     ]
+    ],
+    [
+     73,
+     81,
+     [
+      "positive"
+     ]
+    ],
+    [
+     82,
+     95,
+     [
+      "positive"
+     ]
+    ],
+    [
+     235,
+     245,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "As a result of our strategies and our focus on managing our businesses for both the near- and long-term, we are differentiating ourselves from traditional competitors, leveraging the deepest and broadest set of entertainment assets in the industry to drive attractive returns and further advance our goals.\u201d",
+   "d": 0,
+   "m": false,
+   "tone": 0.208,
+   "h": 0.0,
+   "hits": [
+    [
+     257,
+     267,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  }
+ ]
+}
