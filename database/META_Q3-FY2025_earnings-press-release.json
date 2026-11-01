@@ -1,0 +1,736 @@
+{
+ "company": "Meta Platforms, Inc.",
+ "ticker": "META",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q3 FY2025",
+ "date": "2025-10-29",
+ "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Third-Quarter-2025-Results/default.aspx",
+ "demo": false,
+ "source_text": "\"We had a strong quarter for our business and our community,\" said Mark Zuckerberg, Meta founder and CEO. \"Meta Superintelligence Labs is off to a great start and we continue to lead the industry in AI glasses. If we deliver even a fraction of the opportunity ahead, then the next few years will be the most exciting period in our history.\"\nProvision for Income Taxes - One-Time, Non-Cash Charge Impact \n\nWe expect a significant reduction in our U.S. federal cash tax payments for the remainder of 2025 and future years due to the implementation of the One Big Beautiful Bill Act. However, the implementation also led to the recognition of a valuation allowance against our U.S. federal deferred tax assets, reflecting the impact of the U.S. Corporate Alternative Minimum Tax. As a result, the third quarter 2025 provision for income taxes includes a one-time, non-cash income tax charge of $15.93 billion. Excluding this one-time tax charge, our third quarter 2025:\n\nEffective tax rate would have decreased by 73 percentage points to 14%, compared to the reported effective tax rate of 87%.\n\nNet income would have increased by $15.93 billion to $18.64 billion, compared to the reported net income of $2.71 billion.\n\nDiluted EPS would have increased by $6.20 to $7.25, compared to the reported diluted EPS of $1.05.\n \n\nThird Quarter 2025 Operational and Other Financial Highlights\n\nFamily daily active people (DAP) \u2013 DAP was 3.54 billion on average for September 2025, an increase of 8% year-over-year.\n\nAd impressions \u2013 Ad impressions delivered across our Family of Apps increased by 14% year-over-year.\n\nAverage price per ad \u2013 Average price per ad increased by 10% year-over-year.\n\nRevenue \u2013 Revenue was $51.24 billion, an increase of 26% year-over-year. Revenue on a constant currency basis would have increased 25% year-over-year.\n\nCosts and expenses \u2013 Total costs and expenses were $30.71 billion, an increase of 32% year-over-year.\n\nCapital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $19.37 billion.\n\nCapital return program \u2013 Share repurchases of our Class A common stock were $3.16 billion and total dividend and dividend equivalent payments were $1.33 billion.\n\nCash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $44.45 billion as of September 30, 2025. Cash flow from operating activities was $30.0 billion and free cash flow was $10.62 billion.(1)\n\nHeadcount \u2013 Headcount was 78,450 as of September 30, 2025, an increase of 8% year-over-year.\n \nCFO Outlook Commentary\n\nWe expect fourth quarter 2025 total revenue to be in the range of $56-59 billion. Our guidance assumes foreign currency is an approximately 1% tailwind to year-over-year total revenue growth, based on current exchange rates. Our outlook reflects an expectation for continued strong ad revenue growth, partially offset by lower year-over-year Reality Labs revenue in the fourth quarter. The anticipated reduction in Reality Labs revenue is due to us lapping the introduction of Quest 3S in the fourth quarter of last year as well as retail partners procuring Quest headsets during the third quarter of this year to prepare for the holiday season, which were recorded as revenue in the third quarter.\n\nWe expect full year 2025 total expenses to be in the range of $116-118 billion, updated from our prior outlook of $114-118 billion and reflecting a growth rate of 22-24% year-over-year. \n\nWe currently expect 2025 capital expenditures, including principal payments on finance leases, to be in the range of $70-72 billion, increased from our prior outlook of $66-72 billion. \n\nAbsent any changes to our tax landscape, we expect our fourth quarter 2025 tax rate to be 12-15%.\n\nWe are at an exciting point for our company, where we have continued runway to improve our core services today as well as the opportunity to build new AI-powered experiences and services that will transform how people engage with our products in the future. We expect the set of investments we are making within our ads and organic engagement initiatives next year will enable us to continue to deliver strong revenue growth in 2026, while our progress on AI models and products will position us to capitalize on new revenue opportunities in the years to come.\n\nA central requirement to realizing these opportunities is infrastructure capacity. As we have begun to plan for next year, it has become clear that our compute needs have continued to expand meaningfully, including versus our expectations last quarter. We are still working through our capacity plans for next year, but we expect to invest aggressively to meet these needs both by building our own infrastructure and contracting with third party cloud providers. We anticipate this will provide further upward pressure on our capital expenditures and expense plans next year. \n\nAs a result, our current expectation is that capital expenditures dollar growth will be notably larger in 2026 than 2025. We also anticipate total expenses will grow at a significantly faster percentage rate in 2026 than 2025, with growth driven primarily by infrastructure costs, including incremental cloud expenses and depreciation. Employee compensation costs will be the second largest contributor to growth, as we recognize a full year of compensation for employees hired throughout 2025, particularly AI talent, and add technical talent in priority areas.\n\nFinally, we continue to monitor active legal and regulatory matters, including the increasing headwinds in the EU and the U.S. that could significantly impact our business and financial results. For example, in the EU, we continue to engage constructively with the European Commission on our Less Personalized Ads offering. However, we cannot rule out the Commission imposing further changes to that offering that could have a significant negative impact on our European revenue, as early as this quarter. In the U.S., a number of youth-related trials are scheduled for 2026, and may ultimately result in a material loss.\n\n\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 44,
+  "n_material_neg": 4,
+  "n_positive": 12,
+  "mean_pos_negative": 0.5625,
+  "mean_pos_positive": 0.5284090909090909,
+  "placement_asymmetry": 0.03409090909090906,
+  "distance_from_headline": 4,
+  "first_negative_pos": 0.20454545454545456,
+  "hedge_near_negative": 0.01462962962962963,
+  "hedge_near_positive": 0.015386699520853662,
+  "hedging_asymmetry": 0.9507971225279357,
+  "framing_ratio": 0,
+  "mean_tone_gap_on_negatives": 0.9047619047619048,
+  "overall_hedge": 0.016163793103448277,
+  "mean_tone": 0.08906480042382679
+ },
+ "lexicon": {
+  "words": 928,
+  "per_1000": {
+   "Negative": 3.2,
+   "Positive": 15.1,
+   "Uncertainty": 8.6,
+   "Litigious": 3.2,
+   "Strong modal": 8.6,
+   "Weak modal": 3.2,
+   "Constraining": 2.2
+  },
+  "counts": {
+   "Negative": 3,
+   "Positive": 14,
+   "Uncertainty": 8,
+   "Litigious": 3,
+   "Strong modal": 8,
+   "Weak modal": 3,
+   "Constraining": 2
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We had a strong quarter for our business and our community,\" said Mark Zuckerberg, Meta founder and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.556,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     16,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"Meta Superintelligence Labs is off to a great start and we continue to lead the industry in AI glasses.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 3,
+   "t": "If we deliver even a fraction of the opportunity ahead, then the next few years will be the most exciting period in our history.\".",
+   "d": 0,
+   "m": false,
+   "tone": 0.833,
+   "h": 0.0,
+   "hits": [
+    [
+     37,
+     48,
+     [
+      "positive"
+     ]
+    ],
+    [
+     80,
+     84,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     97,
+     105,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "t": "Provision for Income Taxes - One-Time, Non-Cash Charge Impact",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "We expect a significant reduction in our U.S. federal cash tax payments for the remainder of 2025 and future years due to the implementation of the One Big Beautiful Bill Act.",
+   "d": 0,
+   "m": false,
+   "tone": 0.323,
+   "h": 0.0323,
+   "hits": [
+    [
+     156,
+     165,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "t": "However, the implementation also led to the recognition of a valuation allowance against our U.S. federal deferred tax assets, reflecting the impact of the U.S. Corporate Alternative Minimum Tax.",
+   "d": 0,
+   "m": false,
+   "tone": -0.323,
+   "h": 0.0,
+   "hits": [
+    [
+     81,
+     88,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "t": "As a result, the third quarter 2025 provision for income taxes includes a one-time, non-cash income tax charge of $15.93 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Excluding this one-time tax charge, our third quarter 2025:",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Effective tax rate would have decreased by 73 percentage points to 14%, compared to the reported effective tax rate of 87%.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "Net income would have increased by $15.93 billion to $18.64 billion, compared to the reported net income of $2.71 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 11,
+   "t": "Diluted EPS would have increased by $6.20 to $7.25, compared to the reported diluted EPS of $1.05.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Third Quarter 2025 Operational and Other Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Family daily active people (DAP) \u2013 DAP was 3.54 billion on average for September 2025, an increase of 8% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Ad impressions \u2013 Ad impressions delivered across our Family of Apps increased by 14% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Average price per ad \u2013 Average price per ad increased by 10% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Revenue \u2013 Revenue was $51.24 billion, an increase of 26% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "Revenue on a constant currency basis would have increased 25% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "Costs and expenses \u2013 Total costs and expenses were $30.71 billion, an increase of 32% year-over-year.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "Capital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $19.37 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 20,
+   "t": "Capital return program \u2013 Share repurchases of our Class A common stock were $3.16 billion and total dividend and dividend equivalent payments were $1.33 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "Cash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $44.45 billion as of September 30, 2025.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 22,
+   "t": "Cash flow from operating activities was $30.0 billion and free cash flow was $10.62 billion.(1)",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "Headcount \u2013 Headcount was 78,450 as of September 30, 2025, an increase of 8% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "CFO Outlook Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 25,
+   "t": "We expect fourth quarter 2025 total revenue to be in the range of $56-59 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 26,
+   "t": "Our guidance assumes foreign currency is an approximately 1% tailwind to year-over-year total revenue growth, based on current exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0952,
+   "hits": [
+    [
+     13,
+     20,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     44,
+     57,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "Our outlook reflects an expectation for continued strong ad revenue growth, partially offset by lower year-over-year Reality Labs revenue in the fourth quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.4,
+   "h": 0.0,
+   "hits": [
+    [
+     50,
+     56,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "The anticipated reduction in Reality Labs revenue is due to us lapping the introduction of Quest 3S in the fourth quarter of last year as well as retail partners procuring Quest headsets during the third quarter of this year to prepare for the holiday season, which were recorded as revenue in the third quarter.",
+   "d": -1,
+   "m": true,
+   "tone": 0.0,
+   "h": 0.0185,
+   "hits": [
+    [
+     4,
+     15,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 29,
+   "t": "We expect full year 2025 total expenses to be in the range of $116-118 billion, updated from our prior outlook of $114-118 billion and reflecting a growth rate of 22-24% year-over-year.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0345,
+   "hits": []
+  },
+  {
+   "i": 30,
+   "t": "We currently expect 2025 capital expenditures, including principal payments on finance leases, to be in the range of $70-72 billion, increased from our prior outlook of $66-72 billion.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.04,
+   "hits": []
+  },
+  {
+   "i": 31,
+   "t": "Absent any changes to our tax landscape, we expect our fourth quarter 2025 tax rate to be 12-15%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0625,
+   "hits": []
+  },
+  {
+   "i": 32,
+   "t": "We are at an exciting point for our company, where we have continued runway to improve our core services today as well as the opportunity to build new AI-powered experiences and services that will transform how people engage with our products in the future.",
+   "d": 0,
+   "m": false,
+   "tone": 0.667,
+   "h": 0.0,
+   "hits": [
+    [
+     13,
+     21,
+     [
+      "positive"
+     ]
+    ],
+    [
+     79,
+     86,
+     [
+      "positive"
+     ]
+    ],
+    [
+     126,
+     137,
+     [
+      "positive"
+     ]
+    ],
+    [
+     192,
+     196,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 33,
+   "t": "We expect the set of investments we are making within our ads and organic engagement initiatives next year will enable us to continue to deliver strong revenue growth in 2026, while our progress on AI models and products will position us to capitalize on new revenue opportunities in the years to come.",
+   "d": 1,
+   "m": false,
+   "tone": 0.784,
+   "h": 0.0196,
+   "hits": [
+    [
+     107,
+     111,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     112,
+     118,
+     [
+      "positive"
+     ]
+    ],
+    [
+     145,
+     151,
+     [
+      "positive"
+     ]
+    ],
+    [
+     186,
+     194,
+     [
+      "positive"
+     ]
+    ],
+    [
+     221,
+     225,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     267,
+     280,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 34,
+   "t": "A central requirement to realizing these opportunities is infrastructure capacity.",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     10,
+     21,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     41,
+     54,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 35,
+   "t": "As we have begun to plan for next year, it has become clear that our compute needs have continued to expand meaningfully, including versus our expectations last quarter.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 36,
+   "t": "We are still working through our capacity plans for next year, but we expect to invest aggressively to meet these needs both by building our own infrastructure and contracting with third party cloud providers.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0294,
+   "hits": [
+    [
+     164,
+     175,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 37,
+   "t": "We anticipate this will provide further upward pressure on our capital expenditures and expense plans next year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0588,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     19,
+     23,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 38,
+   "t": "As a result, our current expectation is that capital expenditures dollar growth will be notably larger in 2026 than 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     80,
+     84,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 39,
+   "t": "We also anticipate total expenses will grow at a significantly faster percentage rate in 2026 than 2025, with growth driven primarily by infrastructure costs, including incremental cloud expenses and depreciation.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0357,
+   "hits": [
+    [
+     8,
+     18,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     34,
+     38,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 40,
+   "t": "Employee compensation costs will be the second largest contributor to growth, as we recognize a full year of compensation for employees hired throughout 2025, particularly AI talent, and add technical talent in priority areas.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     28,
+     32,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 41,
+   "t": "Finally, we continue to monitor active legal and regulatory matters, including the increasing headwinds in the EU and the U.S. that could significantly impact our business and financial results.",
+   "d": -1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0333,
+   "hits": [
+    [
+     39,
+     44,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     49,
+     59,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     132,
+     137,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 42,
+   "t": "For example, in the EU, we continue to engage constructively with the European Commission on our Less Personalized Ads offering.",
+   "d": 0,
+   "m": false,
+   "tone": 0.5,
+   "h": 0.0,
+   "hits": [
+    [
+     46,
+     60,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 43,
+   "t": "However, we cannot rule out the Commission imposing further changes to that offering that could have a significant negative impact on our European revenue, as early as this quarter.",
+   "d": 0,
+   "m": false,
+   "tone": -0.345,
+   "h": 0.0345,
+   "hits": [
+    [
+     43,
+     51,
+     [
+      "constraining"
+     ]
+    ],
+    [
+     90,
+     95,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     115,
+     123,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 44,
+   "t": "In the U.S., a number of youth-related trials are scheduled for 2026, and may ultimately result in a material loss.",
+   "d": -1,
+   "m": true,
+   "tone": -0.476,
+   "h": 0.0476,
+   "hits": [
+    [
+     74,
+     77,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ],
+    [
+     110,
+     114,
+     [
+      "negative"
+     ]
+    ]
+   ]
+  }
+ ]
+}
