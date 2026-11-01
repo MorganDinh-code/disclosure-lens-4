@@ -1,0 +1,458 @@
+{
+ "company": "Meta Platforms, Inc.",
+ "ticker": "META",
+ "sector": "Communication Services",
+ "filing_type": "Earnings press release",
+ "period": "Q44 FY2024",
+ "date": "2025-01-29",
+ "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
+ "demo": false,
+ "source_text": "\"We continue to make good progress on AI, glasses, and the future of social media,\" said Mark Zuckerberg, Meta founder and CEO. \"I'm excited to see these efforts scale further in 2025.\"\n\nFourth Quarter and Full Year 2024 Operational and Other Financial Highlights\n\nFamily daily active people (DAP) \u2013 DAP was 3.35 billion on average for December 2024, an increase of 5% year-over-year.\nAd impressions \u2013 Ad impressions delivered across our Family of Apps increased by 6% and 11% year-over-year for the fourth quarter and full year 2024, respectively.\nAverage price per ad \u2013 Average price per ad increased by 14% and 10% year-over-year for the fourth quarter and full year 2024, respectively.\nRevenue \u2013 Revenue was $48.39 billion and $164.50 billion, representing increases of 21% and 22% year-over-year for the fourth quarter and full year 2024, respectively. Revenue on a constant currency basis would have increased 21% and 23% year-over-year for the fourth quarter and full year 2024, respectively.\nCosts and expenses \u2013 Total costs and expenses were $25.02 billion and $95.12 billion, representing increases of 5% and 8% year-over-year for the fourth quarter and full year 2024, respectively. The fourth quarter costs and expenses included a favorable impact of $1.55 billion due to a decrease in the accrued losses for certain legal proceedings.\nCapital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $14.84 billion and $39.23 billion for the fourth quarter and full year 2024, respectively.\nCapital return program \u2013 Share repurchases of our Class A common stock were nil and $29.75 billion, and total dividend and dividend equivalent payments were $1.27 billion and $5.07 billion for the fourth quarter and full year 2024, respectively.\nCash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $77.81 billion as of December 31, 2024. Free cash flow was $13.15 billion and $52.10 billion for the fourth quarter and full year 2024, respectively.\nLong-term debt \u2013 Long-term debt was $28.83 billion as of December 31, 2024.\nHeadcount \u2013 Headcount was 74,067 as of December 31, 2024, an increase of 10% year-over-year.\n \n\nCFO Outlook Commentary\n\nWe expect first quarter 2025 total revenue to be in the range of $39.5-41.8 billion. This reflects 8-15% year-over-year growth, or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year total revenue growth, based on current exchange rates. This also reflects the effect of lapping leap day in the first quarter of 2024. While we are not providing a full year 2025 revenue outlook, we expect the investments we are making in our core business this year will give us an opportunity to continue delivering strong revenue growth throughout 2025.\n\nWe expect full year 2025 total expenses to be in the range of $114-119 billion. We expect the single largest driver of expense growth in 2025 to be infrastructure costs, driven by higher operating expenses and depreciation(1). We expect employee compensation to be the second-largest factor as we add technical talent in the priority areas of infrastructure, monetization, Reality Labs, generative artificial intelligence (AI), as well as regulation and compliance.\n\nWe anticipate our full year 2025 capital expenditures will be in the range of $60-65 billion. We expect capital expenditures growth in 2025 will be driven by increased investment to support both our generative AI efforts and core business. The majority of our capital expenditures in 2025 will continue to be directed to our core business.\n\nAbsent any changes to our tax landscape, we expect our full year 2025 tax rate to be in the range of 12-15%.\n\nIn addition, we continue to monitor an active regulatory landscape, including legal and regulatory headwinds in the EU and the U.S. that could significantly impact our business and our financial results.\n\n",
+ "boilerplate_paragraphs_removed": 0,
+ "summary": {
+  "n_sentences": 29,
+  "n_material_neg": 0,
+  "n_positive": 7,
+  "mean_pos_positive": 0.46798029556650245,
+  "hedge_near_negative": null,
+  "hedge_near_positive": 0.017015242821694435,
+  "hedging_asymmetry": null,
+  "overall_hedge": 0.01896551724137931,
+  "mean_tone": 0.08553515450067174
+ },
+ "lexicon": {
+  "words": 580,
+  "per_1000": {
+   "Negative": 1.7,
+   "Positive": 10.3,
+   "Uncertainty": 6.9,
+   "Litigious": 8.6,
+   "Strong modal": 6.9,
+   "Weak modal": 1.7,
+   "Constraining": 0.0
+  },
+  "counts": {
+   "Negative": 1,
+   "Positive": 6,
+   "Uncertainty": 4,
+   "Litigious": 5,
+   "Strong modal": 4,
+   "Weak modal": 1,
+   "Constraining": 0
+  }
+ },
+ "sentences": [
+  {
+   "i": 1,
+   "t": "\"We continue to make good progress on AI, glasses, and the future of social media,\" said Mark Zuckerberg, Meta founder and CEO.",
+   "d": 0,
+   "m": false,
+   "tone": 0.909,
+   "h": 0.0,
+   "hits": [
+    [
+     21,
+     25,
+     [
+      "positive"
+     ]
+    ],
+    [
+     26,
+     34,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "t": "\"I'm excited to see these efforts scale further in 2025.\"",
+   "d": 0,
+   "m": false,
+   "tone": 1.0,
+   "h": 0.0,
+   "hits": [
+    [
+     5,
+     12,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "t": "Fourth Quarter and Full Year 2024 Operational and Other Financial Highlights",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 4,
+   "t": "Family daily active people (DAP) \u2013 DAP was 3.35 billion on average for December 2024, an increase of 5% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 5,
+   "t": "Ad impressions \u2013 Ad impressions delivered across our Family of Apps increased by 6% and 11% year-over-year for the fourth quarter and full year 2024, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 6,
+   "t": "Average price per ad \u2013 Average price per ad increased by 14% and 10% year-over-year for the fourth quarter and full year 2024, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 7,
+   "t": "Revenue \u2013 Revenue was $48.39 billion and $164.50 billion, representing increases of 21% and 22% year-over-year for the fourth quarter and full year 2024, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 8,
+   "t": "Revenue on a constant currency basis would have increased 21% and 23% year-over-year for the fourth quarter and full year 2024, respectively.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 9,
+   "t": "Costs and expenses \u2013 Total costs and expenses were $25.02 billion and $95.12 billion, representing increases of 5% and 8% year-over-year for the fourth quarter and full year 2024, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 10,
+   "t": "The fourth quarter costs and expenses included a favorable impact of $1.55 billion due to a decrease in the accrued losses for certain legal proceedings.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     58,
+     [
+      "positive"
+     ]
+    ],
+    [
+     116,
+     122,
+     [
+      "negative"
+     ]
+    ],
+    [
+     135,
+     140,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "t": "Capital expenditures \u2013 Capital expenditures, including principal payments on finance leases, were $14.84 billion and $39.23 billion for the fourth quarter and full year 2024, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 12,
+   "t": "Capital return program \u2013 Share repurchases of our Class A common stock were nil and $29.75 billion, and total dividend and dividend equivalent payments were $1.27 billion and $5.07 billion for the fourth quarter and full year 2024, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 13,
+   "t": "Cash, cash equivalents, and marketable securities \u2013 Cash, cash equivalents, and marketable securities were $77.81 billion as of December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 14,
+   "t": "Free cash flow was $13.15 billion and $52.10 billion for the fourth quarter and full year 2024, respectively.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 15,
+   "t": "Long-term debt \u2013 Long-term debt was $28.83 billion as of December 31, 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 16,
+   "t": "Headcount \u2013 Headcount was 74,067 as of December 31, 2024, an increase of 10% year-over-year.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 17,
+   "t": "CFO Outlook Commentary",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 18,
+   "t": "We expect first quarter 2025 total revenue to be in the range of $39.5-41.8 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 19,
+   "t": "This reflects 8-15% year-over-year growth, or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year total revenue growth, based on current exchange rates.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0571,
+   "hits": [
+    [
+     105,
+     112,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     136,
+     149,
+     [
+      "uncertainty"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 20,
+   "t": "This also reflects the effect of lapping leap day in the first quarter of 2024.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": []
+  },
+  {
+   "i": 21,
+   "t": "While we are not providing a full year 2025 revenue outlook, we expect the investments we are making in our core business this year will give us an opportunity to continue delivering strong revenue growth throughout 2025.",
+   "d": 1,
+   "m": false,
+   "tone": 0.571,
+   "h": 0.0286,
+   "hits": [
+    [
+     132,
+     136,
+     [
+      "strong_modal"
+     ]
+    ],
+    [
+     148,
+     159,
+     [
+      "positive"
+     ]
+    ],
+    [
+     183,
+     189,
+     [
+      "positive"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 22,
+   "t": "We expect full year 2025 total expenses to be in the range of $114-119 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0769,
+   "hits": []
+  },
+  {
+   "i": 23,
+   "t": "We expect the single largest driver of expense growth in 2025 to be infrastructure costs, driven by higher operating expenses and depreciation(1).",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0476,
+   "hits": []
+  },
+  {
+   "i": 24,
+   "t": "We expect employee compensation to be the second-largest factor as we add technical talent in the priority areas of infrastructure, monetization, Reality Labs, generative artificial intelligence (AI), as well as regulation and compliance.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0294,
+   "hits": [
+    [
+     212,
+     222,
+     [
+      "litigious"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 25,
+   "t": "We anticipate our full year 2025 capital expenditures will be in the range of $60-65 billion.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0714,
+   "hits": [
+    [
+     3,
+     13,
+     [
+      "uncertainty"
+     ]
+    ],
+    [
+     54,
+     58,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 26,
+   "t": "We expect capital expenditures growth in 2025 will be driven by increased investment to support both our generative AI efforts and core business.",
+   "d": 1,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0455,
+   "hits": [
+    [
+     46,
+     50,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 27,
+   "t": "The majority of our capital expenditures in 2025 will continue to be directed to our core business.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0,
+   "hits": [
+    [
+     49,
+     53,
+     [
+      "strong_modal"
+     ]
+    ]
+   ]
+  },
+  {
+   "i": 28,
+   "t": "Absent any changes to our tax landscape, we expect our full year 2025 tax rate to be in the range of 12-15%.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.05,
+   "hits": []
+  },
+  {
+   "i": 29,
+   "t": "In addition, we continue to monitor an active regulatory landscape, including legal and regulatory headwinds in the EU and the U.S. that could significantly impact our business and our financial results.",
+   "d": 0,
+   "m": false,
+   "tone": 0.0,
+   "h": 0.0312,
+   "hits": [
+    [
+     46,
+     56,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     78,
+     83,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     88,
+     98,
+     [
+      "litigious"
+     ]
+    ],
+    [
+     137,
+     142,
+     [
+      "uncertainty",
+      "weak_modal"
+     ]
+    ]
+   ]
+  }
+ ]
+}
